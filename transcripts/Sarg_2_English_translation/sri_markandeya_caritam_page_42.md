@@ -1,0 +1,48 @@
+# Śrī Mārkaṇḍeya Caritam
+
+**Canto 2 (द्वितीयः सर्गः)**  
+*(Page Number: 42 / पृष्ठ संख्या: ४२)*
+
+---
+
+## Verse 19 (श्लोक १९)
+
+### Sanskrit Shloka
+> स निर्विविक्षुरीदृशो तटोपगं  
+> द्विजस्य शालीनवरस्य कस्यचित् ।  
+> उदग्रधूमं किल सायमाहुतेः  
+> सषड्गवं मन्दिरमुद्यतेजसः ॥ १९ ॥
+
+### Hindi Translation (Amanuensis)
+> वे कुछ बोलने ही वाले थे कि उसने उग्रतेजस्वी किसी शालीनश्रेष्ठ ब्राह्मण के द्वारा किये गये सायंकालीन आहुति का ऊपर उठे धूम को तथा षड्गव (छह गायों) के साथ घर को देखा ॥ १९ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> अभी अभी वह कुछ बोलने के लिए सोच ही रहे थे कि उस गङ्गा के तट पर ही किसी अतिशय शालीन ब्राह्मण श्रेष्ठ द्वारा की गई सान्ध्यकालीन आहुतियों की ऊपर उठी हुई धूम राशि के साथ ही छह गायों से परिपूर्ण अत्यन्त तेजस्वी किसी कर्मनिष्ठ ब्राह्मण की कुटिया दिखाई पड़ी । १९
+
+### English Translation (Verse & Meaning)
+> Just as he was deliberating on his steps, he caught sight of a modest hermitage nestled near the riverbank belonging to an exemplary, noble-minded Brāhmaṇa. Columns of fragrant smoke were rising from the evening sacrificial oblations (agnihotra), and a herd of six cows grazed peacefully in the courtyard of this radiant ritualist.
+
+### English Translation (Grandfather's Notes & Context)
+> While pondering where to find shelter for the night, Sage Mṛkaṇḍu noticed nearby along the riverbank the modest abode of a highly cultured and devout Brāhmaṇa. Fragrant sacrificial smoke from the evening agnihotra was curling upward toward the sky, and six gentle cows were resting in the yard of this pious and disciplined householder.
+
+---
+
+## Verse 20 (श्लोक २०)
+
+### Sanskrit Shloka
+> कृत्वा हुतिं द्वारि बहिर्गतागतं चरन्  
+> सपादुकः क्रोडगतं शिशुं वहन् ।  
+> नियोजयन्कर्मणि पुत्रपौत्रकान्  
+> गृहाधिपः सन्ददृशेऽमुना तदा ॥ २० ॥
+
+### Hindi Translation (Amanuensis)
+> आहुति करके खड़ाऊ पहनकर गोद में बालक को लिए हुए पुत्र-पौत्रों को कार्य में नियुक्त करते हुए तथा द्वार पर गतागत करते हुए किसी गृहस्वामी को उसने देखा ॥ २० ॥
+
+### Grandfather's Commentary / Hindi Notes
+> तब तक ऋषि मृकण्ड ने एक कर्मनिष्ठ ब्राह्मण जो सांध्य आहुति समाप्त कर खड़ाऊँ पहने गोदी में एक सुकुमार शिशु को लिए हुए अपने पुत्र पौत्रादि परिवारी जनों को यथायोग्य आवश्यक कार्य सम्पादन के लिए निर्देशित करते हुए घर के भीतर बाहर आते जाते हुए सद्गृहस्थ गृहपति को साश्चर्य देखा । २०
+
+### English Translation (Verse & Meaning)
+> Having concluded his evening sacrificial offerings, the master of the house, wearing wooden sandals (khadāū) and carrying a tender infant in his arms, was seen stepping about his doorway, lovingly delegating evening household duties to his sons and grandsons.
+
+### English Translation (Grandfather's Notes & Context)
+> Sage Mṛkaṇḍu watched with admiration as the noble householder, having finished his sacred evening oblations, walked in wooden clogs across the veranda holding a sweet toddler in his embrace. With patriarchal care and dignity, he kindly guided his sons and grandsons in completing their respective familial and domestic responsibilities.

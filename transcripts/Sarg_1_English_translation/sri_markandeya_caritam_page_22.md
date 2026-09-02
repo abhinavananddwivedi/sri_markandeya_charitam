@@ -1,0 +1,48 @@
+# Śrī Mārkaṇḍeya Caritam
+
+**Canto 1 (अथ प्रथमः सर्गः)**  
+*(Page Number: 22 / पृष्ठ संख्या: २२)*
+
+---
+
+## Verse 43 (श्लोक ४३)
+
+### Sanskrit Shloka
+> क्रियास्वेव कुर्वन्त्येवमेव तद्वत्  
+> त्सन्नाम्नि तस्य गतिः सुनिश्चिता ।  
+> क्रियात्मक स्वाभावो ह्यस्य देशस्य  
+> विना किञ्चित्कोऽपि तिष्ठेद्विधाव ॥ ४३ ॥
+
+### Hindi Translation (Amanuensis)
+> शुभकर्म करते हुए ईश्वर को अर्पित करो, ऐसे कर्म करने वालों की प्रगति सुनिश्चित होती है। इस क्रियात्मक का ही आदि रूप है, क्योंकि बिना क्रिया के इस संसार में कौन क्षणभर रह सकता है ॥ ४३ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> प्रिय वत्स! जीवन में निरन्तर शुभकर्म करते हुए उसे सदा ईश्वरार्पण करते रहो क्योंकि यह विधिसम्मत निर्धारित नियम है। इस प्रकार की जीवन-क्रियाशीलता का तो आधार ही (दाखिल) है, क्योंकि बिना किसी क्रिया के क्षण भर भी क्या कोई रह सकता है? ॥ ४३ ॥
+
+### English Translation (Verse & Meaning)
+> 'Engaging ceaselessly in auspicious works, offer all actions unto the Supreme Divine. The spiritual progress of one who acts in this spirit of dedication is assured. Dynamic action is the foundational nature of this mortal realm; for who can remain even for a moment without performing action?'
+
+### English Translation (Grandfather's Notes & Context)
+> 'Dear child! Continuously perform righteous actions throughout life, dedicating every deed to God; for this is the cosmic law established by the scriptures. Such active dynamic living is the very foundation of existence—for can any embodied being remain inactive even for a single moment?'
+
+---
+
+## Verse 44 (श्लोक ४४)
+
+### Sanskrit Shloka
+> निवृत्तिमार्गीय गुरुता तथा सुदुर्गतिः  
+> किं विदिताहित समादरस्तथा ।  
+> च पूर्णकामानां-  
+> र्माऽसक्तेः कर्मसु पश्य कौतुकम् ॥ ४४ ॥
+
+### Hindi Translation (Amanuensis)
+> निवृत्तिमार्ग की कठिनता तथा सुदुर्गति क्या हमें मालूम नहीं? मालूम है। किन्तु कर्म में असक्त पूर्णकाम वालों का जग में समादर होता है, यह कौतुक देखो ॥ ४४ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> प्रियवत्स! अब तुम संसार से विरत होकर निवृत्ति मार्ग का अवलम्बन करने वालों की निखिल कठिनाइयों तथा काल से होने वाली अनेकविध दुर्दशाओं, दुर्गतियों की ओर ध्यान दो, क्या उन बातों का ज्ञान हमें नहीं है? निवृत्ति मार्ग में निरत (रहने वाले किन्तु असक्त-भावना से सांसारिक कार्यों में संलग्न होते हुए भी पूर्णकाम (कर्मफल त्यागक) साधक-प्रवृत्ति सहस्रों का समाज में अतिशय समादर नहीं होता? यह लौकिक आश्चर्यपूर्ण कौतुक (उत्कण्ठा) क्या स्पष्ट नहीं दीखती! ॥ ४४ ॥
+
+### English Translation (Verse & Meaning)
+> 'Are we not well aware of the immense severity, hardships, and perils encountered on the path of total renunciation (Nivṛtti Mārga)? Indeed, we know them. Yet observe this wondrous marvel: those who remain unattached while performing duty with desireless perfection (Pūrṇa-kāma) are honored and revered by all the world.'
+
+### English Translation (Grandfather's Notes & Context)
+> 'Dear son! Reflect upon the severe hardships and untimely falls suffered by those who prematurely embrace the path of ascetic withdrawal (Nivṛtti Mārga)—are we not fully cognizant of these pitfalls? In contrast, consider those noble seekers who, remaining in the world, perform their righteous duties without attachment and surrender all fruits to the Divine (Pūrṇa-kāma): are they not universally revered and celebrated by society? Witness how wondrous and elevated is the path of detached, selfless righteous action (Pravṛtti Mārga)!'

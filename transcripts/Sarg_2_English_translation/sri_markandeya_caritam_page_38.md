@@ -1,0 +1,48 @@
+# Śrī Mārkaṇḍeya Caritam
+
+**Canto 2 (द्वितीयः सर्गः)**  
+*(Page Number: 38 / पृष्ठ संख्या: ३८)*
+
+---
+
+## Verse 11 (श्लोक ११)
+
+### Sanskrit Shloka
+> क्वचिद्द्विरेफावलिमञ्जुगुञ्जितां  
+> हरित्सुशैवालपट्टाङ्कृतान्तथा ।  
+> पयःप्रवाहेण सुनर्त्तितामिव  
+> ददर्श पुष्टोन्नमितां स पद्मिनीम् ॥ ११ ॥
+
+### Hindi Translation (Amanuensis)
+> कहीं पर उन्होंने भ्रमरावलियों के सुन्दर गुञ्जारव से परिपूर्ण हरे-हरे सेवार रूपी वस्त्रों से आच्छादित, जल के प्रवाह से नचायी जाती हुई प्रफुल्लित कमलिनी को देखा ॥ ११ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> उन्होंने कहीं पर भ्रमर पंक्तियों द्वारा मृदु मन्द मधुर गुञ्जार किये जाते हुए (सुना), कहीं पर हरे हरे मृदुल शैवाल (सेवार) पत्रों से ढकी हुई हरित वस्त्रालंकृत, जल के उन्मुक्त प्रवाह से विविध स्वरूपों में नचायी जाती हुई खिली हुई अतिशय पुष्प भार से कुछ कुछ झुकी हुई कमलिनियों की पङ्क्ति को भी देखा। ११
+
+### English Translation (Verse & Meaning)
+> In another tranquil reach, he beheld blossoming lotus beds echoing with the sweet melodious humming of swarming black bees, draped gracefully in emerald-green mossy shawls, swaying and dancing rhythmically to the gentle ripples of the flowing stream.
+
+### English Translation (Grandfather's Notes & Context)
+> Sage Mṛkaṇḍu was enchanted by lotus groves resonating with the soft, intoxicating drone of hovering bees. Clothed in delicate, verdant aquatic moss and bowing gently under the weight of their abundant blossoms, the lotuses swayed gracefully with each undulating wave of the sacred river, appearing like celestial dancers in joyful tribute to Mother Gaṅgā.
+
+---
+
+## Verse 12 (श्लोक १२)
+
+### Sanskrit Shloka
+> ददर्श पीठानिव कच्छपान् क्वचित्  
+> परञ्च मीनान् मकरान् विसर्पतः ।  
+> प्रवाह मध्ये शिशुमारमद्भूतं  
+> तथा परावृत्य निमज्जतं मुहुः ॥ १२ ॥
+
+### Hindi Translation (Amanuensis)
+> कहीं पर उन्होंने कछुओं को पीढ़े (पाटों) के समान, अन्यत्र मछलियों एवं मगरों को तैरते हुए, तथा धारा के बीच ऊपर उलट कर गोता लगाते हुए शिशुमारों (सोंसों) को देखा ॥ १२ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> कहीं पर उन्होंने काठ के पीठ (पाटों) की तरह विचरणशील कछुओं को, दूसरी ओर बड़ी बड़ी मछलियों को तथा बड़े बड़े मकरों को भी तैरते हुए, तथा विशाल जल राशि के मध्य धार में शिशुमार (सोंह) जाति के अद्भुत जीवों को उल्टी मार कर डूबते और उतराते हुए देखा । १२
+
+### English Translation (Verse & Meaning)
+> He observed massive turtles basking like wooden stools upon the sandbanks, glistening fish and crocodiles gliding effortlessly through the water, and in the deep central current, wondrous river dolphins (śiśumāra / gaṅgeya dolphins) somersaulting and leaping gracefully amidst the waves.
+
+### English Translation (Grandfather's Notes & Context)
+> His gaze took in the rich aquatic life of the holy river: great turtles resting motionlessly like wooden seats, shimmering shoals of fish darting alongside gliding crocodiles, and magnificent river dolphins (the ancient Śiśumāra) somersaulting, leaping, and plunging joyously in the heart of the sacred current.

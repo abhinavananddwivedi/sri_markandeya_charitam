@@ -1,0 +1,48 @@
+# Śrī Mārkaṇḍeya Caritam
+
+**Canto 1 (अथ प्रथमः सर्गः)**  
+*(Page Number: 2 / पृष्ठ संख्या: २)*
+
+---
+
+## Verse 3 (श्लोक ३)
+
+### Sanskrit Shloka
+> प्रसादभासाथ वरं कृपालना-  
+> देवाप्य तस्मान्चिरजीवितान्मुनेः।  
+> तमादिमाराध्य दुरुपदर्शितं  
+> तेनेन मृत्युञ्जयमानतोऽस्म्यहम् ॥ ३ ॥
+
+### Hindi Translation (Amanuensis)
+> जिनके करुणाप्रसाद से आदरपूर्ण वर प्राप्त करके मार्कण्डेय मुनि चिरञ्जीवी हुए, अतः गुरुओं के द्वारा प्रदर्शित उनकी प्रथम उपासना कर मैं भगवान् मृत्युञ्जय को सतत प्रणाम करता हूँ ॥ ३ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> जिस अनादि आदि देव भगवान् सदाशिव मृत्युञ्जय की समाराधना कर उनकी प्रसन्नता से प्राप्त कृपा की एक कणिका मात्र पाकर मुनि मार्कण्डेय चिरञ्जीवी बन गये, आज मैं उन्हीं पूर्वदर्शियों के द्वारा निर्दिष्ट एवं समाश्रित उस सृष्टि-स्थिति-लय के एकमात्र सर्वेश्वर अभयङ्कर मृत्युञ्जय को निरन्तर भक्तिभावना से परिपूर्ण हो प्रणाम निवेदन करता हूँ ॥ ३ ॥
+
+### English Translation (Verse & Meaning)
+> By receiving the gracious boon of compassionate favor from Whom Sage Mārkaṇḍeya attained deathlessness, I offer my perpetual obeisance unto Lord Mṛtyuñjaya (the Conqueror of Death), following the path of adoration revealed by the venerable preceptors.
+
+### English Translation (Grandfather's Notes & Context)
+> By propitiating the beginningless Primeval Lord Sadāśiva Mṛtyuñjaya and receiving just a single droplet of His divine grace, Sage Mārkaṇḍeya became immortal. Today, following the footsteps sanctified by ancient seers, I offer my continuous, devout salutations to that Supreme Dispeller of Fear—the sole Lord of cosmic creation, preservation, and dissolution.
+
+---
+
+## Verse 4 (श्लोक ४)
+
+### Sanskrit Shloka
+> निरन्तरं सज्ज उपसमेधते  
+> त्रिलोकमध्ये कविकर्मवैभवम् ।  
+> त्यदा भजे सन्ततमेव सादरं  
+> प्राचेतसः सुमुद्रमुदारमानसम् ॥ ४ ॥
+
+### Hindi Translation (Amanuensis)
+> लोकत्रय के मध्य में कविकर्म वैभव से पूर्ण ज्ञान शीघ्रता से निरन्तर बढ़ता है, अतः मैं सतत आदरपूर्वक उदारचेता प्राचेतस (वाल्मीकि) का भजन करता हूँ ॥ ४ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> प्रायः ऐसा देखा जाता है कि इस त्रिलोकी (संसार) में कवित्व कर्म से परिपूर्ण सामान्य ज्ञान भी (निपुणता, अन्य शास्त्रादिकों का निरन्तर अभ्यास आदि के कारण) बढ़ता ही रहता है जिसके प्रत्यक्ष प्रमाण प्राचेतस महर्षि वाल्मीकि ही हैं; उस उदारचेता कविकर्म के आर्य निष्ठा अतिशय पूर्ण विश्वजनीन कल्याण में निरत रहने वाले वाल्मीकि महर्षि का हृदय से समाराधना करता हूँ ॥ ४ ॥
+
+### English Translation (Verse & Meaning)
+> Within the three worlds, the profound wisdom born of poetic splendor ever flourishes; therefore, with constant reverence, I worship the noble-minded Prācetasa (Sage Vālmīki), whose expansive vision encompasses the highest truth.
+
+### English Translation (Grandfather's Notes & Context)
+> It is widely observed across the three worlds that even modest intellect, when nurtured by poetic discipline and the continuous study of sacred scriptures, expands boundlessly—a truth livingly exemplified by Maharṣi Vālmīki. I adore from the depth of my heart that magnanimous sage, who remained steadfast in noble Vedic ideals and dedicated his life to universal welfare through divine poetry.

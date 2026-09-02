@@ -1,0 +1,47 @@
+# Śrī Mārkaṇḍeya Caritam
+
+**Canto 1 (अथ प्रथमः सर्गः)**  
+*(Page Number: 21 / पृष्ठ संख्या: २१)*
+
+---
+
+## Verse 41 (श्लोक ४१)
+
+### Sanskrit Shloka
+> श्रियै विभूत्यै विमना न माययो  
+> नया प्रमादोऽपि हिताय कल्पते ।  
+> त्युपायिथा मनसा समाहितः ॥ ४१ ॥
+
+### Hindi Translation (Amanuensis)
+> श्री और विभूति के प्रति असावधान न हो, क्योंकि प्रमाद किसी का भी हितकारी नहीं होता। गुरुओं को नदी प्रदान करो कि तुम्हारा अतिशय हित हो, उपर्युक्त सभी बातों को समाधान मन से पूर्ण करो ॥ ४१ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> प्रिय वत्स! विश्व-अन्तिम समृद्धि (वैभव) एवं सर्वकल्याणकारी ऐश्वर्य के प्रति जीवन भर तनिक भी असावधानी (भूल) न करना क्योंकि प्रमाद अथवा अज्ञानता (लापरवाही) कभी किसी के लिए भी कल्याणकारी नहीं होती। जो वस्तु अपनी अतिशयता को प्रमाणतः प्रिय एवं सुखावह हो वही अपने पूज्य श्रेष्ठ जनों को प्रदान करो। सभी कार्य अत्यन्त सावधान निष्कल मन से पूर्ण करो, यही लौकिक कल्याण मार्ग का सर्वोद्देश्य का उत्तम मार्ग है ॥ ४१ ॥
+
+### English Translation (Verse & Meaning)
+> 'Never be negligent toward prosperity, spiritual wealth, and righteous abundance; for heedlessness (pramāda) never brings well-being to anyone. Offer dedicated service and devotion unto your preceptors, and fulfill all these duties with a tranquil, focused, and resolved mind.'
+
+### English Translation (Grandfather's Notes & Context)
+> 'Dear son! Never lapse into careless negligence regarding virtuous prosperity and spiritual sovereignty throughout your life; for carelessness and ignorance are never conducive to one's ultimate good. Offer to your revered preceptors and elders whatever is dearest, purest, and most delightful to your heart. Execute all actions with supreme attentiveness and a tranquil, unagitated mind; for this is the supreme path leading to holistic worldly and transcendental well-being.'
+
+---
+
+## Verse 42 (श्लोक ४२)
+
+### Sanskrit Shloka
+> न वा प्रजातन्तु विलोपको भवेः  
+> सपर्ययाऽभ्यागततत्परः सदा ।  
+> निवर्त्तयेदिष्टमयादि पूर्वकं  
+> तथाऽग्निहोत्रं जुहुयान्निरन्तरम् ॥ ४२ ॥
+
+### Hindi Translation (Amanuensis)
+> तुम्हारी सन्तानपरम्परा का लोप न हो, अभ्यागतों के सत्कार में सतत संलग्न रहो। कल्याणकारी कर्मों (यज्ञादि) को पूर्ण करो तथा अग्निहोत्री बनो ॥ ४२ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> प्रिय वत्स! गार्हस्थ्य धर्म के परिपालनार्थ कभी भी सन्तान-परम्परा का विलोप नहीं होना चाहिए (प्रजातन्तुं मा व्यवच्छेत्सीः)। गृहस्थाश्रम अतिथि-सत्कार सर्वदा सर्वकल्याण का मार्ग है, अभ्यागतों के सत्कार में निरन्तर संलग्न रहो क्योंकि (सर्वस्याभ्यागतो गुरुः)। अनुष्ठित होने वाले यज्ञ यागादि एवं पूर्त कूप-वापी-तड़ाग-वाटिका-देवा लयादि के निर्माणपूर्वक अग्निहोत्र (नित्याग्नि) की परिचर्या करते रहना ॥ ४२ ॥
+
+### English Translation (Verse & Meaning)
+> 'Do not sever the sacred lineage of progeny (prajā-tantu); remain ever devoted to welcoming and serving visiting guests (abhyāgatas); perform the holy Vedic sacrifices and public charitable works (Iṣṭa and Pūrta), and ceaselessly tend the sacred sacrificial fires (Agnihotra).'
+
+### English Translation (Grandfather's Notes & Context)
+> 'Dear child! In fulfilling the householder's code, you must never sever the generational continuum of noble progeny ("Prajātantuṁ mā vyavacchetsīḥ"). The sacred hospitality of honoring unannounced guests is the hallmark of universal welfare—remain ever dedicated to them, for the scriptures proclaim: "Every visiting guest is venerable like a guru." Constantly perform Vedic sacrifices (Iṣṭa), engage in philanthropic works such as constructing wells, ponds, groves, and temples (Pūrta), and continuously maintain the sacred daily sacrificial fires (Agnihotra).'

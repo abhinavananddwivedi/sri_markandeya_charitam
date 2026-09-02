@@ -1,0 +1,48 @@
+# Śrī Mārkaṇḍeya Caritam
+
+**Canto 1 (अथ प्रथमः सर्गः)**  
+*(Page Number: 31 / पृष्ठ संख्या: ३१)*
+
+---
+
+## Verse 59 (श्लोक ५९)
+
+### Sanskrit Shloka
+> शिक्षासञ्चारचक्रे गमनिरहगमने बाधकस्योद्भवं  
+> धैर्य गाम्भीर्यभावात् क्षणमनिगता गच्छन्ती मन्दयानम् ।  
+> तुच्छे लोकस्य दृष्ट्या शिजसहागते कुर्वती स्वच्छभावम्  
+> लोकेऽपूर्णं रहस्यं प्रकटयितलतस्त्वत्पदान्जे श्रयामः ॥ ५९ ॥
+
+### Hindi Translation (Amanuensis)
+> शिक्षासञ्चार चक्र में गति न रुकने पर भी बाधक के बाध होने से पहिले गम्भीरता पूर्वक पृथ्वीतल पर आकर जन समूहों के धैर्य का सन्देश देती हुई। लोक दृष्टि तुच्छ माने गये व्यक्ति के शरणागत होने पर स्वच्छ भाव को करती हुई आप संसार में अपूर्व रहस्य का उद्घाटन करती हैं अतः मैं आपके चरणकमलों का आश्रय लेता हूँ ॥ ५९ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> समस्त विश्व में मन्यु उद्रेक की महत्ता का प्रतिपादन के लिए विविध बाधाओं के होने पर उससे निर्बाध होकर भक्ति प्राप्ति की शिक्षा देने के लिए निरन्तर गतिशील इस भूमि पर आकर गम्भीरता का उपदेश देती हुई प्राणियों को आगे बढ़ने का सन्देश दे रही है। सांसारिक दृष्टि से अत्यन्त तुच्छ दीन-हीन होने पर भी उन्हें अपने शरण में लेकर अपनी उदात्त उदारता का परिचय देकर हार्दिक निर्मलता के रहस्य को अभिव्यक्त कर पवित्रता का पाठ पढ़ाती हो अतः माँ आज मैं आपके धर-चरण कमलों का आश्रयण कर रहा हूँ ॥ ५९ ॥
+
+### English Translation (Verse & Meaning)
+> Flowing majestically upon the earth with unwavering patience and profound depth, undeterred by any obstacle, You impart to humanity the supreme lesson of steadfast perseverance. Welcoming even the most lowly, neglected, and destitute souls who seek refuge in You, You purify their hearts and reveal the divine mystery of unconditional grace. Therefore, O Mother, I take refuge at Your lotus feet!
+
+### English Translation (Grandfather's Notes & Context)
+> Flowing upon this mortal plane to teach the art of transcending all obstacles and securing pure devotion, You embody the sublime message of unshakeable patience and continuous spiritual advancement. Embracing even those deemed most humble, poor, and insignificant by worldly standards, You reveal the profound mystery of maternal generosity and inner purity. Therefore, O Mother, I take eternal shelter at Your sacred lotus feet today!
+
+---
+
+## Verses 60–62 (श्लोक ६०–६२)
+
+### Sanskrit Shloka
+> त्वय्येवात्मनिवेदनं सुजनुषं सेन्जाघटीत्यर्थतः  
+> अन्येष्वञ्च तदोपचारिकमिति प्रत्यक्षतो दृश्यते ।  
+> त्वाहित्वा सदहन्निगुर्गुणतरं ज्योतिः कथं ध्यायतो  
+> ध्यानं निर्विषये ऽवकाशमलभं दृश्यर्थ च समाश्रितम् ॥ ६०-६१-६२ ॥
+
+### Hindi Translation (Amanuensis)
+> सज्जनों का आत्मनिवेदन तथतः घटित होता है, क्योंकि अन्य लोगों के प्रति आत्मनिवेदन करना तो प्रत्यक्षतः औपचारिक दिखाई देता है। आप को छोड़कर न दिखाई देने वाला निर्गुणतर ज्योति का ध्यान कैसे किया जा सकता है? निर्विषय में अवकाश पू (स्थान) प्राप्त होते हैं (यह कहना तो) केवल दम्भाश्रित प्रतीत होता है ॥ ६०-६१-६२ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> जगदाधार माँ गङ्गे! उपयुक्त तथ्यों तथा आपकी निष्काम निवेधि संसार सागर से सन्तारण करने की अपूर्व क्षमता और शक्ति जानकर तुमही अपना सर्वस्व समर्पण कर देना उचित एवं स्वाभाविक है। अन्य स्थानों (देवों तथा मानवों) में आत्मनिवेदन समर्पण करना तो एकमात्र औपचारिकता (प्रदर्शन) मात्र है। माँ प्रत्यक्ष स्वरूपवाली तुम्हें छोड़कर अन्य अदृश्य ज्योति निर्गुण निराकार (प्रकाश प्रज्वलप्रह) का ध्यान कैसे किया जा सकता है? जो लोग निर्गुण निराकार परब्रह्म ज्योतिर्मय स्वरूप के दर्शन का व्यर्थ में दम्भ भरते हैं वे मात्र केवल ढोंगी ही होते हैं। ६२
+
+### English Translation (Verse & Meaning)
+> For noble souls, complete self-surrender (ātma-nivedana) truly finds its authentic fulfillment in You alone; surrender elsewhere is merely a formal, outward pretense. Leaving aside Your living, tangible, and visible divine form, how can one meaningfully meditate upon an abstract, unmanifest, formless light? To claim realization of the formless void without devotion to the tangible Divine is nothing but empty pretension.
+
+### English Translation (Grandfather's Notes & Context)
+> O Mother Gaṅgā, Sustainer of the World! Recognizing Your unparalleled power to deliver embodied souls across the ocean of worldly existence, dedicating one’s entire being to You is the only genuine and natural path. Surrender to other entities or deities is often mere ceremony and display. Abandoning Your living, visible, and tangible divine presence, how can ordinary mortals meditate on a distant, formless, unmanifest radiance? Those who boast of realizing the abstract, formless Absolute while despising the living, manifest Divine engage only in empty hypocrisy.

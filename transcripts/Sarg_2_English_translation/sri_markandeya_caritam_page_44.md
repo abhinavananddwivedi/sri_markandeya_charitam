@@ -1,0 +1,48 @@
+# Śrī Mārkaṇḍeya Caritam
+
+**Canto 2 (द्वितीयः सर्गः)**  
+*(Page Number: 44 / पृष्ठ संख्या: ४४)*
+
+---
+
+## Verse 23 (श्लोक २३)
+
+### Sanskrit Shloka
+> सुपाकसिद्धयै गृहिणीमुपागतः  
+> समादिदेशाथ सती निजस्नुषाः ।  
+> परावृत्य सस्तूर्णमपूर्वदर्शनं  
+> मुनिं समूचेऽमृतसन्निभं वचः ॥ २३ ॥
+
+### Hindi Translation (Amanuensis)
+> सुन्दर भोजन निर्माणार्थ अपनी पत्नी के पास जाकर कहा पत्नी ने अपनी बहुओं को आदेश दी। शीघ्रतापूर्वक लौटकर अपूर्वदर्शन मुनि से अमृतवत् मधुर वाणी बोले ॥ २३ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> इसके बाद तुरन्त उस सद्गृही ने अपने घर के भीतर जाकर अपनी सौभाग्यवती पत्नी से उस अभ्यागत ब्रह्मचारी के योग्य उत्तम भोजन बनाने को कहा, उनकी पत्नी ने भी अपनी बहुओं को आदेश दिया कि वे झट से भोजन व्यवस्था सम्पादित करें, यों झट से घर के बाहर आकर उस गृही ने पूर्व प्रथम दर्शन देने वाले उस ब्रह्मचारी के पास आकर अमृतोपम अत्यन्त सुमधुर वाणी में उस अतिथि ब्रह्मचारी से कहना शुरू किया । २३
+
+### English Translation (Verse & Meaning)
+> Stepping inside, the householder requested his virtuous wife to prepare a sumptuous meal for the guest. She promptly directed her daughters-in-law to arrange the meal swiftly. Returning outside to the ascetic of extraordinary presence, the host addressed him in nectar-sweet words.
+
+### English Translation (Grandfather's Notes & Context)
+> The pious householder went inside and requested his noble wife to prepare pure and wholesome food fit for the holy ascetic. She immediately instructed her daughters-in-law to prepare the meal with haste and devotion. Returning to the veranda, the host sat beside this divine guest and spoke with heartfelt warmth and nectarine sweetness.
+
+---
+
+## Verse 24 (श्लोक २४)
+
+### Sanskrit Shloka
+> यथाऽतिदीने द्रविणस्य दर्शना-  
+> दवग्रहे सस्य कृते च वर्षणात् ।  
+> उपद्रुते सच्चरितेऽरेर्धर्षणा-  
+> त्तथा सुखं मे भवतोऽद्यदर्शनात् ॥ २४ ॥
+
+### Hindi Translation (Amanuensis)
+> जैसे अतिदीनहीन व्यक्ति को धन के दर्शन से, और उसके लिए धन की वर्षा से, शत्रु के धर्षण से सच्चरित के उपद्रुत (बढ़) जाने पर सुख होती है वैसे ही आज मुझे आपके दर्शन से सुख हो रहा है ॥ २४ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> वर्णिन्! जैसे अतिशय दीन हीन व्यक्ति को प्रचुर धन के दर्शन से, अकर्षण की भीषण स्थिति में उपयुक्त वर्षा हो जाने से, उपद्रव पूर्ण स्थिति में उपद्रव करने वाले व्यक्ति को (शत्रु) को किसी सच्चरित्र व्यक्ति द्वारा शान्त कर देने से जो सुख प्राप्त होता है, हे ब्रह्मचारिन्! आज मुझे आपके दर्शन से वही अपूर्व सुख प्राप्त हो रहा है। २४
+
+### English Translation (Verse & Meaning)
+> 'Just as a destitute beggar rejoices at the sight of unexpected treasure, as parched crops revive under timely monsoon showers during severe drought, and as oppressed souls rejoice when righteous heroes subdue an aggressor—even so does my heart experience supreme joy upon your auspicious arrival today, O noble ascetic!'
+
+### English Translation (Grandfather's Notes & Context)
+> 'O holy Brahmacārī! Just as an impoverished pauper is filled with ecstasy upon finding immense wealth, or farmers rejoice when nourishing rains fall upon drought-stricken fields, or peaceful citizens feel immense relief when a virtuous soul subdues oppressive enemies—that very same boundless, transcendental bliss fills my soul upon beholding your divine presence in my humble home today!'

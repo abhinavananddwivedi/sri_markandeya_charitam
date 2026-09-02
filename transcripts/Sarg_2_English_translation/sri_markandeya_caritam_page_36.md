@@ -1,0 +1,48 @@
+# Śrī Mārkaṇḍeya Caritam
+
+**Canto 2 (द्वितीयः सर्गः)**  
+*(Page Number: 36 / पृष्ठ संख्या: ३६)*
+
+---
+
+## Verse 7 (श्लोक ७)
+
+### Sanskrit Shloka
+> विभाकरालोकन दूय मानसा  
+> पुनर्बका लोडन जीर्णतन्त्वरा।  
+> जडात्मके भर्त्तरि सेर्ष्याका स्थिता  
+> कुमुद्वती तेन क्वचिद्विलोकिता ॥ ७ ॥
+
+### Hindi Translation (Amanuensis)
+> पुनः उन्होंने कहीं पर सूर्य के देखने से दूषित मन वाली बगुलों के आलोडन जीर्णशीर्ण पत्रों वाली पति के जड़ (निष्प्रभ) होने से ईर्ष्या पूर्वक स्थित कुमुद्वती को देखा ॥ ७ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> फिर मुनि मृकण्ड ने मूर्ख बकुलों के निरन्तर पदघात से निरन्तर मसली गई हुई तथा भगवान भास्कर के प्रखर किरणों को देख अतिशय विमुग्ध शिथिल पड़ी हुई, कुमुदिनी (कोई का फूल) के फूलों की पङ्क्ति को जो अपने पति चन्द्रमा के क्षीण-निष्प्रभ हो जाने से अत्यन्त प्रभावहीन ईर्ष्यायुक्त हो कर बेसुध पड़ी है को भी देखा।
+
+### English Translation (Verse & Meaning)
+> In another bend, he beheld the night-blooming water-lily (kumudvatī), her petals bruised and withered by the restless stamping of herons and distressed by the blazing sun, lying limp and sorrowful while her lord, the moon, remained faded and helpless in daylight.
+
+### English Translation (Grandfather's Notes & Context)
+> Sage Mṛkaṇḍu noticed the clusters of night-blooming lilies trampled by unthinking wading birds and withering under the intense glare of the midday sun. With their beloved spouse, the moon, rendered pale, powerless, and lusterless during the day, the lilies lay helpless, evocative of a virtuous woman suffering distress when her protector is stripped of influence.
+
+---
+
+## Verse 8 (श्लोक ८)
+
+### Sanskrit Shloka
+> क्वचित्प्रवाहं परिहाय गर्तगे-  
+> ष्वपां समूहेषु विचित्रवैभवम् ।  
+> हरिन्मणीनामिव सदलैश्चितां  
+> ददर्श फुल्लामपि पद्मिनीमसौ ॥ ८ ॥
+
+### Hindi Translation (Amanuensis)
+> पुनः उन्होंने प्रवाह को त्याग कर गड़्ढे में स्थित जल राशि में विचित्र वैभव सम्पन्न मरकत मणि के समान शोभन पत्तों से व्याप्त खिलती हुई पद्मिनी को देखा ॥ ८ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> साथ ही कहीं २ मुख्य धारा से अलग होकर छोटे २ गड्ढों (गर्तो) में पानी जमा हो जाने के कारण उनमें भी अपूर्व शोभा धारण करने वाली हरी २ मरकत मणियों की शोभा को भी तिरस्कृत करने वाली अनुपम दिव्य शोभा सम्पन्न हरे २ पत्तों से सम्पन्न मनहर लगने वाली खिली हुई मृदुल कमलिनियों को भी मुनि मृकण्ड ने बड़े चाव से देखा।
+
+### English Translation (Verse & Meaning)
+> Separated from the main current in serene pools and natural hollows, he beheld blossoming lotuses of extraordinary elegance, surrounded by radiant green leaves that outshone the luster of pure emeralds (harinmaṇi).
+
+### English Translation (Grandfather's Notes & Context)
+> Along quiet side-pools detached from the roaring mainstream, Sage Mṛkaṇḍu admired delicate, full-blooming lotuses. Adorned with lush green leaves that surpassed the brilliance of precious emeralds, these serene blossoms thrived in tranquil beauty, demonstrating how spiritual perfection and divine grace can blossom even in secluded and humble settings.

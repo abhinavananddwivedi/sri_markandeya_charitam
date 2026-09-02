@@ -1,0 +1,49 @@
+page_number_devanagari: "१६"
+page_number_arabic: 16
+image: "images/pages/p016.jpg"
+verses:
+  - number: 31
+    shlok: |
+      मुनी पुराणौ शतशः श्रुतो मया
+      तपश्चरन्तावति दीर्घकालतः ।
+      तौ कृतार्थो युष्मद्विलोकनात्
+      न्मनः सन्नितिमेति सर्वतः ॥ ३१ ॥
+    translation:
+      author: amanuensis
+      text: |
+        मैंने प्राचीन दो मुनि दीर्घकाल से तप कर रहे हैं यह बात अनेक बार सुना था। किन्तु सम्प्रति आप दोनों के दर्शन से मेरी दृष्टि कृतार्थ हो गई और मन इससे आनन्दित है ॥ ३१ ॥
+    notes:
+      author: grandfather
+      text: |
+        हे विभो! मैंने अनेक बार सुन रखा है कि दो अद्भूत प्रवर (नर-नारायण नामक) अनन्त प्राचीन काल से अपन नियमों से तपस्या करते हुए रह रहे हैं, मुझे लगता है कि वे दोनों श्रेष्ठ आप ही हैं, आज आप युगल दोनों के दर्शन करने मात्र से मेरी ये दोनों आँखें धन्य हो गईं, मैं कृतार्थ हुआ, आज मेरा मन अत्यन्त प्रफुल्लित होकर आनन्दातिरेक से प्रफुल्लित हो उठा है ॥ ३१ ॥
+    translation_en:
+      author: ai_translation
+      text: |
+        'O Venerable Lords! Hundreds of times have I heard of the two primeval sages who have been performing rigorous austerities since ancient antiquity. Today, by beholding you both directly, my eyes are truly blessed, and my soul has attained supreme fulfillment and serenity in every way.'
+    notes_en:
+      author: ai_translation
+      text: |
+        'O Omnipresent Lords! Countless times have I heard that two extraordinary, eternal sages—Nara and Nārāyaṇa—have been performing relentless penance in these sacred realms since time immemorial. I perceive with certainty that you are indeed those very supreme beings! Today, simply by the darśana of your divine presence, my eyes have found their ultimate purpose, my life has become blessed, and my heart overflows with unbounded spiritual ecstasy.'
+  - number: 32
+    shlok: |
+      तपो निहन्तुं प्रहिता सुराङ्गना
+      दिवौकसामप्सरसो वृषणा ।
+      उरु विनिर्मित वरोरुमुर्वशीं
+      समेत्य जग्मुः स्वपुराण्यमर्षिताः ॥ ३२ ॥
+    translation:
+      author: amanuensis
+      text: |
+        इन्द्र ने उनकी तपस्या भङ्ग करने के लिए स्वर्ग से अप्सराओं को प्रेषित किया था। किन्तु नारायण ने अपने ऊरु से एक उर्वशी नामक दिव्याङ्गना उन्हें प्रदान किया, वे उससे अमर्ष से भरी हुई अपनी नगरी (स्वर्ग) चली गयीं ॥ ३२ ॥
+    notes:
+      author: grandfather
+      text: |
+        सुना है ऋषियों की तपस्या से देवराज सदा भयभीत रहा करते हैं। अतः आप दोनों की तपस्या से डरकर इन्द्र ने मेनकादि दिव्य अप्सराओं को आप दोनों का तप भङ्ग करने के लिए भेजा था किन्तु भगवान् नारायण ने अपने ऊरु से निकाल कर एक अद्भूत दिव्याङ्गना उर्वशी नाम वाली को उन्हें दिया, जिसके अननिन्द्य सौंदर्य और माधुरी से व्यथित होकर सभी अप्सराएँ अमर्ष से भरी हुई उसे साथ लेकर अपनी नगरी स्वर्ग पूरी में चली गईं ॥ ३२ ॥
+    translation_en:
+      author: ai_translation
+      text: |
+        'To disrupt your profound austerities, the King of Heaven dispatched the most alluring celestial damsels (apsaras). Yet Lord Nārāyaṇa, manifesting the exquisitely beautiful Urvaśī directly from his own thigh (ūru), bestowed her upon the gods. Humiliated and humbled by her unmatched grace, the celestial maidens retreated to heaven in bewilderment.'
+    notes_en:
+      author: ai_translation
+      text: |
+        'It is well known that Indra, sovereign of the celestials, ever fears the towering penances of great seers. Terrified by your unwavering austerities, Indra sent Menakā and the divine apsaras to shatter your meditation. However, Lord Nārāyaṇa effortlessly brought forth from his own thigh the peerless maiden Urvaśī, whose flawless beauty and celestial sweetness completely eclipsed all the apsaras. Overwhelmed by shame and awe, they took Urvaśī with them and retreated to their celestial capital of Svarga.'
+source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude."

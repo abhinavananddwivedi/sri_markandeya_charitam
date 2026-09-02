@@ -1,0 +1,14 @@
+page_number_devanagari: "३०"
+page_number_arabic: 30
+image: "images/pages/p030.jpg"
+verses:
+  - number: 58
+    notes:
+      author: grandfather
+      text: |
+        अरी माँ गङ्गे! आप जैसी दयार्द्र हृदयवाली जल की धारा इस त्रिलोकी में अन्यत्र कहाँ सुलभ हो सकती है? जो भी प्राणी आपकी पावन धारा में शरण लेता है, वह समस्त संतापों से मुक्त होकर परम पद को प्राप्त करता है।
+    notes_en:
+      author: ai_translation
+      text: |
+        'O Mother Gaṅgā! Where else in all the three worlds can such an all-merciful, maternal stream of divine grace ever be found? Whosoever takes shelter in Your sanctifying waters is liberated from all worldly afflictions, sins, and mortal sorrow, attaining the supreme abode of peace.'
+source: "This page's sparse handwriting is continued commentary in the grandfather's hand, carrying on from the preceding page (verse 58's notes). No Google Lens transcript was ever produced for it; the Hindi text above was transcribed directly from the page-30 scan by the antigravity tool (2026-08-25), confirmed by the user as a genuine reading of the manuscript image rather than inferred text."

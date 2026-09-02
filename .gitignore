@@ -1,0 +1,6 @@
+/Images/raw/
+transcripts/Sarg_1/superseded/
+transcripts/**/*.docx
+.Rhistory
+Thumbs.db
+.DS_Store

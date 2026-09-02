@@ -1,0 +1,48 @@
+# Śrī Mārkaṇḍeya Caritam
+
+**Canto 2 (द्वितीयः सर्गः)**  
+*(Page Number: 52 / पृष्ठ संख्या: ५२)*
+
+---
+
+## Verse 39 (श्लोक ३९)
+
+### Sanskrit Shloka
+> विविच्यते स्वादितमीदृशं पयः  
+> क्व कामधेनुं विरहय्य लभ्यते ।  
+> कदाप्यनास्वादितमोदनोऽथवा-  
+> पिकिं त्वयेतोऽद्य समार्पितं नृणाम् ॥ ३९ ॥
+
+### Hindi Translation (Amanuensis)
+> स्वर्ग में ऐसा स्वादिष्ट दुग्ध कामधेनु को छोड़कर कहाँ अन्यत्र प्राप्त है? कभी भी स्वाद न लिया गया भात अर्पित किया वह फल है या अन्न? ॥ ३९ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> मुने! लगता है कि स्वर्गलोक को छोड़कर बिना कामधेनु के इतना स्वादिष्ट मधुर दुग्ध अन्यत्र कहां प्राप्त हो सकता है? चावल (भात) के नाम से व्यञ्जन आपने जिसे खिलाया है वह क्या भात कहा जायगा या अत्यन्त मधुर फल है? ऐसा उत्तम भोज्य (भात) तो मैने कहीं खाया ही नहीं है । ३९
+
+### English Translation (Verse & Meaning)
+> 'Where else in all the worlds, save from the celestial wish-granting cow Kāmadhenu in heaven, could such nectarine, sweet milk ever be obtained? And this exquisite rice you have served me—is it mere grain, or some heavenly ambrosial fruit? Never in my life have I tasted food so sublime!'
+
+### English Translation (Grandfather's Notes & Context)
+> 'O venerable sage! It seems impossible that such wonderfully sweet and fragrant milk could exist outside the heavenly realms without Kāmadhenu herself! And the dish served under the humble name of rice—is it truly grain, or some divine celestial fruit? Truly, I have never experienced such heavenly and delectable cuisine anywhere on this earth!'
+
+---
+
+## Verse 40 (श्लोक ४०)
+
+### Sanskrit Shloka
+> अहो स्नुषाणां रचना सुचातुरी  
+> तुरीयकक्षामतिशाय्य राजते ।  
+> पृथक् पृथक् षड्रसता रुचिप्रदा  
+> विभाव्यते यासु विमलभावना ॥ ४० ॥
+
+### Hindi Translation (Amanuensis)
+> वधुओं की भोजन बनाने की चातुरी आश्चर्यकारी है, यह तो चतुर्थ कक्षा को पार कर सुशोभित हो रही है। भिन्न-भिन्न रुचिप्रद छह रसों की विभावित भावना प्रतीत होती है ॥ ४० ॥
+
+### Grandfather's Commentary / Hindi Notes
+> महर्षिप्रवर! आपके बहुओं की भोजन कला की अत्यन्त समग्र रचना कौशल की क्या बात कही जाय, यह तो प्रथम मध्यमोत्तम रचना कौशल को अतिक्रमण कर उससे भी ऊपर उच्च कोटि की चतुर्थ श्रेणी का स्थान प्राप्त कर रही है। इन बहुओं की भोजन संरचना की अद्भुत कलाभिजता है। जिससे (मधुर, अम्ल, लवण, कटु, कषाय, तिक्त) इन छह रसों की निरन्तर साथ-साथ अनुभूति और स्वाद मिल रहा है, यह रचना कौशल तो अन्यत्र सुदुर्लभ है। ४०
+
+### English Translation (Verse & Meaning)
+> 'Ah! The culinary mastery of your daughters-in-law is truly wondrous; surpassing ordinary, middling, and high standards, it reaches a transcendent, fourth dimension of culinary perfection! In every dish, the six classical gastronomic flavors (ṣaḍ-rasa) are harmonized with pure devotion and unmatched delicacy.'
+
+### English Translation (Grandfather's Notes & Context)
+> 'O Great Sage! What praise can suffice for the culinary artistry of your daughters-in-law? Transcending standard classifications of skill, their craftsmanship reaches the pinnacle of transcendental culinary art. Their dishes harmonize all six primary tastes—sweet, sour, salty, bitter, pungent, and astringent—with such flawless balance and pure love that experiencing it is an extraordinarily rare blessing.'

@@ -1,0 +1,49 @@
+page_number_devanagari: "४५"
+page_number_arabic: 45
+image: "images/pages/p045.jpg"
+verses:
+  - number: 25
+    shlok: |
+      न माति हर्षोऽल्पतनौ तवार्चना-
+      न्न दृष्टिरिष्टे व्यवधानमुच्छति ।
+      समीक्षिते त्वाऽद्भुतदर्शने मुने !
+      मनः स्थितं सत्स्वरुजां न जिहासति ॥ २५ ॥
+    translation:
+      author: amanuensis
+      text: |
+        हे मुनिवर! आपके अर्चनजन्य हर्ष मेरे छोटे शरीर में नहीं समा पा रहा है, न तो मेरी दृष्टि इष्ट के दर्शन में व्यवधान पाना चाहती है। आप का यह अद्भुत दर्शन सात्त्विक भाव में रमे मेरे मन शीघ्रता से छोड़ना नहीं चाहता ॥ २५ ॥
+    notes:
+      author: grandfather
+      text: |
+        हे ब्रह्मचारिन्! आज अपूर्व आप जैसे ब्रह्मचारी व्यक्ति जो आश्चर्य हैं को पाकर मेरी इस छोटी सी देह में प्रसन्नता समा नहीं पा रही है। आप जैसे स्वतः समागत अत्यन्त ईप्सिततम व्यक्ति के दर्शन से एक क्षण भी दृष्टि अलग होना नहीं चाहती। आप जैसे अपूर्व व्यक्ति के दर्शन की अतिशय उत्कट अभिलाषा (मुझमें होने वाली उत्कण्ठा) अपनी शीघ्रता को छोड़ना (शान्त होना) नहीं चाहती है। २५
+    translation_en:
+      author: ai_translation
+      text: |
+        'O Venerable Sage! The ecstasy born of worshipping you cannot be contained within my modest mortal frame; nor does my gaze wish to endure even a moment’s interruption in beholding you, my cherished deity! My soul, immersed in pure spiritual bliss upon your wondrous sight, refuses to turn away.'
+    notes_en:
+      author: ai_translation
+      text: |
+        'O Holy Brahmacārī! Today, receiving an extraordinary, luminescent guest like you, my frail physical frame cannot contain the boundless joy overflowing in my heart. Having attained the unprompted darśana of one so dearly sought, my eyes refuse to blink or turn away for even a second. The deep spiritual yearning in my soul finds complete fulfillment in your radiant presence.'
+  - number: 26
+    shlok: |
+      अधीतविद्योऽसि त्वया समर्चितं सताम्
+      किमद्य ते ज्ञानगुरो गुरुः सताम् ।
+      निवृत्तिरिष्येत समावृतौ मनः
+      स्फुटं मुने ! प्रश्नमिमं निराकुरु ॥ २६ ॥
+    translation:
+      author: amanuensis
+      text: |
+        हे मुनिवर! हे ज्ञानगुरो आप सज्जनों के गुरु हैं आज आपने क्या समर्चित (निश्चय) किया? क्या आपका मन निवृत्ति चाहता है या समावर्तन में लगा है? कृपया मेरे प्रश्नों का स्पष्ट उत्तर दें ॥ २६ ॥
+    notes:
+      author: grandfather
+      text: |
+        हे ज्ञानियों में श्रेष्ठ! सज्जनों के भी श्रेष्ठ गुरु! आपने सभी विद्याओं का सम्यक् अध्ययन किया है, स्वाध्याय की पूर्णता प्राप्त कर लेने के बाद आज आपकी क्या धारणा (आवश्यकता) है? क्या आप सांसारिक भोगों से निवृत्ति चाहते हैं? या समावृत्त होकर गार्हस्थ्यधर्म का परिपालन करना चाहते हैं। कृपया मेरे इन प्रश्नों का स्पष्ट उत्तर देने का अनुरोध स्वीकार करें। २६
+    translation_en:
+      author: ai_translation
+      text: |
+        'You have mastered all sacred branches of knowledge, O teacher of the wise! What course have you resolved upon today? Does your mind incline toward total monastic renunciation (Nivṛtti), or have you completed your student graduation (Samāvartana) to embrace the duties of a householder? Pray resolve this question clearly for me, O Great Sage!'
+    notes_en:
+      author: ai_translation
+      text: |
+        'O foremost among the enlightened! You have thoroughly mastered all sacred lore and sciences. Having completed your rigorous Vedic studies, what is the chosen path of your soul? Do you seek the solitude of complete renunciation (Nivṛtti Mārga), or do you intend to enter the sacred householder’s life (Gṛhastha Āśrama)? I humbly pray that you graciously clarify this for me.'
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."
