@@ -24,9 +24,26 @@ if (length(yml_files) == 0) stop("No transcripts found in ", transcripts_dir)
 pages <- lapply(yml_files, function(f) {
   p <- yaml::read_yaml(f)
   p$.slug <- tools::file_path_sans_ext(basename(f))
+  d <- basename(dirname(f))
+  m <- regmatches(d, regexec("^Sarg_([0-9]+)$", d))[[1]]
+  p$.sarga_num <- if (length(m) == 2) as.integer(m[2]) else NA_integer_
   p
 })
 pages <- pages[order(vapply(pages, function(p) as.integer(p$page_number_arabic), integer(1)))]
+
+# ---- sarga (canto) grouping ------------------------------------------
+# Each transcript lives in a Sarg_N/ folder; only the first page of a canto
+# carries the Devanagari `sarga:` heading, so carry it forward per canto.
+sarga_nums <- vapply(pages, function(p) p$.sarga_num, integer(1))
+if (anyNA(sarga_nums)) {
+  stop("Transcript(s) not under a Sarg_N/ folder: ",
+       paste(vapply(pages[is.na(sarga_nums)], function(p) p$.slug, character(1)), collapse = ", "))
+}
+sarga_order <- sort(unique(sarga_nums))
+sarga_heading <- setNames(lapply(sarga_order, function(sn) {
+  hs <- Filter(Negate(is.null), lapply(pages[sarga_nums == sn], `[[`, "sarga"))
+  if (length(hs)) hs[[1]] else NA_character_
+}), as.character(sarga_order))
 
 # ---- copy page images into docs/images/ --------------------------------
 
@@ -88,12 +105,19 @@ a { color: var(--accent); }
 .verse { margin: 1.75rem 0; padding: 1.25rem; border: 1px solid var(--rule); border-radius: 8px; }
 .verse-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin-bottom: 0.75rem; }
 .sarga { color: var(--muted); font-style: italic; margin-top: -0.25rem; }
+.sarga-group { margin-top: 2.5rem; }
+.sarga-group:first-of-type { margin-top: 1rem; }
+h2.sarga-group-heading { font-size: 1.15rem; border-bottom: 2px solid var(--rule); padding-bottom: 0.3rem; margin-bottom: 0.2rem; }
+.sarga-group-range { color: var(--muted); font-weight: 400; font-size: 0.9rem; }
+.sarga-group-subtitle { color: var(--muted); font-style: italic; margin: 0 0 0.6rem; }
 .block { margin: 0.9rem 0; }
 .block-shlok { background: var(--shlok-bg); border-left: 4px solid var(--shlok-border); padding: 0.85rem 1rem; font-size: 1.15rem; white-space: pre-line; }
 .block-translation { padding: 0.4rem 0.2rem; white-space: pre-line; }
 .block-translation-en { background: var(--en-bg); border-left: 4px solid var(--en-accent); padding: 0.85rem 1rem; white-space: pre-line; font-style: italic; }
 .block-notes { background: var(--notes-bg); border-left: 4px solid var(--accent); padding: 0.85rem 1rem; white-space: pre-line; font-size: 0.97rem; }
 .block-notes-en { background: var(--en-bg); border-left: 4px solid var(--en-accent); padding: 0.85rem 1rem; white-space: pre-line; font-size: 0.97rem; font-style: italic; }
+.block-manuscript-note, .block-manuscript-note-en { background: var(--notes-bg); border-left: 4px solid var(--muted); padding: 0.55rem 1rem; font-size: 0.82rem; color: var(--muted); white-space: pre-line; }
+.block-manuscript-note-en { font-style: italic; }
 .block-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 0.3rem; }
 .author-tag { font-style: normal; font-size: 0.7rem; color: var(--muted); border: 1px solid var(--rule); border-radius: 4px; padding: 0.05rem 0.4rem; margin-left: 0.4rem; }
 .source-scan { margin-top: 2rem; }
@@ -124,6 +148,7 @@ author_label <- function(author) {
     amanuensis = "amanuensis's hand",
     grandfather = "grandfather's hand",
     ai_translation = "AI-assisted translation",
+    ai_transcription = "AI-assisted transcription",
     author
   )
 }
@@ -135,6 +160,8 @@ render_block <- function(type, text, author = NULL) {
     translation_en = "block-translation-en",
     notes = "block-notes",
     notes_en = "block-notes-en",
+    manuscript_note = "block-manuscript-note",
+    manuscript_note_en = "block-manuscript-note-en",
     "block-translation"
   )
   label <- switch(type,
@@ -143,6 +170,8 @@ render_block <- function(type, text, author = NULL) {
     translation_en = "English Translation",
     notes = "Notes",
     notes_en = "English Notes",
+    manuscript_note = "Manuscript Note",
+    manuscript_note_en = "Manuscript Note (EN)",
     type
   )
   author_tag <- if (!is.null(author)) glue('<span class="author-tag">{html_escape(author_label(author))}</span>') else ""
@@ -156,6 +185,8 @@ render_block <- function(type, text, author = NULL) {
 render_verse <- function(v) {
   parts <- c(
     if (!is.null(v$shlok)) render_block("shlok", v$shlok, "amanuensis") else NULL,
+    if (!is.null(v$manuscript_note)) render_block("manuscript_note", v$manuscript_note$text, v$manuscript_note$author) else NULL,
+    if (!is.null(v$manuscript_note_en)) render_block("manuscript_note_en", v$manuscript_note_en$text, v$manuscript_note_en$author) else NULL,
     if (!is.null(v$translation)) render_block("translation", v$translation$text, v$translation$author) else NULL,
     if (!is.null(v$translation_en)) render_block("translation_en", v$translation_en$text, v$translation_en$author) else NULL,
     if (!is.null(v$notes)) render_block("notes", v$notes$text, v$notes$author) else NULL,
@@ -230,8 +261,26 @@ for (i in seq_along(pages)) {
 
 # ---- index page ---------------------------------------------------------
 
-list_items <- paste(vapply(pages, function(p) {
+render_li <- function(p) {
   glue('<li><a href="{page_href(p)}">Page {p$page_number_arabic}</a><span class="devanagari-num">{html_escape(p$page_number_devanagari)}</span></li>')
+}
+groups <- split(seq_along(pages), factor(sarga_nums, levels = sarga_order))
+sarga_sections <- paste(vapply(names(groups), function(sn) {
+  gp <- pages[groups[[sn]]]
+  first_pg <- gp[[1]]$page_number_arabic
+  last_pg <- gp[[length(gp)]]$page_number_arabic
+  items <- paste(vapply(gp, render_li, character(1)), collapse = "\n")
+  subt <- sarga_heading[[sn]]
+  subt_html <- if (!is.null(subt) && !is.na(subt)) {
+    glue('<p class="sarga-group-subtitle">{html_escape(subt)}</p>')
+  } else ""
+  glue('<section class="sarga-group">
+<h2 class="sarga-group-heading">Sarga {sn} <span class="sarga-group-range">(pages {first_pg}–{last_pg})</span></h2>
+{subt_html}
+<ul class="page-list">
+{items}
+</ul>
+</section>')
 }, character(1)), collapse = "\n")
 
 index_html <- glue('<!doctype html>
@@ -244,10 +293,8 @@ index_html <- glue('<!doctype html>
 </head>
 <body>
 <h1>Mahakavya manuscript</h1>
-<p class="subtitle">A digitized Sanskrit mahākāvya, handwritten in a notebook. {length(pages)} page(s) transcribed so far.</p>
-<ul class="page-list">
-{list_items}
-</ul>
+<p class="subtitle">A digitized Sanskrit mahākāvya, handwritten in a notebook. {length(pages)} page(s) across {length(sarga_order)} canto(s) transcribed so far.</p>
+{sarga_sections}
 <footer>Digitized manuscript pages of a Sanskrit mahākāvya.</footer>
 </body>
 </html>')

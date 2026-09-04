@@ -1,0 +1,65 @@
+page_number_devanagari: "८४"
+page_number_arabic: 84
+image: "images/pages/p084.jpg"
+verses:
+  - number: 48
+    shlok: |
+      इत्युदीरितमतिप्रसन्नधी-
+      र्महर्षिणा सुवचस्तेन पराशरे।
+      निर्विवेश हृदये कृतज्ञतां
+      शालिनता स्वहृदयेन निर्विधे॥ ४८॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद १-२ में `इत्युदीरितमति प्रसन्नधी- / र्महर्षिणा सुवचस्तेन पराशरे` तथा पाद ३-४ में `निर्विवेश हृदये कृतज्ञतां / शालिनता स्वहृदयेन निर्विधे` लिखा है। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Lines 1–2 record Mṛkaṇḍu’s uplifted spirit upon hearing the benevolent pronouncements of Maharṣi Parāśara. Lines 3–4 express how Mṛkaṇḍu absorbed this benediction deep into his grateful heart with unblinking reverence and decorum. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    translation:
+      author: amanuensis
+      text: |
+        पराशर मुनि के ऐसे सुन्दर वचन कहे जाने पर विद्या प्रसन्न बुद्धि एवं निर्निमेष बड़े बड़े आश्चर्य वाले महात्मा के मृकण्डु ने शालीन अपने हृदय से उनके प्रति कृतज्ञता व्यक्त की॥ ४८॥
+    notes:
+      author: grandfather
+      text: |
+        यों महर्षि पराशर जी के अत्यन्त उदार एवं अत्यन्त प्रभावशाली उत्तम वाणी को सुनकर उदारहृदय अतिशय प्रसन्न बुद्धिवाले मुनि मृकण्डु ने अपलक नयनों से उनकी कृतज्ञता ज्ञापित करते हुए सहृदय पूर्वक उनका आभार व्यक्त किया। ४८
+    translation_en:
+      author: ai_translation
+      text: |
+        Upon hearing such auspicious and uplifting words uttered by the great Maharṣi Parāśara, Sage Mṛkaṇḍu—his intellect luminous with joy—gazed with unblinking reverence, anchoring deep within his heart the purest sentiment of humble gratitude. (Verse 48)
+    notes_en:
+      author: ai_translation
+      text: |
+        Thus, hearing the exceedingly generous, authoritative, and uplifting words of Maharṣi Parāśara, the noble-hearted and joyous Sage Mṛkaṇḍu gazed with transfixed, unblinking eyes. Overwhelmed with genuine affection and reverence, he expressed his heartfelt, indebted gratitude unto the great preceptor. (48)
+  - number: 49
+    shlok: |
+      ऊचिवांश्च मधुरं स्वरान्वितं
+      निर्व्यलीकमुपलभ्य मानसम्।
+      आर्य! निष्पतति यत्र ते कृपा
+      पूर्णदृष्टिरथ तस्य का कथा॥ ४९॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद १ में `ऋचिवांच्च मधुरं स्वरान्वितं` लिखा है जो `ऊचिवांश्च मधुरं स्वरान्वितं` का द्योतक है। पाद ३ में 'आर्य!' का सम्बोधन है। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: In line 1, the amanuensis writes `ऋचिवांच्च मधुरं स्वरान्वितं`, which stands for `ऊचिवांश्च मधुरं स्वरान्वितं`. Line 2 notes the transparent, unblemished purity of Parāśara’s heart (nirvyalīkam). Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    translation:
+      author: amanuensis
+      text: |
+        महर्षि के स्वरान्वित मधुर वचन तथा निर्व्यलीक स्वच्छ मन को पाकर बोले- हे आर्य! आपकी कृपापूर्ण दृष्टि जहाँ पड़ती है तो उसके विषय में कहना ही क्या?॥ ४९॥
+    notes:
+      author: grandfather
+      text: |
+        महर्षि पराशर के अत्यन्त मधुर स्वरों से सर्वथा मनोहर, निष्छल एवं पूर्ण उदारशयता का अपने हृदय में निरन्तर विचार करते हुए मुनि मृकण्डु ने कहा कि हे प्रभो यहाँ आपकी पूर्ण कृपा की दृष्टि पड़ जाती है वहाँ की बात क्या कही जाय? अर्थात् आपकी अनुग्रह भंग से क्या सम्भव नहीं है? ४९
+    translation_en:
+      author: ai_translation
+      text: |
+        Experiencing the sweet-toned words and utterly pure, guileless heart (nirvyalīkam) of the great sage, Mṛkaṇḍu spoke melodiously: "O Noble One (Ārya)! Wherever your merciful, grace-filled gaze descends, what need is there to speak further? All auspiciousness follows naturally!" (Verse 49)
+    notes_en:
+      author: ai_translation
+      text: |
+        Reflecting continuously in his heart upon the enchantingly sweet tone, complete guilelessness, and magnificent generosity of Maharṣi Parāśara, Sage Mṛkaṇḍu said: "O Lord! Wherever your all-compassionate gaze alights, what could possibly remain unaccomplished? In other words, what impossibility cannot be rendered possible by even a fleeting glance of your divine favor?" (49)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. This page's source markdown uses the later antigravity 'dialect B': the shlok is a fenced code block rather than a blockquote, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

@@ -1,0 +1,55 @@
+page_number_devanagari: "८६"
+page_number_arabic: 86
+image: "images/pages/p086.jpg"
+verses:
+  - number: 52
+    shlok: |
+      इति समुदितवान् शौचमभ्येत्य संप्रणम्य मुदा
+      मनसि पुलकितेऽङ्गे सन्निहत्य स्वकार्यम्।
+      कलित बहु विचाराश्चाङ्कपाल्यां निमग्नस्तत्परो
+      व्ययगतसुखभोगो निद्रया मन्द मन्दं निनाय शर्वरीम्॥ ५२॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद १ में `इति समुदितवान् शैलमभ्येत्य/शौशमभ्येत्य संप्रणम्य मुदा`, पाद २ में `मनसि पुलकितेऽङ्गे सन्निहत्य स्वकार्यम्`, पाद ३-४ में `कलित बहु विचाराश्चाङ्कपाल्या निमग्नस्तत्परो / व्ययगतसुखभोगो निद्रये मन्द मन्दं निनाय शर्वरीम्` लिखा है। सर्ग के मुख्य कथानक का यह अंतिम श्लोक है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: This marks the climactic concluding narrative verse of Canto 3. Having received the blessing, cow, companion sage, and directions, Sage Mṛkaṇḍu bows with joy, rapturous horripilation (pulakita-aṅga), and spends the wondrous night reflecting on the auspicious fulfillment of his divine mission.
+    translation:
+      author: amanuensis
+      text: |
+        इस प्रकार मुनिवर पराशर की आज्ञा संवत्स (अथवा कृपा) से अवनत कम्पित मन में आनन्द से एवं रोमाञ्चित अङ्गों से जगते जागते हुए ही सुन्दर अपने लिए आश्रम की प्राप्ति मनन में संलग्न भयशून्य होकर मुनि मृकण्डु ने सबके समान रात्रि को व्यतीत किया (लेटने में आनन्दित हुए)॥ ५२॥
+    notes:
+      author: grandfather
+      text: |
+        इस प्रकार ऋषिप्रवर पराशर जी के अभिलाष पूर्ण सरसवचनों को सादर शिर झुकाकर अत्यन्त रोमांचपूर्ण पुलकित शरीर वाले मुनि मृकण्डु ने सस्नेह विचारते हुए, उनींदी आँखों से सारी रात बितायी, महर्षि पराशर जी द्वारा कथित विविध बातों को निरन्तर अपने मन में विचारते हुए अपनी कामनाओं की प्राप्ति की भावना में सदा डूबते उतराते हुए, विस्मृति शान्त मन से मुनि मृकण्डु ने लम्बी सारी रात एक क्षण के समान बिता दी। ५२
+    translation_en:
+      author: ai_translation
+      text: |
+        Having spoken thus, performing his purifications and bowing low with immense joy, with body thrilling with horripilation and heart absorbed in the upcoming holy undertaking, immersed in countless sublime reflections and sweet anticipation, Sage Mṛkaṇḍu passed the tranquil night peacefully in gentle slumber. (Verse 52)
+    notes_en:
+      author: ai_translation
+      text: |
+        Bowing his head with profound reverence before the nectar-like, wish-fulfilling words of the foremost sage Parāśara, Sage Mṛkaṇḍu—his entire physical frame trembling with ecstatic joy—spent the night in affectionate contemplation with half-wakeful, drowsy eyes. Continuously turning over in his mind the multifaceted advice bestowed by Maharṣi Parāśara, and gently undulating in the blissful anticipation of his impending marital and spiritual fulfillment, the tranquil sage found the long, arduous night passing away swiftly as though it were but a single fleeting moment. (52)
+  - number: "53-55"
+    shlok: |
+      श्रीचन्द्रभूषणसुधीसुतकेन बन्धुपौत्रेण वै गुणवता दृढम्।
+      संगुम्फितं सुमनसां मनसाऽऽदृत्युपक्रमान्मग्न्यन्तेन हि शितस्य सुशीलकेण॥ ५३॥
+
+      ज्ञानेश्वरी चरणयोजन शिवार्चनेन विद्बुद्धजनानर्चनवता वरेण्येन।
+      संकाव्यं सुसङ्गलमयं सुपवित्रिपूर्णं शाश्वतसमा विजयतां शिवयोः प्रसादात्॥ ५४॥
+
+      दीर्घजीविचरितामृत काव्ये सङ्गितोचित सदाऽऽदरणीयम्।
+      एवमेतेन रचिते सरतेयुः सर्गोऽनुगामितोऽयं तृतीयः॥ ५५॥
+
+      ॥ इति श्री मार्कण्डेयचरिते महाकाव्ये तृतीयः सर्गः समाप्तः ॥
+    translation:
+      author: amanuensis
+      text: |
+        विशेष:- ५३-५४-५५ श्लोकों का अर्थ कृपया पृष्ठ ३२ में अवलोकन करें। यहाँ तृतीय सर्ग पूर्ण हुआ
+    translation_en:
+      author: ai_translation
+      text: |
+        These three signature benedictory verses (mudrā-padya / phalaśruti) are placed at the culmination of each Canto by the author: 1. Verse 53: Identifies the noble lineage of the poet—composed by the virtuous son of the wise Śrī Candra Bhūṣaṇa and grandson of Bandhu, woven with devout affection for the delight of pure-hearted rasikas (sumanasām). 2. Verse 54: Prays for the eternal triumph of this sacred, supremely auspicious epic poem through dedicated devotion at the lotus feet of Mother Jñāneśvarī and Lord Śiva, by the grace of Śiva and Śakti (śivayoḥ prasādāt). 3. Verse 55: Culminates the third canto of this immortal nectar-epic singing the life of the long-lived sage (Dīrghajīvi-caritāmṛta / Śrī Mārkaṇḍeya Caritam).
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. This page's source markdown uses the later antigravity 'dialect B': the shlok is a fenced code block rather than a blockquote, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता) captured here as manuscript_note / manuscript_note_en (author: ai_transcription). Colophon page. Sloka 52 is the final narrative verse of the canto. Slokas 53-55 are the recurring benedictory triad (kavi-vamsa paricaya / Jnanesvari-Siva aradhana / kavya-mangala kamana) whose word-by-word Hindi gloss the manuscript itself defers to canto 1 page 32 ('श्लोकों का अर्थ कृपया पृष्ठ ३२ में अवलोकन करें'); this verse therefore carries only that pointer plus the Hindi canto-close (यहाँ तृतीय सर्ग पूर्ण हुआ) as translation and the English-export summary as translation_en, with no notes -- mirroring p032 / p060. The Sanskrit colophon rubric (॥ इति श्री मार्कण्डेयचरिते महाकाव्ये तृतीयः सर्गः समाप्तः ॥) is appended to that verse's shlok, as on p032."

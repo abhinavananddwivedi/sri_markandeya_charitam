@@ -1,0 +1,48 @@
+﻿# Śrī Mārkaṇḍeya Caritam
+
+**Canto 3 (अथ तृतीयः सर्गः)**  
+*(Page Number: 64 / पृष्ठ संख्या: ६४)*
+
+---
+
+## Verse 7 (श्लोक ७)
+
+### Sanskrit Shloka
+> अत्र वह्निशरणं शुभं भवे-  
+> त्तत्र चोपनयनस्य मण्डपः ।  
+> छात्रवास भवनं तथैकतः  
+> पत्रपुष्पनियमेऽत्र वाटिका ॥ ७ ॥
+
+### Hindi Translation (Amanuensis)
+> यहाँ अग्निशाला ठीक होगी, यहाँ पर उपनयन का मण्डप रचना, तथा एक ओर छात्रों का स्थान, एक जगह पत्र-पुष्पादि के लिए वाटिका का निर्माण उचित है ॥ ७ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> वास्तुशास्त्र के अनुरूप मुनि मृकण्ड ने सोचा कि यहाँ अग्निहोत्र के लिए अग्निशाला (यज्ञशाला) उचित रहेगी, यहाँ बटुओं के उपनयन के लिए उपनयन मण्डप उचित रहेगा, ब्रह्मचारी छात्र वटुकों के निवास के लिए यहाँ उत्तम छात्रावास की रचना भी उचित होगी। यज्ञ पूजनादि के लिए सविधि सम्पादन के लिए यहाँ पर मन हर पुष्पवाटिका अच्छी बन सकेगी । ७
+
+### English Translation (Verse & Meaning)
+> "Here shall be the auspicious sanctuary for the sacred fire, and there the pavilion for the investiture of the sacred thread (*upanayana*); likewise, an abode for resident students on one side, and an orderly garden here for ritual leaves and sacred flowers."
+
+### English Translation (Grandfather's Notes & Context)
+> In accord with sacred architectural lore (*vāstuśāstra*), Sage Mṛkaṇḍu envisioned that an agnihotra hall (sacrificial chamber) would be ideally placed here, alongside an upanayana pavilion for initiating young brahmacārins. A well-constructed hostel would be situated to lodge student initiates, while a delightful flower grove could be cultivated to supply fresh leaves and blossoms for daily Vedic rites.
+
+---
+
+## Verse 8 (श्लोक ८)
+
+### Sanskrit Shloka
+> पाणिपीडन विधौ तथा चतु-  
+> शालमत्र भवनं विधास्यते ।  
+> साम्प्रतं दशगवञ्च मे भवे-  
+> च्छिष्यमण्डल सहस्रकन्तथा ॥ ८ ॥
+
+### Hindi Translation (Amanuensis)
+> विवाहार्थ चतुश्शाल भवन का निर्माण यहाँ किया जायेगा। वर्तमान में मेरे पास दशगो तथा एक हजार शिष्यों की संख्या ठीक है ॥ ८ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> गृहस्थ धर्म सम्पादनार्थ विवाह हो जाने के बाद यहाँ पर चौमञ्जिलो या चार आँगन वाला भव्य भवन बनेगा। यों इस समय मेरे पास दश गायों का एक समूह तथा एक हजार शिष्यों की मण्डली भी सुव्यवस्थित हो सकेगी । ८
+
+### English Translation (Verse & Meaning)
+> "Furthermore, for solemnising the sacred rites of marriage, a four-winged quadrangle mansion (*catuḥśāla*) shall be constructed here. For now, let there be for me a herd of ten kine, and likewise an assembly of a thousand scholarly disciples."
+
+### English Translation (Grandfather's Notes & Context)
+> For observing the sacred duties of householdership following his eventual marriage, Sage Mṛkaṇḍu planned that an expansive four-courtyard mansion would be built upon this sacred ground. For the present, a herd of ten cows and a scholarly community of one thousand disciples could be comfortably sustained and organized here.

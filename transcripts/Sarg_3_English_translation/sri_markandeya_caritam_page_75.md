@@ -1,0 +1,48 @@
+﻿# Śrī Mārkaṇḍeya Caritam
+
+**Canto 3 (अथ तृतीयः सर्गः)**  
+*(Page Number: 75 / पृष्ठ संख्या: ७५)*
+
+---
+
+## Verse 30 (श्लोक ३०)
+
+### Sanskrit Shloka
+> गां विसृज्य मधुपर्कसंयुतं  
+> हृद्यमन्नमथ मिष्टतर्पणम् ।  
+> स्वासनेऽभिसमुपाविशद् द्रुतं  
+> तं मृकण्डुमवदत् पराशरः ॥ ३० ॥
+
+### Hindi Translation (Amanuensis)
+> मधुपर्कार्थ गौ अर्पित कर तृप्त मधुर एवं स्वादिष्ट भोजन से, सुहृद आसन पर विराजमान मृकण्डु से मुनिवर पराशर ने सुन्दर वाणी से अपना हार्दिक भाव अभिव्यक्त किया ॥ ३० ॥
+
+### Grandfather's Commentary / Hindi Notes
+> मुनि पराशर ने सद्भावनापूर्ण उत्तम वाणी से उनका सत्कार करते हुए अत्यन्त सुन्दर सुखद भोज्य पदार्थों द्वारा सविधि आतिथ्य पूर्ण करके तृप्त-हृष्ट होकर आसन पर बैठ जाने के बाद अभी ज्यों ही मुनि मृकण्ड अपनी बात कहने की चेष्टा कर रहे हैं तब तक महर्षि पराशर ने अपनी सुमधुर वाणी से उनसे कहना प्रारम्भ किया । ३०
+
+### English Translation (Verse & Meaning)
+> Offering the ceremonial cow and the honey-curd mixture (madhuparka), along with wholesome, sweet and satisfying sustenance, Sage Parāśara seated the refreshed Mṛkaṇḍu upon an honoured seat and addressed him with sweet and gracious words.
+
+### English Translation (Grandfather's Notes & Context)
+> Receiving him with utmost goodwill and sublime eloquence, Sage Parāśara duly fulfilled every obligation of hospitality with delightful, wholesome food. As Sage Mṛkaṇḍu sat comfortably refreshed upon his seat and prepared to speak, Maharṣi Parāśara preempted him, speaking forth in sweet and melodious tones.
+
+---
+
+## Verse 31 (श्लोक ३१)
+
+### Sanskrit Shloka
+> वत्स वेद्मि भृगुवंशभूषणं  
+> धातृपुत्रमखिलाहृतदूषणम् ।  
+> अंशुमद्विदितवेदपूरुषं  
+> त्वां सदा क्रतुषु सोमभूषणम् ॥ ३१ ॥
+
+### Hindi Translation (Amanuensis)
+> हे वत्स! भृगुवंश के भूषण स्वरूप धाता के पुत्र समस्त दोषों से शून्य तुम्हें मैं जानता हूँ । अपने प्रभाव से समस्त वेदों को जानने वाले तुम सूर्य के समान तथा यज्ञों में सोमपायी हो ॥ ३१ ॥
+
+### Grandfather's Commentary / Hindi Notes
+> प्रिय वत्स! मैं जानता हूँ, आप भृगुवंश के कुलभूषण हैं, आप महर्षि धाता के सुपुत्र एवं सर्वथा निर्दोष दोषों से सर्वथा दूर रहने वाले हो, आप अपनी प्रखर ज्योतिर्पुञ्ज से भगवान् भास्कर की प्रभा को भी सुपुष्ट करने वाले हो, आप सदा सोमपायी व्रतों के आचरण शील व्यक्तियों में भी श्रेष्ठ हो। अर्थात् उत्तम सोमपायियों में आपका उच्चतम स्थान है। ३१
+
+### English Translation (Verse & Meaning)
+> "Dear child! I know thee well—the jewel of the Bhṛgu lineage, the virtuous son of Dhātā, completely devoid of all blemish; radiant like the sun, possessing profound knowledge of the Vedas and the Supreme Person, and ever adorned among the foremost somapāyī drinkers of soma in sacred sacrifices!"
+
+### English Translation (Grandfather's Notes & Context)
+> "Beloved child! I recognize you: you are the jewel of the Bhṛgu clan, the noble son of Sage Dhātā, and entirely pure and untainted by fault. By your intense spiritual brilliance, you enhance even the splendour of the Sun God; and among those steadfast in the sacred vows of soma sacrifices, you occupy the highest, most exalted station."

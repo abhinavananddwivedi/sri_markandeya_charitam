@@ -1,0 +1,52 @@
+# Śrī Mārkaṇḍeya Caritam — Canto 3 (तृतीयः सर्गः)
+**Page 76 (पृष्ठ ७६)**
+
+---
+
+### Verse 32 (श्लोक ३२)
+
+#### I. Sanskrit Text
+```sanskrit
+आकृतिर्वदति सत्यमद्भुतं
+तावकीनमखिलान् मनोरथान्।
+किं मृकण्डुरसि धात्रजस्त्वया
+लक्ष्यसे तदपि ब्रूहि सत्वरम्॥ ३२॥
+```
+*(Paleographic / Textual Note: In lines 3–4, the amanuensis manuscript writes `धात्ऱजस्त्वजा- / ल्लक्ष्यसे`, which metrically and semantically stands for `धात्रजस्त्वया लक्ष्यसे` or `धात्रजस्तथा लक्ष्यसे`. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –])*
+
+#### II. Hindi Translation (Amanuensis)
+तुम्हारी आकृति ही अद्भुत सात्विकभाव तथा तुम्हारे समस्त मनोरथों को अभिव्यक्त कर रही है। क्या तुम धाता के पुत्र मृकण्डु हो शीघ्रता से सारी स्पष्ट बातों को व्यक्त करो॥ ३२॥
+
+#### III. Grandfather's Commentary / Hindi Notes
+प्रियवत्स! तुम्हारा स्वरूप ही तुम्हारी तेजोदीप्त उर्जस्विता को व्यक्त कर रहा है और साथ ही तुम्हारे सभी हृद्गत मनोरथ भी हमें सुस्पष्ट दिखाई दे रहे हैं। क्या तुम महर्षि धाता के सुपुत्र मृकण्ड हो न? इन सभी बातों को स्पष्ट बताने का कष्ट करो। ३२
+
+#### IV. English Translation: Verse & Literal Meaning
+"Truly, your wondrous divine appearance itself reveals all your inner desires. Are you indeed Mṛkaṇḍu, the son of Sage Dhātā? You appear unmistakably so, yet please speak quickly and confirm." (Verse 32)
+
+#### V. English Translation: Grandfather's Commentary & Context
+"Beloved child! Your very form radiates a blazing, sattvic spiritual luster (*tejodīpta urjasvitā*), and all the heartfelt aspirations deep within you are clearly visible to us. Are you not indeed Mṛkaṇḍu, the virtuous son of Maharṣi Dhātā? Please do us the grace of stating all these matters explicitly." (32)
+
+---
+
+### Verse 33 (श्लोक ३३)
+
+#### I. Sanskrit Text
+```sanskrit
+भूतभाव्यभवदादि कालजं
+ज्ञानमाकलयतोऽस्य भाषितम्।
+सान्निशम्य चकितोऽभिधाय निजां
+पूर्वजान् सुचरितानभासत॥ ३३॥
+```
+*(Paleographic / Textual Note: Lines 3–4 intend `तान्निशम्य चकितोऽभिधाय निजान् पूर्वजान् सुचरितान् अभासत`. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –])*
+
+#### II. Hindi Translation (Amanuensis)
+भूत-भविष्यत-वर्तमान आदि तथा कालजन्य ज्ञान को समेटे उनके वचन को सुन कर चकित हो मुकण्डु ने अपने पूर्वजों के गुणानुरूप वाणी कहना प्रारम्भ किया॥ ३३॥
+
+#### III. Grandfather's Commentary / Hindi Notes
+मुनि मृकण्डु महर्षि पराशर द्वारा भूत, भविष्य वर्तमान (तीनों कालों में होने वाले) ज्ञान, अर्थात् महर्षि पराशर की त्रिकालज्ञता द्वारा उनकी सारी बातों को सुन सुनकर अत्यन्त चकित हुए साथ ही अपने पूर्वजों की उत्तम गुणगौरवादि सुन कर तो और अधिक चकित हो ही उठे। ३३
+
+#### IV. English Translation: Verse & Literal Meaning
+Hearing the words of the great sage, which encapsulated omniscient knowledge across past, present, and future (*trikālajñatā*), Sage Mṛkaṇḍu was struck with wonder. Humbly remembering and citing the noble virtues of his venerable ancestors, he began to speak. (Verse 33)
+
+#### V. English Translation: Grandfather's Commentary & Context
+Hearing Maharṣi Parāśara speak with total omniscience of the three divisions of time (past, future, and present)—that is, experiencing the sage’s flawless *trikālajñatā* first-hand—Sage Mṛkaṇḍu was deeply amazed. Furthermore, hearing the exalted virtues and spiritual renown of his own ancestral lineage mentioned so intimately by the sage astonished him even further. (33)

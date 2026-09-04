@@ -1,0 +1,65 @@
+page_number_devanagari: "८२"
+page_number_arabic: 82
+image: "images/pages/p082.jpg"
+verses:
+  - number: 44
+    shlok: |
+      याहि वत्स लघु दर्दुरं क्षितौ
+      सर्वमेव भविता समीहितम्।
+      मुद्गलोऽपि निजकन्यकाञ्चिरे
+      त्वामुपैष्यति विधातुमागमत्॥ ४४॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद १ में `याहि वत्स लघु दद्दि क्षितौ` (दर्दुर देश का निर्देश), पाद ३ में `मुद्गलोऽपि निजकन्यकाञ्चिरे` (अचिरेण) तथा पाद ४ में `त्वामुपैष्यति विधातुमागमिष्यति` जैसा रूप मिलता है। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: In line 1, the scribal hand writes `याहि वत्स लघु दद्दि क्षितौ` (referring to the sacred region of Dardura). Line 3 refers to Sage Mudgala giving his daughter in marriage (`निजकन्यकाम् अचिरेण`). Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    translation:
+      author: amanuensis
+      text: |
+        हे वत्स! तुम शीघ्र दर्दुर की ओर प्रस्थान करो, तुम्हारी समस्त इच्छाएं पूर्ण होंगी। मुद्गल भी अतिशीघ्र अपनी कन्या प्रदानार्थ तुम्हारे पास आयेगा॥ ४४॥
+    notes:
+      author: grandfather
+      text: |
+        प्रियवत्स! अब तुम तत्काल (शीघ्र ही) दर्दुर क्षेत्र के लिए प्रस्थान करो, वहाँ पहुँचते ही तुम्हारी सभी मनोभिलषित इच्छायें पूरी हो जायेंगी, साथ ही अपनी कन्या का विवाह सम्पन्न करने के लिए ऋषि मुद्गल भी तत्काल तुमसे आकर अवश्य मिलेंगे। ४४
+    translation_en:
+      author: ai_translation
+      text: |
+        "Go swiftly, dear child, to the sacred land of Dardura; everything you have aspired for shall indeed come to pass. Sage Mudgala himself will arrive before you without delay to bestow his virtuous daughter in marriage." (Verse 44)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Beloved child! Set out immediately without delay for the region of Dardura. The moment you arrive there, all your heartfelt aspirations will be fulfilled. Moreover, to solemnize the marriage of his maiden daughter with you, Sage Mudgala will surely come and meet you forthwith." (44)
+  - number: 45
+    shlok: |
+      वाचकोऽस्म्यहमिह तव दारसंग्रहे
+      वेद्मि लग्नमतिहर्षनिर्भरम्।
+      भावि ते त्वयि ममाप्यथादरो
+      यत्प्रवृत्तिमभिरुह्य वर्तसे॥ ४५॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद १ में `वाचकोऽस्मि तव दारसंग्रहे`, पाद ४ में `यत्प्रवृत्तिमभिरुद्ध्य वर्तसे` लिखा है। 'वाचक' से तात्पर्य विवाह के संयोजक / आचार्य पण्डित से है। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Line 1 uses `वाचकोऽस्मि तव दारसंग्रहे` in the technical ceremonial sense of the spiritual preceptor/coordinator who officiates the marriage declarations and auspicious astrological hour (lagna). Line 4 notes Mṛkaṇḍu's noble adherence to pravṛtti-mārga. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    translation:
+      author: amanuensis
+      text: |
+        तुम्हारे विवाह में विवाह वाचक मैं ही हूँ क्योंकि इस विवाह के समस्त लग्न को मैं जानता हूँ। तुम प्रवृत्ति मार्ग के अनुयायी हो अतः तुम्हारे प्रति मेरा भी आदर है॥ ४५॥
+    notes:
+      author: grandfather
+      text: |
+        प्रियवत्स! मैं अपने इस काल के लग्न की वेला से सारी बातें समझ कर के तुम्हें बतलाये देता हूँ कि तुम्हारे भावी विवाह के वाचक (संयोजक / वैवाहिक पण्डित) के स्वरूप में मैं स्वतः हूँ मैं तुम्हारे होने वाले विवाह का भी समादर करता हूँ क्योंकि तुम भी प्रवृत्ति मार्ग के अनुरूप आचरण करना चाहते हो। ४५
+    translation_en:
+      author: ai_translation
+      text: |
+        "I myself stand as the authoritative officiating preceptor (vācaka) for your sacred matrimony, knowing well the deeply joyous and auspicious planetary alignment (lagna). My profound respect goes with you, for you conduct your life in alignment with the righteous path of worldly duties (pravṛtti-mārga)." (Verse 45)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Beloved child! Having comprehended the entire astrological timing and destiny of this sacred wedding hour, I assure you that I myself stand as the spiritual officiant and coordinator (saṁyojaka / vaivāhika paṇḍita) of your forthcoming marriage. I hold your upcoming matrimony in highest esteem, because you too have chosen to live righteously in full conformity with the path of sacred domestic duties (pravṛtti-mārga)." (45)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. This page's source markdown uses the later antigravity 'dialect B': the shlok is a fenced code block rather than a blockquote, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

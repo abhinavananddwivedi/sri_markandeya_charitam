@@ -1,0 +1,49 @@
+page_number_devanagari: "७४"
+page_number_arabic: 74
+image: "images/pages/p074.jpg"
+verses:
+  - number: 28
+    shlok: |
+      तं ततः समुपेत्य सम्मुखं
+      दण्डवत्प्रणिपपात सादरम् ।
+      इङ्गितेन परिसान्त्व्य सोऽचिरात्
+      सन्मुनिस्तमपि साध्वयासदत् ॥ २८ ॥
+    translation:
+      author: amanuensis
+      text: |
+        महर्षि मृकण्डु ने उनके पास जाकर उन्हें आदरपूर्वक दण्डवत् प्रणाम किया । इशारे से उन्हें सान्त्वना प्रदान कर सज्जनमुनि पराशर ने भी शीघ्र उनकी पूजा सत्कार की इच्छा की ॥ २८ ॥
+    notes:
+      author: grandfather
+      text: |
+        महर्षि पराशर को देखते ही मुनि मृकण्ड ने उनके निकट जाकर ससम्मान उनके चरणों में दण्डवत् प्रणिपात किया, उदार महर्षि पराशर ने तुरन्त उन्हें अपने सहृदय संकेत से आश्वस्त करते हुए तुरन्त ही उन्हें सान्त्वना पूर्ण ढंग से आश्वस्त किया । २८
+    translation_en:
+      author: ai_translation
+      text: |
+        Approaching before him, Sage Mṛkaṇḍu bowed down in reverent prostration (daṇḍavat) at his feet. The noble sage Parāśara immediately comforted him with a warm, welcoming gesture and warmly received him with utmost honour.
+    notes_en:
+      author: ai_translation
+      text: |
+        Beholding Maharṣi Parāśara, Sage Mṛkaṇḍu drew near and reverently prostrated himself like a staff before his holy feet. The magnanimous Parāśara at once reassured him with an affectionate, cordial gesture and consoled him with deep paternal warmth.
+  - number: 29
+    shlok: |
+      किञ्च शिष्यसहकारतो मुनिः
+      पाद्यमर्घ्यं मधुपर्क इत्यदम् ।
+      सम्मुखेन कतिधोच्चरञ्जवा-
+      त्तेन मृकण्डुरधुना समार्च्यत ॥ २९ ॥
+    translation:
+      author: amanuensis
+      text: |
+        और शिष्यों के माध्यम से मुनि पराशर जी पाद्य अर्घ्य मधुपर्क यह सब सम्मानपूर्वक कई बार उच्चारण करते हुए सम्प्रति महर्षि मृकण्डु की अर्चना करायी ॥ २९ ॥
+    notes:
+      author: grandfather
+      text: |
+        साथ ही अपने प्रिय शिष्य को पाद्य, अर्घ्य, मधुपर्क इत्यादि के लिए शीघ्रता में कई बार उच्चारण करते हुए मुनि मृकण्ड की मधुपर्कादि विविध उपचारों से ससम्मान विधिवत् परिचर्या की । २९
+    translation_en:
+      author: ai_translation
+      text: |
+        Moreover, assisted by his disciples, the sage repeatedly called out with eager warmth: "Bring water for the feet (pādya)! Bring the oblation of honor (arghya)! Bring the honey-mixture (madhuparka)!"—and thus Sage Mṛkaṇḍu was duly worshipped and hospitably received.
+    notes_en:
+      author: ai_translation
+      text: |
+        Instructing his beloved disciples in rapid succession to bring water for foot-washing, ritual oblations, and the sacred honey-curd concoction (madhuparka), Sage Parāśara reverently and ceremoniously attended to Sage Mṛkaṇḍu with all prescribed hospitality rites.
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."
