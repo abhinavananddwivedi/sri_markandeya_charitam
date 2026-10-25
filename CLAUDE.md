@@ -131,7 +131,27 @@ notes_uncertain: true   # set true when any block contains [unclear: ...] marker
 
 `translation_en`/`notes_en` (added 2026-09, via `scripts/merge_sarga1_translations.R` and `scripts/build_sarga2_transcripts.R`) are English translations produced by the antigravity tool, one field per corresponding Hindi block, `author: ai_translation`. They are translations of the Hindi (not independently re-derived from the Sanskrit), and are present only where the corresponding Hindi field (`translation`/`notes`) exists on that verse.
 
-## Transcription approach
+## Transcription approach (current, from canto 5 on — agreed with the user 2026-10-25)
+
+**Claude transcribes directly from the photos. There is no Gemini/antigravity/Lens first pass.** In cantos 1 and 4, Claude's line-level reading clearly beat the Lens/Gemini output, which also fabricated content (the old p030, a Ṛgvedic hymn in place of v7), so a first pass that has to be redone line by line saves nothing. The user supplies only the photos. Per canto:
+
+1. **Ingest.** The user drops the photos into `Images/raw/Sarg_N/`. Run `scripts/tools/ingest_pages.ps1 -src Images\raw\Sarg_N -start <first page no.>` (dry run), then add `-write`. This writes upright, EXIF-free `Images/pages/pNNN.jpg` in capture order; orientation varies per photo, which is why "auto" is the default. Then check with `montage.ps1`:
+   - each page is upright;
+   - the bottom-left page numerals run consecutively;
+   - there are no overflow sheets or missing pages (canto 1 had both).
+2. **Read in batches of about 8–10 pages per session.** Long sessions cost disproportionately more.
+   - For each page, cut it with `bands.ps1` (four ~2000 px bands) and zoom further with `crop.ps1` where needed.
+   - Read the Sanskrit, the Hindi `translation` and the grandfather's `notes` from the image itself. Never fill gaps from memory of known texts.
+   - Write `pNNN.yml` directly, with a `manuscript_note` per verse giving the metre and anything doubtful.
+   - Add `translation_en`/`notes_en` (faithful to the Hindi) and `shlok_en` (from the Sanskrit).
+3. **Check the metre** with `Rscript scripts/tools/scan_metre.R transcripts/Sarg_N`. It is a laghu/guru scan that can fail, so a failing line is a cue to re-read the crop. Identify the canto's metre on its first pages.
+4. **Mark uncertainty honestly.** Use `[unclear: best guess]` in the text and `notes_uncertain: true` on the page. Keep a list of the unclear spots, each with page, verse, pāda and a crop, in `PROJECT_LOG.md`.
+5. **Get a second opinion on the flagged spots only.** The user may run them past another model (e.g. a paid Gemini). Send **cropped line images without Claude's reading**, so the second reader isn't anchored. Independent agreement settles a spot; a disagreement is decided by the metre and the Hindi, or by the user. Better close-up retakes and a family reader of the hand are the best tie-breakers.
+6. **Build and log.** Run `Rscript scripts/build_site.R` and check a few pages. Log progress in `PROJECT_LOG.md` after every batch so a session cut-off loses nothing. Snapshot before overwriting. Commit and push when the user says so.
+
+Canto-wide patches to existing YAML go through patch files (`transcripts/audit_cantos_1-3/*.yaml`) applied with `scripts/tools/apply_page_patches.R`.
+
+### History (cantos 1–4)
 
 Traditional OCR and Claude's own vision-based reading were both tested and found unreliable for this specific handwriting (personal cursive Devanagari) — Claude could only confidently read isolated words/markers, not connected prose, across sample pages spanning the beginning, middle, and end of the set. **Google Lens (used by the user directly), by contrast, transcribed the handwriting effortlessly** and is the working approach: the user runs pages through Lens and supplies the resulting text (e.g. as a `.md` file dropped in `transcripts/`); Claude's job is structuring that real text into the YAML schema above and building the site around it — not independently reading the handwriting. When given a new Lens transcription, cross-check its structure (canto heading, verse count, page number) against the corresponding `Images/pages/pNNN.jpg` scan before committing it to the schema, since Claude can still verify structural/gross correspondence even without being able to independently transcribe.
 

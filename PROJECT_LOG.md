@@ -7,20 +7,27 @@ describes what happened and what is still open.
 
 ## Current state (keep this section up to date)
 
-| Canto | Pages | Transcription source | English | Status |
-|---|---|---|---|---|
-| 1 | 1–32 | Google Lens (user) + antigravity; all text re-read line by line by Claude 2026-10-24/25 (p.13 has no scan) | Rewritten by Claude 2026-10-24 (faithful to Hindi) + `shlok_en` | live (older version); fixes below uncommitted |
-| 2 | 33–60 | antigravity | Rewritten by Claude 2026-10-24 + `shlok_en` | live (older version); fixes uncommitted |
-| 3 | 61–86 | antigravity | Rewritten by Claude 2026-10-24 + `shlok_en` | live (older version); fixes uncommitted |
-| 4 | 87–118 | Gemini 3.1 Pro re-run, then re-read line by line by Claude 2026-10-24 | Claude 2026-10-24 + `shlok_en` | uncommitted |
+| Canto | Pages | Sanskrit | Hindi + notes | English | Status |
+|---|---|---|---|---|---|
+| 1 | 1–32 | Re-read in full by Claude (p.13 has no photo) | Re-read in full | Claude, faithful to Hindi + `shlok_en` | live |
+| 2 | 33–60 | antigravity; metrically suspect verses re-read by Claude (93% of lines scan) | antigravity, not re-read | Claude-audited + `shlok_en` | live |
+| 3 | 61–86 | antigravity; suspect verses + p.86 re-read by Claude (85% scan) | antigravity, not re-read | Claude-audited + `shlok_en` | live |
+| 4 | 87–118 | Re-read in full by Claude | Re-read in full | Claude + `shlok_en` | live |
+| 5 | 119– | **NEXT.** Claude transcribes directly from the photos (method in CLAUDE.md, "Transcription approach") | | | waiting for photos in `Images/raw/Sarg_5/` |
 
-Live site: https://abhinavananddwivedi.github.io/sri_markandeya_charitam/ (served from `docs/`).
-The user commits and pushes; agents do not push.
+Live site: https://abhinavananddwivedi.github.io/sri_markandeya_charitam/ (served from `docs/`). Pushed through commit 9238484 (2026-10-25).
+Commit/push only when the user asks.
+
+**To start canto 5:** check that the photos are in `Images/raw/Sarg_5/` and dry-run `scripts/tools/ingest_pages.ps1 -src Images\raw\Sarg_5 -start 119`. Confirm the first page numeral with the user; the photos may not start exactly at ११९. Then follow the six steps in CLAUDE.md, in batches of about 8–10 pages, logging each batch here.
 
 ## Open issues
-- **Canto 1, page १३:** no photograph exists. The user needs to reshoot it (see the 2026-10-24 entry).
-- **Canto 1:** fully re-read except p.13 (no photo). About 30 `[unclear]` spots and 6 non-scanning pādas remain (listed in the 2026-10-25 entry).
-- **Canto 4:** about 20 `[unclear]` spots remain. A human reader of the family hand could settle them.
+- **Canto 1, page १३:** no photograph exists; the page is kept as is (user, 2026-10-25) until it is reshot.
+- **Unclear spots for a second opinion** (blind crops, see CLAUDE.md step 5):
+  - canto 1: about 30 `[unclear]` spots and 6 non-scanning pādas (2026-10-25 entry);
+  - canto 2: vv. 3, 4, 25, 29, 38, 40, 45;
+  - canto 3: vv. 11, 23, 36, 37, 38, 46, 48, 50, 52;
+  - canto 4: about 20 `[unclear]` spots.
+- **Cantos 2–3 Hindi and notes** have not been re-read from the scans; a spot-check of a few pages would show whether a full pass is needed.
 - **All cantos:** the English is AI-translated (`author: ai_translation`) and has not been reviewed by a human.
 
 ## Working methods (what works, what doesn't)
