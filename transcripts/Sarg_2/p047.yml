@@ -6,8 +6,16 @@ verses:
     shlok: |
       मृकण्डुनामा पितुराज्ञया चिरं
       निवस्तुमिच्छन् कुटजं सदुपदम् ।
-      विलोकयंस्तल्लोकगणं समन्ततः
+      विलोकयँल्लोकगणं समन्ततः
       नरञ्च नारायणमभ्युपागतः ॥ २९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद ३ "विलोकयँल्लोकगणं" (पूर्व "विलोकयंस्तल्लोकगणं", एक अक्षर अधिक)। पाद २ का उत्तरार्ध ("कुटजं सदुपदम्") छन्द में नहीं बैठता और पाण्डुलिपि में अस्पष्ट है; यथावत्।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. Pāda 3 reads "विलोकयँल्लोकगणं" (the earlier "विलोकयंस्तल्लोकगणं" has one syllable too many). The second half of pāda 2 ("कुटजं सदुपदम्") does not scan and is unclear in the manuscript; kept as it was.
     shlok_en:
       author: ai_translation
       text: |

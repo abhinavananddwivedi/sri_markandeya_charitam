@@ -1,0 +1,57 @@
+page_number_devanagari: "४८"
+page_number_arabic: 48
+image: "images/pages/p048.jpg"
+verses:
+  - number: 31
+    shlok: |
+      इतीरितो मार्गमिमं समागतो
+      भवन्तमालोक्य तदुक्तिसम्मितम् ।
+      दधे मनोऽहं गृहमेधिकर्मणि
+      प्रशाधि विप्रोऽसि गुरुर्मतो मया ॥ ३१ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "So told, I came along this road; seeing you, who match their words, I have set my mind on the work of a householder. Instruct me, brahmin; I have taken you as my teacher." (31)
+    translation:
+      author: amanuensis
+      text: |
+        ऐसे उन दोनों के कहे जाने पर इस मार्ग में मैं आया उनके कथन के उपयुक्त आपको देखकर मैंने गृहस्थ धर्म में अपने मन को लगा दिया, आप मुझे शिक्षा दें, क्यों कि आप जानकार हैं, मैंने आपको गुरु मान लिया है ॥ ३१ ॥
+    notes:
+      author: grandfather
+      text: |
+        उन ऋषिप्रवरों के ऐसे उपदेश से मैं इस मार्ग पर चल पड़ा, उनके कथनानुसार अत्यन्त उपयुक्त आपको पाकर मैंने भी गृहस्थ धर्म परिपालन हेतु अपना निश्चय कर लिया है। अब आप मुझे उचित शिक्षा देवें क्योंकि आप गृहस्थधर्म के पूर्ण ज्ञानवान् हैं, मैंने आज से आपको अपना पूज्यगुरु मान लिया है । ३१
+    translation_en:
+      author: ai_translation
+      text: |
+        "On being told so by those two, I came by this road. Seeing you, who fit their words, I set my mind on the householder's dharma. Teach me, for you know; I have accepted you as my teacher." (31)
+    notes_en:
+      author: ai_translation
+      text: |
+        "On such teaching from those excellent sages, I set out on this road. Finding you, who are most fitting according to their words, I too have made up my mind to follow the householder's dharma. Now give me proper teaching, for you have full knowledge of the householder's dharma; from today I have accepted you as my revered teacher." (31)
+  - number: 32
+    shlok: |
+      इतीरयित्वा विरते गृहीमुनि-
+      र्मनस्युदासीनवदास्थितश्चिरम् ।
+      पुनर्बभाषे तदुपायदर्शना-
+      न्मुने समाधन्वतया न कन्यका ॥ ३२ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        When he had said this and stopped, the householder sage remained long in his mind as if indifferent; then, seeing a way to it, he spoke again: "Sage, [I have] no daughter [to give] in this matter." (32)
+    translation:
+      author: amanuensis
+      text: |
+        ऐसे कह कहकर मृकण्डु के मौन हो जाने पर उस गृहस्थ मुनि ने मन में कुछ उदासीन भाव में चिरकाल तक स्थित रहा। उसके उपाय के दर्शन से पुनः बोल पड़े कि हे मुनिवर! मेरे दुर्भाग्य से कोई कन्या नहीं है ॥ ३२ ॥
+    notes:
+      author: grandfather
+      text: |
+        इतनी बात कहकर मुनि मृकण्ड के चुप हो जाने पर वह गृहस्थ मुनि कुछ काल तक मन ही मन अत्यन्त उदासीन रहे किन्तु पुनः उनके मन को आश्वस्त करने की दृष्टि से फिर कह उठे कि हे मुने! संयोग की बात है कि दुर्भाग्य से मेरी कोई कन्या नहीं है। ३२
+    translation_en:
+      author: ai_translation
+      text: |
+        When Mṛkaṇḍu, having said this, fell silent, that householder sage remained for a long time in a somewhat downcast mood. Seeing a way for him, he spoke again: "Excellent sage! By my misfortune I have no daughter." (32)
+    notes_en:
+      author: ai_translation
+      text: |
+        When the sage Mṛkaṇḍa had said this much and fell silent, that householder sage was very downcast in his mind for some time; but then, with a view to reassuring him, he spoke again: "Sage! As it happens, by misfortune I have no daughter." (32)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

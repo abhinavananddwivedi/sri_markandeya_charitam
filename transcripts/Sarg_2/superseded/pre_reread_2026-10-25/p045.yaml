@@ -1,0 +1,57 @@
+page_number_devanagari: "४५"
+page_number_arabic: 45
+image: "images/pages/p045.jpg"
+verses:
+  - number: 25
+    shlok: |
+      न माति हर्षोऽल्पतनौ तवार्चना-
+      न्न दृष्टिरिष्टे व्यवधानमुच्छति ।
+      समीक्षिते त्वाऽद्भुतदर्शने मुने !
+      मनः स्थितं सत्स्वरुजां न जिहासति ॥ २५ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Joy at honouring you does not fit in my small body, nor does my sight accept any interruption of [this] beloved [vision]; O sage, now that your wonderful form has been seen, my mind, settled among the good, does not want to let go." [Line 4 partly unclear.] (25)
+    translation:
+      author: amanuensis
+      text: |
+        हे मुनिवर! आपके अर्चनजन्य हर्ष मेरे छोटे शरीर में नहीं समा पा रहा है, न तो मेरी दृष्टि इष्ट के दर्शन में व्यवधान पाना चाहती है। आप का यह अद्भुत दर्शन सात्त्विक भाव में रमे मेरे मन शीघ्रता से छोड़ना नहीं चाहता ॥ २५ ॥
+    notes:
+      author: grandfather
+      text: |
+        हे ब्रह्मचारिन्! आज अपूर्व आप जैसे ब्रह्मचारी व्यक्ति जो आश्चर्य हैं को पाकर मेरी इस छोटी सी देह में प्रसन्नता समा नहीं पा रही है। आप जैसे स्वतः समागत अत्यन्त ईप्सिततम व्यक्ति के दर्शन से एक क्षण भी दृष्टि अलग होना नहीं चाहती। आप जैसे अपूर्व व्यक्ति के दर्शन की अतिशय उत्कट अभिलाषा (मुझमें होने वाली उत्कण्ठा) अपनी शीघ्रता को छोड़ना (शान्त होना) नहीं चाहती है। २५
+    translation_en:
+      author: ai_translation
+      text: |
+        "Excellent sage! The joy born of honouring you cannot fit into my small body, nor does my sight want any interruption in seeing the one I hold dear. My mind, delighting in a sāttvika feeling, does not want to let go quickly of this wonderful sight of you." (25)
+    notes_en:
+      author: ai_translation
+      text: |
+        "O brahmacārī! Today, having found an unprecedented brahmacārī like you, who is a wonder, joy cannot fit into this small body of mine. My gaze does not want to turn away even for a moment from the sight of so greatly desired a person as you, who came of your own accord. The intense longing to see an unprecedented person like you (the eagerness in me) does not want to give up its haste (to grow calm)." (25)
+  - number: 26
+    shlok: |
+      अधीतविद्योऽसि त्वया समर्चितं सताम्
+      किमद्य ते ज्ञानगुरो गुरुः सताम् ।
+      निवृत्तिरिष्येत समावृतौ मनः
+      स्फुटं मुने ! प्रश्नमिमं निराकुरु ॥ २६ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "You have completed your studies; what have you resolved today, O teacher of knowledge, teacher of the good? Does your mind wish for renunciation, or for return home (samāvartana)? O sage, clearly settle this question." (26)
+    translation:
+      author: amanuensis
+      text: |
+        हे मुनिवर! हे ज्ञानगुरो आप सज्जनों के गुरु हैं आज आपने क्या समर्चित (निश्चय) किया? क्या आपका मन निवृत्ति चाहता है या समावर्तन में लगा है? कृपया मेरे प्रश्नों का स्पष्ट उत्तर दें ॥ २६ ॥
+    notes:
+      author: grandfather
+      text: |
+        हे ज्ञानियों में श्रेष्ठ! सज्जनों के भी श्रेष्ठ गुरु! आपने सभी विद्याओं का सम्यक् अध्ययन किया है, स्वाध्याय की पूर्णता प्राप्त कर लेने के बाद आज आपकी क्या धारणा (आवश्यकता) है? क्या आप सांसारिक भोगों से निवृत्ति चाहते हैं? या समावृत्त होकर गार्हस्थ्यधर्म का परिपालन करना चाहते हैं। कृपया मेरे इन प्रश्नों का स्पष्ट उत्तर देने का अनुरोध स्वीकार करें। २६
+    translation_en:
+      author: ai_translation
+      text: |
+        "Excellent sage! Teacher of knowledge, you are the teacher of the good: what have you resolved (decided) today? Does your mind want renunciation, or is it set on samāvartana? Please give a clear answer to my questions." (26)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Best of the wise! Excellent teacher even of the good! You have studied all branches of learning thoroughly; having completed your study, what is your intention (need) today? Do you want to withdraw from worldly enjoyments? Or do you want to complete samāvartana and follow the householder's dharma? Please accept my request to answer these questions of mine clearly." (26)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

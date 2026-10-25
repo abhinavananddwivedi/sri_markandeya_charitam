@@ -1,0 +1,57 @@
+page_number_devanagari: "५८"
+page_number_arabic: 58
+image: "images/pages/p058.jpg"
+verses:
+  - number: 51
+    shlok: |
+      प्रयाहि गङ्गामनु दर्दुरक्षितिं
+      सहैव धेन्वा मधुपर्कदत्तया ।
+      विधाय तत्रोटजमाश्रमोचितं
+      प्रवृत्तिमार्गाभ्युदये समादिश ॥ ५१ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Go, following the Gaṅgā, to the land of Dardura, together with the cow given in the madhuparka; build there a hut fit for a hermitage, and direct [people] to the flourishing of the path of action." (51)
+    translation:
+      author: amanuensis
+      text: |
+        मेरे द्वारा मधुपर्क में प्रदत्त धेनु के साथ गङ्गा का अनुगमन करो दर्दुर (दरदी) भूमि में आश्रमोचित कुटिया निर्माण कर प्रवृत्ति मार्ग के अभ्युदय का निर्देश करो ॥ ५१ ॥
+    notes:
+      author: grandfather
+      text: |
+        अब मैने मधुपर्कादि निर्माण के लिए गाय तुम्हें दी है, इसे लेकर तुम यहाँ से इसी गङ्गा का अनुगमन करते हुए दर्दर (सम्प्रति गङ्गा के तट पर बसा बलिया जिले का एक नगर दरदी) क्षेत्र में जाओ, वहाँ प्रवृत्तिमार्ग के अभ्युदय एवं प्रसार के लिए कुटिया बनाकर निवास करते हुए इसका विकास विस्तार करते रहो, ऐसा निर्देश दिया। ५१
+    translation_en:
+      author: ai_translation
+      text: |
+        "With the cow I gave you in the madhuparka, follow the Gaṅgā; build a hut fit for a hermitage in the land of Dardura (Dardī), and direct [people] in the flourishing of the path of action." (51)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Now I have given you the cow for making the madhuparka and so on; taking it, follow this same Gaṅgā from here and go to the Dardara region (now Dardī, a town in Ballia district on the bank of the Gaṅgā). There, for the flourishing and spread of the path of action, build a hut and live there, and keep developing and spreading it." So he directed. (51)
+  - number: 52
+    shlok: |
+      त्वमेकलः सायमुपागतोऽतिथिः
+      सवत्सधेन्वाऽद्य तृतीयताङ्गतः ।
+      दिनैः कियद्भिः सह भार्यया त्वां
+      विलोकनाय त्वरते मनो मे ॥ ५२ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "You came alone at evening as a guest; today, with the cow and calf, you have become three. In a few days, my mind hurries to see you with your wife." (52)
+    translation:
+      author: amanuensis
+      text: |
+        तुम एकाकी सायंकाल मेरे यहाँ अतिथि रूप में आये मैंने सवत्सा धेनु द्वारा मधुपर्क प्रदान किया जिससे तुम अकेले न होकर अब तीन हो गये हो। कुछ दिनों के बाद भार्या के साथ तुम्हे देखने के लिए मेरा मन उतावला हो रहा है ॥ ५२ ॥
+    notes:
+      author: grandfather
+      text: |
+        प्रिय! कल शाम तुम अकेले अतिथि बन कर यहाँ आये थे आज तुम्हे मधुपर्कार्थ बछड़े के साथ दी गयी इस गाय के साथ अब तुम तीन प्राणी हो गये हो, अब कुछ दिनों में मैं तुम्हारी भावी पत्नी के साथ तुम्हें देखने के लिए अत्यन्त समुत्सुक हो रहा हूँ। ५२
+    translation_en:
+      author: ai_translation
+      text: |
+        "You came alone to me in the evening as a guest; I gave you madhuparka by means of a cow with her calf, so that you are no longer alone but have now become three. My mind is impatient to see you, some days from now, with your wife." (52)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Dear one! Yesterday evening you came here alone as a guest; today, with this cow given to you for the madhuparka together with her calf, you have become three creatures. Now I am very eager to see you, in a few days, with your future wife." (52)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

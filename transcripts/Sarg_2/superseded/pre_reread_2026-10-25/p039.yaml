@@ -1,0 +1,57 @@
+page_number_devanagari: "३९"
+page_number_arabic: 39
+image: "images/pages/p039.jpg"
+verses:
+  - number: 13
+    shlok: |
+      स भानुमालोक्य तरूपरिस्थितं
+      विभाव्य सन्ध्यामचिरेण भाविनीम् ।
+      भगीरथप्राक्तनकर्मवैभवा-
+      नुसाव सामन्तनकृत्यये मुनिः ॥ १३ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Seeing the sun resting on the treetops and knowing that evening would soon come, the sage, [mindful of] the glorious deeds of Bhagīratha of old, [prepared] for the evening rites. (13)
+    translation:
+      author: amanuensis
+      text: |
+        उन्होंने वृक्षों के समीप दिये हुए सूर्य को देखकर तथा शीघ्र आने वाली सन्ध्या को जानकर, सायंकालीन कृत्य के लिए भगीरथ के प्राचीन कर्म वैभवों का स्मरण किया ॥ १३ ॥
+    notes:
+      author: grandfather
+      text: |
+        महामुनि ने ऊँचे वृक्षों की चोटियों पर भगवान् भास्कर के आरूढ़ हो जाने पर, अब शीघ्र ही साँझ हो आनेवाली है, ऐसा विचारकर ऋषि प्रवर महाराज भगीरथ की अपूर्व तपः साधना द्वारा भूमि पर लाई गई भगवती भागीरथी की स्मृति में स्तुति कर नमन करते हुए नित्य सान्ध्यविधि के कृत्य करने के लिए उद्यम करना प्रारम्भ कर दिया । १३
+    translation_en:
+      author: ai_translation
+      text: |
+        Seeing the sun near the trees and knowing that evening was coming soon, he remembered the glorious deeds of Bhagīratha of old, for the evening rites. (13)
+    notes_en:
+      author: ai_translation
+      text: |
+        When Lord Bhāskara had climbed onto the tops of the tall trees, the great sage thought that evening would soon come. Praising and bowing in memory of the goddess Bhāgīrathī, brought to earth by the unprecedented austerity of King Bhagīratha, best of sages, he began to make ready to perform the daily evening rites. (13)
+  - number: 14
+    shlok: |
+      तटे निधायाथ मृगाजिनादिकं
+      कमण्डलौ वारि समृत्तिकं दधत् ।
+      प्रवाहतो दूरतरं गतो मुनिः
+      सुतारितं शौचविधिञ्चकार सः ॥ १४ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Placing his deerskin and other things on the bank, and carrying water and earth in his water-pot, the sage went well away from the stream and performed the cleansing rite properly. (14)
+    translation:
+      author: amanuensis
+      text: |
+        महर्षि मृकण्ड ने तट पर मृगचर्मादि को रखकर कमण्डलु में जल तथा मिट्टी लेकर प्रवाह से दूर जाकर वेदप्रतिपादित विधि से शौचादि कार्य सम्पन्न किया ॥ १४ ॥
+    notes:
+      author: grandfather
+      text: |
+        महर्षि मृकण्ड ने अपने पास रखे गये मृगचर्मादिको पावनी भगवती भागीरथी के तट पर सुचारु ढंग से रखकर कमण्डलु में जल और स्वच्छ मिट्टी लेकर उस गङ्गाधारा से काफी दूर जाकर वैदिक विधि द्वारा निर्दिष्ट विधि से शौचाचार की प्रक्रिया पूर्ण की । १४
+    translation_en:
+      author: ai_translation
+      text: |
+        Maharṣi Mṛkaṇḍu placed his deerskin and other things on the bank, took water and earth in his water-pot, went away from the stream, and completed his cleansing according to the method laid down in the Vedas. (14)
+    notes_en:
+      author: ai_translation
+      text: |
+        Maharṣi Mṛkaṇḍu placed the deerskin and other things he had with him neatly on the bank of the holy goddess Bhāgīrathī, took water and clean earth in his water-pot, went quite far from the Gaṅgā's stream, and completed the cleansing according to the method laid down in the Vedic rules. (14)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

@@ -4,10 +4,18 @@ image: "images/pages/p042.jpg"
 verses:
   - number: 19
     shlok: |
-      स निर्विविक्षुरीदृशो तटोपगं
+      स निर्विविक्षुर्ददृशे तटोपगं
       द्विजस्य शालीनवरस्य कस्यचित् ।
       उदग्रधूमं किल सायमाहुतेः
       सषड्गवं मन्दिरमुद्यतेजसः ॥ १९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद १ "निर्विविक्षुर्ददृशे" (पूर्व "निर्विविक्षुरीदृशो")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). Pāda 1 reads "निर्विविक्षुर्ददृशे" (earlier "निर्विविक्षुरीदृशो").
     shlok_en:
       author: ai_translation
       text: |
@@ -34,6 +42,14 @@ verses:
       सपादुकः क्रोडगतं शिशुं वहन् ।
       नियोजयन्कर्मणि पुत्रपौत्रकान्
       गृहाधिपः सन्ददृशेऽमुना तदा ॥ २० ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद १ ("कृत्वा हुतिं द्वारि बहिर्गतागतं चरन्") पाण्डुलिपि में ऐसा ही लिखा है और छन्द से दो अक्षर लम्बा है; यथावत्।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. Pāda 1 ("कृत्वा हुतिं द्वारि बहिर्गतागतं चरन्") is written so in the manuscript and is two syllables longer than the metre; kept as written.
     shlok_en:
       author: ai_translation
       text: |

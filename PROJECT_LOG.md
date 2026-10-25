@@ -39,6 +39,11 @@ The user commits and pushes; agents do not push.
 
 ## Log
 
+### 2026-10-25 (later): Claude, canto-2 targeted Sanskrit re-read (done)
+- Same method as canto 3. Snapshots: `transcripts/Sarg_2/superseded/pre_reread_2026-10-25/`.
+- **Part 1 (pp. 34–45) done:** `transcripts/audit_cantos_1-3/c2_reread_01.yaml` (15 patches) applied.
+- **Part 2 (pp. 47–59) done:** `c2_reread_02.yaml` (12 patches). Vaṃśastha lines now scan 200/216 (was 181). Remaining failures are flagged in `manuscript_note` (vv. 3, 4, 20, 25, 29, 36, 38, 40, 45) or are licence lines. v54 is Śālinī. The vv. 55–57 colophon was not re-read.
+
 ### 2026-10-25 (later): Claude, canto-3 targeted Sanskrit re-read
 - **Triage first.** Metre-scanned the existing Sanskrit. Pass rates: canto 1 before its re-read 50%, canto 2 85%, canto 3 75%.
 - **Re-read.** Read every verse in canto 3 that had a failing line from upright crops (31 verses), plus all of p.86: `transcripts/audit_cantos_1-3/c3_reread_01.yaml`. Snapshots are in `transcripts/Sarg_3/superseded/pre_reread_2026-10-25/`.

@@ -1,0 +1,57 @@
+page_number_devanagari: "३८"
+page_number_arabic: 38
+image: "images/pages/p038.jpg"
+verses:
+  - number: 11
+    shlok: |
+      क्वचिद्द्विरेफावलिमञ्जुगुञ्जितां
+      हरित्सुशैवालपट्टाङ्कृतान्तथा ।
+      पयःप्रवाहेण सुनर्त्तितामिव
+      ददर्श पुष्टोन्नमितां स पद्मिनीम् ॥ ११ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Somewhere he saw a lotus plant, lovely with the humming of rows of bees, covered with a garment of green moss, as if made to dance by the stream of water, swelling and raised up. (11)
+    translation:
+      author: amanuensis
+      text: |
+        कहीं पर उन्होंने भ्रमरावलियों के सुन्दर गुञ्जारव से परिपूर्ण हरे-हरे सेवार रूपी वस्त्रों से आच्छादित, जल के प्रवाह से नचायी जाती हुई प्रफुल्लित कमलिनी को देखा ॥ ११ ॥
+    notes:
+      author: grandfather
+      text: |
+        उन्होंने कहीं पर भ्रमर पंक्तियों द्वारा मृदु मन्द मधुर गुञ्जार किये जाते हुए (सुना), कहीं पर हरे हरे मृदुल शैवाल (सेवार) पत्रों से ढकी हुई हरित वस्त्रालंकृत, जल के उन्मुक्त प्रवाह से विविध स्वरूपों में नचायी जाती हुई खिली हुई अतिशय पुष्प भार से कुछ कुछ झुकी हुई कमलिनियों की पङ्क्ति को भी देखा। ११
+    translation_en:
+      author: ai_translation
+      text: |
+        Somewhere he saw a blooming lotus plant, full of the lovely humming of rows of bees, covered with a garment of green moss, made to dance by the stream of water. (11)
+    notes_en:
+      author: ai_translation
+      text: |
+        Somewhere he heard rows of bees humming softly and sweetly; somewhere he also saw a row of blooming lotus plants, covered with soft green moss leaves, adorned in green garments, made to dance in various forms by the free stream of water, bending a little under the great weight of their flowers. (11)
+  - number: 12
+    shlok: |
+      ददर्श पीठानिव कच्छपान् क्वचित्
+      परञ्च मीनान् मकरान् विसर्पतः ।
+      प्रवाह मध्ये शिशुमारमद्भूतं
+      तथा परावृत्य निमज्जतं मुहुः ॥ १२ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Somewhere he saw turtles like wooden seats, elsewhere fish and makaras gliding, and in the middle of the stream a wonderful dolphin (śiśumāra) turning over and diving again and again. (12)
+    translation:
+      author: amanuensis
+      text: |
+        कहीं पर उन्होंने कछुओं को पीढ़े (पाटों) के समान, अन्यत्र मछलियों एवं मगरों को तैरते हुए, तथा धारा के बीच ऊपर उलट कर गोता लगाते हुए शिशुमारों (सोंसों) को देखा ॥ १२ ॥
+    notes:
+      author: grandfather
+      text: |
+        कहीं पर उन्होंने काठ के पीठ (पाटों) की तरह विचरणशील कछुओं को, दूसरी ओर बड़ी बड़ी मछलियों को तथा बड़े बड़े मकरों को भी तैरते हुए, तथा विशाल जल राशि के मध्य धार में शिशुमार (सोंह) जाति के अद्भुत जीवों को उल्टी मार कर डूबते और उतराते हुए देखा । १२
+    translation_en:
+      author: ai_translation
+      text: |
+        Somewhere he saw turtles like wooden seats (low stools), elsewhere fish and makaras swimming, and in the middle of the stream dolphins (śiśumāra, the sõs) turning over and diving. (12)
+    notes_en:
+      author: ai_translation
+      text: |
+        Somewhere he saw turtles moving about like wooden seats (low stools); on the other side, large fish and large makaras swimming; and in the middle current of the great mass of water, wonderful creatures of the śiśumāra (sõs) kind, turning over and sinking and rising. (12)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

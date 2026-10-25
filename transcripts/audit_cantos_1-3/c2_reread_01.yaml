@@ -1,0 +1,150 @@
+# Canto-2 targeted Sanskrit re-read, part 1 (pp. 34-45), Claude (Opus 5.5), 2026-10-25.
+# Scope: only verses whose lines failed the Vaṃśastha scan; read from upright crops of the scans. Hindi and notes not
+# re-read. Applied with scripts/tools/apply_page_patches.R. Canto-2 metre: Vaṃśastha (।ऽ।ऽऽ।।ऽ।ऽ।ऽ).
+- p: 34
+  v: "3"
+  manuscript_note: |
+    वृत्त: वंशस्थ। पाद ३ ("जान्स्म संसार…") छन्द में नहीं बैठता; आरम्भिक शब्द पाण्डुलिपि में अस्पष्ट है।
+  manuscript_note_en: |
+    Metre: Vaṃśastha. Pāda 3 ("जान्स्म संसार…") does not scan; its opening word is unclear in the manuscript.
+- p: 34
+  v: "4"
+  manuscript_note: |
+    वृत्त: वंशस्थ। पाद ४ पाण्डुलिपि में "जनं स दम्भाकृतिधिक्कृतं न्वमन्यत" जैसा है, जो छन्द से लम्बा है; यथावत्।
+  manuscript_note_en: |
+    Metre: Vaṃśastha. Pāda 4 looks like "जनं स दम्भाकृतिधिक्कृतं न्वमन्यत" in the manuscript, which is longer than the metre allows; kept as written.
+- p: 35
+  v: "5"
+  shlok: |
+    सुचाटुकारानमितस्तरद्वयं
+    स सारसानांरुवतः क्षुधन्वितान् ।
+    महाधनस्यापिगतोऽपि सादरं
+    ददर्श च द्वावुदरम्भरानिव ॥ ५ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ। पाद ४ "च द्वावुदरम्भरान्" (पूर्व "च ह्युदरम्भरान्", एक अक्षर कम); "द्वा" अक्षर कुछ अनिश्चित।
+  manuscript_note_en: |
+    Metre: Vaṃśastha. Pāda 4 reads "च द्वावुदरम्भरान्" (the earlier "च ह्युदरम्भरान्" is one syllable short); the akṣara "द्वा" is somewhat uncertain.
+- p: 36
+  v: "7"
+  shlok: |
+    विभाकरालोकन दूय मानसा
+    पुनर्बका लोडन जीर्णतन्त्वरा।
+    जडात्मके भर्त्तरि सेर्ष्यया स्थिता
+    कुमुद्वती तेन क्वचिद्विलोकिता ॥ ७ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ। पाद ३ "सेर्ष्यया" (पूर्व "सेर्ष्याका")। पाद ४ में "क्व" से पूर्व ह्रस्व को लघु माना गया है (कवि की छूट)।
+  manuscript_note_en: |
+    Metre: Vaṃśastha. Pāda 3 reads "सेर्ष्यया" (earlier "सेर्ष्याका"). In pāda 4 the short vowel before "क्व" is treated as light (the poet's licence).
+- p: 36
+  v: "8"
+  shlok: |
+    क्वचित्प्रवाहं परिहाय गर्तगे-
+    ष्वपां समूहेषु विचित्रवैभवम् ।
+    हरिन्मणीनामिव सद्दलैश्चितां
+    ददर्श फुल्लामपि पद्मिनीमसौ ॥ ८ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद ३ "सद्दलैः" (पूर्व "सदलैः")।
+  manuscript_note_en: |
+    Metre: Vaṃśastha (all four pādas scan). Pāda 3 reads "सद्दलैः" (earlier "सदलैः").
+- p: 37
+  v: "10"
+  shlok: |
+    प्रपीय गाङ्गं पय उन्मुखं गृहे
+    दिवा चरित्वा हरितं तृणाङ्कुरम् ।
+    गवां कदम्बं स विलोक्य निर्वृत-
+    स्तथा हि मेने वसतिं समीपगाम् ॥ १० ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद १ "प्रपीय गाङ्गं" (पूर्व "प्रपाय गाङ्गेयं", एक अक्षर अधिक)।
+  manuscript_note_en: |
+    Metre: Vaṃśastha (all four pādas scan). Pāda 1 reads "प्रपीय गाङ्गं" (the earlier "प्रपाय गाङ्गेयं" has one syllable too many).
+- p: 38
+  v: "11"
+  shlok: |
+    क्वचिद्द्विरेफावलिमञ्जुगुञ्जितां
+    हरित्सुशैवालपटावृतांस्तथा ।
+    पयःप्रवाहेण सुनर्त्तितामिव
+    ददर्श पुष्टोन्नमितां स पद्मिनीम् ॥ ११ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद २ "पटावृतांस्तथा" (पूर्व "पट्टाङ्कृतान्तथा")।
+  manuscript_note_en: |
+    Metre: Vaṃśastha (all four pādas scan). Pāda 2 reads "पटावृतांस्तथा" (earlier "पट्टाङ्कृतान्तथा").
+- p: 38
+  v: "12"
+  shlok: |
+    ददर्श पीठानिव कच्छपान् क्वचित्
+    परञ्च मीनान् मकरान् विसर्पतः ।
+    प्रवाहमध्ये शिशुमारमद्भुतं
+    तथा परावृत्य निमज्जतं मुहुः ॥ १२ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद ३ "मद्भुतं" (पूर्व "मद्भूतं")।
+  manuscript_note_en: |
+    Metre: Vaṃśastha (all four pādas scan). Pāda 3 reads "मद्भुतं" (earlier "मद्भूतं").
+- p: 41
+  v: "18"
+  shlok: |
+    निरुद्धवायुर्विषयातिगो मुनि-
+    र्विभिद्य सद्यस्त्रिपुटीमपि प्रभुम् ।
+    विचिन्त्य पश्चाद्विरतः समाधितः
+    शुशोच रात्रिं निनिनीषुरुद्यतः ॥ १८ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद २ "सद्यस्त्रिपुटीम्" (पूर्व "सङ्कल्पपुटम्" भ्रान्त था)।
+  manuscript_note_en: |
+    Metre: Vaṃśastha (all four pādas scan). Pāda 2 reads "सद्यस्त्रिपुटीम्" (the earlier "सङ्कल्पपुटम्" was wrong).
+  shlok_en: |
+    His breath restrained, beyond the reach of the senses, the sage at once broke through even the triad [of knower, known and knowing] to the Lord; then, coming out of samādhi and reflecting, he grieved, ready to pass the night. (18)
+- p: 42
+  v: "19"
+  shlok: |
+    स निर्विविक्षुर्ददृशे तटोपगं
+    द्विजस्य शालीनवरस्य कस्यचित् ।
+    उदग्रधूमं किल सायमाहुतेः
+    सषड्गवं मन्दिरमुद्यतेजसः ॥ १९ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद १ "निर्विविक्षुर्ददृशे" (पूर्व "निर्विविक्षुरीदृशो")।
+  manuscript_note_en: |
+    Metre: Vaṃśastha (all four pādas scan). Pāda 1 reads "निर्विविक्षुर्ददृशे" (earlier "निर्विविक्षुरीदृशो").
+- p: 42
+  v: "20"
+  manuscript_note: |
+    वृत्त: वंशस्थ। पाद १ ("कृत्वा हुतिं द्वारि बहिर्गतागतं चरन्") पाण्डुलिपि में ऐसा ही लिखा है और छन्द से दो अक्षर लम्बा है; यथावत्।
+  manuscript_note_en: |
+    Metre: Vaṃśastha. Pāda 1 ("कृत्वा हुतिं द्वारि बहिर्गतागतं चरन्") is written so in the manuscript and is two syllables longer than the metre; kept as written.
+- p: 44
+  v: "23"
+  shlok: |
+    सुपाकसिद्ध्यै गृहिणीमुपागतः
+    समादिदेशाथ सती निजस्नुषाः ।
+    परावृतस्तूर्णमपूर्वदर्शनं
+    मुनिं समूचेऽमृतसन्निभं वचः ॥ २३ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद १ "सिद्ध्यै", पाद ३ "परावृतस्तूर्णम्" (पूर्व "सिद्धयै / परावृत्य सस्तूर्णम्")।
+  manuscript_note_en: |
+    Metre: Vaṃśastha (all four pādas scan). Pāda 1 reads "सिद्ध्यै" and pāda 3 "परावृतस्तूर्णम्" (earlier "सिद्धयै / परावृत्य सस्तूर्णम्").
+- p: 44
+  v: "24"
+  shlok: |
+    यथाऽतिदीने द्रविणस्य दर्शना-
+    दवग्रहे सस्य कृते च वर्षणात् ।
+    उपद्रुते सच्चरितेऽरिधर्षणा-
+    त्तथा सुखं मे भवतोऽद्यदर्शनात् ॥ २४ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद ३ "ऽरिधर्षणात्" (पूर्व "ऽरेर्धर्षणात्")।
+  manuscript_note_en: |
+    Metre: Vaṃśastha (all four pādas scan). Pāda 3 reads "ऽरिधर्षणात्" (earlier "ऽरेर्धर्षणात्").
+- p: 45
+  v: "25"
+  manuscript_note: |
+    वृत्त: वंशस्थ। पाद ४ "सत्स्वरुजां न जिहासति" में एक अक्षर अधिक है; पाण्डुलिपि में "न" स्पष्ट नहीं है, पर हिन्दी ("छोड़ना नहीं चाहती") निषेध का समर्थन करती है; यथावत्।
+  manuscript_note_en: |
+    Metre: Vaṃśastha. Pāda 4, "सत्स्वरुजां न जिहासति", has one syllable too many; the "न" is not clear in the manuscript, but the Hindi ("does not wish to leave") supports the negation; kept as written.
+- p: 45
+  v: "26"
+  shlok: |
+    अधीतविद्योऽसि समर्चितस्त्वया
+    किमद्य ते ज्ञानगुरो गुरुः सताम् ।
+    निवृत्तिरिष्येत समावृतौ मनः
+    स्फुटं मुने ! प्रश्नमिमं निराकुरु ॥ २६ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद १ में एक शब्द काटा गया है; शुद्ध पाठ "अधीतविद्योऽसि समर्चितस्त्वया" (पूर्व "…त्वया समर्चितं सताम्" भ्रान्त था)।
+  manuscript_note_en: |
+    Metre: Vaṃśastha (all four pādas scan). A word in pāda 1 is struck out; the reading is "अधीतविद्योऽसि समर्चितस्त्वया" (the earlier "…त्वया समर्चितं सताम्" was wrong).

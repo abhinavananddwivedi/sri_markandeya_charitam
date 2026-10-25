@@ -5,9 +5,17 @@ verses:
   - number: 11
     shlok: |
       क्वचिद्द्विरेफावलिमञ्जुगुञ्जितां
-      हरित्सुशैवालपट्टाङ्कृतान्तथा ।
+      हरित्सुशैवालपटावृतांस्तथा ।
       पयःप्रवाहेण सुनर्त्तितामिव
       ददर्श पुष्टोन्नमितां स पद्मिनीम् ॥ ११ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद २ "पटावृतांस्तथा" (पूर्व "पट्टाङ्कृतान्तथा")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). Pāda 2 reads "पटावृतांस्तथा" (earlier "पट्टाङ्कृतान्तथा").
     shlok_en:
       author: ai_translation
       text: |
@@ -32,8 +40,16 @@ verses:
     shlok: |
       ददर्श पीठानिव कच्छपान् क्वचित्
       परञ्च मीनान् मकरान् विसर्पतः ।
-      प्रवाह मध्ये शिशुमारमद्भूतं
+      प्रवाहमध्ये शिशुमारमद्भुतं
       तथा परावृत्य निमज्जतं मुहुः ॥ १२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद ३ "मद्भुतं" (पूर्व "मद्भूतं")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). Pāda 3 reads "मद्भुतं" (earlier "मद्भूतं").
     shlok_en:
       author: ai_translation
       text: |

@@ -1,0 +1,57 @@
+page_number_devanagari: "४४"
+page_number_arabic: 44
+image: "images/pages/p044.jpg"
+verses:
+  - number: 23
+    shlok: |
+      सुपाकसिद्धयै गृहिणीमुपागतः
+      समादिदेशाथ सती निजस्नुषाः ।
+      परावृत्य सस्तूर्णमपूर्वदर्शनं
+      मुनिं समूचेऽमृतसन्निभं वचः ॥ २३ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        He went to his wife to have a good meal made, and that good woman directed her daughters-in-law; returning quickly, he spoke words like nectar to the sage of extraordinary appearance. (23)
+    translation:
+      author: amanuensis
+      text: |
+        सुन्दर भोजन निर्माणार्थ अपनी पत्नी के पास जाकर कहा पत्नी ने अपनी बहुओं को आदेश दी। शीघ्रतापूर्वक लौटकर अपूर्वदर्शन मुनि से अमृतवत् मधुर वाणी बोले ॥ २३ ॥
+    notes:
+      author: grandfather
+      text: |
+        इसके बाद तुरन्त उस सद्गृही ने अपने घर के भीतर जाकर अपनी सौभाग्यवती पत्नी से उस अभ्यागत ब्रह्मचारी के योग्य उत्तम भोजन बनाने को कहा, उनकी पत्नी ने भी अपनी बहुओं को आदेश दिया कि वे झट से भोजन व्यवस्था सम्पादित करें, यों झट से घर के बाहर आकर उस गृही ने पूर्व प्रथम दर्शन देने वाले उस ब्रह्मचारी के पास आकर अमृतोपम अत्यन्त सुमधुर वाणी में उस अतिथि ब्रह्मचारी से कहना शुरू किया । २३
+    translation_en:
+      author: ai_translation
+      text: |
+        He went to his wife and told her to prepare a fine meal; his wife gave orders to her daughters-in-law. Returning quickly, he spoke words sweet as nectar to the sage of extraordinary appearance. (23)
+    notes_en:
+      author: ai_translation
+      text: |
+        Right after this, that good householder went inside his house and asked his fortunate wife to make an excellent meal fit for that visiting brahmacārī; his wife in turn ordered her daughters-in-law to arrange the meal quickly. Coming quickly out of the house, the householder went to that brahmacārī, whom he was seeing for the first time, and began to speak to the guest in a very sweet voice like nectar. (23)
+  - number: 24
+    shlok: |
+      यथाऽतिदीने द्रविणस्य दर्शना-
+      दवग्रहे सस्य कृते च वर्षणात् ।
+      उपद्रुते सच्चरितेऽरेर्धर्षणा-
+      त्तथा सुखं मे भवतोऽद्यदर्शनात् ॥ २४ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "As the very poor rejoice at the sight of wealth, as crops in a drought at rain, as a good man harassed [rejoices] at an enemy's defeat, so is my happiness today at seeing you." (24)
+    translation:
+      author: amanuensis
+      text: |
+        जैसे अतिदीनहीन व्यक्ति को धन के दर्शन से, और उसके लिए धन की वर्षा से, शत्रु के धर्षण से सच्चरित के उपद्रुत (बढ़) जाने पर सुख होती है वैसे ही आज मुझे आपके दर्शन से सुख हो रहा है ॥ २४ ॥
+    notes:
+      author: grandfather
+      text: |
+        वर्णिन्! जैसे अतिशय दीन हीन व्यक्ति को प्रचुर धन के दर्शन से, अकर्षण की भीषण स्थिति में उपयुक्त वर्षा हो जाने से, उपद्रव पूर्ण स्थिति में उपद्रव करने वाले व्यक्ति को (शत्रु) को किसी सच्चरित्र व्यक्ति द्वारा शान्त कर देने से जो सुख प्राप्त होता है, हे ब्रह्मचारिन्! आज मुझे आपके दर्शन से वही अपूर्व सुख प्राप्त हो रहा है। २४
+    translation_en:
+      author: ai_translation
+      text: |
+        "As a very poor and wretched person is happy at the sight of wealth, and at a shower of wealth for him, and as a good man is happy when, having been harassed, the enemy is overpowered, so I am happy today at seeing you." (24)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Brahmacārī! The happiness that a very poor, wretched person gets from seeing plenty of wealth, that [farmers] get when fitting rain falls in a terrible drought, and that [people] get when, in a time of troubles, the troublemaker (the enemy) is calmed by some person of good character: O brahmacārī, that same unprecedented happiness I am getting today from seeing you." (24)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

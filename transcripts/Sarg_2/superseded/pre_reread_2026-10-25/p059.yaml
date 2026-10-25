@@ -1,0 +1,57 @@
+page_number_devanagari: "५९"
+page_number_arabic: 59
+image: "images/pages/p059.jpg"
+verses:
+  - number: 53
+    shlok: |
+      इति प्रबोध्योपकृतौ प्रसिद्धिभा-
+      ग्गृहीमुनिर्नित्यविधिं व्यधत्त सः ।
+      अनुज्ञयाऽथ वर्णिवरोऽपि साधु भो
+      बभूव गङ्गामनुमार्गमाश्रितः ॥ ५३ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having thus instructed him in what would help him, the famed householder sage performed his daily rites; and then, with his leave, the excellent brahmacārī too duly set out along the road by the Gaṅgā. (53)
+    translation:
+      author: amanuensis
+      text: |
+        प्रसिद्धि को प्राप्त उस गृहस्थ मुनि ने उपकार के विषय में ऐसा समझा कर नित्य कृत्य करने लगे। क्रमशः ब्रह्मचारी भी गमनोत्सुक होकर गङ्गा मार्ग का अनुसरण किया ॥ ५३ ॥
+    notes:
+      author: grandfather
+      text: |
+        अत्यन्त प्रख्यात तपस्वी उस गृहस्थ मुनि ने मुनि मृकण्ड को अच्छी तरह समझाकर विश्वकल्याणार्थ एवं प्रवृत्तिमार्ग के प्रचार के लिए उचित आदेश देकर प्रभातिक नित्यक्रिया सम्पन्न किया, साथ ही अपने लक्ष्य के प्रति श्रद्धालु उस आगन्तुक मुनि मृकण्ड ने भी जाने की अभिलाषा से गृही मुनि द्वारा निर्दिष्ट गङ्गा मार्ग का अनुगमन करते हुए सवत्सा गौ के साथ अपनी यात्रा प्रारम्भ की। ५३
+    translation_en:
+      author: ai_translation
+      text: |
+        That famed householder sage, having explained thus about the help [he would give], began his daily rites. In due course the brahmacārī too, eager to go, followed the road by the Gaṅgā. (53)
+    notes_en:
+      author: ai_translation
+      text: |
+        That very famous ascetic, the householder sage, explained things well to the sage Mṛkaṇḍa, gave him proper directions for the welfare of the world and for spreading the path of action, and completed his daily morning rites. And the visiting sage Mṛkaṇḍa, devoted to his goal, wishing to go, followed the Gaṅgā road shown by the householder sage and began his journey with the cow and her calf. (53)
+  - number: 54
+    shlok: |
+      न्याय्यं मत्वा तेन दत्तोपदेशः
+      पादौ नत्वा स्वाशिषानन्दितोऽसौ ।
+      धेनुं वत्सेनान्वितां सम्प्रगृह्य
+      प्रास्थाद् गन्तुं दर्दुरं तीर्थमेव ॥ ५४ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Thinking the advice he had been given right, and bowing at his feet, gladdened by his blessing, he took the cow with her calf and set out to go to the tīrtha of Dardura. (54)
+    translation:
+      author: amanuensis
+      text: |
+        न्याय समझ कर उन्होंने उपदेश दिया और अपने शुभाशीष देकर अभिनन्दन किया। ब्रह्मचारी ने उनके चरणों में नमन कर दर्दुर (दरदरी) तीर्थ को प्रस्थान किया ॥ ५४ ॥
+    notes:
+      author: grandfather
+      text: |
+        यों उस गृहस्थ मुनि ने न्यायतः उस मुनि मृकण्ड को सदुपदेश दिया साथ ही शुभाशीर्वाद देकर उनका अभिनन्दन भी किया, मुनि मृकण्ड ने भी उनके चरणों में नमन कर सवत्सा गौ को साथ लेकर दर्दुर तीर्थ क्षेत्र में जाने के लिए तुरन्त प्रस्थान कर दिया । ५४
+    translation_en:
+      author: ai_translation
+      text: |
+        Considering it just, he gave him advice and greeted him with his blessings. The brahmacārī bowed at his feet and set out for the tīrtha of Dardura (Dardarī). (54)
+    notes_en:
+      author: ai_translation
+      text: |
+        Thus that householder sage rightly gave good advice to the sage Mṛkaṇḍa and also greeted him with blessings; the sage Mṛkaṇḍa bowed at his feet, took the cow and her calf with him and at once set out to go to the tīrtha region of Dardura. (54)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

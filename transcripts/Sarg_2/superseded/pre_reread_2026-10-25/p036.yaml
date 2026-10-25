@@ -1,0 +1,57 @@
+page_number_devanagari: "३६"
+page_number_arabic: 36
+image: "images/pages/p036.jpg"
+verses:
+  - number: 7
+    shlok: |
+      विभाकरालोकन दूय मानसा
+      पुनर्बका लोडन जीर्णतन्त्वरा।
+      जडात्मके भर्त्तरि सेर्ष्याका स्थिता
+      कुमुद्वती तेन क्वचिद्विलोकिता ॥ ७ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Somewhere he saw a night lotus, her mind pained at the sight of the sun, her slender stalk worn by the herons' stirring, standing with jealousy because her husband [the moon] was dull. (7)
+    translation:
+      author: amanuensis
+      text: |
+        पुनः उन्होंने कहीं पर सूर्य के देखने से दूषित मन वाली बगुलों के आलोडन जीर्णशीर्ण पत्रों वाली पति के जड़ (निष्प्रभ) होने से ईर्ष्या पूर्वक स्थित कुमुद्वती को देखा ॥ ७ ॥
+    notes:
+      author: grandfather
+      text: |
+        फिर मुनि मृकण्ड ने मूर्ख बकुलों के निरन्तर पदघात से निरन्तर मसली गई हुई तथा भगवान भास्कर के प्रखर किरणों को देख अतिशय विमुग्ध शिथिल पड़ी हुई, कुमुदिनी (कोई का फूल) के फूलों की पङ्क्ति को जो अपने पति चन्द्रमा के क्षीण-निष्प्रभ हो जाने से अत्यन्त प्रभावहीन ईर्ष्यायुक्त हो कर बेसुध पड़ी है को भी देखा।
+    translation_en:
+      author: ai_translation
+      text: |
+        Again, somewhere he saw the night lotus (kumudvatī), her mind afflicted at seeing the sun, her leaves worn and torn by the herons' stirring, standing in jealousy because her husband had become dull (lustreless). (7)
+    notes_en:
+      author: ai_translation
+      text: |
+        Then the sage Mṛkaṇḍu also saw a row of night-lotus (koī) flowers, crushed again and again by the constant trampling of the foolish herons, and lying very faint and limp at the sight of the sharp rays of Lord Bhāskara; because their husband the moon had become waned and lustreless, they lay senseless, very dim and full of jealousy. (7)
+  - number: 8
+    shlok: |
+      क्वचित्प्रवाहं परिहाय गर्तगे-
+      ष्वपां समूहेषु विचित्रवैभवम् ।
+      हरिन्मणीनामिव सदलैश्चितां
+      ददर्श फुल्लामपि पद्मिनीमसौ ॥ ८ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Somewhere, in masses of water that had left the stream and lay in hollows, he saw a lotus plant in full bloom, of wonderful splendour, covered with fine leaves like emeralds. (8)
+    translation:
+      author: amanuensis
+      text: |
+        पुनः उन्होंने प्रवाह को त्याग कर गड़्ढे में स्थित जल राशि में विचित्र वैभव सम्पन्न मरकत मणि के समान शोभन पत्तों से व्याप्त खिलती हुई पद्मिनी को देखा ॥ ८ ॥
+    notes:
+      author: grandfather
+      text: |
+        साथ ही कहीं २ मुख्य धारा से अलग होकर छोटे २ गड्ढों (गर्तो) में पानी जमा हो जाने के कारण उनमें भी अपूर्व शोभा धारण करने वाली हरी २ मरकत मणियों की शोभा को भी तिरस्कृत करने वाली अनुपम दिव्य शोभा सम्पन्न हरे २ पत्तों से सम्पन्न मनहर लगने वाली खिली हुई मृदुल कमलिनियों को भी मुनि मृकण्ड ने बड़े चाव से देखा।
+    translation_en:
+      author: ai_translation
+      text: |
+        Again he saw, in the water standing in a hollow, having left the stream, a blooming lotus plant of wonderful splendour, covered with lovely leaves like emeralds. (8)
+    notes_en:
+      author: ai_translation
+      text: |
+        Also, in places, where water had collected in small hollows, separated from the main stream, the sage Mṛkaṇḍu looked with great delight at the charming, delicate, blooming lotus plants in them, with green leaves of unequalled divine beauty that outshone even green emeralds of rare splendour. (8)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

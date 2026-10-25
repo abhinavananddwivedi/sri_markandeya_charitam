@@ -1,0 +1,57 @@
+page_number_devanagari: "५१"
+page_number_arabic: 51
+image: "images/pages/p051.jpg"
+verses:
+  - number: 37
+    shlok: |
+      इदं किल स्वादिदमप्यतः परं
+      द्विजोपभोग्यं त्वयका यथारुचि ।
+      इतीव तत्प्रार्थनया वशीकृतो
+      यथेष्टमाहारमिवैष चकार सः ॥ ३७ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "This is tasty, and this, after it, even more, fit for a brahmin to enjoy; take as you like": overcome, as it were, by such entreaty, he ate as much as he wished. (37)
+    translation:
+      author: amanuensis
+      text: |
+        यह स्वादिष्ट है यह अन्न भी द्विजोपभोग्य स्वादिष्ट है आप अपनी रुचि के अनुसार लें, इस प्रकार प्रार्थना के वशीभूत हुए ब्रह्मचारी ने यथेष्ट भोजन किया ॥ ३७ ॥
+    notes:
+      author: grandfather
+      text: |
+        अरे यह बड़ा सुस्वादु मधुर है, इसे लें, इससे भी अत्यन्त स्वादिष्ट यह है, इसे अवश्य लेवें, ओ 'ब्राह्मणो मधुरप्रियः' यह तो उससे भी अतिशय मधुर है, यह तो आपको खाना ही होगा, अच्छा आप अपनी रुचिके अनुसार ही ग्रहण करें, इस तरह इस सद्गृहस्थ की अतिशय पूर्ण उदारता से अभिभूत हो 'ना' नहीं करने वाले उस ब्रह्मचारी ने खूब छक कर पूर्ण सन्तुष्टि का अनुभव किया । ३७
+    translation_en:
+      author: ai_translation
+      text: |
+        "This is tasty; this food too is tasty and fit for a brahmin to enjoy; take according to your liking." Won over by such entreaty, the brahmacārī ate as much as he wished. (37)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Oh, this is very tasty and sweet, take it; this is even more tasty than that, you must take it; oh, 'a brahmin loves sweets', this is sweeter still, you simply have to eat it; well, take according to your own liking." Overwhelmed in this way by the very great generosity of this good householder, the brahmacārī, who did not say "no", ate his fill and felt fully satisfied. (37)
+  - number: 38
+    shlok: |
+      अथावसाने स विसृष्टवाङ्मुनिः
+      सभाजयन्सत्कृतिमस्य यत्नतः ।
+      उवाच धीरस्वरमूर्जितप्रभः
+      स्तवेह दारादिनिवृत्तिर्भविष्यति ॥ ३८ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then at the end the sage, freeing his speech and carefully honouring his hospitality, spoke in a steady voice, glowing with strength: "[By this,] your [unclear: "दारादिनिवृत्ति"] will come about here." [Line 4 is imperfectly transcribed.] (38)
+    translation:
+      author: amanuensis
+      text: |
+        अन्त में वाणी द्वारा सत्कृत इनका सत्कार करता हुआ गृहस्थ महात्मा ने प्रभावशाली होकर धीर स्वर में यह बात कही कि वही कन्या आपकी दारा (पत्नी) अवश्य होगी ॥ ३८ ॥
+    notes:
+      author: grandfather
+      text: |
+        भोजन के बाद अपनी वाणी को विस्तार देते हुए उस अतिथि मुनि ने गृही मुनि द्वारा किए गये सम्मिलित सत्कार की अत्यन्त प्रशंसा करते हुए कहना आरम्भ किया। उन्होंने अपनी अत्यन्त उदार सुसंस्कृत वाणी द्वारा इनके द्वारा किये गये सत्कार की भूरि २ प्रशंसा की और कहा कि यह आप द्वारा की गई सेवा शुश्रूषा अत्यन्त व्यापक रूप में सर्वत्र ख्यात होगी। ३८
+    translation_en:
+      author: ai_translation
+      text: |
+        At the end, honouring him with words, the householder great soul, full of authority, said in a steady voice: "That very maiden will surely be your wife (dārā)." [The Hindi makes the householder the speaker; the notes make the guest the speaker.] (38)
+    notes_en:
+      author: ai_translation
+      text: |
+        After the meal the guest sage, opening up his speech, began to speak, greatly praising the combined hospitality given by the householder sage. In his very generous, cultured speech he praised again and again the hospitality they had given and said: "This service and care you have given will become famous everywhere, far and wide." (38)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

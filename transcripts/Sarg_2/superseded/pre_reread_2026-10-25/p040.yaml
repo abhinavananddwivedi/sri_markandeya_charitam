@@ -1,0 +1,57 @@
+page_number_devanagari: "४०"
+page_number_arabic: 40
+image: "images/pages/p040.jpg"
+verses:
+  - number: 15
+    shlok: |
+      ततः परावृत्य निमज्ज्य जाह्नवी-
+      जलेऽमले भुक्ति-विमुक्तिदायिनि ।
+      विधाय सन्ध्यां विधिसर्जितप्रभः
+      प्रदोषकाले शिवमर्चयत्ततः ॥ १५ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then, turning back and bathing in the pure water of the Jāhnavī, giver of enjoyment and liberation, and performing the sandhyā, he, radiant by [Vedic] rule, worshipped Śiva at the time of pradoṣa. (15)
+    translation:
+      author: amanuensis
+      text: |
+        शौचादि से निवृत्त हो भुक्ति मुक्ति दायिनी गङ्गा के निर्मल जल में स्नान कर सन्ध्यावन्दनादि कार्य सम्पन्न कर प्रभावशालि महर्षि मृकण्ड ने प्रदोष काल में आशुतोष भगवान् शंकर को प्रसन्न किया ॥ १५ ॥
+    notes:
+      author: grandfather
+      text: |
+        यों शौच विधि से निवृत्त होकर मुक्ति भुक्ति की प्रदात्री भगवती जह्नुसुता के निर्मल जल में विधिपूर्वक स्नान कर सन्ध्या वन्दनादिक आह्निक कृत्य पूर्ण कर लेने के बाद प्रभाभास्वर तेजस्वी महामुनि मृकण्ड ने प्रदोष वेला में भगवान् भवानी पति भूतभावन शंकर की भी अर्चना कर उन्हें पूर्ण प्रसन्न किया । १५
+    translation_en:
+      author: ai_translation
+      text: |
+        Having finished cleansing, he bathed in the clear water of the Gaṅgā, giver of enjoyment and liberation, and performed the sandhyā worship and other rites; then the powerful Maharṣi Mṛkaṇḍu pleased Lord Śaṅkara, the easily pleased, at the time of pradoṣa. (15)
+    notes_en:
+      author: ai_translation
+      text: |
+        Having thus finished the cleansing rite, he bathed duly in the clear water of the goddess, daughter of Jahnu, giver of liberation and enjoyment, and completed the sandhyā worship and other daily rites; after that the radiant, splendid great sage Mṛkaṇḍu, at the time of pradoṣa, also worshipped Lord Śaṅkara, husband of Bhavānī, sustainer of beings, and fully pleased him. (15)
+  - number: 16
+    shlok: |
+      भवाम्बुधेरुत्तरणाय जन्मिनाम्
+      भवन्तमेवाऽऽश्रयते ऽखिलो नरः ।
+      निरुध्यते जन्मशतैःकृतैरपि
+      विना भवं तस्य कुतः पुनर्भवः ॥ १६ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "To cross the ocean of worldly life, every man among the born takes refuge in you alone; [rebirth] is held back [even] by deeds done over hundreds of births; without Bhava (Śiva), how can there be [freedom from] rebirth?" (16)
+    translation:
+      author: amanuensis
+      text: |
+        संसार-सागर से पार पाने के लिए सभी लोग आप के ही आश्रय ग्रहण करते हैं। क्यों कि सैकड़ों जन्मों के किये गये कर्मों से व्यक्ति का पुनर्जन्म बिना भगवान् शिव की आराधना किये कैसे रोका जा सकता है? ॥ १६ ॥
+    notes:
+      author: grandfather
+      text: |
+        संसार में जन्म धारण करने वाले सभी प्राणी इस अपार भवसागर को पार करने के लिए हे प्रभो! मात्र आपका ही आश्रयण करते हैं, क्योंकि सैकड़ों जन्मों के किए गये कर्मों के द्वारा प्राप्त पुनर्जन्म भगवान् सदाशिव की आराधना किए बिना कैसे रोका जा सकता है? १६
+    translation_en:
+      author: ai_translation
+      text: |
+        "To cross the ocean of worldly life, all people take refuge in you alone. For how can a person's rebirth, [caused] by deeds done in hundreds of births, be stopped without worshipping Lord Śiva?" (16)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Lord! All beings who take birth in the world take refuge in you alone to cross this boundless ocean of worldly life. For how can the rebirth that comes from deeds done in hundreds of births be stopped without worshipping Lord Sadāśiva?" (16)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

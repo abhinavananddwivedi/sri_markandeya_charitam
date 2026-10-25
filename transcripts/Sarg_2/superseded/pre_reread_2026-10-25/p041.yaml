@@ -1,0 +1,57 @@
+page_number_devanagari: "४१"
+page_number_arabic: 41
+image: "images/pages/p041.jpg"
+verses:
+  - number: 17
+    shlok: |
+      निमीलिताक्षः स समाधिमाश्रितो
+      नमः शिवायेति मुहुर्मुहुर्वदन् ।
+      निवेश्य दक्षो मणिपूरमध्यगे
+      शिवं तदात्मत्वमुपागतो मुनिः ॥ १७ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        With eyes closed, entering samādhi and saying again and again "namaḥ śivāya", the skilful sage set Śiva in the middle of the maṇipūra [cakra] and attained oneness with him. (17)
+    translation:
+      author: amanuensis
+      text: |
+        आँखें बन्दकर समाधिस्थ हो बार-बार 'ॐ नमः शिवाय' इस मन्त्र का उच्चारण करते हुए चिरकाल तक मणिपूर चक्र के मध्यस्थ शिव का ध्यान किए, ध्यान करते हुए महामुनि शिवत्व को प्राप्त किए ॥ १७ ॥
+    notes:
+      author: grandfather
+      text: |
+        यों महामुनि ने समाहित चित्त होकर आँखें को बन्द कर एकाग्र एकान्त निविष्ट चित्त से निरन्तर 'ॐ नमः शिवाय' इस षडक्षर मन्त्र का उच्चारण करते हुए षड्चक्रान्तर्गत मणिपूरक चक्र के बीच निरन्तर स्थित रहने वाले भगवान् आशुतोष सदाशिव का चिर काल तक ध्यान करते हुए सद्यः भगवान् शिव से तादात्म्य स्थापित कर स्वयं शिव स्वरूप हो उठे। १७
+    translation_en:
+      author: ai_translation
+      text: |
+        Closing his eyes and entering samādhi, repeating again and again the mantra "oṃ namaḥ śivāya", he meditated for a long time on Śiva in the middle of the maṇipūra cakra; meditating, the great sage attained Śiva-hood. (17)
+    notes_en:
+      author: ai_translation
+      text: |
+        Thus the great sage, with a collected mind, closed his eyes and, with a one-pointed, solitary, absorbed mind, constantly uttered the six-syllable mantra "oṃ namaḥ śivāya". Meditating for a long time on Lord Āśutoṣa Sadāśiva, who dwells constantly in the middle of the maṇipūraka cakra among the six cakras, he at once became one with Lord Śiva and became himself of Śiva's form. (17)
+  - number: 18
+    shlok: |
+      निरुद्धवायुर्विषयातिगो मुनि-
+      र्विभिद्य सङ्कल्पपुटमपि प्रभुम् ।
+      विचिन्त्य पश्चाद्विरतः समाधितः
+      शुशोच रात्रिं निनिनीषुरुद्यतः ॥ १८ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Holding his breath, passing beyond the objects of sense, the sage pierced even the shell of resolve, contemplated the Lord, and afterwards, withdrawing from samādhi, thought about the night, eager to pass it. (18)
+    translation:
+      author: amanuensis
+      text: |
+        वायु को रोक कर विषयातिगामी हो मुनि ने त्रिपुटी का भेदन कर वहाँ विराजमान प्रभु का चिन्तन कर समाधि से विरत हो आगे रात्रि व्यतीत करने के विषय में सोचने लगे ॥ १८ ॥
+    notes:
+      author: grandfather
+      text: |
+        यों महर्षि ने प्राणवायु के अवरोध द्वारा विषयों की विक्रिया से अपनी चित्तवृत्ति को सर्वथा उपरत देकर त्रिपुटी को सम्यक् भेदन कर मूर्धस्थित परात्पर प्रभु का निरन्तर चिन्तन करते हुए क्रमशः समाधि से विरत हुए, एवं स्वस्थ चित्त से रात बिताने के लिए आगे विचार करना प्रारम्भ किया । १८
+    translation_en:
+      author: ai_translation
+      text: |
+        Holding his breath and passing beyond the objects of sense, the sage pierced the triad (tripuṭī), contemplated the Lord seated there, withdrew from samādhi, and began to think about spending the night ahead. (18)
+    notes_en:
+      author: ai_translation
+      text: |
+        Thus the maharṣi, by holding the vital breath, made his mind wholly cease from the disturbance of objects, thoroughly pierced the triad (tripuṭī), and, constantly contemplating the Lord beyond the highest, seated at the crown of the head, gradually withdrew from samādhi; with a settled mind he began to think further about spending the night. (18)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

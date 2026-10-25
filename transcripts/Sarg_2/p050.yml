@@ -4,10 +4,18 @@ image: "images/pages/p050.jpg"
 verses:
   - number: 35
     shlok: |
-      समाल्लपन्तं धृतवारिभिर्निजैः
-      सुतैराहूयत भोजनार्थतः ।
+      समालपन्तं धृतवारिभिर्निजैः
+      सुतैरथाहूयत भोजनार्थतः ।
       ततो गृहान्तर्गृहमेधिकर्मवित्
       सवैश्वदेवं बलिमर्पयत्पुरा ॥ ३५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद १ "समालपन्तं", पाद २ "सुतैरथाहूयत" (पूर्व "समाल्लपन्तं / सुतैराहूयत", जिसमें एक अक्षर कम था)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). Pāda 1 reads "समालपन्तं" and pāda 2 "सुतैरथाहूयत" (earlier "समाल्लपन्तं / सुतैराहूयत", one syllable short).
     shlok_en:
       author: ai_translation
       text: |
@@ -34,6 +42,14 @@ verses:
       न्नेकशाकैः सहसूपसंयुतम् ।
       पयोविधानैः स किलाटकूर्चिकैः
       समानिनायौदनमिन्दुसन्निभम् ॥ ३६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद २ पाण्डुलिपि में "न्नेकशाकैः" लिखा है, जो एक अक्षर कम है; अभिप्रेत "(उपाविश)न्ननेकशाकैः" प्रतीत होता है; यथावत्।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. Pāda 2 is written "न्नेकशाकैः", one syllable short; "(उपाविश)न्ननेकशाकैः" seems intended; kept as written.
     shlok_en:
       author: ai_translation
       text: |

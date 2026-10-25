@@ -8,6 +8,14 @@ verses:
       न्न दृष्टिरिष्टे व्यवधानमुच्छति ।
       समीक्षिते त्वाऽद्भुतदर्शने मुने !
       मनः स्थितं सत्स्वरुजां न जिहासति ॥ २५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद ४ "सत्स्वरुजां न जिहासति" में एक अक्षर अधिक है; पाण्डुलिपि में "न" स्पष्ट नहीं है, पर हिन्दी ("छोड़ना नहीं चाहती") निषेध का समर्थन करती है; यथावत्।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. Pāda 4, "सत्स्वरुजां न जिहासति", has one syllable too many; the "न" is not clear in the manuscript, but the Hindi ("does not wish to leave") supports the negation; kept as written.
     shlok_en:
       author: ai_translation
       text: |
@@ -30,10 +38,18 @@ verses:
         "O brahmacārī! Today, having found an unprecedented brahmacārī like you, who is a wonder, joy cannot fit into this small body of mine. My gaze does not want to turn away even for a moment from the sight of so greatly desired a person as you, who came of your own accord. The intense longing to see an unprecedented person like you (the eagerness in me) does not want to give up its haste (to grow calm)." (25)
   - number: 26
     shlok: |
-      अधीतविद्योऽसि त्वया समर्चितं सताम्
+      अधीतविद्योऽसि समर्चितस्त्वया
       किमद्य ते ज्ञानगुरो गुरुः सताम् ।
       निवृत्तिरिष्येत समावृतौ मनः
       स्फुटं मुने ! प्रश्नमिमं निराकुरु ॥ २६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद १ में एक शब्द काटा गया है; शुद्ध पाठ "अधीतविद्योऽसि समर्चितस्त्वया" (पूर्व "…त्वया समर्चितं सताम्" भ्रान्त था)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). A word in pāda 1 is struck out; the reading is "अधीतविद्योऽसि समर्चितस्त्वया" (the earlier "…त्वया समर्चितं सताम्" was wrong).
     shlok_en:
       author: ai_translation
       text: |

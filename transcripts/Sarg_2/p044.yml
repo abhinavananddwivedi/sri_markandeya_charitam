@@ -4,10 +4,18 @@ image: "images/pages/p044.jpg"
 verses:
   - number: 23
     shlok: |
-      सुपाकसिद्धयै गृहिणीमुपागतः
+      सुपाकसिद्ध्यै गृहिणीमुपागतः
       समादिदेशाथ सती निजस्नुषाः ।
-      परावृत्य सस्तूर्णमपूर्वदर्शनं
+      परावृतस्तूर्णमपूर्वदर्शनं
       मुनिं समूचेऽमृतसन्निभं वचः ॥ २३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद १ "सिद्ध्यै", पाद ३ "परावृतस्तूर्णम्" (पूर्व "सिद्धयै / परावृत्य सस्तूर्णम्")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). Pāda 1 reads "सिद्ध्यै" and pāda 3 "परावृतस्तूर्णम्" (earlier "सिद्धयै / परावृत्य सस्तूर्णम्").
     shlok_en:
       author: ai_translation
       text: |
@@ -32,8 +40,16 @@ verses:
     shlok: |
       यथाऽतिदीने द्रविणस्य दर्शना-
       दवग्रहे सस्य कृते च वर्षणात् ।
-      उपद्रुते सच्चरितेऽरेर्धर्षणा-
+      उपद्रुते सच्चरितेऽरिधर्षणा-
       त्तथा सुखं मे भवतोऽद्यदर्शनात् ॥ २४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद ३ "ऽरिधर्षणात्" (पूर्व "ऽरेर्धर्षणात्")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). Pāda 3 reads "ऽरिधर्षणात्" (earlier "ऽरेर्धर्षणात्").
     shlok_en:
       author: ai_translation
       text: |

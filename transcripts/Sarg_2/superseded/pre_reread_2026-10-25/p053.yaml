@@ -1,0 +1,57 @@
+page_number_devanagari: "५३"
+page_number_arabic: 53
+image: "images/pages/p053.jpg"
+verses:
+  - number: 41
+    shlok: |
+      गृहस्थितिस्तेऽद्भुतशक्तिशालिनी
+      सुताश्च शिष्या मुनिदेशवर्तिनः ।
+      मनोऽभिनन्दात् सकलं प्रसिद्ध्यति
+      मुनेऽतिशालीनतराऽसि भाग्यवान् ॥ ४१ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Your household has wonderful power; your sons and disciples follow your direction, sage; everything succeeds by the joy of your mind. Sage, you are most modest and fortunate." (41)
+    translation:
+      author: amanuensis
+      text: |
+        ब्रह्मचारी महात्मा मृकण्डु ने कहा- हे गृहस्थ मुने! आपकी गृहस्थिति अद्भुत शक्ति सम्पन्न है आपके पुत्र एवं शिष्य आज्ञाकारी हैं। आपके इच्छित समस्त कार्य परिपूर्ण हो जाते हैं, अतः आप अधिक शालीनतर एवं भाग्यवान् हैं ॥ ४१ ॥
+    notes:
+      author: grandfather
+      text: |
+        व श्लाघते मुनि मृकण्ड ने गृही मुनि से कहा कि हे मुने! आपकी गार्हिक मर्यादा अत्यन्त विचित्र शक्तिशालिनी है। आपके पुत्र तथा शिष्य वर्ग अतीव विनयी एवं आज्ञापरायण हैं, केवल आपके सुविचारित सभी कार्य स्वतः परिपूर्ण हो रहे हैं अतः हे मुने! आप अत्यन्त उच्चचेता साधुसम्मत एवं सौभाग्यशाली हैं। ४१
+    translation_en:
+      author: ai_translation
+      text: |
+        The brahmacārī great soul Mṛkaṇḍu said: "Householder sage! Your household is endowed with wonderful power; your sons and disciples are obedient. All the work you wish for is completed; so you are more modest and fortunate [than others]." (41)
+    notes_en:
+      author: ai_translation
+      text: |
+        Praising him, the sage Mṛkaṇḍa said to the householder sage: "Sage! The order of your household has a very remarkable power. Your sons and disciples are very disciplined and obedient; all your well-considered work is completed of itself. So, sage, you are very high-minded, approved by the good, and fortunate." (41)
+  - number: 42
+    shlok: |
+      इति प्रशस्याचमनार्थमुत्थिते
+      गतेऽतिथौ द्वारि गृहाधिपो मुदा ।
+      द्विजावशिष्टं परिविष्टमुत्तमं
+      प्रिया समक्षं विधिवज्जघास सः ॥ ४२ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having praised him thus, when the guest rose to rinse his mouth and went to the door, the master of the house gladly ate, duly, before his wife, the excellent food served, left over from the brahmin. (42)
+    translation:
+      author: amanuensis
+      text: |
+        इस प्रकार मृकण्डु ने उसकी प्रशंसा कर हस्त प्रक्षालनार्थ द्वार पर चले गये, तब गृहस्वामी ने द्विज के भोजन के बाद बचे हुए पावन अन्न को प्रिया के समक्ष (प्रिया के साथ) प्रेम पूर्वक स्वतः खाने लगे ॥ ४२ ॥
+    notes:
+      author: grandfather
+      text: |
+        यों मुनि मृकण्ड ने उस गृही मुनि की भोजनादि व्यवस्था की अतिशय प्रशंसा की तथा हस्त प्रक्षालनार्थ घर के द्वार पर चले जाने के बाद गृही मुनि ने ब्राह्मण अतिथि के भोजन कर लेने के बाद बचे हुए पवित्र यज्ञावशिष्ट अन्न को अपनी प्रिया सुगृहिणी के समक्ष उनके साहचर्य से प्रेम पूर्वक स्वयं भोजन किया। ४२
+    translation_en:
+      author: ai_translation
+      text: |
+        Having praised him thus, Mṛkaṇḍu went to the door to wash his hands; then the master of the house, before his wife (with his wife), lovingly began to eat the holy food left over after the brahmin's meal. (42)
+    notes_en:
+      author: ai_translation
+      text: |
+        Thus the sage Mṛkaṇḍa praised the meal and other arrangements of that householder sage very highly. After he had gone to the door of the house to wash his hands, the householder sage, after the brahmin guest had eaten, lovingly ate the remaining holy food, left over from the sacrifice, himself, before his dear, good wife and in her company. (42)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

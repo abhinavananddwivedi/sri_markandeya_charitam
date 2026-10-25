@@ -1,0 +1,58 @@
+sarga: "अथ द्वितीयः सर्गः"
+page_number_devanagari: "३३"
+page_number_arabic: 33
+image: "images/pages/p033.jpg"
+verses:
+  - number: 1
+    shlok: |
+      ततः स गङ्गातटवर्ति भूधरं
+      हिमावृतं शारदमेघ सन्निभम् ।
+      विलङ्घ्य कृच्छ्रेण ययौ समस्थलीं
+      विलोक्य यज्जातमुदोऽभ्यजायत ॥ १ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then, having crossed with difficulty the snow-covered mountain on the bank of the Gaṅgā, like an autumn cloud, he went to level ground; seeing it, joy arose in him. (1)
+    translation:
+      author: amanuensis
+      text: |
+        उसके बाद वह मुनि शुकण्ड गङ्गातटवर्ती हिमाच्छादित शरद कालीन मेघ के समान शुभ्र पर्वत को अतिकष्ट से पार कर समस्थल को देखते हुए आनन्दित हो गये ॥ १ ॥
+    notes:
+      author: grandfather
+      text: |
+        भगवती सुरसरि के स्तुतिके अनन्तर मुनि शुकण्ड ने अतिशय शुभ्र हिमराशि मण्डित शरत्कालीन अत्यन्त धवल, मेघ मालाओं की तरह स्वच्छ, पर्वत श्रृंखलाओं को समीपी वन को बड़ी कठिनाई से पार करते हुए क्रमशः समतल भूभाग पर पहुँच कर वहाँ की मनोहारी सुषमा को देखा, जिससे उनका मन आनन्दातिरेक से भर उठा । १
+    translation_en:
+      author: ai_translation
+      text: |
+        After that, the sage Mṛkaṇḍu [the Hindi as transcribed reads "शुकण्ड" here and in vv. 1–2] crossed with great difficulty the snow-covered mountain on the bank of the Gaṅgā, white like an autumn cloud, and was glad on seeing the level ground. (1)
+    notes_en:
+      author: ai_translation
+      text: |
+        After his praise of the goddess, the river of the gods, the sage Mṛkaṇḍu crossed with great difficulty the forest near the mountain ranges, decked with masses of very white snow, very white like autumn, clear like rows of clouds. Gradually reaching the level land, he saw its charming beauty, and his mind filled with joy. (1)
+  - number: 2
+    shlok: |
+      स सैकते देवनदीतटे मुनि
+      श्चिरं चरत्सामिथुनं रथाङ्गयोः ।
+      ददर्श युक्तीकृत मानवन्दनं
+      व्यभावयत्प्रेम तदप्यलौकिकम् ॥ २ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        On the sandy bank of the river of the gods, the sage saw a pair of cakravāka birds long moving together, bound in union, and he pondered their love, which was itself unearthly. (2)
+    translation:
+      author: amanuensis
+      text: |
+        महात्मा शुकण्ड ने बालुकामय गङ्गातट पर चिर काल से विचरण करते हुए चक्रवाक मिथुन को देखा साथ ही मिथुनीकृत भाव-बन्धन युक्त उनके अलौकिक प्रेम की भावना की ॥ २ ॥
+    notes:
+      author: grandfather
+      text: |
+        भूतल पर पहुँचते ही महात्मा शुकण्ड ने अत्यन्त स्वच्छ धवल बालुकामय भगवती गङ्गा के पवित्र तट पर चक्रवाक मिथुन को देखा, जो निरन्तर बहुत दिनों से अपनी प्रेयसी के साथ प्रेमासक्त हो आत्म विस्मृति की स्थिति में विचरण कर रहा था, को देखा और उनके युगल स्नेह की उत्कटता का अनुभव किया जिससे उनके मन में अलौकिक दिव्य प्रेम की अद्भुत उद्भावना हुई । २
+    translation_en:
+      author: ai_translation
+      text: |
+        The great soul Mṛkaṇḍu saw on the sandy bank of the Gaṅgā a pair of cakravāka birds that had long been wandering there, and he contemplated their unearthly love, bound in the feeling of being a pair. (2)
+    notes_en:
+      author: ai_translation
+      text: |
+        As soon as he reached the level land, the great soul Mṛkaṇḍu saw, on the holy bank of the goddess Gaṅgā with its very clean white sand, a pair of cakravākas: the male, attached in love to his beloved, had been wandering with her for many days in a state of self-forgetfulness. He felt the intensity of their love as a pair, and a wonderful idea of unearthly, divine love arose in his mind. (2)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

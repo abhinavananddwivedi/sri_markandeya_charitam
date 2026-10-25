@@ -1,0 +1,31 @@
+page_number_devanagari: "६०"
+page_number_arabic: 60
+image: "images/pages/p060.jpg"
+verses:
+  - number: "55-57"
+    shlok: |
+      श्रीचन्द्रभूषणसुधीसुतकेन बच्चू-
+      रामस्य पौत्रसुभगेन नवंगुणाढ्यम् ।
+      संगुम्फितं सुमनसो मनसाऽङ्घ्रि युग्मं
+      मानम्य तेन हि शिवस्य सुशिष्यकेण ॥
+      धानेश्वरी हृदयजेन शिवार्चकेन
+      विद्वज्जनार्चनरता धरणीधरेण ।
+      काव्यं सुमङ्गलमयं सुप्रवृत्तिपूर्णं
+      शाश्वत् समा विजयतां शिवयोः प्रसादात् ॥
+      दीर्घजीविचरितामृतकाव्ये
+      सद्विजोचितसदाऽऽचरणाढ्ये ।
+      सर्ग एष रमण्यो द्वितीयोऽपि
+      व्यत्यगादिह महेशकृपातः ॥ ५५-५६-५७ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        (55) By the son of the wise Śrī Candrabhūṣaṇa, the fortunate grandson of Baccū Rāma, this [poem], rich in the nine virtues, was woven, after bowing in his mind to the pair of feet of the good-hearted, by that good disciple of Śiva. (56) By Dharaṇīdhara, born of the heart of Dhāneśvarī, worshipper of Śiva, devoted to honouring the learned: may this poem, full of auspiciousness and good purpose, be victorious for endless years by the grace of Śiva and Pārvatī. (57) In the poem "The Nectar of the Life of the Long-Lived", rich in the good conduct proper to good brahmins, this delightful second canto too has come to its end here by the grace of Maheśa.
+    translation:
+      author: amanuensis
+      text: |
+        (विशेष- ५५-५६-५७ इन तीनों श्लोकों का हिन्दी अनुवाद पृष्ठ ३१ में अवलोकन करें ।) श्री विद्वद्वरेण्य चन्द्रभूषण के पुत्र, श्री बच्छूराम के पौत्र, देवी धानेश्वरी गर्भ-जन्मा, श्रीपण्डित शिव प्रसाद के सुशिष्य, शिव तथा विद्वज्जनपूजक धरणीधर रचित, देवों एवं विद्वानों के चरणयुगलों को प्रणाम कर धरणीधर रचित सुप्रवृत्तिपूर्ण मङ्गलमय यह महाकाव्य शिवपार्वती की कृपा से बहुवर्ष पर्यन्त विजयशील हो। सद्विजोचित सदाचरण लभ्य दीर्घजीवी मार्कण्डेय चरितामृत इस महाकाव्य में महेश भगवान् की कृपा से यह द्वितीय सर्ग पूर्ण हुआ ॥ ५५-५६-५७ ॥ (इति सुमधुर काव्यमये हिन्दी अनुवाद में द्वितीय सर्ग पूर्ण हुआ)
+    translation_en:
+      author: ai_translation
+      text: |
+        (Note: for the Hindi translation of these three verses, 55–57, see page 31.) Composed by Dharaṇīdhara, son of the learned and excellent Śrī Candrabhūṣaṇa, grandson of Śrī Bacchūrāma, born of the goddess Dhāneśvarī, good disciple of Śrī Paṇḍita Śiva Prasāda, honourer of Śiva and of the learned: having bowed to the pairs of feet of the gods and the learned, may this auspicious mahākāvya, full of good purpose, composed by Dharaṇīdhara, be victorious for many years by the grace of Śiva and Pārvatī. In this mahākāvya, "The Nectar of the Life of the Long-Lived Mārkaṇḍeya", attained through the good conduct proper to good brahmins, this second canto is complete by the grace of Lord Maheśa. (55–57) (Thus the second canto of the very sweet poetic Hindi translation is complete.)
+source: "Transcribed via antigravity by the user (2026-08-25/2026-09-02) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. Closing rubric line taken from this page's own Devanagari transcription (Sarg_2/...page_60.md), not from the differently-worded rubric variant appended in the English-translation export -- and appended to the translation (not the shlok, unlike p032) since its own wording specifically closes the Hindi anuvad ('...हिन्दी अनुवाद में द्वितीय सर्ग पूर्ण हुआ')."

@@ -6,8 +6,16 @@ verses:
     shlok: |
       इति प्रबोध्योपकृतौ प्रसिद्धिभा-
       ग्गृहीमुनिर्नित्यविधिं व्यधत्त सः ।
-      अनुज्ञयाऽथ वर्णिवरोऽपि साधु भो
+      अनुज्ञयाद्वर्णिवरोऽपि साधु भो
       बभूव गङ्गामनुमार्गमाश्रितः ॥ ५३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद ३ "अनुज्ञयाद्वर्णिवरः" (पूर्व "अनुज्ञयाऽथ वर्णिवरः")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). Pāda 3 reads "अनुज्ञयाद्वर्णिवरः" (earlier "अनुज्ञयाऽथ वर्णिवरः").
     shlok_en:
       author: ai_translation
       text: |
@@ -34,6 +42,14 @@ verses:
       पादौ नत्वा स्वाशिषानन्दितोऽसौ ।
       धेनुं वत्सेनान्वितां सम्प्रगृह्य
       प्रास्थाद् गन्तुं दर्दुरं तीर्थमेव ॥ ५४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: शालिनी (चारों पाद शुद्ध)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Śālinī (all four pādas scan).
     shlok_en:
       author: ai_translation
       text: |

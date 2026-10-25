@@ -1,0 +1,57 @@
+page_number_devanagari: "५७"
+page_number_arabic: 57
+image: "images/pages/p057.jpg"
+verses:
+  - number: 49
+    shlok: |
+      निशम्य तस्यानुनयं महामुनिः
+      सुविस्मितः सास्मितमाह बोधयन् ।
+      भवाटवीं दुर्विषहां दुरिन्द्रियै-
+      र्निरीक्ष्य मा भीतिममुं व्रजाऽधुना ॥ ४९ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Hearing his entreaty, the great sage, much surprised, said with a smile, to enlighten him: "Do not be afraid now on seeing the forest of worldly life, hard to bear because of the wicked senses; go." (49)
+    translation:
+      author: amanuensis
+      text: |
+        गृहमेधी महामुनि ने उसकी प्रार्थना सुनकर चकित हुए पुनः समझाते हुए सास्मित बोल पड़े। कुत्सित इन्द्रियों से दुर्विषह भवाटवी को देखकर सम्प्रति भयभीत न होवो ॥ ४९ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्ड की अनुनय पूर्ण बातें सुनकर गृही मुनि साश्चर्य मुस्कराते हुए उन्हें यों समझाते हुए कहने लगे, वत्स! यह संसार रूपी महाजंगल बड़ा भयंकर है, इसमें रहकर बिना इन्द्रियों पर विजय प्राप्त किए हुए व्यक्तियों द्वारा शान्तिपूर्ण जीवन जीना सर्वथा दुष्कर है, यह देखकर तुम भयभीत मत होवो। ४९
+    translation_en:
+      author: ai_translation
+      text: |
+        Hearing his request, the great householder sage was surprised and, explaining again, said with a smile: "Do not be afraid now on seeing the forest of worldly life, which is hard to bear because of the wicked senses." (49)
+    notes_en:
+      author: ai_translation
+      text: |
+        Hearing the sage Mṛkaṇḍa's pleading words, the householder sage, smiling in surprise, began to explain to him: "Child! This great forest of the world is very fearsome; living in it, a peaceful life is wholly difficult for people who have not conquered their senses. Do not be afraid on seeing this." (49)
+  - number: 50
+    shlok: |
+      विशालधीर्निर्जितषड्रिपुर्भवान्
+      विभासि बालोऽपि विशुद्धबुद्धिभाक् ।
+      उपासितप्राज्ञवरो विवेकतो
+      यतस्ततो वत्स सुखं निवत्स्यसि ॥ ५० ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "You are broad-minded and have conquered the six enemies; though a boy, you shine with a pure intellect; with discernment you have served the best of the wise; therefore, child, you will live happily wherever [you go]." (50)
+    translation:
+      author: amanuensis
+      text: |
+        आप विशाल बुद्धि वाले हो आपने कामादि छह शत्रुओं को जीत लिया है। बालक होने पर भी विशाल बुद्धि सम्पन्न हो। अपने विवेक से तुमने श्रेष्ठ जनों की उपासना की है, अतः हे वत्स! जहाँ कहीं भी सुख पूर्वक निवास करोगे ॥ ५० ॥
+    notes:
+      author: grandfather
+      text: |
+        प्रिय वत्स! तुम अत्यन्त विशाल बुद्धि वाले हो, तुमने अपनी उदात्त साधना से शरीरस्थ कामादि छः शत्रुओं पर निर्बाध विजय प्राप्त कर लिया है, यद्यपि देखने में अभी सामान्य बालक से लगते हो किन्तु बुद्धिवैभव में तुम अत्यन्त श्रेष्ठ हो। तुमने अपने सद्विवेक द्वारा गुरुओं की सम्यक् पूर्वक आराधना की है, अतः प्रिय वत्स! तुम जहाँ कहीं भी रहोगे पूर्ण सुख शान्ति, समृद्धिपूर्ण जीवन जिओगे। ५०
+    translation_en:
+      author: ai_translation
+      text: |
+        "You have a broad mind; you have conquered the six enemies, desire and the rest. Though a boy, you are endowed with a broad mind. By your discernment you have served the best people; so, child, you will live happily wherever you are." (50)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Dear child! You have a very broad mind; through your noble discipline you have won an unhindered victory over the six enemies within the body, desire and the rest. Though you still look like an ordinary boy, in wealth of intellect you are most excellent. With your good discernment you have worshipped your teachers properly; so, dear child, wherever you live, you will live a life full of happiness, peace and prosperity." (50)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

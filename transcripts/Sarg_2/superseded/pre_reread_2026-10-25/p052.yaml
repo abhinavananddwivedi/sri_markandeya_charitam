@@ -1,0 +1,57 @@
+page_number_devanagari: "५२"
+page_number_arabic: 52
+image: "images/pages/p052.jpg"
+verses:
+  - number: 39
+    shlok: |
+      विविच्यते स्वादितमीदृशं पयः
+      क्व कामधेनुं विरहय्य लभ्यते ।
+      कदाप्यनास्वादितमोदनोऽथवा-
+      पिकिं त्वयेतोऽद्य समार्पितं नृणाम् ॥ ३९ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Can milk that tastes like this be had anywhere apart from the Kāmadhenu? Or is this rice, never tasted before, what you have offered people from [heaven] today?" [Partly unclear.] (39)
+    translation:
+      author: amanuensis
+      text: |
+        स्वर्ग में ऐसा स्वादिष्ट दुग्ध कामधेनु को छोड़कर कहाँ अन्यत्र प्राप्त है? कभी भी स्वाद न लिया गया भात अर्पित किया वह फल है या अन्न? ॥ ३९ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुने! लगता है कि स्वर्गलोक को छोड़कर बिना कामधेनु के इतना स्वादिष्ट मधुर दुग्ध अन्यत्र कहां प्राप्त हो सकता है? चावल (भात) के नाम से व्यञ्जन आपने जिसे खिलाया है वह क्या भात कहा जायगा या अत्यन्त मधुर फल है? ऐसा उत्तम भोज्य (भात) तो मैने कहीं खाया ही नहीं है । ३९
+    translation_en:
+      author: ai_translation
+      text: |
+        "Where else, apart from the Kāmadhenu in heaven, can such tasty milk be had? The rice you served, which I have never tasted before: is it fruit or grain?" (39)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Sage! It seems that, apart from the world of heaven, without the Kāmadhenu, where else could such tasty, sweet milk be had? The dish you fed me by the name of rice: should it be called rice, or is it a very sweet fruit? I have never eaten such excellent food (rice) anywhere." (39)
+  - number: 40
+    shlok: |
+      अहो स्नुषाणां रचना सुचातुरी
+      तुरीयकक्षामतिशाय्य राजते ।
+      पृथक् पृथक् षड्रसता रुचिप्रदा
+      विभाव्यते यासु विमलभावना ॥ ४० ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Ah, the skill of your daughters-in-law's cooking shines, surpassing [even] the fourth rank; in it the six flavours, each distinct and pleasing, are perceived, [made] with a pure mind." (40)
+    translation:
+      author: amanuensis
+      text: |
+        वधुओं की भोजन बनाने की चातुरी आश्चर्यकारी है, यह तो चतुर्थ कक्षा को पार कर सुशोभित हो रही है। भिन्न-भिन्न रुचिप्रद छह रसों की विभावित भावना प्रतीत होती है ॥ ४० ॥
+    notes:
+      author: grandfather
+      text: |
+        महर्षिप्रवर! आपके बहुओं की भोजन कला की अत्यन्त समग्र रचना कौशल की क्या बात कही जाय, यह तो प्रथम मध्यमोत्तम रचना कौशल को अतिक्रमण कर उससे भी ऊपर उच्च कोटि की चतुर्थ श्रेणी का स्थान प्राप्त कर रही है। इन बहुओं की भोजन संरचना की अद्भुत कलाभिजता है। जिससे (मधुर, अम्ल, लवण, कटु, कषाय, तिक्त) इन छह रसों की निरन्तर साथ-साथ अनुभूति और स्वाद मिल रहा है, यह रचना कौशल तो अन्यत्र सुदुर्लभ है। ४०
+    translation_en:
+      author: ai_translation
+      text: |
+        "The daughters-in-law's skill in cooking is astonishing; it shines, having passed beyond the fourth class. One can feel in it the distinct, pleasing six flavours brought out." (40)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Best of great sages! What can be said of the very complete skill of your daughters-in-law in the art of cooking? It goes beyond the first, middle and best levels of skill and reaches the fourth, still higher class. These daughters-in-law have a wonderful mastery of the art of preparing food, by which one constantly feels and tastes these six flavours (sweet, sour, salty, pungent, astringent, bitter) together; such skill is very rare elsewhere." (40)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

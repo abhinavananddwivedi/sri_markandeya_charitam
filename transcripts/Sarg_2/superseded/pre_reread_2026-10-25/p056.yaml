@@ -1,0 +1,57 @@
+page_number_devanagari: "५६"
+page_number_arabic: 56
+image: "images/pages/p056.jpg"
+verses:
+  - number: 47
+    shlok: |
+      अधीतविद्योऽपि न पारये स्वयं
+      निवासयोग्यं परिमार्गितुं मुने ! ।
+      सुवास्तुशास्त्रानुगतो विनिर्दिश
+      त्वदाज्ञयैवेह निवत्स्य मुत्सहे ॥ ४७ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Though I have studied, sage, I cannot by myself find a [place] fit to live in. Following the science of building, direct me; only by your command am I eager to dwell here." (47)
+    translation:
+      author: amanuensis
+      text: |
+        हे गृहमेधी मुने! विद्या पढ़ कर भी मैं निवासयोग्य भूमि अन्वेषण में समर्थ नहीं हूँ। वास्तुक शास्त्र के अनुसार स्थान का निर्देश आप ही करें, क्योंकि आपकी आज्ञा से ही मैं निवास करना चाहूँगा ॥ ४७ ॥
+    notes:
+      author: grandfather
+      text: |
+        पूज्य गृहस्थ महामुने! मैंने विद्यायें पढ़ी हैं किन्तु अब भी अपने निवास के योग्य भूमि के निर्धारण करने में अपने को सर्वथा अक्षम पा रहा हूँ। अतः मेरे लिए उचित वास्तुशास्त्रानुमोदित स्थान का निर्देश आप स्वयं करें जिससे मैं आपके आदेशानुसार ही रहने के लिए उचित स्थान प्राप्त कर सकूँगा। ४७
+    translation_en:
+      author: ai_translation
+      text: |
+        "Householder sage! Though I have studied, I am not able to search out land fit to live on. Please direct me to a place in accordance with the science of building (vāstu), for I will live only by your command." (47)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Revered householder, great sage! I have studied various kinds of learning, but I still find myself wholly unable to decide on land fit for my dwelling. So please direct me yourself to a proper place approved by the science of building, so that I can obtain a proper place to live according to your direction." (47)
+  - number: 48
+    shlok: |
+      सुबुद्धिरप्युद्विजते सदैवैकलः
+      समागते कार्यविधौ महत्तरे ।
+      मुहुर्विमर्शार्थमुपान्तिके क्वचि-
+      न्निवेश्य पुत्रानुगुणं प्रशाधि माम् ॥ ४८ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Even the wise are always uneasy when alone, when a weighty task has come. Settle me somewhere near you, so that [I may] often consult [you], and instruct me as befits a son." (48)
+    translation:
+      author: amanuensis
+      text: |
+        महत्तर कार्य आ जाने पर सुबुद्धि भी सदा एकाकी होकर उद्विग्न हो उठता है। पुनः विमर्शार्थ कहीं समीप में लगाकर पुत्रानुरूप मुझे शिक्षा प्रदान करें ॥ ४८ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्ड ने कहा भगवन्! अत्यन्त बुद्धिमान होने पर भी मनुष्य अकेले होने के कारण किसी भी बड़े, अच्छे कार्य के करने में अपने को सर्वथा असमर्थ पाता है, अतः मैं चाहता हूँ कि आप मुझे कहीं निकट में ही बसाकर (स्थान देकर) अपने पुत्र के समान ही मानते हुए उचित परामर्श देते हुए रहने की व्यवस्था करें । ४८
+    translation_en:
+      author: ai_translation
+      text: |
+        "When a great task comes, even the wise always become uneasy when alone. So settle me somewhere nearby, for consultation again and again, and teach me as you would a son." (48)
+    notes_en:
+      author: ai_translation
+      text: |
+        The sage Mṛkaṇḍa said: "Lord! Even if a man is very intelligent, because he is alone he finds himself wholly unable to do any big, good task. So I want you to settle me (give me a place) somewhere near, regarding me as your own son, and arrange for me to live there, giving me proper advice." (48)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

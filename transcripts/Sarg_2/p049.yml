@@ -5,9 +5,17 @@ verses:
   - number: 33
     shlok: |
       परं यतिष्ये भवतो मनोरथो
-      यथातिशीघ्रं परिपूर्णतामृच्छेत् ।
+      यथातिशीघ्रं परिपूर्णतां व्रजेत् ।
       सतीव दिव्या सुहृदोऽस्ति कन्यका
       मरुद्वती मुद्गलनामकस्य मे ॥ ३३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद २ "परिपूर्णतां व्रजेत्" (पूर्व "परिपूर्णतामृच्छेत्")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). Pāda 2 reads "परिपूर्णतां व्रजेत्" (earlier "परिपूर्णतामृच्छेत्").
     shlok_en:
       author: ai_translation
       text: |
@@ -54,4 +62,5 @@ verses:
       author: ai_translation
       text: |
         "My friend is a most excellent person and is fully able to give you a dowry (yautuka) and the like. He will meet you soon; I will put forward my recommendation for your marriage, together with other brahmins, as soon as possible." (34)
+notes_uncertain: true
 source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

@@ -1,0 +1,57 @@
+page_number_devanagari: "३५"
+page_number_arabic: 35
+image: "images/pages/p035.jpg"
+verses:
+  - number: 5
+    shlok: |
+      सुचाटुकारानमितस्तरद्वयं
+      स सारसानांरुवतः क्षुधन्वितान् ।
+      महाधनस्यापिगतोऽपि सादरं
+      ददर्श च ह्युदरम्भरानिव ॥ ५ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        He saw the sāras cranes on both banks, crying with hunger, flatterers, like belly-fillers who, though [repulsed], wait respectfully at the door of a rich man. (5)
+    translation:
+      author: amanuensis
+      text: |
+        पुनः उन्होंने गङ्गा के दोनों किनारे पर भूख से व्याकुल शब्द करते चाटुकार सारसपक्षियों को तिरस्कार करने वाले धनिकों के द्वार पर आदर पूर्वक स्थित प्रिय बोलते हुए उदरम्भर (पेटू जनों) के समान देखा ॥ ५ ॥
+    notes:
+      author: grandfather
+      text: |
+        अत्यन्त भूख से व्याकुल सारस पक्षियों को गङ्गा के किनारे दोनो तटों पर चहचहाते हुए देखकर लगता था कि ये अपनी भूख मिटाने के लिए भगवती गङ्गा की स्तुति ही कर रहे हैं; जैसे किसी अतिशय समृद्धिवैभवशाली व्यक्ति के द्वार पर बार २ हटाये जाते रहने पर भी उदरपूर्ति परायण (पेटू) व्यक्ति वहाँ से हटने का नाम ही नहीं लेते । ५
+    translation_en:
+      author: ai_translation
+      text: |
+        Again, on both banks of the Gaṅgā, he saw flattering sāras birds, crying out in distress from hunger, like belly-fillers (gluttons) who stand respectfully at the doors of rich men who scorn them, speaking sweetly. (5)
+    notes_en:
+      author: ai_translation
+      text: |
+        Seeing the sāras birds, very distressed by hunger, chattering on both banks of the Gaṅgā, it seemed that they were only praising the goddess Gaṅgā to satisfy their hunger; just as, at the door of some very prosperous and wealthy person, people devoted to filling their bellies (gluttons) do not think of leaving even when driven away again and again. (5)
+  - number: 6
+    shlok: |
+      स पद्मिनीखण्ड मकाण्ड ताण्डवै-
+      र्बकै रतज्जै रहदेलितं मुहुः ।
+      ददर्श राज्ञां सदमात्यमण्डलं
+      कुमान्त्र्यवर्गै रसकृत्पराजितम् ॥ ६ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        He saw a cluster of lotuses again and again disturbed by herons, ignorant of them, with untimely tāṇḍava dances, like the circle of a king's good ministers repeatedly defeated by groups of bad ministers. (6)
+    translation:
+      author: amanuensis
+      text: |
+        पुनः उन्होंने असमय में ताण्डव-नृत्य निरत कमल की विशेषता से अनभिज्ञ बगुलों द्वारा तिरस्कृत पद्मसमूहों को कुमान्त्र्य जनों से बार-बार प्रताड़ित, राजाओं के सन्मान्त्रियों के समान देखा ॥ ६ ॥
+    notes:
+      author: grandfather
+      text: |
+        फिर मुनि मृकण्डु ने उन अनजाने गुणदोष का विचार न कर सकने वालों मूर्ख बगुलों (बकपङ्क्ति) को भी देखा, जिन्हें अत्यन्त सुभग मनोरम मृदु हास विलास करती कमलिनी के सौगन्ध्य माधुर्य सौन्दर्य की परिचय हीनता के कारण उनका विविध रूपों में तिरस्कार पूर्वक बार २ अपमान किया जा रहा है, जैसे किसी राजा की राज्य सभा में उत्तम उदात्त कोटि के उच्च विचारशील मन्त्रियों पर भी कुटिल कलुषित अविवेकी मन्त्रियों का दुष्प्रभाव बार २ पड़ता या डाला जाता है ।
+    translation_en:
+      author: ai_translation
+      text: |
+        Again he saw clusters of lotuses scorned by herons engaged in an untimely tāṇḍava dance and ignorant of the lotus's excellence, like the good ministers of kings repeatedly harassed by bad ministers. (6)
+    notes_en:
+      author: ai_translation
+      text: |
+        Then the sage Mṛkaṇḍu also saw those foolish herons (a row of herons), who could not judge merit and fault, by whom the very lovely, charming lotus, playing with soft laughter, was again and again insulted and scorned in various ways because they did not know her fragrance, sweetness and beauty; just as, in a king's council, the bad influence of crooked, impure, undiscerning ministers falls, or is brought to bear, again and again even on excellent, noble, high-minded ministers. (6)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

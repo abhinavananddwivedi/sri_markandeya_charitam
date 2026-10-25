@@ -1,0 +1,57 @@
+page_number_devanagari: "५०"
+page_number_arabic: 50
+image: "images/pages/p050.jpg"
+verses:
+  - number: 35
+    shlok: |
+      समाल्लपन्तं धृतवारिभिर्निजैः
+      सुतैराहूयत भोजनार्थतः ।
+      ततो गृहान्तर्गृहमेधिकर्मवित्
+      सवैश्वदेवं बलिमर्पयत्पुरा ॥ ३५ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        As he was talking, his sons, carrying water, called them to the meal; then, inside the house, he who knew the householder's duties first offered the vaiśvadeva bali. (35)
+    translation:
+      author: amanuensis
+      text: |
+        इस प्रकार बात करते हुए हाथ में पानी लिये लड़को ने भोजन के लिए बुलाया। बाद में उस गृहस्थ ने गृह के भीतर गृहस्थधर्मानुकूल वैश्वदेवबलि अर्पित किया ॥ ३५ ॥
+    notes:
+      author: grandfather
+      text: |
+        अभी यह बातें चल ही रही थीं कि गृहस्थ-मुनि के लड़के ने सजल कलश के साथ आकर भोजन करने के लिए सादर निवेदन किया, तदनन्तर उस गृही मुनि ने घर के भीतर जाकर गृहस्थ धर्माचरणानुरूप विश्वेदेवबलि का प्राथमिक कार्य सम्पन्न किया । ३५
+    translation_en:
+      author: ai_translation
+      text: |
+        As they were talking thus, boys with water in their hands called them to the meal. Then the householder, inside the house, offered the vaiśvadeva bali in accordance with the householder's dharma. (35)
+    notes_en:
+      author: ai_translation
+      text: |
+        These things were still being discussed when the householder sage's son came with a pot of water and respectfully invited them to eat. Then the householder sage went inside the house and completed the first duty, the vaiśvadeva bali, in keeping with the conduct of the householder's dharma. (35)
+  - number: 36
+    shlok: |
+      ततोऽतिथिं सत्कृतमभ्युपाविश-
+      न्नेकशाकैः सहसूपसंयुतम् ।
+      पयोविधानैः स किलाटकूर्चिकैः
+      समानिनायौदनमिन्दुसन्निभम् ॥ ३६ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then he sat by the honoured guest and brought rice like the moon, with many vegetables and soups, and with milk dishes, kilāṭa (thickened milk) and kūrcikā (curds). (36)
+    translation:
+      author: amanuensis
+      text: |
+        उसके बाद सत्कृत अतिथि के समीप बैठकर अनेक प्रकार के शाक, व्यञ्जन, दाल से युक्त कूर्चिक तथा पयोविधानों (दुग्ध प्रयोगों) के साथ चन्द्रोज्ज्वल भात परसा गया ॥ ३६ ॥
+    notes:
+      author: grandfather
+      text: |
+        इसके बाद पूर्व सत्कृत किए गये अतिथि के सन्निकट गृही मुनि ने बैठकर विविध प्रकार के सामयिक शाकों के साथ दाल और विविध प्रकार के दही, घी, पनीर, रबड़ी आदि स्निग्ध भोज्य पदार्थों के साथ चन्द्रमा के कान्ति के सदृश अत्यन्त धवल चावल का भात भी परसा । ३६
+    translation_en:
+      author: ai_translation
+      text: |
+        Then, sitting near the honoured guest, rice bright as the moon was served, with many kinds of vegetables and dishes, kūrcika with dal, and milk dishes. (36)
+    notes_en:
+      author: ai_translation
+      text: |
+        After this the householder sage sat near the guest, who had already been honoured, and served rice very white like the moon's light, with various seasonal vegetables and dal, and various rich foods such as curd, ghee, paneer and rabṛī. (36)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

@@ -30,10 +30,18 @@ verses:
         On this level land the sage Mṛkaṇḍu also saw endless rows of the farmers' fields, divided into small plots, in which crops waving with grain and swaying with ears, giving the farmers great joy, had charmed the farmers' minds. It seemed as if some brand-new, beautiful bride, covered in green clothes, were trying to draw her husband's mind toward herself. (9)
   - number: 10
     shlok: |
-      प्रपाय गाङ्गेयं पय उन्मुखं गृहे
+      प्रपीय गाङ्गं पय उन्मुखं गृहे
       दिवा चरित्वा हरितं तृणाङ्कुरम् ।
       गवां कदम्बं स विलोक्य निर्वृत-
       स्तथा हि मेने वसतिं समीपगाम् ॥ १० ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद १ "प्रपीय गाङ्गं" (पूर्व "प्रपाय गाङ्गेयं", एक अक्षर अधिक)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). Pāda 1 reads "प्रपीय गाङ्गं" (the earlier "प्रपाय गाङ्गेयं" has one syllable too many).
     shlok_en:
       author: ai_translation
       text: |

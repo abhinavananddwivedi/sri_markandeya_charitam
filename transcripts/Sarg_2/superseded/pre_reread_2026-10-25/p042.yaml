@@ -1,0 +1,57 @@
+page_number_devanagari: "४२"
+page_number_arabic: 42
+image: "images/pages/p042.jpg"
+verses:
+  - number: 19
+    shlok: |
+      स निर्विविक्षुरीदृशो तटोपगं
+      द्विजस्य शालीनवरस्य कस्यचित् ।
+      उदग्रधूमं किल सायमाहुतेः
+      सषड्गवं मन्दिरमुद्यतेजसः ॥ १९ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Wishing to rest, he saw near the bank the house of some modest, excellent brahmin, of fierce radiance, with six cows, the smoke of the evening oblation rising high. (19)
+    translation:
+      author: amanuensis
+      text: |
+        वे कुछ बोलने ही वाले थे कि उसने उग्रतेजस्वी किसी शालीनश्रेष्ठ ब्राह्मण के द्वारा किये गये सायंकालीन आहुति का ऊपर उठे धूम को तथा षड्गव (छह गायों) के साथ घर को देखा ॥ १९ ॥
+    notes:
+      author: grandfather
+      text: |
+        अभी अभी वह कुछ बोलने के लिए सोच ही रहे थे कि उस गङ्गा के तट पर ही किसी अतिशय शालीन ब्राह्मण श्रेष्ठ द्वारा की गई सान्ध्यकालीन आहुतियों की ऊपर उठी हुई धूम राशि के साथ ही छह गायों से परिपूर्ण अत्यन्त तेजस्वी किसी कर्मनिष्ठ ब्राह्मण की कुटिया दिखाई पड़ी । १९
+    translation_en:
+      author: ai_translation
+      text: |
+        He was just about to say something when he saw the smoke rising from the evening oblation made by some excellent, modest brahmin of fierce radiance, and his house with six cows. (19)
+    notes_en:
+      author: ai_translation
+      text: |
+        He was just now thinking of saying something when, on that very bank of the Gaṅgā, he saw the mass of smoke rising from the evening oblations made by some very modest, excellent brahmin, and with it the hut of some very radiant brahmin devoted to his duties, full of six cows. (19)
+  - number: 20
+    shlok: |
+      कृत्वा हुतिं द्वारि बहिर्गतागतं चरन्
+      सपादुकः क्रोडगतं शिशुं वहन् ।
+      नियोजयन्कर्मणि पुत्रपौत्रकान्
+      गृहाधिपः सन्ददृशेऽमुना तदा ॥ २० ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having made the oblation, going in and out at the door, wearing sandals, carrying a child in his lap, setting his sons and grandsons to their work, the master of the house was then seen by him. (20)
+    translation:
+      author: amanuensis
+      text: |
+        आहुति करके खड़ाऊ पहनकर गोद में बालक को लिए हुए पुत्र-पौत्रों को कार्य में नियुक्त करते हुए तथा द्वार पर गतागत करते हुए किसी गृहस्वामी को उसने देखा ॥ २० ॥
+    notes:
+      author: grandfather
+      text: |
+        तब तक ऋषि मृकण्ड ने एक कर्मनिष्ठ ब्राह्मण जो सांध्य आहुति समाप्त कर खड़ाऊँ पहने गोदी में एक सुकुमार शिशु को लिए हुए अपने पुत्र पौत्रादि परिवारी जनों को यथायोग्य आवश्यक कार्य सम्पादन के लिए निर्देशित करते हुए घर के भीतर बाहर आते जाते हुए सद्गृहस्थ गृहपति को साश्चर्य देखा । २०
+    translation_en:
+      author: ai_translation
+      text: |
+        He saw a master of a house who, having made the oblation and put on wooden sandals, held a child in his lap, set his sons and grandsons to work, and was going in and out at the door. (20)
+    notes_en:
+      author: ai_translation
+      text: |
+        Meanwhile the sage Mṛkaṇḍu saw with wonder a brahmin devoted to his duties, a good householder and master of the house, who had finished the evening oblation, wore wooden sandals, held a tender child in his lap, and was going in and out of the house directing his sons, grandsons and other family members to do the necessary work as fitting. (20)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

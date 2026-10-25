@@ -1,0 +1,57 @@
+page_number_devanagari: "४३"
+page_number_arabic: 43
+image: "images/pages/p043.jpg"
+verses:
+  - number: 21
+    shlok: |
+      ततः सुदूरादुपयान्तमात्मनो
+      गृहोन्मुखं वर्णिबरं विलोकयन् ।
+      कृतानतिः संप्रणमय्य बालकान्
+      चकार सम्मोदिममुं सदार्चितम् ॥ २१ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then, seeing the excellent brahmacārī coming toward his house from far off, he bowed, made the children bow, and gladly honoured him. (21)
+    translation:
+      author: amanuensis
+      text: |
+        उसके बाद बहुत दूर से अपने घर के तरफ आते हुए ब्रह्मचारी को देखकर प्रणाम किया, बालकों से भी प्रणाम कराकर उसने उनकी पूजा की ॥ २१ ॥
+    notes:
+      author: grandfather
+      text: |
+        तब तक काफी दूर से अपने घर की ओर आते हुए उस ब्रह्मचारी को देखकर उस गृहपति ने सविनय प्रणाम किया, साथ ही अपने घर के सभी सदस्यों एवं बालकों से भी उनका सादर प्रणाम करा सूर्यास्त के समय में अपने घर आये हुए अनजान उस ब्रह्मचारी अतिथि की सादर अर्चना की । २१
+    translation_en:
+      author: ai_translation
+      text: |
+        After that, seeing the brahmacārī coming toward his house from far off, he bowed, made the children bow too, and worshipped him. (21)
+    notes_en:
+      author: ai_translation
+      text: |
+        Meanwhile, seeing that brahmacārī coming toward his house from quite far off, the master of the house bowed humbly; he also had all the members of his household and the children bow respectfully to him, and he respectfully worshipped that unknown brahmacārī guest who had come to his house at sunset. (21)
+  - number: 22
+    shlok: |
+      उपाजहाराथ स यज्ञियां वृषीं
+      सुविष्टरं पाद्यमथार्घ्यमुत्तमम् ।
+      ततः समाचान्तममुं सुबोधितं
+      सवत्सधेन्वा मधुपर्कमाहरत् ॥ २२ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then he brought him a sacrificial seat, a fine mat, water for the feet and an excellent arghya; then, when he had sipped water and was at ease, he brought the madhuparka, with a cow and calf. (22)
+    translation:
+      author: amanuensis
+      text: |
+        उन्होंने यज्ञिय आसन, बैठने के आसन, पाद्य, उत्तम अर्घ्य ब्रह्मचारी को प्रदान किया। पाद्यार्घ्य लेने के बाद सुखपूर्वक बैठे हुए ब्रह्मचारी को सवत्सा धेनु के माध्यम से मधुपर्क समर्पित किया ॥ २२ ॥
+    notes:
+      author: grandfather
+      text: |
+        उस अतिथि ब्रह्मचारी के बैठने के लिए यज्ञीय आसन तथा पादप्रक्षालनार्थ जल, एवं अर्घ्य आदि उचित सत्कार सम्पादित कर उनके हाथ पैर धोकर आचमन कर सुखपूर्वक बैठ जाने के बाद अपनी सवत्सा गो देवी द्वारा सम्पादित मधुमिश्रित मधुपर्क भी समर्पित किया । २२
+    translation_en:
+      author: ai_translation
+      text: |
+        He gave the brahmacārī a sacrificial seat, a seat to sit on, water for the feet and an excellent arghya. After he had taken the water and arghya and was seated at ease, he offered him the madhuparka by means of a cow with her calf. (22)
+    notes_en:
+      author: ai_translation
+      text: |
+        For that brahmacārī guest he provided a sacrificial seat to sit on, water for washing the feet, arghya and other proper honours; after the guest had washed his hands and feet, sipped water and sat down at ease, he also offered madhuparka mixed with honey, prepared [with milk] from his cow-goddess with her calf. (22)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

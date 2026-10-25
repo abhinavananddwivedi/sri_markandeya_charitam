@@ -31,13 +31,21 @@ verses:
   - number: 18
     shlok: |
       निरुद्धवायुर्विषयातिगो मुनि-
-      र्विभिद्य सङ्कल्पपुटमपि प्रभुम् ।
+      र्विभिद्य सद्यस्त्रिपुटीमपि प्रभुम् ।
       विचिन्त्य पश्चाद्विरतः समाधितः
       शुशोच रात्रिं निनिनीषुरुद्यतः ॥ १८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद २ "सद्यस्त्रिपुटीम्" (पूर्व "सङ्कल्पपुटम्" भ्रान्त था)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). Pāda 2 reads "सद्यस्त्रिपुटीम्" (the earlier "सङ्कल्पपुटम्" was wrong).
     shlok_en:
       author: ai_translation
       text: |
-        Holding his breath, passing beyond the objects of sense, the sage pierced even the shell of resolve, contemplated the Lord, and afterwards, withdrawing from samādhi, thought about the night, eager to pass it. (18)
+        His breath restrained, beyond the reach of the senses, the sage at once broke through even the triad [of knower, known and knowing] to the Lord; then, coming out of samādhi and reflecting, he grieved, ready to pass the night. (18)
     translation:
       author: amanuensis
       text: |

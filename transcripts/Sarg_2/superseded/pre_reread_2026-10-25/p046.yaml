@@ -1,0 +1,57 @@
+page_number_devanagari: "४६"
+page_number_arabic: 46
+image: "images/pages/p046.jpg"
+verses:
+  - number: 27
+    shlok: |
+      क्व ते जनिः कोऽस्ति पिताऽभिधापि का
+      प्रतिष्ठसे कुत्र च किं चिकीर्षसि ।
+      ममैव वाऽनुग्रहवाञ्छया विभो !
+      समागताः सन्निह शंकरः स्वयम् ॥ २७ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Where were you born? Who is your father, and what is your name? Where are you going, and what do you wish to do? Or, O lord, has Śaṅkara himself come here, wishing to show me favour?" (27)
+    translation:
+      author: amanuensis
+      text: |
+        आप का जन्म कहाँ हुआ? आपके पिता कौन हैं? आप का नाम क्या है? आप कहाँ प्रस्थान कर रहे हैं? आप क्या चाहते हैं? अथवा मुझ पर कृपा करने की इच्छा से मेरे घर पर आप साक्षात् शंकर ही आये हैं? ॥ २७ ॥
+    notes:
+      author: grandfather
+      text: |
+        आप का जन्म कहाँ हुआ है, आप के पिताजी कौन हैं? आपका शुभ नाम क्या है? आप कहाँ जा रहे हैं? आप आगे क्या करना चाहते हैं? अथवा मेरे ऊपर अहैतुकी कृपा करने की अभिलाषा से मेरे घर पर आप साक्षात् भगवान् शंकर स्वरूप स्वयं पधारे हैं? २७
+    translation_en:
+      author: ai_translation
+      text: |
+        "Where were you born? Who is your father? What is your name? Where are you setting out for? What do you want? Or have you, Śaṅkara himself, come to my house wishing to show me favour?" (27)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Where were you born? Who is your father? What is your good name? Where are you going? What do you want to do next? Or have you come to my house as Lord Śaṅkara himself, wishing to show me favour without cause?" (27)
+  - number: 28
+    shlok: |
+      ततः स वर्णी स्मितपूर्वमुज्जगा-
+      दवेहि धातुस्तनयं महामुने ! ।
+      अधीत्य विद्यामधिगम्य सत्यतः
+      परामथो लोकगतेर्बुभुत्सया ॥ २८ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then that brahmacārī said with a smile: "Know me, great sage, as the son of Dhātā; having studied, and truly attained the highest knowledge, [I set out] then, wishing to understand the course of the world." (28)
+    translation:
+      author: amanuensis
+      text: |
+        तब उस ब्रह्मचारी ने स्मितपूर्वक बोले- पढ़ें हे महामुनि! मुझे आप धाता का पुत्र जाने। लोकगति को जानने की इच्छा से मैने यावत् विद्या की प्राप्ति कर ली ॥ २८ ॥
+    notes:
+      author: grandfather
+      text: |
+        यह सुनते ही उस ब्रह्मचारी ने अत्यन्त सहज मृदु मुस्कान के साथ कहना शुरू किया, हे महर्षिप्रवर! आप मुझे श्री धाता का पुत्र जानें, मैंने आचार्य पादों से ग्रहण पूर्वक लोकगति का सम्यक् ज्ञान प्राप्त करने के लिए परा तथा अपरा (आत्मज्ञान सम्पादिका परा विद्या सम्पूर्ण लौकिक ज्ञान की सम्पादिका अपरा) अर्थात् श्रेय और प्रेय दोनों प्रकार की विद्याओं का सम्यक् अनुशीलन किया है। २८
+    translation_en:
+      author: ai_translation
+      text: |
+        Then that brahmacārī said with a smile: "Great sage! Know me as the son of Dhātā. Wishing to know the course of the world, I have obtained all the knowledge I could." (28)
+    notes_en:
+      author: ai_translation
+      text: |
+        Hearing this, that brahmacārī began to speak with a very natural, soft smile: "Best of great sages! Know me as the son of Śrī Dhātā. To gain a proper knowledge of the course of the world, receiving it from my revered teachers, I have thoroughly studied both the higher and the lower (the higher knowledge that brings knowledge of the self, and the lower that brings all worldly knowledge), that is, both kinds of learning, of the good (śreyas) and of the pleasant (preyas)." (28)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

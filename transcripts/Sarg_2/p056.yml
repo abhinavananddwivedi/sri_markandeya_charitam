@@ -30,10 +30,18 @@ verses:
         "Revered householder, great sage! I have studied various kinds of learning, but I still find myself wholly unable to decide on land fit for my dwelling. So please direct me yourself to a proper place approved by the science of building, so that I can obtain a proper place to live according to your direction." (47)
   - number: 48
     shlok: |
-      सुबुद्धिरप्युद्विजते सदैवैकलः
+      सुबुद्धिरप्युद्विजते सदैकलः
       समागते कार्यविधौ महत्तरे ।
       मुहुर्विमर्शार्थमुपान्तिके क्वचि-
       न्निवेश्य पुत्रानुगुणं प्रशाधि माम् ॥ ४८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद १ "सदैकलः" (पूर्व "सदैवैकलः", एक अक्षर अधिक)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). Pāda 1 reads "सदैकलः" (the earlier "सदैवैकलः" has one syllable too many).
     shlok_en:
       author: ai_translation
       text: |

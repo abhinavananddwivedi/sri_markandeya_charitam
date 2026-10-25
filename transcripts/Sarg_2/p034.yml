@@ -8,6 +8,14 @@ verses:
       प्रमज्जनोन्मज्जनजातविस्मयः ।
       जान्स्म संसारपयोनिधावमी
       प्रतर्कयामास भवाप्ययावपि ॥ ३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद ३ ("जान्स्म संसार…") छन्द में नहीं बैठता; आरम्भिक शब्द पाण्डुलिपि में अस्पष्ट है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. Pāda 3 ("जान्स्म संसार…") does not scan; its opening word is unclear in the manuscript.
     shlok_en:
       author: ai_translation
       text: |
@@ -34,6 +42,14 @@ verses:
       र्हृदाशितिं शुक्लतरञ्च बाह्यतः ।
       स्वकार्यसिद्धि व्यपदेश निश्चयं
       जनं स दम्भाकृतं धिक्कृतं न्वमन्यत ॥ ४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद ४ पाण्डुलिपि में "जनं स दम्भाकृतिधिक्कृतं न्वमन्यत" जैसा है, जो छन्द से लम्बा है; यथावत्।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. Pāda 4 looks like "जनं स दम्भाकृतिधिक्कृतं न्वमन्यत" in the manuscript, which is longer than the metre allows; kept as written.
     shlok_en:
       author: ai_translation
       text: |

@@ -1,0 +1,57 @@
+page_number_devanagari: "५५"
+page_number_arabic: 55
+image: "images/pages/p055.jpg"
+verses:
+  - number: 45
+    shlok: |
+      निशात्यये स्वप्नमपश्यदसौ दिदृक्षौ
+      गृहस्थितिं स्वां परिणीतिपूर्वकम् ।
+      अनिष्टशंकाकलितः समुत्थितः
+      चिरं प्रदध्यौ किल काशिकुक्कुटौ ॥ ४५ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        At the end of the night he, wishing to see [it], saw in a dream his own household life, beginning with his marriage; seized by fear of ill, he got up and long meditated on Kāśī and Kukkuṭa. (45)
+    translation:
+      author: amanuensis
+      text: |
+        रात्रि की समाप्ति में अर्थात् भोर में इन्होंने ऐसा स्वप्न देखा परिणय के पूर्व गृहस्थिति को ही (स्वप्न में अवलोकन) किया, तो अनिष्ट की शंका से भर कर उठते ही चिरकाल तक काशि और कुक्कुट का ध्यान किया ॥ ४५ ॥
+    notes:
+      author: grandfather
+      text: |
+        रात्रि के अन्तिम प्रहर में मुनि मृकण्ड ने विवाह पूर्ण हो जाने की अपनी स्थिति का अद्भुत स्वप्न देखा, लगा कि वे अपना विवाह सम्पन्न कर चुके हैं। यों अनिष्ट की आशंका से उनका हृदय सिहर उठा, वे तुरन्त उठ बैठे और बड़ी देर तक पुण्यपुरी काशी तथा कुक्कुटेश्वर महादेव का स्मरण करते रहे। ४५
+    translation_en:
+      author: ai_translation
+      text: |
+        At the end of the night, that is, at dawn, he saw a dream: he saw (in the dream) his household life before his marriage. Filled with fear of something bad, as soon as he rose he meditated for a long time on Kāśī and Kukkuṭa. (45)
+    notes_en:
+      author: ai_translation
+      text: |
+        In the last watch of the night the sage Mṛkaṇḍa saw a wonderful dream of his state after his marriage was complete; it seemed that he had already had his wedding. At this his heart shuddered with fear of something bad; he sat up at once and for a long time kept remembering the holy city of Kāśī and Kukkuṭeśvara Mahādeva. (45)
+  - number: 46
+    shlok: |
+      गृहाधिपं नित्यविधौ समाहृतं
+      प्रयातुमापृच्छुमथानुपागतः ।
+      प्रणम्य गोत्राद्यनुकीर्त्य सादरं
+      कृताञ्जलिर्वाक्यमुवाच धीरवान् ॥ ४६ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        He went to the master of the house, who was engaged in his daily rites, to ask leave to depart; bowing and respectfully reciting his gotra and so on, with joined palms, the steady one spoke these words. (46)
+    translation:
+      author: amanuensis
+      text: |
+        प्रस्थानार्थ नित्यविधि में समाहृत (संलग्न) गृहस्वामी के पास पूछने के लिए आया, आदर पूर्वक गोत्रादि नाम पूर्वक प्रणाम करके हाथ जोड़कर उस धैर्यशाली ने यह बात कही ॥ ४६ ॥
+    notes:
+      author: grandfather
+      text: |
+        अपने प्रभातिक दैनिक नित्य कर्म में संलग्न रहने वाले गृही मुनि के पास अपने जाने के लिए अनुमति मांगने उस उदात्तविचारशील मुनि मृकण्ड ने आकर अपने गोत्रोच्चारण पूर्वक सविनय प्रणाम कर दोनों हाथों को जोड़कर बड़ी धीरता के साथ सविनय यह बातें कहीं । ४६
+    translation_en:
+      author: ai_translation
+      text: |
+        He came to the master of the house, who was engaged in his daily rites, to ask leave to set out. Bowing respectfully, naming his gotra and so on, with joined hands, that steady one said this. (46)
+    notes_en:
+      author: ai_translation
+      text: |
+        To the householder sage, who was engaged in his daily morning rites, the noble-minded sage Mṛkaṇḍa came to ask permission to leave; reciting his gotra, he bowed humbly, joined both hands, and very steadily and humbly said these things. (46)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

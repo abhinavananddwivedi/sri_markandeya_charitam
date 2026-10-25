@@ -1,0 +1,57 @@
+page_number_devanagari: "५४"
+page_number_arabic: 54
+image: "images/pages/p054.jpg"
+verses:
+  - number: 43
+    shlok: |
+      तमाचमय्यास्य सुताः सुतल्पकेऽ-
+      ध्यशीशयन् कर्मकरा इव प्रभुम् ।
+      शिरःप्रदेशे जलसम्प्लुतं घटं
+      निधाय गता गृहकर्मतत्पराः ॥ ४३ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        His sons, having had him rinse his mouth, laid him on a good bed, as servants [would] their master; placing a pot filled with water at his head, they went off, intent on the work of the house. (43)
+    translation:
+      author: amanuensis
+      text: |
+        गृहस्वामी के पुत्रगण महात्मा के हाथ धुलाकर उन्हें अच्छे बिस्तर पर शयन कराये। उनके शिरः प्रदेश में जलपूर्ण कलश रखकर गृह के अन्य कार्य में जाकर लग गये ॥ ४३ ॥
+    notes:
+      author: grandfather
+      text: |
+        गृही के आज्ञाकारी पुत्रों ने उनका भोजनोपरान्त हाथ पैर धुलाकर अच्छे कोमल स्वच्छ बिस्तर पर उन्हें सुलाया तथा उनके शिरः प्रदेश में ढके हुए जल पूर्ण कलश स्थापित कर जैसे सेवक अपने स्वामी की आज्ञाकारिता पूर्ण सेवा करता है वैसे संविनय कार्य पूर्णकर अपने दैनन्दिन गृह कार्य में संलग्रता की। ४३
+    translation_en:
+      author: ai_translation
+      text: |
+        The master of the house's sons washed the great soul's hands and laid him on a good bed. Placing a pot full of water at his head, they went and busied themselves with other work of the house. (43)
+    notes_en:
+      author: ai_translation
+      text: |
+        The householder's obedient sons, after the meal, washed his hands and feet and laid him on a good, soft, clean bed; placing a covered pot full of water at his head, and completing the task humbly, as a servant serves his master in full obedience, they busied themselves with their daily household work. (43)
+  - number: 44
+    shlok: |
+      मुनिश्च तल्पे स्वमभीष्टदं प्रभुं
+      तथा विषघ्नांश्च तथैव गारुडान् ।
+      मनून्स्मरन् सत्सुखशायितो मुहु-
+      र्द्वितीययामे शयितुं प्रचक्रमे ॥ ४४ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        And the sage on the bed, remembering his Lord, giver of what is desired, and the Gāruḍa mantras that destroy poison, lay down at ease and, in the second watch, began to sleep. (44)
+    translation:
+      author: amanuensis
+      text: |
+        महात्मा मृकण्डु बिस्तर पर अपने अभीष्टपूरक प्रभु को तथा विष से त्राण करने वाले गारुड मन्त्रों को स्मरण करते हुए द्वितीय याम में सुख पूर्वक शयनार्थ तत्पर हुए ॥ ४४ ॥
+    notes:
+      author: grandfather
+      text: |
+        आगन्तुक ऋषि मृकण्ड ने भी अपने आस्तरण पर सुख पूर्वक सोते हुए, अपने अभीष्ट पूर्ण करने वाले परात्पर प्रभु का स्मरण करते हुए, रात्रि के विषादि बाधाओं से सुरक्षा की कामना से गरुड़ देव सम्बन्धी विविध 'गारुड' मन्त्रों का स्मरण करते हुए, रात्रि के द्वितीय प्रहर में सुख पूर्वक शयन किया। ४४
+    translation_en:
+      author: ai_translation
+      text: |
+        The great soul Mṛkaṇḍu, on the bed, remembering his Lord who fulfils his wishes, and the Gāruḍa mantras that protect from poison, got ready to sleep at ease in the second watch. (44)
+    notes_en:
+      author: ai_translation
+      text: |
+        The visiting sage Mṛkaṇḍa too, sleeping at ease on his bedding, remembering the Lord beyond the highest who fulfils his wishes, and remembering various Gāruḍa mantras relating to the god Garuḍa, wishing for protection from poison and other dangers of the night, slept at ease in the second watch of the night. (44)
+source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

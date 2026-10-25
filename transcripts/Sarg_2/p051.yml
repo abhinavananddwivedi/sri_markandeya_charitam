@@ -7,7 +7,15 @@ verses:
       इदं किल स्वादिदमप्यतः परं
       द्विजोपभोग्यं त्वयका यथारुचि ।
       इतीव तत्प्रार्थनया वशीकृतो
-      यथेष्टमाहारमिवैष चकार सः ॥ ३७ ॥
+      यथेष्टमाहारमसौ चकार सः ॥ ३७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद ४ "माहारमसौ" छन्द के अनुसार; पाण्डुलिपि में "मसौ" के अक्षर अस्पष्ट हैं (पूर्व "माहारमिवैष", एक अक्षर अधिक)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. Pāda 4 reads "माहारमसौ", following the metre; the letters of "मसौ" are unclear in the manuscript (the earlier "माहारमिवैष" has one syllable too many).
     shlok_en:
       author: ai_translation
       text: |
@@ -34,6 +42,14 @@ verses:
       सभाजयन्सत्कृतिमस्य यत्नतः ।
       उवाच धीरस्वरमूर्जितप्रभः
       स्तवेह दारादिनिवृत्तिर्भविष्यति ॥ ३८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद ४ ("स्तवेह दारादि…भविष्यति") छन्द में नहीं बैठता; पाण्डुलिपि में "दाराद्विनिवृतं" जैसा भी पढ़ा जा सकता है; अनिश्चित।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. Pāda 4 ("स्तवेह दारादि…भविष्यति") does not scan; the manuscript could also be read "दाराद्विनिवृतं"; uncertain.
     shlok_en:
       author: ai_translation
       text: |
@@ -54,4 +70,5 @@ verses:
       author: ai_translation
       text: |
         After the meal the guest sage, opening up his speech, began to speak, greatly praising the combined hospitality given by the householder sage. In his very generous, cultured speech he praised again and again the hospitality they had given and said: "This service and care you have given will become famous everywhere, far and wide." (38)
+notes_uncertain: true
 source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."
