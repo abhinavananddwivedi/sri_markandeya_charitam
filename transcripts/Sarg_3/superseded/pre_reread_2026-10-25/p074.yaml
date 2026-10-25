@@ -1,0 +1,57 @@
+page_number_devanagari: "७४"
+page_number_arabic: 74
+image: "images/pages/p074.jpg"
+verses:
+  - number: 28
+    shlok: |
+      तं ततः समुपेत्य सम्मुखं
+      दण्डवत्प्रणिपपात सादरम् ।
+      इङ्गितेन परिसान्त्व्य सोऽचिरात्
+      सन्मुनिस्तमपि साध्वयासदत् ॥ २८ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then he went before him and respectfully fell prostrate like a staff; [Parāśara], comforting him by a gesture, soon, as a good sage, duly received him too. (28)
+    translation:
+      author: amanuensis
+      text: |
+        महर्षि मृकण्डु ने उनके पास जाकर उन्हें आदरपूर्वक दण्डवत् प्रणाम किया । इशारे से उन्हें सान्त्वना प्रदान कर सज्जनमुनि पराशर ने भी शीघ्र उनकी पूजा सत्कार की इच्छा की ॥ २८ ॥
+    notes:
+      author: grandfather
+      text: |
+        महर्षि पराशर को देखते ही मुनि मृकण्ड ने उनके निकट जाकर ससम्मान उनके चरणों में दण्डवत् प्रणिपात किया, उदार महर्षि पराशर ने तुरन्त उन्हें अपने सहृदय संकेत से आश्वस्त करते हुए तुरन्त ही उन्हें सान्त्वना पूर्ण ढंग से आश्वस्त किया । २८
+    translation_en:
+      author: ai_translation
+      text: |
+        Maharṣi Mṛkaṇḍu went to him and bowed respectfully, prostrate like a staff. Comforting him with a gesture, the good sage Parāśara too quickly wished to worship and honour him. (28)
+    notes_en:
+      author: ai_translation
+      text: |
+        As soon as he saw Maharṣi Parāśara, the sage Mṛkaṇḍa went near him and respectfully prostrated himself like a staff at his feet; the generous Maharṣi Parāśara at once reassured him with a kind gesture and comforted him at once in a soothing way. (28)
+  - number: 29
+    shlok: |
+      किञ्च शिष्यसहकारतो मुनिः
+      पाद्यमर्घ्यं मधुपर्क इत्यदम् ।
+      सम्मुखेन कतिधोच्चरञ्जवा-
+      त्तेन मृकण्डुरधुना समार्च्यत ॥ २९ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        And the sage, with his disciples' help, calling out several times in haste, "water for the feet, arghya, madhuparka", now had Mṛkaṇḍu honoured by them. [Partly unclear.] (29)
+    translation:
+      author: amanuensis
+      text: |
+        और शिष्यों के माध्यम से मुनि पराशर जी पाद्य अर्घ्य मधुपर्क यह सब सम्मानपूर्वक कई बार उच्चारण करते हुए सम्प्रति महर्षि मृकण्डु की अर्चना करायी ॥ २९ ॥
+    notes:
+      author: grandfather
+      text: |
+        साथ ही अपने प्रिय शिष्य को पाद्य, अर्घ्य, मधुपर्क इत्यादि के लिए शीघ्रता में कई बार उच्चारण करते हुए मुनि मृकण्ड की मधुपर्कादि विविध उपचारों से ससम्मान विधिवत् परिचर्या की । २९
+    translation_en:
+      author: ai_translation
+      text: |
+        And through his disciples, the sage Parāśara, respectfully calling out several times "water for the feet, arghya, madhuparka", now had Maharṣi Mṛkaṇḍu worshipped. (29)
+    notes_en:
+      author: ai_translation
+      text: |
+        At the same time, calling out several times in haste to his dear disciple for water for the feet, arghya, madhuparka and the like, he duly and respectfully attended to the sage Mṛkaṇḍa with madhuparka and various other offerings. (29)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

@@ -11,11 +11,11 @@ verses:
     manuscript_note:
       author: ai_transcription
       text: |
-        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में `याच्यतां नरपतिः पुनः कते / सम्भ्रितेश्च कृत सम्भरेत् / कारुकैश्च प्रतिमन्तरण कथं / कुर्वते स्म मम कार्यमन्वरम्` लिखा है, जिसका आशय मुनि मृकण्डु की तीन शंकाओं से है: १. किस राजा से भूमि माँगी जाए, २. निर्माण सामग्री कहाँ से जुटेगी, ३. कारीगर बिना पारिश्रमिक के कार्य कैसे करेंगे। वृत्त: रथोद्धता
+        वृत्त: रथोद्धता। पाद २–३ छन्द में नहीं बैठते (पाद २ में केवल ९ अक्षर); पाण्डुलिपि में फीके हैं; पुनः पठन आवश्यक।
     manuscript_note_en:
       author: ai_transcription
       text: |
-        Paleographic / Textual Note: The handwritten page reads `याच्यतां नरपतिः पुनः कते / सम्भ्रितेश्च कृत सम्भरेत् / कारुकैश्च प्रतिमन्तरण कथं / कुर्वते स्म मम कार्यमन्वरम्`. As confirmed by both Hindi renderings, it raises three practical questions: 1. From which king should land be requested? 2. From where shall construction materials be assembled? 3. How will craftsmen perform the work diligently without wages? Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+        Metre: Rathoddhatā. Pādas 2–3 do not scan (pāda 2 has only nine syllables); they are faint in the manuscript and need re-reading.
     shlok_en:
       author: ai_translation
       text: |

@@ -1,0 +1,73 @@
+page_number_devanagari: "८१"
+page_number_arabic: 81
+image: "images/pages/p081.jpg"
+verses:
+  - number: 42
+    shlok: |
+      यान्ति सिद्धिरिह ते द्विजोत्तमाः
+      यद्यदेव मनसा समीहितम्।
+      तेन तेऽत्र किल भारती प्रजा
+      कुर्वते समुपनेतुमादृताः॥ ४२॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाद ३-४ में भारतवर्ष की प्रजा द्वारा द्विजश्रेष्ठों के संकल्प मात्र से सामग्री समर्पित करने का परम्परागत उल्लेख है। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: The verse extols the traditional spiritual power of exalted brāhmaṇas whose mere mental resolve (saṅkalpa) prompts the righteous subjects of Bhāratavarṣa to supply whatever is needed. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Excellent brahmins, here, whatever they desire in their minds attains fulfilment; by this the people of Bhārata here eagerly do it, to bring it to you." (42)
+    translation:
+      author: amanuensis
+      text: |
+        ब्राह्मणों की वाणी में सिद्धि है, तुमने मन से जो-जो इच्छा की है, वे सभी भारती प्रजा तुम्हारे लिये उपस्थित करेंगे॥ ४२॥
+    notes:
+      author: grandfather
+      text: |
+        उदारशय उच्च द्विजश्रेष्ठों की वाणी स्वयं सिद्ध हुआ करती हैं, वे जिन वस्तुओं की मानस परिकल्पना करते हैं, वे सभी वस्तुयें इस भूभाग में रहने वाली प्रजा स्वतः उन्हें उपलब्ध करा देती हैं। ब्राह्मणों द्वारा मानस परिकल्पना मात्र से उनके आराध्यामूल्य सभी कार्य स्वतः पूर्ण हो कर देने वाली इस भारतवर्ष देश की प्रजा की विशेषता रही है। ४२
+    translation_en:
+      author: ai_translation
+      text: |
+        "There is power of fulfilment in the speech of brahmins; whatever you have wished in your mind, all the people of Bhārata will bring before you." (42)
+    notes_en:
+      author: ai_translation
+      text: |
+        "The speech of generous, high-minded, excellent brahmins is fulfilled of itself; whatever things they imagine in their minds, the people living in this land provide them of their own accord. It has been the special quality of the people of this land of Bhāratavarṣa that, at the mere imagining of brahmins, all the work they hold dear is completed of itself." (42)
+  - number: 43
+    shlok: |
+      यावती च खलु भूमिरपेक्ष्यते
+      यानि चोपकरणानि साम्प्रतम्।
+      मन्निदेशवशवर्तिनी प्रजा
+      तानि ते समुपढौकयिष्यति॥ ४३॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद ४ में `तानि ते समुपढौकयिष्यति` स्पष्ट पठनीय है। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Line 4 clearly reads `तानि ते समुपढौकयिष्यति` [shall reverently present unto you]. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "As much land as is needed, and whatever implements [are needed] now, the people who follow my direction will bring them to you." (43)
+    translation:
+      author: amanuensis
+      text: |
+        तुम्हें जितनी भूमि की आवश्यकता है उस समय जो जो सामग्री अपेक्षित है, वे सभी की पूर्ति मेरी आज्ञा के वशीभूत प्रजाएँ पूर्ण करेंगी॥ ४३॥
+    notes:
+      author: grandfather
+      text: |
+        प्रिय! आपको जितनी भूमि की आवश्यकता है और इस समय जिन-जिन अन्य आवश्यक वस्तुओं की भी आवश्यकता है वे सारी वस्तुये मेरे मात्र आदेश मात्र से मेरे अधीन भूभाग की मेरी ये प्रजा स्वतः आपके पास पहुँचा दिया करेगी। ४३
+    translation_en:
+      author: ai_translation
+      text: |
+        "However much land is required by you, and whatever building materials and implements are needed at this moment, the devoted subjects abiding obediently by my direction will bring and offer them respectfully to you." (Verse 43)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Beloved child! However much land you require, and whatever additional essential articles and materials are needed at this juncture, all of them shall be delivered directly into your hands spontaneously by these subjects inhabiting the territories under my spiritual jurisdiction, solely upon my word." (43)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. This page's source markdown uses the later antigravity 'dialect B': the shlok is a fenced code block rather than a blockquote, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

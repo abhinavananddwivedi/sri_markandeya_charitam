@@ -1,0 +1,57 @@
+page_number_devanagari: "६९"
+page_number_arabic: 69
+image: "images/pages/p069.jpg"
+verses:
+  - number: 17
+    shlok: |
+      नित्यकर्म निखिलं समाप्य सः
+      प्राप्तुमाप्तमधिकत्वरान्वितः ।
+      यामयुग्ममभिक्रम्य वासरे
+      प्राप तापहरणं शुभाश्रमम् ॥ १७ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having finished all his daily rites, he, in great haste to reach that trustworthy one, went on for two watches of the day and reached the auspicious hermitage that takes away distress. (17)
+    translation:
+      author: amanuensis
+      text: |
+        वे महात्मा मृकण्डु समस्त नित्यकर्म समाप्त कर (आप्तवाक्य यथार्थ वक्ता) यथार्थवादी को पाने के लिए शीघ्रता से दिन के दो प्रहर बीतने पर दिन के मध्य में तापहारी शुभाश्रम में आये ॥ १७ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्ड ने बड़े सवेरे ही उठकर दैनन्दिन नित्यकर्म समाप्त कर बड़ी शीघ्रता से अपने अतिशय प्रिय व्यक्ति एवं यथार्थ-वक्ता महर्षि पराशर जी से मिलने की उत्कट अभिलाषा से २ प्रहर तक निरन्तर चलते हुए दिन के मध्य में (दोपहर में) मुनि पराशर जी के आश्रम जो सदा शान्त तथा सन्ताप हरने में प्रसिद्ध था में आ पहुँचे । १७
+    translation_en:
+      author: ai_translation
+      text: |
+        That great soul Mṛkaṇḍu, having finished all his daily rites, hurried to reach the trustworthy one (āpta, one who speaks truly), and when two watches of the day had passed, at midday, he came to the auspicious hermitage that takes away distress. (17)
+    notes_en:
+      author: ai_translation
+      text: |
+        The sage Mṛkaṇḍa rose very early, finished his daily rites, and, with an intense longing to meet Maharṣi Parāśara, a person very dear to him and a speaker of truth, walked on without stopping for two watches and at midday (noon) reached the sage Parāśara's hermitage, which was always peaceful and famous for taking away distress. (17)
+  - number: 18
+    shlok: |
+      दूरतः स किल गोमतीतटे
+      मध्यमाह्निकविधौ सुलम्पटान् ।
+      वैष्णवान्मुनिगणान्समन्ततो
+      ब्रह्मचारिनियमान् ददर्श सः ॥ १८ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        From afar, on the bank of the Gomatī, he saw groups of Vaiṣṇava sages all around, intent on the midday rites, and brahmacārīs at their observances. (18)
+    translation:
+      author: amanuensis
+      text: |
+        उन्होंने दूर से गोमती तट पर मध्याह्नकालिक विधि में संलग्न वैष्णव मुनिगणों के तथा चारों ओर ब्रह्मचारियों के नियमों को देखा ॥ १८ ॥
+    notes:
+      author: grandfather
+      text: |
+        उस मध्याह्न में पवित्र भगवती पुण्य सलिला गोमती के तट पर माध्यन्दिन (मध्याह्नकालिक) सन्ध्या वन्दनादि दैनिक कृत्य में निरत रहने वाले वैष्णव सन्तों, श्रेष्ठों, विविध ऋषिगणों, एवं ब्रह्मचारी वटुकों को भी सम्पादित किये जाने वाले नित्य नियमों को करते हुए दूर से ही देखा । १८
+    translation_en:
+      author: ai_translation
+      text: |
+        From afar along the banks of the sacred Gomatī, he beheld assemblies of Vaiṣṇava sages deeply absorbed in their midday rites, alongside disciplined celibate students (brahmacārīs) everywhere fulfilling their daily sacred observances.
+    notes_en:
+      author: ai_translation
+      text: |
+        At that midday, on the bank of the holy goddess Gomatī, whose waters bring merit, he saw from afar Vaiṣṇava saints, elders and various groups of sages engaged in the midday sandhyā worship and other daily rites, and brahmacārī boys too performing their daily observances. (18)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

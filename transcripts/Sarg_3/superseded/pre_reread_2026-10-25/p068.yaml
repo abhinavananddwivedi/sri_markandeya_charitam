@@ -1,0 +1,57 @@
+page_number_devanagari: "६८"
+page_number_arabic: 68
+image: "images/pages/p068.jpg"
+verses:
+  - number: 15
+    shlok: |
+      प्रातरेव प्रविकल्प्य चेतसा
+      निर्मलेन मुकुरे यथाऽग्रतः ।
+      नैर्ऋतौ च स्थल त्रियोजनात्
+      गोमतीतटगतं पराशरम् ॥ १५ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        That very morning, having discerned with a clear mind, as [in] a mirror before him, [he knew of] Parāśara, on the bank of the Gomatī, three yojanas away to the south-west. (15)
+    translation:
+      author: amanuensis
+      text: |
+        मुनिवर ने प्रातः काल ही निर्मल चित्त से ही, ध्यान कर जान लिया कि नैर्ऋत्य कोण में तीन योजन पर गोमती के तट पर महामुनि पराशर विद्यमान हैं ॥ १५ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्ड ने प्रातः नित्यक्रिया के अनन्तर अपने चित्तवृत्ति को एकाग्र कर स्वस्थ चित्त हो यह जान लिया कि यहाँ से नैर्ऋत्य कोण में ३ योजन (१२ कोस) की दूरी पर गोमती नदी के सुरम्य तट पर मुनीश्वरों में अत्यन्त श्रेष्ठ महामुनि पराशर जी का पुण्यप्रद आश्रम है । १५
+    translation_en:
+      author: ai_translation
+      text: |
+        That very morning, meditating with a clear mind, the excellent sage came to know that the great sage Parāśara was living on the bank of the Gomatī, three yojanas away to the south-west. (15)
+    notes_en:
+      author: ai_translation
+      text: |
+        After his morning daily rites, the sage Mṛkaṇḍa focused his mind and, with a settled mind, came to know that at a distance of 3 yojanas (12 kos) to the south-west from here, on the lovely bank of the river Gomatī, was the meritorious hermitage of the great sage Parāśara, most excellent among the lords of sages. (15)
+  - number: 16
+    shlok: |
+      संविधास्यति स मे मनोरथान्-
+      नन्वदारहृदयः पराशरः ।
+      इत्थमग्रजसमं महामुनिं
+      द्रष्टुमेव हृदये व्यचिन्तयत् ॥ १६ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Surely Parāśara, generous of heart, will fulfil my wishes": so he thought in his heart, [resolving] only to see that great sage, who was like an elder brother. (16)
+    translation:
+      author: amanuensis
+      text: |
+        महामुनि पराशर अति उदार चेता हैं, वे ही मेरे मनोरथों को पूर्ण करेंगे, इस प्रकार बड़े भैया के समान महामुनि के दर्शनार्थ उन्होंने हृदय में निश्चय किया ॥ १६ ॥
+    notes:
+      author: grandfather
+      text: |
+        सुना है महामुनि पराशर अत्यन्त उदार सहृदय एवं मुनियों में अतिशय श्रेष्ठ हैं, वे मेरा सब प्रकार का कल्याण करेंगे वे मेरी सभी कामनायें अवश्य पूरी करेंगे, वे मेरे बड़े भाई के समान हैं। उनके दर्शन की उत्कट अभिलाषा से वहाँ जाने का निश्चय किया । १६
+    translation_en:
+      author: ai_translation
+      text: |
+        "The great sage Parāśara is very generous-minded; he will fulfil my wishes." Thus he resolved in his heart to see the great sage, who was like an elder brother. (16)
+    notes_en:
+      author: ai_translation
+      text: |
+        "I have heard that the great sage Parāśara is very generous, warm-hearted and most excellent among sages. He will do me every kind of good; he will surely fulfil all my wishes; he is like my elder brother." With an intense longing to see him, he decided to go there. (16)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

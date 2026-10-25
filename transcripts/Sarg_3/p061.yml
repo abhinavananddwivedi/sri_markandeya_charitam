@@ -5,14 +5,22 @@ image: "images/pages/p061.jpg"
 verses:
   - number: 1
     shlok: |
-      शक्तिरासीत्तपसः प्रभावतो
+      शक्तिरस्ति तपसः प्रभावतो
       गन्तुमेक दिन एव दर्दुरम् ।
-      किन्तु लोकपरिशिक्षणार्थ य-
-      त्पर्य्यटात्स खलु पदातिरेव सः ॥ १ ॥
+      किन्तु लोकपरिशिक्षणाय य-
+      त्पर्यगात् खलु पदातिरेव सः ॥ १ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता (चारों पाद शुद्ध)। पूर्व पाठ "शक्तिरासीत् / …शिक्षणार्थ य- / त्पर्य्यटात्स…" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā (all four pādas scan). The earlier reading ("शक्तिरासीत् / …शिक्षणार्थ य- / त्पर्य्यटात्स…") was wrong.
     shlok_en:
       author: ai_translation
       text: |
-        By the power of his austerity he had the strength to go to Dardura in a single day; but, to teach the world, he travelled the whole way on foot. (1)
+        By the power of his austerity he had the strength to reach Dardura in a single day; but, to teach the world, he went there on foot. (1)
     translation:
       author: amanuensis
       text: |

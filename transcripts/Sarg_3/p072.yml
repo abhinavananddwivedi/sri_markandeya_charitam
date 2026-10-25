@@ -8,6 +8,14 @@ verses:
       पृष्ठतो विपरिवर्त्य हस्तयोः ।
       पाणिपादप्रथमोद्भवं तथा
       नासिकाग्रपरिलोकने रतान् ॥ २२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता। पाद ३ में "प्र" से पूर्व ह्रस्व को लघु माना गया है (कवि की छूट)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā. In pāda 3 the short vowel before "प्र" is treated as light (the poet's licence).
     shlok_en:
       author: ai_translation
       text: |
@@ -34,6 +42,14 @@ verses:
       कुक्कुटासनपरांस्तथापरान् ।
       दोर्दण्डासनगतांस्ततोऽन्यतो
       बर्हिणासनगतान्मुनींस्तथा ॥ २३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता। पाद ३ "दोर्दण्डासन…" छन्द में नहीं बैठता (आरम्भ ऽऽऽ); पाण्डुलिपि यथावत्।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā. Pāda 3 ("दोर्दण्डासन…") does not scan (it opens with three heavy syllables); kept as written.
     shlok_en:
       author: ai_translation
       text: |

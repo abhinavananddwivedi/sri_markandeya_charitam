@@ -1,0 +1,57 @@
+page_number_devanagari: "७२"
+page_number_arabic: 72
+image: "images/pages/p072.jpg"
+verses:
+  - number: 22
+    shlok: |
+      कौँश्चिदेव कमलासनस्थितान्
+      पृष्ठतो विपरिवर्त्य हस्तयोः ।
+      पाणिपादप्रथमोद्भवं तथा
+      नासिकाग्रपरिलोकने रतान् ॥ २२ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        [He saw] some seated in the lotus posture, their hands turned behind their backs [holding the toes], and [others] intent on gazing at the tip of the nose. [Line 3 is imperfectly transcribed.] (22)
+    translation:
+      author: amanuensis
+      text: |
+        किसी को कमलासन पर बैठे, पीछे से हाथों को घुमाकर अँगूठों को पकड़ कर सावधानीपूर्वक नासिकाग्रभाग को अवलोकन में तत्पर उन्होंने देखा ॥ २२ ॥
+    notes:
+      author: grandfather
+      text: |
+        यहाँ पर उन्होने कुछ लोगों को कमलासन करते हुए, कुछ लोगों को अपने दोनों हाथों को पीठ की ओर लेजाकर दोनों हाथों से दोनों पैरों के अँगूठों को पकड़ कर सावधानी पूर्वक सावधानचित्त हो मात्र नासिकाग्र का अवलोकन करते हुए देखा । २२
+    translation_en:
+      author: ai_translation
+      text: |
+        He saw some seated in the lotus posture, turning their hands behind them and holding their big toes, carefully intent on looking at the tip of the nose. (22)
+    notes_en:
+      author: ai_translation
+      text: |
+        Here he saw some people doing the lotus posture, and some taking both hands behind the back, holding the big toes of both feet with both hands, and, carefully and attentively, looking only at the tip of the nose. (22)
+  - number: 23
+    shlok: |
+      बद्धलम्बकमलासनान् क्वचित्
+      कुक्कुटासनपरांस्तथापरान् ।
+      दोर्दण्डासनगतांस्ततोऽन्यतो
+      बर्हिणासनगतान्मुनींस्तथा ॥ २३ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        In one place [he saw sages] in the bound, extended lotus posture, others intent on the cock posture, others in the arm-staff posture, and others again in the peacock posture. (23)
+    translation:
+      author: amanuensis
+      text: |
+        कहीं पर उन्होंने लम्बे कमलासन लगाये, किसी को कुक्कुटासन लगाते, किसी को दोर्दण्डासन में स्थित तथा किन्हीं मुनियों को मयूरासन लगाते देखा ॥ २३ ॥
+    notes:
+      author: grandfather
+      text: |
+        कहीं पर लम्बे कमलासन लगाते हुए, कहीं पर कुक्कुटासन का अभ्यास करते हुए, कहीं पर दोर्दण्डासन तथा कहीं पर मयूरासन करते हुए विविध मुनियों को उन्होने ससंभ्रम देखा । २३
+    translation_en:
+      author: ai_translation
+      text: |
+        In one quarter he saw practitioners abiding long in the lotus posture, elsewhere others proficient in the cockerel posture (kukkuṭāsana), others poised in the staff-arm balance (dordaṇḍāsana), and diverse ascetics gracefully steady in the peacock posture (barhiṇāsana / mayūrāsana).
+    notes_en:
+      author: ai_translation
+      text: |
+        With wonder he saw various sages, in one place doing the long lotus posture, in another practising the cock posture, in another the arm-staff posture, and in another the peacock posture. (23)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

@@ -38,18 +38,18 @@ verses:
         "Dear child! Now set out at once (quickly) for the Dardura region; as soon as you get there, all the wishes in your mind will be fulfilled; and the sage Mudgala too will certainly come at once to meet you, to have his daughter's marriage performed." (44)
   - number: 45
     shlok: |
-      वाचकोऽस्म्यहमिह तव दारसंग्रहे
-      वेद्मि लग्नमतिहर्षनिर्भरम्।
+      वाचकोऽस्मि तव दारसंग्रहे
+      वेद्मि लग्नमतिहर्षनिर्भरम् ।
       भावि ते त्वयि ममाप्यथादरो
-      यत्प्रवृत्तिमभिरुह्य वर्तसे॥ ४५॥
+      यत्प्रवृत्तिमभिरुह्य वर्तसे ॥ ४५ ॥
     manuscript_note:
       author: ai_transcription
       text: |
-        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद १ में `वाचकोऽस्मि तव दारसंग्रहे`, पाद ४ में `यत्प्रवृत्तिमभिरुद्ध्य वर्तसे` लिखा है। 'वाचक' से तात्पर्य विवाह के संयोजक / आचार्य पण्डित से है। वृत्त: रथोद्धता
+        वृत्त: रथोद्धता। पाद १ "वाचकोऽस्मि" (पूर्व "वाचकोऽस्म्यहमिह", तीन अक्षर अधिक)। पाद २–४ यथावत्।
     manuscript_note_en:
       author: ai_transcription
       text: |
-        Paleographic / Textual Note: Line 1 uses `वाचकोऽस्मि तव दारसंग्रहे` in the technical ceremonial sense of the spiritual preceptor/coordinator who officiates the marriage declarations and auspicious astrological hour (lagna). Line 4 notes Mṛkaṇḍu's noble adherence to pravṛtti-mārga. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+        Metre: Rathoddhatā. Pāda 1 reads "वाचकोऽस्मि" (the earlier "वाचकोऽस्म्यहमिह" has three syllables too many). Pādas 2–4 are kept as before.
     shlok_en:
       author: ai_translation
       text: |

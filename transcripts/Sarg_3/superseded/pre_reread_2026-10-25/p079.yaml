@@ -1,0 +1,73 @@
+page_number_devanagari: "७९"
+page_number_arabic: 79
+image: "images/pages/p079.jpg"
+verses:
+  - number: 38
+    shlok: |
+      याच्यतां नरपतिः पुनः कतः
+      सम्भृतेश्च कृत-सम्भरेत्।
+      कारुकैश्च परिश्रमेण वा
+      कुर्वते स्म मम कार्यमुत्सुकम्॥ ३८॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में `याच्यतां नरपतिः पुनः कते / सम्भ्रितेश्च कृत सम्भरेत् / कारुकैश्च प्रतिमन्तरण कथं / कुर्वते स्म मम कार्यमन्वरम्` लिखा है, जिसका आशय मुनि मृकण्डु की तीन शंकाओं से है: १. किस राजा से भूमि माँगी जाए, २. निर्माण सामग्री कहाँ से जुटेगी, ३. कारीगर बिना पारिश्रमिक के कार्य कैसे करेंगे। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: The handwritten page reads `याच्यतां नरपतिः पुनः कते / सम्भ्रितेश्च कृत सम्भरेत् / कारुकैश्च प्रतिमन्तरण कथं / कुर्वते स्म मम कार्यमन्वरम्`. As confirmed by both Hindi renderings, it raises three practical questions: 1. From which king should land be requested? 2. From where shall construction materials be assembled? 3. How will craftsmen perform the work diligently without wages? Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "From which king should [land] be asked? From where [should] the materials be gathered? And how would workmen, by their labour, eagerly do my work?" [Partly corrupt.] (38)
+    translation:
+      author: amanuensis
+      text: |
+        पृथ्वी की याचना किस राजा से की जाय? सामग्रियों कहाँ से सम्पादित करूँ? बिना मजदूरी के कारीगर मेरे कार्य सावधान होकर कैसे करें?॥ ३८॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्डु ने बड़ी विनम्रता से निवेदन किया कि प्रभो! कृपया आप यह बतावें कि किस राजा से जाकर पृथ्वी माँगी जाय जो घर बनाने के योग्य हो, उस घर के बनाने के लिए अन्य सामग्रियों कहाँ से जुटाई जायँ, बिना पारिश्रमिक (मजदूरी) के कारीगर मेरा कार्य भी भलीभांति उत्साह पूर्वक कैसे कर सकेंगे? ३८
+    translation_en:
+      author: ai_translation
+      text: |
+        "From which sovereign king should land be petitioned? From where should the building materials be procured? And how will artisans and craftsmen carry out my work attentively without wages?" (Verse 38)
+    notes_en:
+      author: ai_translation
+      text: |
+        The sage Mṛkaṇḍu very humbly asked: "Lord! Please tell me which king I should go to and ask for land fit to build a house on; where the other materials for building that house should be gathered from; and how craftsmen will be able to do my work well and eagerly without payment (wages)." (38)
+  - number: 39
+    shlok: |
+      इत्युदीर्य विरते हि वै मुनौ
+      चारुचन्द्रवदनः पराशरः।
+      हर्षयन् स्वजनमार्द्रया गिरा
+      सस्मितः स तमभाषत द्विजम्॥ ३९॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाद ३ में पाण्डुलिपि में `हर्षयन् स्वजनमार्जया गिरा` दृष्टिगोचर होता है, जो `स्वजनम् आर्द्रया गिरा` (अथवा मार्दवया गिरा) का वाचक है। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: In line 3, the amanuensis writes `हर्षयन् स्वजनमार्जया गिरा`, representing `स्वजनम् आर्द्रया गिरा` [gladdening his kin with tender, soothing words]. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        When the sage had said this and fallen silent, Parāśara, his face lovely as the moon, gladdening his own [visitor] with tender speech, spoke with a smile to that brahmin. (39)
+    translation:
+      author: amanuensis
+      text: |
+        ऐसा कह कर जैसे ही महर्षि मृकण्डु मौन हुए उसी समय चारुचन्द्र वदन पराशर महर्षि ने अपनी स्निग्ध वाणी से आनन्दित करते हुए मुस्कुराहट के साथ बोल पड़े॥ ३९॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्डु के विनयपूर्वक इतना कहकर शान्त होते ही अत्यन्त उत्फुल्ल मुख कमल वाले महर्षि पराशर ने अतिशय प्रेमपूर्ण उदार मधुर स्निग्ध वाणी से मुस्कराते हुए आगत उस ब्राह्मण ऋषि मृकण्डु से कहना शुरू किया। ३९
+    translation_en:
+      author: ai_translation
+      text: |
+        As soon as Maharṣi Mṛkaṇḍu fell silent after saying this, Maharṣi Parāśara, whose face was lovely as the moon, gladdening him with his tender speech, spoke with a smile. (39)
+    notes_en:
+      author: ai_translation
+      text: |
+        As soon as the sage Mṛkaṇḍu, having humbly said this much, fell silent, Maharṣi Parāśara, whose lotus face was in full bloom, began to speak with a smile, in a very loving, generous, sweet and tender voice, to that brahmin sage Mṛkaṇḍu who had come. (39)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. This page's source markdown uses the later antigravity 'dialect B': the shlok is a fenced code block rather than a blockquote, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

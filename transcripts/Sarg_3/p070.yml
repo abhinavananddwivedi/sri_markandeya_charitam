@@ -8,6 +8,14 @@ verses:
       आसनास्तरणतत्परान् क्वचित् ।
       स्वस्तिकैरितिकराँश्च शोभनैः
       क्वापि तूपस्थितिपरान् विवस्वतः ॥ १९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता। पाद ४ पाण्डुलिपि में संशोधित है: "क्वापि [कटा शब्द] उपस्थितिपरान् ततस्ततः ॥" लिखकर अन्त में "विवस्वतः" जोड़ा गया; यहाँ संशोधित पाठ दिया है, जो छन्द में ठीक नहीं बैठता।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā. Pāda 4 is corrected in the manuscript: written "क्वापि [struck word] उपस्थितिपरान् ततस्ततः ॥" with "विवस्वतः" added at the end; the corrected reading is given, and it does not quite scan.
     shlok_en:
       author: ai_translation
       text: |
@@ -31,13 +39,21 @@ verses:
   - number: 20
     shlok: |
       क्वापि बद्धकमलासनान् क्वचि-
-      द्व्यक्तमेरुदण्डसरलीकृतान् ।
+      न्मेरुदण्डसरलीकृतानथ ।
       ध्यानमीलितदृशो हृदन्तरे
       ज्योतिरुज्ज्वलतरं विपश्यतः ॥ २० ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता (चारों पाद शुद्ध)। पाद २ "न्मेरुदण्डसरलीकृतानथ" (पूर्व पाठ "द्व्यक्तमेरुदण्डसरलीकृतान्" भ्रान्त था)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā (all four pādas scan). Pāda 2 reads "न्मेरुदण्डसरलीकृतानथ" (the earlier "द्व्यक्तमेरुदण्डसरलीकृतान्" was wrong).
     shlok_en:
       author: ai_translation
       text: |
-        [He saw] some seated in the lotus posture, some with the spine held visibly straight, [and others] with eyes closed in meditation, seeing within the heart a very bright light. (20)
+        Some seated in the bound lotus posture, some with the spine made straight, their eyes closed in meditation, beholding within their hearts a light of surpassing brilliance. (20)
     translation:
       author: amanuensis
       text: |

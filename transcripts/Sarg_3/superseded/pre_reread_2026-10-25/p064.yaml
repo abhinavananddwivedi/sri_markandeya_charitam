@@ -1,0 +1,57 @@
+page_number_devanagari: "६४"
+page_number_arabic: 64
+image: "images/pages/p064.jpg"
+verses:
+  - number: 7
+    shlok: |
+      अत्र वह्निशरणं शुभं भवे-
+      त्तत्र चोपनयनस्य मण्डपः ।
+      छात्रवास भवनं तथैकतः
+      पत्रपुष्पनियमेऽत्र वाटिका ॥ ७ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Here the fire-house would be good, and there the pavilion for the upanayana; on one side a house for the students to live in, and here a garden for the rule of leaves and flowers." (7)
+    translation:
+      author: amanuensis
+      text: |
+        यहाँ अग्निशाला ठीक होगी, यहाँ पर उपनयन का मण्डप रचना, तथा एक ओर छात्रों का स्थान, एक जगह पत्र-पुष्पादि के लिए वाटिका का निर्माण उचित है ॥ ७ ॥
+    notes:
+      author: grandfather
+      text: |
+        वास्तुशास्त्र के अनुरूप मुनि मृकण्ड ने सोचा कि यहाँ अग्निहोत्र के लिए अग्निशाला (यज्ञशाला) उचित रहेगी, यहाँ बटुओं के उपनयन के लिए उपनयन मण्डप उचित रहेगा, ब्रह्मचारी छात्र वटुकों के निवास के लिए यहाँ उत्तम छात्रावास की रचना भी उचित होगी। यज्ञ पूजनादि के लिए सविधि सम्पादन के लिए यहाँ पर मन हर पुष्पवाटिका अच्छी बन सकेगी । ७
+    translation_en:
+      author: ai_translation
+      text: |
+        "Here the fire-house will be right; here build the upanayana pavilion; on one side a place for the students; and in one place a garden for leaves, flowers and the like is fitting." (7)
+    notes_en:
+      author: ai_translation
+      text: |
+        In keeping with the science of building, the sage Mṛkaṇḍa thought: "Here a fire-hall (sacrificial hall) for the agnihotra will be right; here a pavilion for the upanayana of the boys will be right; here it will also be right to build a fine hostel for the brahmacārī students to live in. For carrying out sacrifices, worship and the like properly, a charming flower garden can be made here." (7)
+  - number: 8
+    shlok: |
+      पाणिपीडन विधौ तथा चतु-
+      शालमत्र भवनं विधास्यते ।
+      साम्प्रतं दशगवञ्च मे भवे-
+      च्छिष्यमण्डल सहस्रकन्तथा ॥ ८ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "And for the rite of marriage, a four-sided house will be built here; for now let me have ten cows, and likewise a circle of a thousand disciples." (8)
+    translation:
+      author: amanuensis
+      text: |
+        विवाहार्थ चतुश्शाल भवन का निर्माण यहाँ किया जायेगा। वर्तमान में मेरे पास दशगो तथा एक हजार शिष्यों की संख्या ठीक है ॥ ८ ॥
+    notes:
+      author: grandfather
+      text: |
+        गृहस्थ धर्म सम्पादनार्थ विवाह हो जाने के बाद यहाँ पर चौमञ्जिलो या चार आँगन वाला भव्य भवन बनेगा। यों इस समय मेरे पास दश गायों का एक समूह तथा एक हजार शिष्यों की मण्डली भी सुव्यवस्थित हो सकेगी । ८
+    translation_en:
+      author: ai_translation
+      text: |
+        "For the marriage, a four-sided house (catuḥśāla) will be built here. At present, ten cows and a thousand disciples are the right number for me." (8)
+    notes_en:
+      author: ai_translation
+      text: |
+        "For carrying out the householder's dharma, after the marriage, a grand house with four storeys or four courtyards will be built here. So, for now, a herd of ten cows and a company of a thousand disciples can also be well arranged for me." (8)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

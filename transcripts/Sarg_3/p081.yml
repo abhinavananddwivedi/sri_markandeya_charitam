@@ -38,18 +38,18 @@ verses:
         "The speech of generous, high-minded, excellent brahmins is fulfilled of itself; whatever things they imagine in their minds, the people living in this land provide them of their own accord. It has been the special quality of the people of this land of Bhāratavarṣa that, at the mere imagining of brahmins, all the work they hold dear is completed of itself." (42)
   - number: 43
     shlok: |
-      यावती च खलु भूमिरपेक्ष्यते
-      यानि चोपकरणानि साम्प्रतम्।
+      यावती च खलु भूरपेक्ष्यते
+      यानि चोपकरणानि साम्प्रतम् ।
       मन्निदेशवशवर्तिनी प्रजा
-      तानि ते समुपढौकयिष्यति॥ ४३॥
+      तानि ते समुपढौकयिष्यति ॥ ४३ ॥
     manuscript_note:
       author: ai_transcription
       text: |
-        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद ४ में `तानि ते समुपढौकयिष्यति` स्पष्ट पठनीय है। वृत्त: रथोद्धता
+        वृत्त: रथोद्धता (चारों पाद शुद्ध)। पाद १ "भूरपेक्ष्यते" (पूर्व "भूमिरपेक्ष्यते", एक अक्षर अधिक)।
     manuscript_note_en:
       author: ai_transcription
       text: |
-        Paleographic / Textual Note: Line 4 clearly reads `तानि ते समुपढौकयिष्यति` [shall reverently present unto you]. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+        Metre: Rathoddhatā (all four pādas scan). Pāda 1 reads "भूरपेक्ष्यते" (the earlier "भूमिरपेक्ष्यते" has one syllable too many).
     shlok_en:
       author: ai_translation
       text: |

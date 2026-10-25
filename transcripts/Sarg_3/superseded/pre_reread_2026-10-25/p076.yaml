@@ -1,0 +1,73 @@
+page_number_devanagari: "७६"
+page_number_arabic: 76
+image: "images/pages/p076.jpg"
+verses:
+  - number: 32
+    shlok: |
+      आकृतिर्वदति सत्यमद्भुतं
+      तावकीनमखिलान् मनोरथान्।
+      किं मृकण्डुरसि धात्रजस्त्वया
+      लक्ष्यसे तदपि ब्रूहि सत्वरम्॥ ३२॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाद ३-४ में पाण्डुलिपि में `धात्ऱजस्त्वजा- / ल्लक्ष्यसे` दृष्टव्य है, जो छन्दतः तथा अर्थतः `धात्रजस्त्वया लक्ष्यसे` अथवा `धात्रजस्तथा लक्ष्यसे` का द्योतक है। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: In lines 3–4, the amanuensis manuscript writes `धात्ऱजस्त्वजा- / ल्लक्ष्यसे`, which metrically and semantically stands for `धात्रजस्त्वया लक्ष्यसे` or `धात्रजस्तथा लक्ष्यसे`. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Your appearance truly tells, wonderfully, all your wishes. Are you Mṛkaṇḍu, son of Dhātā? So you seem; still, tell me quickly." (32)
+    translation:
+      author: amanuensis
+      text: |
+        तुम्हारी आकृति ही अद्भुत सात्विकभाव तथा तुम्हारे समस्त मनोरथों को अभिव्यक्त कर रही है। क्या तुम धाता के पुत्र मृकण्डु हो शीघ्रता से सारी स्पष्ट बातों को व्यक्त करो॥ ३२॥
+    notes:
+      author: grandfather
+      text: |
+        प्रियवत्स! तुम्हारा स्वरूप ही तुम्हारी तेजोदीप्त उर्जस्विता को व्यक्त कर रहा है और साथ ही तुम्हारे सभी हृद्गत मनोरथ भी हमें सुस्पष्ट दिखाई दे रहे हैं। क्या तुम महर्षि धाता के सुपुत्र मृकण्ड हो न? इन सभी बातों को स्पष्ट बताने का कष्ट करो। ३२
+    translation_en:
+      author: ai_translation
+      text: |
+        "Your very appearance expresses a wonderful sāttvika feeling and all your wishes. Are you Mṛkaṇḍu, son of Dhātā? Quickly say everything plainly." (32)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Dear child! Your form itself shows your radiant vigour, and at the same time all the wishes in your heart are clearly visible to us. You are Mṛkaṇḍa, the good son of Maharṣi Dhātā, are you not? Please be so kind as to say all these things plainly." (32)
+  - number: 33
+    shlok: |
+      भूतभाव्यभवदादि कालजं
+      ज्ञानमाकलयतोऽस्य भाषितम्।
+      सान्निशम्य चकितोऽभिधाय निजां
+      पूर्वजान् सुचरितानभासत॥ ३३॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाद ३-४ में `तान्निशम्य चकितोऽभिधाय निजान् पूर्वजान् सुचरितान् अभासत` का भाव सन्निहित है। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Lines 3–4 intend `तान्निशम्य चकितोऽभिधाय निजान् पूर्वजान् सुचरितान् अभासत`. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        Hearing the words of this one, who grasped knowledge born of time, past, future and present, [Mṛkaṇḍu,] amazed, named himself and spoke of his ancestors and their good conduct. (33)
+    translation:
+      author: amanuensis
+      text: |
+        भूत-भविष्यत-वर्तमान आदि तथा कालजन्य ज्ञान को समेटे उनके वचन को सुन कर चकित हो मुकण्डु ने अपने पूर्वजों के गुणानुरूप वाणी कहना प्रारम्भ किया॥ ३३॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्डु महर्षि पराशर द्वारा भूत, भविष्य वर्तमान (तीनों कालों में होने वाले) ज्ञान, अर्थात् महर्षि पराशर की त्रिकालज्ञता द्वारा उनकी सारी बातों को सुन सुनकर अत्यन्त चकित हुए साथ ही अपने पूर्वजों की उत्तम गुणगौरवादि सुन कर तो और अधिक चकित हो ही उठे। ३३
+    translation_en:
+      author: ai_translation
+      text: |
+        Hearing his words, which gathered up knowledge of past, future and present, born of time, Mṛkaṇḍu was amazed and began to speak words befitting the virtues of his ancestors. (33)
+    notes_en:
+      author: ai_translation
+      text: |
+        The sage Mṛkaṇḍu, hearing all that Maharṣi Parāśara said through his knowledge of past, future and present (what happens in all three times), that is, through Maharṣi Parāśara's knowledge of the three times, was very amazed; and on hearing the excellent virtues and glory of his own ancestors he became more amazed still. (33)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. This page's source markdown uses the later antigravity 'dialect B': the shlok is a fenced code block rather than a blockquote, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

@@ -5,17 +5,17 @@ verses:
   - number: 50
     shlok: |
       मादृशेऽप्यविदिते त्वयीदृशी
-      भावना यदि न काचनाभवत्।
+      भावना यदि न काचनाभवत् ।
       पूर्त्तिमेष्यति कथं मतिः सादरं
-      पादपङ्कजमधुना समाश्रये॥ ५०॥
+      पादपङ्कमधुना समाश्रये ॥ ५० ॥
     manuscript_note:
       author: ai_transcription
       text: |
-        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद १ में `मादृशोऽप्यविचिते त्वयीदृशी`, पाद २ में `भावना यदि न काचनाभवात्`, पाद ३ में `पूर्तिमेष्यति कथं मति सादरं` तथा पाद ४ में `पादपङ्कजमधुना समाश्रये` लिखा है। वृत्त: रथोद्धता
+        वृत्त: रथोद्धता। पाद ४ "पादपङ्कमधुना" (पूर्व "पादपङ्कजमधुना", एक अक्षर अधिक)। पाद ३ छन्द में नहीं बैठता; पाण्डुलिपि में "…मनोऽर्थ सादरं" जैसा भी पढ़ा जा सकता है; अनिश्चित।
     manuscript_note_en:
       author: ai_transcription
       text: |
-        Paleographic / Textual Note: Lines 1–2 record Mṛkaṇḍu acknowledging his humility as an unknown aspirant receiving such extraordinary grace. Lines 3–4 express heartfelt gratitude and complete refuge at the sage's lotus feet. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+        Metre: Rathoddhatā. Pāda 4 reads "पादपङ्कमधुना" (the earlier "पादपङ्कजमधुना" has one syllable too many). Pāda 3 does not scan; the manuscript may read "…मनोऽर्थ सादरं"; uncertain.
     shlok_en:
       author: ai_translation
       text: |

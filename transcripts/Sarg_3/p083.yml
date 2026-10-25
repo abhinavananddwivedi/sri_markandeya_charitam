@@ -5,17 +5,17 @@ verses:
   - number: 46
     shlok: |
       एष आङ्गिरसगोत्रसम्भवः
-      स्यात् सहायकस्तथा पदे पदे।
+      स्यात् सहायकतया पदे पदे ।
       आश्रमान्वयमनोरथानुगं
-      सर्वकर्मनिपुणोऽप्यधुना विधास्यति॥ ४६॥
+      सर्वकर्मनिपुणोऽप्यधुना विधास्यति ॥ ४६ ॥
     manuscript_note:
       author: ai_transcription
       text: |
-        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद १ में `एष आङ्गिरसगोत्र सम्भवः`, पाद २ में `स्यात् सहायकस्तथा पदे पदे`, पाद ३-४ में `आश्रमान्वयं मनोरथानुगं / कर्मकर्मनिपुणोऽप्यधुना विधास्यति` लिखा है। वृत्त: रथोद्धता
+        वृत्त: रथोद्धता। पाद २ "सहायकतया" (पूर्व "सहायकस्तथा")। पाद ४ अधिलिखित और अस्पष्ट है; पूर्व पाठ (१४ अक्षर) छन्द में नहीं बैठता, यथावत् रखा है।
     manuscript_note_en:
       author: ai_transcription
       text: |
-        Paleographic / Textual Note: Maharṣi Parāśara deputes an expert disciple of the illustrious Āṅgirasa gotra to assist Mṛkaṇḍu step by step in constructing the hermitage according to his exact specifications. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+        Metre: Rathoddhatā. Pāda 2 reads "सहायकतया" (earlier "सहायकस्तथा"). Pāda 4 is overwritten and unclear; the earlier reading (fourteen syllables) does not scan and is kept as it was.
     shlok_en:
       author: ai_translation
       text: |

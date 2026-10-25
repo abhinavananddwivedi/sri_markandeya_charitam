@@ -4,10 +4,18 @@ image: "images/pages/p071.jpg"
 verses:
   - number: 21
     shlok: |
-      वामहस्तकुशकाण्डच दक्षिणे
+      वामहस्तकुशकांश्च दक्षिणे
       सत्पवित्रसहितं कुशत्रयम् ।
-      तर्जनीं जपवटोर्बहिस्कृतां
+      तर्जनीं जपवटोर्बहिष्कृतां
       वेदमातृजपतत्परान्मुनीन् ॥ २१ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता (चारों पाद शुद्ध)। पाद १ "कुशकांश्च" (पूर्व पाठ "कुशकाण्डच" भ्रान्त था)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā (all four pādas scan). Pāda 1 reads "कुशकांश्च" (the earlier "कुशकाण्डच" was wrong).
     shlok_en:
       author: ai_translation
       text: |

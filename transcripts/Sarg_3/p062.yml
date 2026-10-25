@@ -4,14 +4,22 @@ image: "images/pages/p062.jpg"
 verses:
   - number: 3
     shlok: |
-      दाक्षिण्या समुद्दिष्ट मार्गं
-      निश्चिते समयकारि गन्तुकः ।
-      तिर्य्यग्गन्तिदिशि वह्निसंज्ञकायाम्
-      गङ्गाया समनुमोदितो ययौ ॥ ३ ॥
+      दाक्षिणा समुपदिष्टमाश्रमं
+      निश्चितं समयकारि गन्तुकः ।
+      तिर्यगग्निदिशि [unclear]
+      गङ्गया समनुमोदितो ययौ ॥ ३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता। पाद १ "दाक्षिणा" (= दक्षपुत्र दाक्षि द्वारा; टिप्पणी: "दक्षपुत्र (दधि)") और "समुपदिष्टम्" छन्द से; पूर्व पाठ "दाक्षिण्या समुद्दिष्ट मार्गं" (९ अक्षर) भ्रान्त था। पाद ३ का उत्तरार्ध अस्पष्ट है ("…वाहिनी…" जैसा); पूर्व पाठ "वह्निसंज्ञकायाम्" छन्द में नहीं बैठता। पाद ४ "गङ्गया" (पूर्व "गङ्गाया")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā. Pāda 1 reads "दाक्षिणा" (by Dākṣi, Dakṣa's son; the note says "दक्षपुत्र") and "समुपदिष्टम्", as the metre requires; the earlier "दाक्षिण्या समुद्दिष्ट मार्गं" (nine syllables) was wrong. The second half of pāda 3 is unclear (it looks like "…वाहिनी…"); the earlier "वह्निसंज्ञकायाम्" does not scan. Pāda 4 reads "गङ्गया" (earlier "गङ्गाया").
     shlok_en:
       author: ai_translation
       text: |
-        Following the path pointed out by Dākṣi, the traveller, keeping to the appointed time, went in the slanting direction called Agni's (south-east), with the Gaṅgā's approval. [Partly unclear; "दाक्षिण्या" may name Dākṣi, the sage of canto 4.] (3)
+        Having fixed on the hermitage pointed out by Dākṣi, the traveller, keeping to his time, set out in the oblique, south-eastern direction [unclear], with the Gaṅgā's assent. (3)
     translation:
       author: amanuensis
       text: |
@@ -32,8 +40,16 @@ verses:
     shlok: |
       वामभागमपहाय पार्वतीं
       भूमिमाशु सरलेन वर्त्मना ।
-      पीतभित्ति मुपगम्य कस्यचि-
-      त्तस्याश्रमेऽतिथितया न्युवास सः ॥ ४ ॥
+      पीतभित्तिमुपगम्य कस्यचि-
+      दाश्रमेऽतिथितया न्युवास सः ॥ ४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता (चारों पाद शुद्ध)। पाद ४ का आरम्भ पाण्डुलिपि में अधिलिखित है; छन्द और सन्धि ("कस्यचिद् आश्रमे") से "दाश्रमे" पढ़ा गया (पूर्व पाठ "त्तस्याश्रमे")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā (all four pādas scan). The opening of pāda 4 is overwritten in the manuscript; "दाश्रमे" is read from the metre and the sandhi ("कस्यचिद् आश्रमे"); the earlier reading was "त्तस्याश्रमे".
     shlok_en:
       author: ai_translation
       text: |
@@ -54,4 +70,5 @@ verses:
       author: ai_translation
       text: |
         Going on from there, he left the hilly land on his left, walked along the straight road ahead over level ground, came to a place named Pīlībhīt, and spent the night as a guest in some good householder's lovely house or hermitage. (4)
+notes_uncertain: true
 source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

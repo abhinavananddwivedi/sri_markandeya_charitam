@@ -1,0 +1,57 @@
+page_number_devanagari: "६२"
+page_number_arabic: 62
+image: "images/pages/p062.jpg"
+verses:
+  - number: 3
+    shlok: |
+      दाक्षिण्या समुद्दिष्ट मार्गं
+      निश्चिते समयकारि गन्तुकः ।
+      तिर्य्यग्गन्तिदिशि वह्निसंज्ञकायाम्
+      गङ्गाया समनुमोदितो ययौ ॥ ३ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Following the path pointed out by Dākṣi, the traveller, keeping to the appointed time, went in the slanting direction called Agni's (south-east), with the Gaṅgā's approval. [Partly unclear; "दाक्षिण्या" may name Dākṣi, the sage of canto 4.] (3)
+    translation:
+      author: amanuensis
+      text: |
+        वह चलने वाला महात्मा दक्ष (चातुर) के द्वारा निर्दिष्ट आश्रम का निश्चय कर मार्ग में तिरछे अग्निकोण वाले मार्ग पर गङ्गा से अनुमोदित हो चल पड़े ॥ ३ ॥
+    notes:
+      author: grandfather
+      text: |
+        यद्यपि दक्षपुत्र (दधि) द्वारा मृकण्ड को निवास बनाने के लिए बताये हुए मार्ग द्वारा ही जाने का निर्णय था फिर-भी तिरछे अग्नि कोण की ओर जाने वाली गङ्गा की धार की ओर से अपने लक्ष्य की ओर जाने का निश्चय किया, और उसी दिशा में चल पड़े । ३
+    translation_en:
+      author: ai_translation
+      text: |
+        That travelling great soul, having settled on the hermitage pointed out by Dakṣa [the Hindi glosses "(चातुर)", "clever one"; the Sanskrit "दाक्षिण्या" suggests Dākṣi], set out on the road slanting toward the south-east, with the Gaṅgā's approval. (3)
+    notes_en:
+      author: ai_translation
+      text: |
+        Although the decision was to go only by the road shown to Mṛkaṇḍa by Dakṣa's son [the notes as transcribed add "(दधि)"; probably Dākṣi] for making his dwelling, he nonetheless decided to go toward his goal along the Gaṅgā's stream, which runs slanting toward the south-east, and set out in that direction. (3)
+  - number: 4
+    shlok: |
+      वामभागमपहाय पार्वतीं
+      भूमिमाशु सरलेन वर्त्मना ।
+      पीतभित्ति मुपगम्य कस्यचि-
+      त्तस्याश्रमेऽतिथितया न्युवास सः ॥ ४ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Leaving the hilly land on his left and going quickly by a straight road, he reached Pītabhitti and lodged as a guest in someone's hermitage there. (4)
+    translation:
+      author: amanuensis
+      text: |
+        पर्वतीय वामभाग की भूमि को त्यागकर शीघ्रता से सरल मार्ग से पीतभित्ति (पीलीभीत) आकर किसी के सुन्दर आश्रम में अतिथि के रूप में निवास किया ॥ ४ ॥
+    notes:
+      author: grandfather
+      text: |
+        वहाँ से चलते हुए उन्होंने पर्वतीय वाम् भाग वाले भूमि को छोड़कर सीधे समतल वाले आगे जाने वाले मार्ग से चलते हुए पीलीभीत नाम वाले स्थान में आकर किसी सद्गृहस्थ के सुन्दर घर या आश्रम को अतिथि बनकर रात्रि विश्राम किया । ४
+    translation_en:
+      author: ai_translation
+      text: |
+        Leaving the hilly land on his left, he went quickly by a straight road to Pītabhitti (Pīlībhīt), and stayed as a guest in someone's lovely hermitage. (4)
+    notes_en:
+      author: ai_translation
+      text: |
+        Going on from there, he left the hilly land on his left, walked along the straight road ahead over level ground, came to a place named Pīlībhīt, and spent the night as a guest in some good householder's lovely house or hermitage. (4)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

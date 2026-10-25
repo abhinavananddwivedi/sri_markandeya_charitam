@@ -4,10 +4,18 @@ image: "images/pages/p066.jpg"
 verses:
   - number: 11
     shlok: |
-      गां बबन्धा वटमूल सन्ततौ
-      दृश्यमेकादिशि रम्यमासनम् ।
-      शिरोदिशेकमनु कम्बल्योत्तरं
-      कौशमास्तृण शयनाय संस्तरे ॥ ११ ॥
+      गां बबन्ध वटमूलसन्ततौ
+      दृश्यमेकदिशि रम्यमासनम् ।
+      [unclear: शिरोदिशि कमनु कम्बलोत्तरं]
+      [unclear: कौशमास्तृण शयनाय संस्तरे] ॥ ११ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता। पाद १–२ शुद्ध ("बबन्ध", "एकदिशि"; पूर्व पाठ "बबन्धा / एकादिशि" भ्रान्त था)। पाद ३–४ फीके हैं और पूर्व पाठ छन्द में नहीं बैठता; पुनः पठन आवश्यक।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā. Pādas 1–2 scan ("बबन्ध", "एकदिशि"; the earlier "बबन्धा / एकादिशि" was wrong). Pādas 3–4 are faint, and the earlier reading, kept here in brackets, does not scan; they need re-reading.
     shlok_en:
       author: ai_translation
       text: |
@@ -33,7 +41,15 @@ verses:
       धौतपादकरपल्लवो मुदा
       वन्यमभ्यवजहार किञ्चन ।
       संस्मरन्परतरं महो मुनिः
-      सन्दधेऽनु शयनं विधिवतः ॥ १२ ॥
+      सन्दधेऽनु शयनं विधानतः ॥ १२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता (चारों पाद शुद्ध)। पाद ४ "विधानतः" (पूर्व पाठ "विधिवतः" भ्रान्त था)। पाद २ पहले "स्वन्मूथवजहार" जैसा लिखकर पंक्ति के अन्त में शुद्ध रूप दोहराया गया है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā (all four pādas scan). Pāda 4 reads "विधानतः" (the earlier "विधिवतः" was wrong). Pāda 2 was first miswritten and then rewritten correctly at the end of the line.
     shlok_en:
       author: ai_translation
       text: |
@@ -54,4 +70,5 @@ verses:
       author: ai_translation
       text: |
         After this the sage washed his hands and feet with great joy and ate the roots, tubers, fruits and the like easily found in the forest; then, beholding the divine light of the Supreme Lord, he went to sleep, calm, settled and free of worry. (12)
+notes_uncertain: true
 source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

@@ -1,0 +1,73 @@
+page_number_devanagari: "७८"
+page_number_arabic: 78
+image: "images/pages/p078.jpg"
+verses:
+  - number: 36
+    shlok: |
+      यन्नारेण महर्षिणा विबोधितो
+      दाक्षिणात्यमवलोकितः पथि।
+      तं प्रवृत्तिमयमाश्रयोन्मुखो
+      योक्तुमात्मनमवेहि तेऽन्तिकम्॥ ३६॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाद १ में पाण्डुलिपि में `यन्नरेण महषिरणा` लिखा है जो महर्षि नारद के उपदेश का वाचक है (`यन्नारदेन महर्षिणा विबोधितो`)। पाद २ में दाक्षि ऋषि का दर्शन है। पाद ३-४ में `तं प्रवृत्तिमयमाश्रयोन्मुखो योक्तुमात्मनमवेहि तेऽन्तिकम्`—प्रवृत्तिमार्ग की साधना हेतु आपके सान्निध्य में आया हूँ। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: In line 1, the scribal hand writes `यन्नरेण महषिरणा`, which the grandfather’s commentary and context identify as referring to the counsel of Maharṣi Nārada (`यन्नारदेन महर्षिणा विबोधितो`). Line 2 mentions his encounter on the road with Sage Dākṣi. Lines 3–4 convey his resolve to immerse himself into Pravṛtti-mārga under Parāśara’s guidance. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Taught by the great sage Nara, and seen on the way by the southerner (Dākṣi), know me to have come to you, intent on taking up that path of action and to join myself to it." (36)
+    translation:
+      author: amanuensis
+      text: |
+        जो नारद ऋषि ने समझाया, मार्ग में दाक्षी ने जो समझाया उसे प्रवृत्तिमार्ग को बढ़ाने की इच्छा से आपके समीप मेरा आगमन हुआ है इसे आप जाने मुझे नियुक्त करें॥ ३६॥
+    notes:
+      author: grandfather
+      text: |
+        प्रभो! मुझे परमपूज्य महर्षि नारद ने जो बताया, पुनः आते हुए मार्ग में मुझे ऋषि दाक्षी ने भी उसे ही सम्पन्न करने के लिए मुझे पुनः प्रेरित किया मैं फिर उसी प्रवृत्तिमार्ग के सर्वथा अभ्युत्थान के लिए जुड़ जाना चाहता हूँ अतः आप मुझे पुनः उस मार्ग के संवृद्धि के लिए ही आपके पास आया हुआ हूँ, ऐसा आप समझें। ३६
+    translation_en:
+      author: ai_translation
+      text: |
+        "What the sage Nārada [the Sanskrit has "नारेण", by Nara, the sage of canto 1] explained, and what Dākṣi explained on the way: know that I have come to you wishing to further the path of action; appoint me [to it]." (36)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Lord! What the most revered Maharṣi Nārada [cf. the Sanskrit "नारेण", Nara] told me, and what the sage Dākṣi again urged me to carry out on the road as I came, I want to join myself again to that same path of action for its full rise. So understand that I have come to you only for the growth of that path." (36)
+  - number: 37
+    shlok: |
+      आश्रमं समुचितं विनिर्दिश
+      स्वात्मनः सुखदं तु तत्र मे।
+      पूर्त्तिरेतु मम समीहितं कथं
+      वेति सम्यगनुशाधि मां प्रभो!॥ ३७॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद २ में `स्वात्मनत्सुखदं ते तत्र क्रियाम्`, पाद ३ में `पूर्त्तिं मम समीहितं कथं` लिखा है। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Line 2 in the amanuensis hand reads `स्वात्मनत्सुखदं ते तत्र क्रियाम्`, and line 3 reads `पूर्त्तिं मम समीहितं कथं`. The underlying sense is to point out a conducive hermitage and how his heartfelt mission may be fulfilled. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Direct me to a fitting hermitage there, pleasing to me; and teach me well, Lord, how my wish may come to fulfilment." (37)
+    translation:
+      author: amanuensis
+      text: |
+        आत्मसुखार्थ समुचित आश्रम का निर्माण मैं कहाँ करूँ इसका निर्देश दें। मेरी इच्छापूर्ति कैसे होगी यह भी मुझे बतावें॥ ३७॥
+    notes:
+      author: grandfather
+      text: |
+        इसीलिए हे महर्षि! मैं अपने कार्यसाधन के लिए कहाँ पर सुखपूर्वक रहने के लिए स्थान बनाऊँ वह समुचित स्थान आप बतावें, और मेरी इस कार्य पूर्त्ति कैसे होगी, आदि बातें भी मुझे बताने की कृपा करें। ३७
+    translation_en:
+      author: ai_translation
+      text: |
+        "Direct me where I should build a fitting hermitage for my own comfort. Tell me also how my wish will be fulfilled." (37)
+    notes_en:
+      author: ai_translation
+      text: |
+        "So, Maharṣi, please tell me the proper place where I should make my dwelling, to live at ease while doing my work, and please also tell me how this work of mine will be completed, and such things." (37)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. This page's source markdown uses the later antigravity 'dialect B': the shlok is a fenced code block rather than a blockquote, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

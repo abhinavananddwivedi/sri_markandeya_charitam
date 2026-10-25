@@ -4,10 +4,18 @@ image: "images/pages/p074.jpg"
 verses:
   - number: 28
     shlok: |
-      तं ततः समुपेत्य सम्मुखं
+      तं ततः समुपसृत्य सम्मुखं
       दण्डवत्प्रणिपपात सादरम् ।
       इङ्गितेन परिसान्त्व्य सोऽचिरात्
       सन्मुनिस्तमपि साध्वयासदत् ॥ २८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता। पाद १ "समुपसृत्य" (पूर्व "समुपेत्य", एक अक्षर कम)। पाद ४ पाण्डुलिपि में काटकर नीचे फिर से लिखा गया है; दोनों रूप अस्पष्ट हैं, पूर्व पाठ यथावत् रखा है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā. Pāda 1 reads "समुपसृत्य" (the earlier "समुपेत्य" is one syllable short). Pāda 4 is struck out in the manuscript and rewritten below; both forms are unclear, and the earlier reading is kept.
     shlok_en:
       author: ai_translation
       text: |
@@ -31,13 +39,21 @@ verses:
   - number: 29
     shlok: |
       किञ्च शिष्यसहकारतो मुनिः
-      पाद्यमर्घ्यं मधुपर्क इत्यदम् ।
-      सम्मुखेन कतिधोच्चरञ्जवा-
-      त्तेन मृकण्डुरधुना समार्च्यत ॥ २९ ॥
+      पाद्यमर्घ्यमधुपर्क इत्ययम् ।
+      सम्भ्रमेण कतिधोच्चरञ्जवा-
+      त्तं मृकण्डुमधुना समार्चयत् ॥ २९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता (चारों पाद शुद्ध)। पूर्व पाठ "पाद्यमर्घ्यं … इत्यदम् / सम्मुखेन … / …मृकण्डुरधुना समार्च्यत" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā (all four pādas scan). The earlier reading ("पाद्यमर्घ्यं … इत्यदम् / सम्मुखेन … / …मृकण्डुरधुना समार्च्यत") was wrong.
     shlok_en:
       author: ai_translation
       text: |
-        And the sage, with his disciples' help, calling out several times in haste, "water for the feet, arghya, madhuparka", now had Mṛkaṇḍu honoured by them. [Partly unclear.] (29)
+        Then the sage, with his disciples' help, quickly uttering "water for the feet, the guest-offering, the madhuparka" again and again in his eagerness, now honoured Mṛkaṇḍu. (29)
     translation:
       author: amanuensis
       text: |

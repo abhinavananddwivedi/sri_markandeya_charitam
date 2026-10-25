@@ -5,21 +5,21 @@ verses:
   - number: 32
     shlok: |
       आकृतिर्वदति सत्यमद्भुतं
-      तावकीनमखिलान् मनोरथान्।
-      किं मृकण्डुरसि धात्रजस्त्वया
-      लक्ष्यसे तदपि ब्रूहि सत्वरम्॥ ३२॥
+      तावकीनमखिलं मनोरथम् ।
+      किं मृकण्डुरसि धातुरात्मज-
+      स्तच्छ्रुतोऽस्यभिधेहि सत्वरम् ॥ ३२ ॥
     manuscript_note:
       author: ai_transcription
       text: |
-        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाद ३-४ में पाण्डुलिपि में `धात्ऱजस्त्वजा- / ल्लक्ष्यसे` दृष्टव्य है, जो छन्दतः तथा अर्थतः `धात्रजस्त्वया लक्ष्यसे` अथवा `धात्रजस्तथा लक्ष्यसे` का द्योतक है। वृत्त: रथोद्धता
+        वृत्त: रथोद्धता। पाद २ "मखिलं मनोरथम्", पाद ३ "धातुरात्मज-" (पूर्व "धात्रजस्त्वया")। पाद ४ का आरम्भ अस्पष्ट है ("लक्ष्यसे"/"स्तच्छ्रुतो…"); "…भिधेहि सत्वरम्" सुपाठ्य है, पूर्व पाठ "तदपि ब्रूहि" छन्द में नहीं बैठता।
     manuscript_note_en:
       author: ai_transcription
       text: |
-        Paleographic / Textual Note: In lines 3–4, the amanuensis manuscript writes `धात्ऱजस्त्वजा- / ल्लक्ष्यसे`, which metrically and semantically stands for `धात्रजस्त्वया लक्ष्यसे` or `धात्रजस्तथा लक्ष्यसे`. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+        Metre: Rathoddhatā. Pāda 2 reads "मखिलं मनोरथम्", and pāda 3 "धातुरात्मज-" (earlier "धात्रजस्त्वया"). The opening of pāda 4 is unclear ("लक्ष्यसे" or "स्तच्छ्रुतो…"); "…भिधेहि सत्वरम्" is legible, and the earlier "तदपि ब्रूहि" does not scan.
     shlok_en:
       author: ai_translation
       text: |
-        "Your appearance truly tells, wonderfully, all your wishes. Are you Mṛkaṇḍu, son of Dhātā? So you seem; still, tell me quickly." (32)
+        "Your appearance tells, truly and wonderfully, all your wishes. Are you Mṛkaṇḍu, the son of Dhātā? Tell me quickly." [The opening of pāda 4 is unclear.] (32)
     translation:
       author: amanuensis
       text: |
@@ -45,11 +45,11 @@ verses:
     manuscript_note:
       author: ai_transcription
       text: |
-        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाद ३-४ में `तान्निशम्य चकितोऽभिधाय निजान् पूर्वजान् सुचरितान् अभासत` का भाव सन्निहित है। वृत्त: रथोद्धता
+        वृत्त: रथोद्धता। पाद ३ पाण्डुलिपि में "…चकितोऽभिधां निजां" जैसा है (छन्द-शुद्ध); पाद ३–४ का आरम्भ अस्पष्ट है, पूर्व पाठ यथावत्।
     manuscript_note_en:
       author: ai_transcription
       text: |
-        Paleographic / Textual Note: Lines 3–4 intend `तान्निशम्य चकितोऽभिधाय निजान् पूर्वजान् सुचरितान् अभासत`. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+        Metre: Rathoddhatā. Pāda 3 looks like "…चकितोऽभिधां निजां" in the manuscript (which scans); the openings of pādas 3–4 are unclear, and the earlier reading is kept.
     shlok_en:
       author: ai_translation
       text: |

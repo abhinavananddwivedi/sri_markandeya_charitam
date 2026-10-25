@@ -11,11 +11,11 @@ verses:
     manuscript_note:
       author: ai_transcription
       text: |
-        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद १-२ में `इत्युदीरितमति प्रसन्नधी- / र्महर्षिणा सुवचस्तेन पराशरे` तथा पाद ३-४ में `निर्विवेश हृदये कृतज्ञतां / शालिनता स्वहृदयेन निर्विधे` लिखा है। वृत्त: रथोद्धता
+        वृत्त: रथोद्धता। पाद २ और ४ छन्द में नहीं बैठते; पाण्डुलिपि में फीके हैं; पुनः पठन आवश्यक।
     manuscript_note_en:
       author: ai_transcription
       text: |
-        Paleographic / Textual Note: Lines 1–2 record Mṛkaṇḍu’s uplifted spirit upon hearing the benevolent pronouncements of Maharṣi Parāśara. Lines 3–4 express how Mṛkaṇḍu absorbed this benediction deep into his grateful heart with unblinking reverence and decorum. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+        Metre: Rathoddhatā. Pādas 2 and 4 do not scan; they are faint in the manuscript and need re-reading.
     shlok_en:
       author: ai_translation
       text: |
@@ -70,4 +70,5 @@ verses:
       author: ai_translation
       text: |
         Constantly reflecting in his heart on the very charming, guileless and fully generous nature of Maharṣi Parāśara, with his very sweet voice, the sage Mṛkaṇḍu said: "Lord, where the gaze of your full kindness falls, what can be said of that place? That is, what is not possible through your favour?" (49)
+notes_uncertain: true
 source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. This page's source markdown uses the later antigravity 'dialect B': the shlok is a fenced code block rather than a blockquote, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

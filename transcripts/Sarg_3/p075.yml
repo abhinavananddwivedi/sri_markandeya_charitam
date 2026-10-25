@@ -31,9 +31,17 @@ verses:
   - number: 31
     shlok: |
       वत्स वेद्मि भृगुवंशभूषणं
-      धातृपुत्रमखिलाहृतदूषणम् ।
+      धातृपुत्रमखिलास्तदूषणम् ।
       अंशुमद्विदितवेदपूरुषं
       त्वां सदा क्रतुषु सोमभूषणम् ॥ ३१ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता (चारों पाद शुद्ध)। पाद २ "मखिलास्तदूषणम्" (पूर्व "मखिलाहृतदूषणम्" भ्रान्त था)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā (all four pādas scan). Pāda 2 reads "मखिलास्तदूषणम्" (the earlier "मखिलाहृतदूषणम्" was wrong).
     shlok_en:
       author: ai_translation
       text: |

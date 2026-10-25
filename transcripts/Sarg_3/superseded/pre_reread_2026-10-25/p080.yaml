@@ -1,0 +1,73 @@
+page_number_devanagari: "८०"
+page_number_arabic: 80
+image: "images/pages/p080.jpg"
+verses:
+  - number: 40
+    shlok: |
+      मामुपेत्य प्रथमं परामृशन्
+      शासनाय च ममोद्यतो ह्यभूत्।
+      यत्त्वया व्यधित पूज्यता मम
+      मान्य! तेन सुगुणोऽसि योग्यतः॥ ४०॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद १ में `मामुपेत्य प्रथमं परामृशः`, पाद २ में `शासनाय च ममोद्यतो ह्यभूत् / ह्यसि`, पाद ४ में `मान्य! तेन सुगुणोऽपि योग्यसाम्` लिखा है। भाव: सर्वप्रथम महर्षि से परामर्श एवं आदेश प्राप्त करने का आदरपूर्ण व्यवहार। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: In line 1, the manuscript has `परामृशः`; line 2 `शासनाय च ममोद्यतो ह्यभूत्`; line 4 `मान्य! तेन सुगुणोऽपि योग्यसाम्`. It acknowledges Mṛkaṇḍu's noble protocol of first seeking counsel and respectfully soliciting guidance from elders. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Coming to me first, consulting me, you were ready for my instruction; since you have shown me reverence, honoured one, by that you are of good qualities and worthy." (40)
+    translation:
+      author: amanuensis
+      text: |
+        हे वत्स! पहिले मेरे पास आकर तुमने परामर्श किया बाद में आदेश देने का अनुरोध किया। इस प्रकार तुमने मेरी पूज्यता व्यक्त करके आदर किया उससे तुम्हारी योग्यता मैं पूर्णरूप से समझता हूँ॥ ४०॥
+    notes:
+      author: grandfather
+      text: |
+        प्रिय वत्स! पहिले यहाँ आकर तुमने मेरी प्रशंसा करते हुए मुझसे परामर्श किया और मुझसे योग्य आदेश प्राप्त करने के लिए अनुरोध किया, यहाँ आकर तुमने जो मेरी पूज्यता श्रेष्ठता का समादर किया इससे क्रिया में तुम्हारी योग्यता को अच्छी तरह समझ रहा हूँ। ४०
+    translation_en:
+      author: ai_translation
+      text: |
+        "Child! You first came to me and consulted me, and then asked me to give directions. Since you have honoured me by showing my worthiness of reverence, I understand your fitness fully." (40)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Dear child! Coming here first, you praised me, consulted me and asked to receive proper directions from me; from the honour you have shown here to my worthiness and seniority, I understand well your fitness in action." (40)
+  - number: 41
+    shlok: |
+      याच्यतां न नृपतिः प्रियव्रतः
+      सम्भृतेरपि कृते न चिन्त्यताम्।
+      कारवोऽपि खलु चारु वो व्यधु-
+      र्ब्राह्मणस्य भृतिमन्तरा क्रियाः॥ ४१॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाद १ में लिपिकार ने पहले `याच्यतां` लिखकर फिर `नाच्यतां नु` जैसा सुधार किया है, जिसका स्पष्ट आशय है 'न याच्यतां नृपतिः प्रियव्रतः'। पाद ३-४ में कारीगरों द्वारा बिना पारिश्रमिक ब्राह्मण के कार्य करने का विधान है। वृत्त: रथोद्धता
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: In line 1, the amanuensis originally penned `याच्यतां`, then modified it with an initial negative marker, meaning na yācyatāṁ nṛpatiḥ priyavrataḥ [Do not petition King Priyavrata]. Lines 3–4 describe how skilled craftsmen perform duties for brāhmaṇas selflessly without demanding wages. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Do not ask King Priyavrata, and do not worry about the materials either; craftsmen will do your work well, as the works of a brahmin [are done], without wages." (41)
+    translation:
+      author: amanuensis
+      text: |
+        न महाराज प्रियव्रत से याचना करो, न सामग्रियों की चिन्ता करो कारीगर भी बिना मजदूरी के ब्राह्मण के सभी कार्य सुन्दर सम्पन्न करेंगे॥ ४१॥
+    notes:
+      author: grandfather
+      text: |
+        प्रिय! इस क्षेत्र का समस्त राज्य महाराज प्रियव्रत का है किन्तु उनसे तुझे प्रार्थना पूर्वक भूमि मांगने की आवश्यकता नहीं है, घर बनाने के लिए विविध सामग्रियों की भी तुझे चिन्ता नहीं करनी होगी, क्योंकि योग्य व्यक्ति जो जिसमें निपुण हैं वे स्वयं करेंगे क्योंकि ब्राह्मण के सभी कार्य बिना किसी पारिश्रमिक के ही सम्पन्न हुआ करते हैं। ४१
+    translation_en:
+      author: ai_translation
+      text: |
+        "Do not solicit Emperor Priyavrata for land, nor harbor anxiety concerning construction materials. Indeed, skilled artisans and craftsmen will execute all tasks beautifully and honorably for a brāhmaṇa without requiring wages." (Verse 41)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Dear one! The whole kingdom of this region belongs to King Priyavrata, but you need not go and ask him for land; nor will you have to worry about the various materials for building a house; for capable people, each skilled in his own work, will do it themselves, because all the work of a brahmin is done without any payment." (41)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. This page's source markdown uses the later antigravity 'dialect B': the shlok is a fenced code block rather than a blockquote, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

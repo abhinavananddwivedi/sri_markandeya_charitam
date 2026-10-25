@@ -1,0 +1,58 @@
+sarga: "अथ तृतीयः सर्गः"
+page_number_devanagari: "६१"
+page_number_arabic: 61
+image: "images/pages/p061.jpg"
+verses:
+  - number: 1
+    shlok: |
+      शक्तिरासीत्तपसः प्रभावतो
+      गन्तुमेक दिन एव दर्दुरम् ।
+      किन्तु लोकपरिशिक्षणार्थ य-
+      त्पर्य्यटात्स खलु पदातिरेव सः ॥ १ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        By the power of his austerity he had the strength to go to Dardura in a single day; but, to teach the world, he travelled the whole way on foot. (1)
+    translation:
+      author: amanuensis
+      text: |
+        यद्यपि तपस्या के प्रभाव से दि- एक दिन में ही दर्दुर जाने की शक्ति थी, किन्तु लोकशिक्षणार्थ वे पैदल ही गये ॥ १ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्ड एक सिद्ध तपस्वी थे उनकी कामनाओं के अनुसार किसी भी कार्य करने की अपूर्व सामर्थ्य थी, तपस्या की अद्भुत प्रभाव था, वे क्षण भर में सब कुछ कर सकने की क्षमता (रखते थे) यदि वे चाहते तो एक क्षण में ही हिमालय की उपत्यका से दर्दुर क्षेत्र में पहुँच सकते थे, किन्तु सृष्टि के प्रारम्भिक काल में लोक शिक्षणार्थ उन्होंने वहाँ से पैदल चलना उचित समझा और चल पड़े । १
+    translation_en:
+      author: ai_translation
+      text: |
+        Although by the power of his austerity he had the strength to go to Dardura in one day, he went on foot to teach the world. (1)
+    notes_en:
+      author: ai_translation
+      text: |
+        The sage Mṛkaṇḍa was a perfected ascetic; he had an unprecedented ability to do anything according to his wishes, and the power of his austerity was wonderful; he had the capacity to do everything in a moment. Had he wished, he could have reached the Dardura region from the valley of the Himālaya in a single moment; but, in the early period of creation, to teach the world, he thought it proper to walk from there on foot, and he set out. (1)
+  - number: 2
+    shlok: |
+      चारयन् स पथि गां निजामथो
+      देशकालमनु सन्दधद्ययौ ।
+      प्रत्युवास निशि सद्गृहस्थके
+      सेवनं सपदि शिक्षयन्गवाम् ॥ २ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Grazing his cow on the way, he went on, keeping place and time in mind; at night he lodged with good householders, at once teaching them the care of cows. (2)
+    translation:
+      author: amanuensis
+      text: |
+        वे मार्ग में अपनी धेनु को पालने के लिए देशकाल का भान रखते हुए चले। रात्रि में सद्गृहस्थ के यहाँ निवास उन्होंने सदा गायों की सेवा करनी चाहिए यह शिक्षा देते हुए किया ॥ २ ॥
+    notes:
+      author: grandfather
+      text: |
+        प्रारम्भिक काल में देश काले परिस्थिति के अनुरूप लोक शिक्षण के लिए रास्ते में धीरे २ अपनी गाय को चराते हुए उसके पीछे २ चलते रहे, जब शाम हो जाती तब वहीं रहने-वाले किसी सद्गृहस्थ के घर में निवास करते एवं सभी सद्गृहस्थों से कहा कि सब को गौ सेवा करनी चाहिए, क्योंकि गायें गृहस्थ धर्म के लिए अग्निहोत्र की मूल साधन हैं यह निर्देश (शिक्षा देते हुए) यात्रा चलती रही । २
+    translation_en:
+      author: ai_translation
+      text: |
+        He went on, keeping place and time in mind, so as to look after his cow on the way. At night he stayed with good householders, teaching them that one should always serve cows. (2)
+    notes_en:
+      author: ai_translation
+      text: |
+        In that early period, to teach people in keeping with the conditions of place and time, he kept walking slowly behind his cow, grazing her along the way. When evening came he stayed in the house of some good householder who lived there, and told all good householders that everyone should serve cows, because cows are the basic means of the agnihotra for the householder's dharma; giving this direction (teaching), he went on with his journey. (2)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

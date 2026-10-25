@@ -6,8 +6,16 @@ verses:
     shlok: |
       प्रातरेव प्रविकल्प्य चेतसा
       निर्मलेन मुकुरे यथाऽग्रतः ।
-      नैर्ऋतौ च स्थल त्रियोजनात्
+      नैर्ऋते च खलु योजनत्रये
       गोमतीतटगतं पराशरम् ॥ १५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता। पाद ३ "नैर्ऋते च खलु योजनत्रये" (पूर्व पाठ "नैर्ऋतौ च स्थल त्रियोजनात्" भ्रान्त था)। पाद १ में "प्र" से पूर्व ह्रस्व को लघु माना गया है (कवि की छूट)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā. Pāda 3 reads "नैर्ऋते च खलु योजनत्रये" (the earlier "नैर्ऋतौ च स्थल त्रियोजनात्" was wrong). In pāda 1 the short vowel before "प्र" is treated as light (the poet's licence).
     shlok_en:
       author: ai_translation
       text: |

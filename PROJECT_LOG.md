@@ -39,6 +39,21 @@ The user commits and pushes; agents do not push.
 
 ## Log
 
+### 2026-10-25 (later): Claude, canto-3 targeted Sanskrit re-read
+- **Triage first.** Metre-scanned the existing Sanskrit. Pass rates: canto 1 before its re-read 50%, canto 2 85%, canto 3 75%.
+- **Re-read.** Read every verse in canto 3 that had a failing line from upright crops (31 verses), plus all of p.86: `transcripts/audit_cantos_1-3/c3_reread_01.yaml`. Snapshots are in `transcripts/Sarg_3/superseded/pre_reread_2026-10-25/`.
+- **Result.** Rathoddhatā lines now scan 183/215, up from 160. The remaining failures are:
+  - the "pr/kr" licence lines (left as written);
+  - the colophon;
+  - about 10 faint pādas flagged "re-read needed" (vv.11, 23, 36, 37, 38, 46, 48, 50, 52).
+- **Content fixes:**
+  - the v3 instructor is "दाक्षि" (Dakṣa's son);
+  - v1 reads "पर्यगात्";
+  - v29's verb is "समार्चयत्".
+- **p.86.** The colophon triad was garbled and is now aligned with pp.32/118. The added "इति … समाप्तः" rubric is not on the page and was removed. v52 could not be resolved; the old text is kept and flagged.
+- **Scope.** Hindi and notes were not re-read; nor were verses that already scan. Their `translation_en`/`notes_en` are unchanged.
+
+
 ### 2026-10-25: Claude (Opus 5.5), canto-1 re-read finished
 - Resumed the canto-1 re-read where the previous session stopped. That session had actually reached p.14 (patches 01–06), not p.9 as logged.
 - Re-read pp. 15–29, 31 and 32 from upright band crops: `transcripts/audit_cantos_1-3/c1_reread_07.yaml` (35 patches). p.30 had already been read fresh during the structure fix. Every page of canto 1 that has a scan is now re-read; p.13 is still unread because no photo exists.

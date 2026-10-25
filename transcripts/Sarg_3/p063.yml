@@ -6,8 +6,16 @@ verses:
     shlok: |
       नैमिषेऽपि मुनिमण्डलीयुते
       न्युष्य रामजनिभूमिमागतः ।
-      तां तृतीय रजनीमतिवाह्य सः
+      तां तृतीयरजनीमतीत्य सः
       प्राप दर्दुरपुरं चतुर्थके ॥ ५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता (चारों पाद शुद्ध)। पाद ३ "रजनीमतीत्य" (पूर्व पाठ "रजनीमतिवाह्य" भ्रान्त था)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā (all four pādas scan). Pāda 3 reads "रजनीमतीत्य" (the earlier "रजनीमतिवाह्य" was wrong).
     shlok_en:
       author: ai_translation
       text: |

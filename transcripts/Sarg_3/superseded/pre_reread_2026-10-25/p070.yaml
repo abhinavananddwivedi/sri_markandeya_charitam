@@ -1,0 +1,57 @@
+page_number_devanagari: "७०"
+page_number_arabic: 70
+image: "images/pages/p070.jpg"
+verses:
+  - number: 19
+    shlok: |
+      क्वापि मज्जनपरान् बहूंस्ततो
+      आसनास्तरणतत्परान् क्वचित् ।
+      स्वस्तिकैरितिकराँश्च शोभनैः
+      क्वापि तूपस्थितिपरान् विवस्वतः ॥ १९ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then [he saw] many, in one place intent on bathing, in another busy spreading seats, others making fine svastikas, and elsewhere intent on worshipping the Sun (Vivasvat). (19)
+    translation:
+      author: amanuensis
+      text: |
+        कहीं पर उन्होंने ब्रह्मचारियों को स्नान करते, कहीं पर आसनों को बिछाते, कहीं पर स्वस्तिक रचना करते तथा कहीं पर उपस्थित करते (विवस्वतः - सूर्योपस्थान) देखा ॥ १९ ॥
+    notes:
+      author: grandfather
+      text: |
+        उन्होने उस आश्रम में बटुकों को कहीं स्नान करते हुए, कहीं गुरुजनों के लिए आसन आदिकी व्यवस्था करते हुए, कहीं पुण्यप्रद कार्य के लिए स्वस्तिकादिकी संरचना करते हुए, और कहीं पर परात्पर प्रभु भगवान् आदित्य देव की माध्यन्दिन उपासना करते हुए देखा । १९
+    translation_en:
+      author: ai_translation
+      text: |
+        He saw brahmacārīs bathing in one place, spreading seats in another, making svastika designs in another, and in another performing the upasthāna (vivasvataḥ: worship of the Sun). (19)
+    notes_en:
+      author: ai_translation
+      text: |
+        In that hermitage he saw boys bathing in one place, arranging seats and the like for their teachers in another, making svastikas and the like for meritorious work in another, and in another performing the midday worship of the Lord beyond the highest, the god Āditya. (19)
+  - number: 20
+    shlok: |
+      क्वापि बद्धकमलासनान् क्वचि-
+      द्व्यक्तमेरुदण्डसरलीकृतान् ।
+      ध्यानमीलितदृशो हृदन्तरे
+      ज्योतिरुज्ज्वलतरं विपश्यतः ॥ २० ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        [He saw] some seated in the lotus posture, some with the spine held visibly straight, [and others] with eyes closed in meditation, seeing within the heart a very bright light. (20)
+    translation:
+      author: amanuensis
+      text: |
+        कहीं पर उन्होंने कमलासन बाँधे हुए, कहीं पर मेरुदण्ड को सरल करते हुए, कहीं पर ध्यानमग्न हो हृदयान्तर में उज्ज्वल ज्योति को देखते हुए उन्हें देखा ॥ २० ॥
+    notes:
+      author: grandfather
+      text: |
+        उन्होने कहीं पर कमलासन लगाये हुए, कहीं पर मेरुदण्ड की स्वस्थता के लिए सीधा करने का आसन सम्पादन करते हुए, कहीं अन्तःकरण में ध्यान की स्थिति में दृष्टि निमीलन द्वारा परम समुज्ज्वल सुदीप्त ज्योति का दर्शन करते हुए वहाँ आश्रम वासियों को देखा । २०
+    translation_en:
+      author: ai_translation
+      text: |
+        Here he saw yogis seated firmly in the lotus posture (kamalāsana), there ascetics aligning their spinal columns in straight yogic posture, and elsewhere others with eyes gently closed in meditation, beholding the intensely radiant Divine Light within the sanctuary of their hearts.
+    notes_en:
+      author: ai_translation
+      text: |
+        He saw the dwellers of the hermitage there, some seated in the lotus posture, some doing the posture of straightening the spine for its health, and some, in a state of meditation within, with eyes closed, seeing a most bright, radiant light. (20)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

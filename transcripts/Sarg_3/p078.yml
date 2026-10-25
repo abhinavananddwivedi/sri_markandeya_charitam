@@ -11,11 +11,11 @@ verses:
     manuscript_note:
       author: ai_transcription
       text: |
-        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाद १ में पाण्डुलिपि में `यन्नरेण महषिरणा` लिखा है जो महर्षि नारद के उपदेश का वाचक है (`यन्नारदेन महर्षिणा विबोधितो`)। पाद २ में दाक्षि ऋषि का दर्शन है। पाद ३-४ में `तं प्रवृत्तिमयमाश्रयोन्मुखो योक्तुमात्मनमवेहि तेऽन्तिकम्`—प्रवृत्तिमार्ग की साधना हेतु आपके सान्निध्य में आया हूँ। वृत्त: रथोद्धता
+        वृत्त: रथोद्धता। पाद १ छन्द में नहीं बैठता; "महर्षिणा" के स्थान पर "मुनिना" पढ़ने पर शुद्ध होगा, पर अक्षर अस्पष्ट हैं। पाद ४ "योक्तुम्" काटकर फिर लिखा गया है।
     manuscript_note_en:
       author: ai_transcription
       text: |
-        Paleographic / Textual Note: In line 1, the scribal hand writes `यन्नरेण महषिरणा`, which the grandfather’s commentary and context identify as referring to the counsel of Maharṣi Nārada (`यन्नारदेन महर्षिणा विबोधितो`). Line 2 mentions his encounter on the road with Sage Dākṣi. Lines 3–4 convey his resolve to immerse himself into Pravṛtti-mārga under Parāśara’s guidance. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+        Metre: Rathoddhatā. Pāda 1 does not scan; it would if "महर्षिणा" were read "मुनिना", but the letters are unclear. In pāda 4, "योक्तुम्" is struck out and rewritten.
     shlok_en:
       author: ai_translation
       text: |
@@ -45,11 +45,11 @@ verses:
     manuscript_note:
       author: ai_transcription
       text: |
-        हस्तलेख पाठभेद/लिपि-टिप्पणी: पाण्डुलिपि में पाद २ में `स्वात्मनत्सुखदं ते तत्र क्रियाम्`, पाद ३ में `पूर्त्तिं मम समीहितं कथं` लिखा है। वृत्त: रथोद्धता
+        वृत्त: रथोद्धता। पाद २–३ छन्द में नहीं बैठते; पाण्डुलिपि में ये फीके और अस्पष्ट हैं; पुनः पठन आवश्यक।
     manuscript_note_en:
       author: ai_transcription
       text: |
-        Paleographic / Textual Note: Line 2 in the amanuensis hand reads `स्वात्मनत्सुखदं ते तत्र क्रियाम्`, and line 3 reads `पूर्त्तिं मम समीहितं कथं`. The underlying sense is to point out a conducive hermitage and how his heartfelt mission may be fulfilled. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+        Metre: Rathoddhatā. Pādas 2–3 do not scan; in the manuscript they are faint and unclear, and need re-reading.
     shlok_en:
       author: ai_translation
       text: |

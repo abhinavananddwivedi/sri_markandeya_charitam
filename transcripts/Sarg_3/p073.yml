@@ -30,20 +30,28 @@ verses:
         In this manner, Sage Mṛkaṇḍu observed many great seers engaged in diverse physical disciplines of Haṭha-yoga and others firmly established in contemplative Rāja-yoga, directly contemplating the effulgent mass of divine light of the Supreme Reality within their inmost consciousness.
   - number: "25-27"
     shlok: |
-      मध्येवेदिगतमुज्ज्वलप्रभं
+      मध्यवेदिगतमुज्ज्वलप्रभं
       काञ्चनाभतनुमुच्चविग्रहम् ।
-      स्वर्णकेशमथ लम्बकूर्चकं
+      स्वर्णकेशमुत लम्बकूर्चकं
       ध्यानमीलितदृशं तपोधनम् ॥ २५ ॥
-
+      
       ऊर्ध्वपुण्ड्रपरिशोभितालिकं
       कर्णयोश्च तुलसीसुमालिकम् ।
-      उन्नसं किञ्चिन्नियममानने
-      सन्दधानमथ सुस्मितोरुचम् ॥ २६ ॥
-
+      उन्नसं विततनेत्रमानने
+      सन्दधानमथ सुस्मितं रुचम् ॥ २६ ॥
+      
       सान्द्रचित्सुखनिमग्नमानसं
       बाह्यवृत्तिपरिरोधतत्परम् ।
-      पूजयन्तमुचितोपचारतः
-      स्तं पराशरमबुध्यताग्रतः ॥ २७ ॥
+      पूजयन्तमुचितोपचारत-
+      स्तं पराशरमबुध्यतासकौ ॥ २७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: रथोद्धता। पाण्डुलिपि में तीनों श्लोक लम्बी पंक्तियों में लिखे हैं। सुधार: "मध्यवेदि…" (पूर्व "मध्येवेदि…"), "स्वर्णकेशमुत" (पूर्व "…मथ"), "उन्नसं विततनेत्रमानने" (पूर्व "उन्नसं किञ्चिन्नियममानने" छन्द में नहीं बैठता था), "सुस्मितं रुचम्", "मबुध्यतासकौ" (पूर्व "मबुध्यताग्रतः")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Rathoddhatā. The manuscript writes the three verses in long lines. Corrections: "मध्यवेदि…" (earlier "मध्येवेदि…"), "स्वर्णकेशमुत" (earlier "…मथ"), "उन्नसं विततनेत्रमानने" (the earlier "उन्नसं किञ्चिन्नियममानने" did not scan), "सुस्मितं रुचम्", and "मबुध्यतासकौ" (earlier "मबुध्यताग्रतः").
     shlok_en:
       author: ai_translation
       text: |
@@ -64,4 +72,5 @@ verses:
       author: ai_translation
       text: |
         After this, [he saw] that excellent ascetic in the middle of the sacrificial altar, shining with divine splendour, whose tall body and grace of form outshone even the yellow glow of gold, with hair of yellow lustre, adorned with a long beard, his eyes closed because of samādhi: (1) his forehead adorned with the ūrdhvapuṇḍra (having received Vaiṣṇava initiation), wearing lovely strands of tulasī in both ears, with a high nose and long corners to his eyes, his bodily lustre joined with a soft, sweet smile; (2) meditating within his heart on the highest reality, able, through his experiences, to restrain all outward worldly activity, and worshipping the Supreme Brahman by various methods of worship of the gods. Seeing him, the sage Mṛkaṇḍa was convinced in his heart: "This is Maharṣi Parāśara." (25, 26, 27)
+notes_uncertain: true
 source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. Slokas 25-27 are grouped under a single source heading (श्लोक २५-२६-२७) and handled as one range verse, per the p032 / p060 precedent."

@@ -1,0 +1,57 @@
+page_number_devanagari: "६३"
+page_number_arabic: 63
+image: "images/pages/p063.jpg"
+verses:
+  - number: 5
+    shlok: |
+      नैमिषेऽपि मुनिमण्डलीयुते
+      न्युष्य रामजनिभूमिमागतः ।
+      तां तृतीय रजनीमतिवाह्य सः
+      प्राप दर्दुरपुरं चतुर्थके ॥ ५ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having stayed also at Naimiṣa, with its circle of sages, he came to the land of Rāma's birth; having spent the third night there, he reached the town of Dardura on the fourth [day]. (5)
+    translation:
+      author: amanuensis
+      text: |
+        मुनिसमूहयुक्त नैमिषारण्य में ठहर कर श्रीराम जन्मभूमि अयोध्या आये। वहाँ तीसरी रात बिताकर चौथे दिन दर्दुर भूमि को प्राप्त किया ॥ ५ ॥
+    notes:
+      author: grandfather
+      text: |
+        उसके अगले दिन अपनी सवत्सा गौ के साथ चलते हुए विविध तपस्वियों से युक्त नैमिषारण्य नामक पवित्र पुण्य भूमि में (रात्रि विश्राम किया तथा) रहकर पवित्र रामजन्मभूमि अयोध्या में आकर तीसरी रात्रि विश्राम किया तथा चौथे दिन वहाँ से चलकर अपने लक्ष्य दर्दी क्षेत्र में आ पहुँचे । ५
+    translation_en:
+      author: ai_translation
+      text: |
+        Having stayed in Naimiṣāraṇya, with its groups of sages, he came to Ayodhyā, birthplace of Śrī Rāma. Spending the third night there, on the fourth day he reached the land of Dardura. (5)
+    notes_en:
+      author: ai_translation
+      text: |
+        Walking on the next day with his cow and her calf, he stayed (spent the night) in the holy, meritorious land called Naimiṣāraṇya, with its many ascetics; then he came to the holy birthplace of Rāma, Ayodhyā, and spent the third night there; and on the fourth day, going on from there, he reached his goal, the Dardī region. (5)
+  - number: 6
+    shlok: |
+      गाङ्गमम्बु परिपीय केशवं
+      संस्तुवन्नवहितेन चेतसा ।
+      आससाद मुदमुज्ज्वलन्मना
+      भावि वेश्म रचनां विचारयन् ॥ ६ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having drunk the water of the Gaṅgā and praised Keśava with an attentive mind, he became joyful, his mind shining, as he thought about the building of his future house. (6)
+    translation:
+      author: amanuensis
+      text: |
+        गङ्गाजल पान कर सावधान चित्त से केशव का ध्यान कर प्रसन्नचित्त महात्मा उचित भूमि को प्राप्त किया। भावि पर्णकुटी की रचना के विषय में विचारने लगे ॥ ६ ॥
+    notes:
+      author: grandfather
+      text: |
+        वहाँ पहुँच कर पुण्य सलिला भगवती गङ्गा का जल पिया, सावधान मन से स्वस्थ प्रसन्न चित्त होकर भगवान् केशव की भावप्रवण स्तुति की। अत्यन्त प्रसन्न मुदितचित्त होकर मुनि मृकण्ड ने अपने रहने के लिए भावी पर्णकुटीर की संरचना के सम्बन्ध में विचार करने लगे । ६
+    translation_en:
+      author: ai_translation
+      text: |
+        Having drunk Gaṅgā water and meditated on Keśava with an attentive mind, the great soul, glad at heart, reached suitable land. He began to think about building his future leaf hut. (6)
+    notes_en:
+      author: ai_translation
+      text: |
+        On reaching there he drank the water of the goddess Gaṅgā, whose waters are holy, and, attentive, settled and glad at heart, praised Lord Keśava with feeling. Very happy and joyful at heart, the sage Mṛkaṇḍa began to think about building the future leaf hut he would live in. (6)
+source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."
