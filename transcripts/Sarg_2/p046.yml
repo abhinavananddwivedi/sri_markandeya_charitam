@@ -8,6 +8,10 @@ verses:
       प्रतिष्ठसे कुत्र च किं चिकीर्षसि ।
       ममैव वाऽनुग्रहवाञ्छया विभो !
       समागताः सन्निह शंकरः स्वयम् ॥ २७ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Where were you born? Who is your father, and what is your name? Where are you going, and what do you wish to do? Or, O lord, has Śaṅkara himself come here, wishing to show me favour?" (27)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        'Where was your birth, O holy one? Who is your revered father, and what is your sacred name? Whither are you journeying, and what holy task do you endeavor to accomplish? Or has Lord Śiva Himself arrived at my doorstep in your form to bestow unconditional grace upon me?'
+        "Where were you born? Who is your father? What is your name? Where are you setting out for? What do you want? Or have you, Śaṅkara himself, come to my house wishing to show me favour?" (27)
     notes_en:
       author: ai_translation
       text: |
-        'Where is your ancestral birthplace? Who is your noble father, and by what auspicious name are you known? Where are you traveling, and what mission do you seek to fulfill? Or is it that Lord Śaṅkara Himself, moved by causeless mercy to bless my humble home, has personally arrived in your divine person?'
+        "Where were you born? Who is your father? What is your good name? Where are you going? What do you want to do next? Or have you come to my house as Lord Śaṅkara himself, wishing to show me favour without cause?" (27)
   - number: 28
     shlok: |
       ततः स वर्णी स्मितपूर्वमुज्जगा-
       दवेहि धातुस्तनयं महामुने ! ।
       अधीत्य विद्यामधिगम्य सत्यतः
       परामथो लोकगतेर्बुभुत्सया ॥ २८ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then that brahmacārī said with a smile: "Know me, great sage, as the son of Dhātā; having studied, and truly attained the highest knowledge, [I set out] then, wishing to understand the course of the world." (28)
     translation:
       author: amanuensis
       text: |
@@ -41,9 +49,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Thereupon, the young brahmacārī replied with a gentle, serene smile: 'Know me, O Great Sage, to be the son of Sage Dhātā! To understand the true cosmic workings of the world, I have mastered all sciences, both the transcendental spiritual knowledge (Parā Vidyā) and the worldly sciences (Aparā Vidyā).'
+        Then that brahmacārī said with a smile: "Great sage! Know me as the son of Dhātā. Wishing to know the course of the world, I have obtained all the knowledge I could." (28)
     notes_en:
       author: ai_translation
       text: |
-        Hearing these humble inquiries, the young ascetic spoke with a sweet and gentle smile: 'O foremost of sages! Know me to be the son of Sage Dhātā. Under the lotus feet of my venerable preceptors, I have deeply assimilated both the supreme transcendental wisdom that confers self-realization (Parā Vidyā) and the comprehensive worldly knowledge that governs societal harmony (Aparā Vidyā), harmonizing the spiritual good (śreyas) with righteous temporal progress (preyas).'
+        Hearing this, that brahmacārī began to speak with a very natural, soft smile: "Best of great sages! Know me as the son of Śrī Dhātā. To gain a proper knowledge of the course of the world, receiving it from my revered teachers, I have thoroughly studied both the higher and the lower (the higher knowledge that brings knowledge of the self, and the lower that brings all worldly knowledge), that is, both kinds of learning, of the good (śreyas) and of the pleasant (preyas)." (28)
 source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

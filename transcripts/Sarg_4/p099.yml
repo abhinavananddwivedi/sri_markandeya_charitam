@@ -1,0 +1,73 @@
+page_number_devanagari: "९९"
+page_number_arabic: 99
+image: "images/pages/p099.jpg"
+verses:
+  - number: 25
+    shlok: |
+      इत्युदीरितवति प्रणयेन
+      भार्गवः समुचितं समुवाच ।
+      शक्तिजेन मुनिना न विनाऽह-
+      मुत्सहे परवशः खलु वक्तुम् ॥ २५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद ३ "शक्तिजेन मुनिना न विनाऽहं-" और पाद ४ "-मुत्सहे" (हस्तलेख "भुत्सहे" जैसा)। पूर्व निष्कासन का "नोत्सहे" दोहरा निषेध बनाकर अर्थ उलट देता था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 3 reads "शक्तिजेन मुनिना न विनाऽहं-" and pāda 4 "-मुत्सहे" (the manuscript looks like "भुत्सहे"). The earlier export's "नोत्सहे" created a double negative and reversed the sense.
+    shlok_en:
+      author: ai_translation
+      text: |
+        When he had spoken thus with affection, the descendant of Bhṛgu replied fittingly: "Without the sage born of Śakti (Parāśara), I cannot venture to speak, being indeed dependent on another." (25)
+    translation:
+      author: amanuensis
+      text: |
+        प्रेमपूर्वक मुद्गल के कहने पर भृगुवंशीय मृकण्डु ने उचित कहा — मैं शक्तिपुत्र पराशर से बिना सम्मति लिए विवाह करने में समर्थ नहीं हूँ, ऐसा मुझे परवश होकर कहना पड़ रहा है ॥ २५ ॥
+    notes:
+      author: grandfather
+      text: |
+        सस्नेह ऐसा उनके कहने पर मुनि भार्गव मृकण्ड ने अत्यन्त उदारतापूर्वक यह समुचित बातें कहनी शुरू की, मुने! मेरे अभिभावक शक्तिपुत्र महर्षि पराशर जी ही हैं, मैं बिना उनके निर्देश के विवाह नहीं कर सकता या कह सकता हूँ, यह मेरी विवशता है। अतः आप समझें। २५
+    translation_en:
+      author: ai_translation
+      text: |
+        When Mudgala had spoken with affection, Mṛkaṇḍu of the line of Bhṛgu gave a fitting reply: "I am not able to marry without the consent of Parāśara, the son of Śakti; being dependent, I am obliged to say so." (25)
+    notes_en:
+      author: ai_translation
+      text: |
+        When he had spoken thus affectionately, the sage Mṛkaṇḍa of Bhṛgu's line began, with great courtesy, to say these fitting words: "O sage! My guardian is none other than Maharṣi Parāśara, the son of Śakti. Without his direction I cannot marry, or even speak of it; this is my constraint. Please understand." (25)
+  - number: 26
+    shlok: |
+      प्रेष्यजातकृतसत्कृतिपूर्वं
+      स्तान्निवेश्य रुचिरे शरणे द्राक् ।
+      भोजनादिभिरभीष्टविधाभिः
+      स्वागतं परिचचार सुखेन ॥ २६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद २ "शरणे द्राक्" (शीघ्र) — पूर्व निष्कासन का "शरणेऽऽशु" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 2 reads "शरणे द्राक्" ("at once"); the earlier export's "शरणेऽऽशु" was a misreading.
+    shlok_en:
+      author: ai_translation
+      text: |
+        After they had first been honoured by his attendants, he promptly settled them in a pleasant lodging and gladly welcomed them with food and whatever else they wished. (26)
+    translation:
+      author: amanuensis
+      text: |
+        पहिले प्रेष्य (परिचारक) द्वारा सत्कृत उन्हें सुन्दर सदन में प्रवेश कराकर अभीष्ट भोजनादि से सानन्द उनका स्वागत किया गया ॥ २६ ॥
+    notes:
+      author: grandfather
+      text: |
+        अपने प्रिय शिष्यों द्वारा समुचित सत्कारपूर्वक उन्हें उत्तम आवास में टिकाया गया, वहाँ उनके उत्तमोत्तम भोजन जलपान की व्यवस्था करायी गई, इस प्रकार आये हुए अतिथि का अत्यन्त प्रहर्षपूर्वक उनकी विविध विधियों से समुचित सत्कार किया गया। २६
+    translation_en:
+      author: ai_translation
+      text: |
+        First honoured by the attendants (preṣya), they were shown into a fine house and welcomed joyfully with the food and other things they desired. (26)
+    notes_en:
+      author: ai_translation
+      text: |
+        Through his dear disciples they were received with due honour and lodged in excellent quarters, where the very best food and refreshments were arranged for them. In this way the guests who had come were honoured fittingly, with great joy and in various ways. (26)
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

@@ -4,46 +4,70 @@ image: "images/pages/p015.jpg"
 verses:
   - number: 29
     shlok: |
-      अदृष्टपूर्वौपि तौ तपस्विना
-      प्रमाणिलेन प्रतिनन्दितौ पुनः ।
-      सतो हि सम्भाषण दर्शनादिना
-      मनोगतं लक्ष्यत एव मत्परम् ॥ २९ ॥
+      अदृष्टपूर्वावपि तौ तपस्विना
+      प्रभावितेन प्रतिनन्दितौ मुहुः ।
+      सतां हि सम्भाषण-दर्शनादिना
+      मनोगतं लक्ष्यत एव सत्वरम् ॥ २९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पूर्व पाठ "प्रमाणिलेन … पुनः / सतो हि … / … मत्परम्" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). The earlier reading ("प्रमाणिलेन … पुनः / सतो हि … / … मत्परम्") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Though they had never been seen before, the two were greeted again and again by the ascetic, who was deeply impressed; for through conversing with, seeing and so on, the good, what lies in the mind is quickly perceived. (29)
     translation:
       author: amanuensis
       text: |
-        यद्यपि प्रभावित उस तपस्वी ने उन दोनों को पहिले नहीं देखा था तथापि उनका अभिनन्दन किया। क्योंकि सज्जनों के साथ सम्भाषण-दर्शनादि में मनोगत भाव शीघ्र ही लक्षित होता है ॥ २९ ॥
+        यद्यपि प्रभावित उस तपस्वी ने उन दोनों को पहिले नहीं देखा था तथापि उनका अभिनन्दन किया। क्योंकि सज्जनों के साथ सम्भाषण-दर्शनादि से मनोगत भाव शीघ्र ही लक्षित होता है ॥ २९ ॥
     notes:
       author: grandfather
       text: |
-        यद्यपि उस मृकण्डु ने उन्हें पहले कभी देखा न था फिर भी उन दोनों की अतिशय तेजस्विनी मूर्त्ति ने उन्हें अत्यन्त प्रभावित किया, वे उनका बार-बार अभिनन्दन करने लगे क्योंकि सन्तों-सज्जनों के साथ सम्भाषण एवं उनके दर्शनादि से अपने मनोभाव स्वतः शीघ्र परिलक्षित होने लगते हैं ॥ २९ ॥
+        यद्यपि उस मृकण्डु ने उन्हें पहले कभी देखा न था किन्तु उन दोनों की अतिशय तेजस्विनी मूर्त्ति ने उन्हें अत्यन्त प्रभावित किया, वे उनका बार २ अभिनन्दन करते रहे क्योंकि सन्तों सज्जनों के साथ सम्भाषण एवं उनके दर्शनादि से अपने मनोभाव स्वतः शीघ्र परिलक्षित होने लगते हैं। २९
     translation_en:
       author: ai_translation
       text: |
-        Although the ascetic Sage Mṛkaṇḍu had never seen them before, he offered them repeated salutations, deeply moved by their luminous presence; for in conversing with and beholding holy saints, the purest spiritual intentions of the heart immediately manifest.
+        Although that ascetic, deeply impressed, had not seen the two before, he greeted them. For through conversing with and seeing the good, the feelings in the mind quickly become apparent. (29)
     notes_en:
       author: ai_translation
       text: |
-        Although Sage Mṛkaṇḍu had never previously laid eyes upon them, the radiant aura and spiritual grandeur of their divine presence captivated him entirely. He bowed repeatedly before them; for communion with noble saints and holy seers naturally awakens and clarifies one's innermost spiritual yearnings.
+        Although Mṛkaṇḍu had never seen them before, the very radiant figures of the two impressed him greatly, and he kept greeting them again and again; for through conversing with saints and good people and seeing them, one's own feelings soon show of themselves. (29)
   - number: 30
     shlok: |
       तयोश्च सम्प्रेक्ष्य मुदं स्वदर्शनात्
       स्तुतिं विधातुं मनसा प्रचक्रमे ।
       स्वतश्च जिज्ञासुतया प्रवृद्धधी-
-      मनोऽभिलाषं गदितुं मनोदधे ॥ ३० ॥
+      र्मनोऽभिलाषं गदितुं मनो दधे ॥ ३० ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद ३–४ की सन्धि में "र्" (प्रवृद्धधीर्मनो…) पाण्डुलिपि में नहीं लिखा है; यहाँ जोड़ा गया। पाद २ में "मनसा" के स्थान पर "मनसः" भी पढ़ा जा सकता है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. The sandhi "r" across pādas 3–4 (प्रवृद्धधीर्मनो…) is not written in the manuscript and has been supplied. In pāda 2, "मनसा" could also be read "मनसः".
+    shlok_en:
+      author: ai_translation
+      text: |
+        Seeing their joy at the sight of him, he began to praise them in his mind; and of his own accord, his understanding grown through the wish to know, he set his mind on speaking his heart's desire. (30)
     translation:
       author: amanuensis
       text: |
-        अपने देखने मात्र से उनके आनन्दातिरेक को देखकर मन से स्तुति करना प्रारम्भ किया। अतः जिज्ञासावशात् वर्द्धित सुविचार वाले तपस्वी ने अपने मनोभाव के व्यक्त करने के लिए यत्न किया ॥ ३० ॥
+        अपने देखने मात्र से उनके आनन्दातिरेक को देखकर मन से स्तुति करना प्रारम्भ किया। स्वतः जिज्ञासावशात् वर्द्धित बुद्धिवाले तपस्वी ने अपने मनोभाव को व्यक्त करने के लिए ठान लिया ॥ ३० ॥
     notes:
       author: grandfather
       text: |
-        उन दोनों आदि पुरुषों (नर-नारायण) को अपने देखने मात्र से ही दर्शन का मुनि के अन्तःकरण में अतिशय आनन्द की अनुभूति हुई, उन्होंने उन आदि पुरुषों को समाहितचित्त होकर मन ही मन स्तुति करना प्रारम्भ किया, उनकी अलौकिक उपस्थिति तथा उनकी अनुपम उदारहृदयता देख कर मुनि मृकण्डु ने जिज्ञासावश अपनी मनोभिलषित भावनाओं को व्यक्त करने के लिए दृढ़ निश्चय कर लिया ॥ ३० ॥
+        उन दोनों आदि पुरुषों (नरनारायण) को अपने दर्शनकाल से ही देखकर मुनि के अन्तःकरण में अतिशय आनन्दानुभूति हुई, उन्होंने उन आदि पुरुषों की समाहितचित्त होकर मन ही मन स्तुति करना प्रारम्भ किया, उनकी अलौकिक उपस्थिति तथा उनकी अनुपम उदाराशयता देखकर मुनि मृकण्डु ने जिज्ञासावश अपनी मनोभिलषित भावनाओं को व्यक्त करने के लिए दृढ़ निश्चय कर लिया। ३०
     translation_en:
       author: ai_translation
       text: |
-        Perceiving their boundless compassion and overflowing with joy at their divine sight, Sage Mṛkaṇḍu began praying to them with deep devotion. With an awakened intellect and spiritual inquiry, he resolved to express his heart's innermost quest before them.
+        Seeing their great joy at merely seeing him, he began to praise them in his mind. Of his own accord, the ascetic, his understanding grown through the wish to know, resolved to express his feelings. (30)
     notes_en:
       author: ai_translation
       text: |
-        The mere sight of those primeval divine personalities (Nara and Nārāyaṇa) flooded the sage’s consciousness with supreme spiritual bliss. Absorbed in quiet reverence, he began offering mental hymns of praise to them. Observing their transcendental presence and profound benevolence, Sage Mṛkaṇḍu resolved with firm determination to place his sacred questions and aspirations before them.
+        Seeing the two primal persons (Nara and Nārāyaṇa) from the very moment he beheld them, the sage felt great joy in his heart. With a collected mind he began inwardly to praise those primal persons; and seeing their unearthly presence and their matchless generosity of heart, the sage Mṛkaṇḍu, out of the wish to know, firmly resolved to express the feelings his mind desired. (30)
 source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude."

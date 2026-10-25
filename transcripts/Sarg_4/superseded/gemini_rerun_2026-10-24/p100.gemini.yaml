@@ -1,0 +1,65 @@
+page_number_devanagari: "१००"
+page_number_arabic: 100
+image: "images/pages/p100.jpg"
+verses:
+  - number: 27
+    shlok: |
+      आगतेषु वरितुं स्वमग्रतः
+      पूर्णजल्पशुभमन्त्रमभ्यैषम् ।
+      आजुहाव कलकीर्तिनिर्मुखं
+      तं पाराशरमभीष्टसिद्धये ॥ २७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `आगतेषु वरितुं स्वमग्रतः` (११, हस्तलेखे `स्वमग्रौ प्राक् / स्वमग्रतः`); पाद २: `पूर्णजल्पशुभमन्त्रमभ्यैषम्` (११, हस्तलेखे `शुभमन्त्रमभ्यैषम् / शुभभाष्यमभ्यैषम्`); पाद ३: `आजुहाव कलकीर्तिनिर्मुखं` (११); पाद ४: `तं पाराशरमभीष्टसिद्धये` (११, हस्तलेखे `तं पाराशरमभीष्ट सुसिद्धये`)। पूर्व निष्कासन में पाद १ में १४ वर्णों का अनपेक्षित विस्तार तथा टिप्पणी में विकृत पाठ था। यहाँ हस्तलेख के मूल अनुसार शुद्ध किया गया है कि कन्यापक्ष के आगमन पर मृकण्डु ने अपने अभिभावक पराशर मुनि को आदरपूर्वक बुलवाया।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. In earlier drafts, line 1 was corrupted to 14 syllables and the notes were garbled. The manuscript records that when the party arrived to seek him in marriage, Sage Mṛkaṇḍu respectfully invited his elder guardian, the venerable Sage Parāśara, for the accomplishment of this auspicious proposal.
+    translation:
+      author: amanuensis
+      text: |
+        अपने विवाह के लिये लोगों के आने पर शीघ्रतापूर्वक महर्षि मृकण्डु बड़े भाई के गुणानुरूप कलकीर्ति नियन्त्रित अपने परम अभीष्ट पराशर मुनि को अभीष्ट कार्य की सिद्धि के लिए बुलवाये ॥ २७ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्डु ने अपने विवाह के लिए आने वाले लोगों के कारण अपने से बड़े शक्ति (बड़े भाई पितृतुल्य आदि के रूप में अपने अभिभावक स्वरूप) महर्षि पराशर जी को जिन की यशस्विता की आधारता लोक सम्मति सबकी फैली हुई थी, उन्हें सादर सस्नेह अपने वैवाहिक कार्य सिद्धि के लिए बुलवाया। २७
+    translation_en:
+      author: ai_translation
+      text: |
+        When guests arrived beforehand desiring to choose him for marriage, having exchanged auspicious and complete preliminary words, he summoned the celebrated Sage Parāśara for the fulfillment of the desired undertaking. (Verse 27)
+    notes_en:
+      author: ai_translation
+      text: |
+        Owing to the arrival of delegates proposing marriage, Sage Mṛkaṇḍu respectfully and affectionately summoned the revered Sage Parāśara—his elder and fatherly guardian, whose renowned glory was universally recognized by all society—so that the matrimonial matters might be rightly accomplished. (27)
+  - number: 28
+    shlok: |
+      गौरवादथ क्रिया समुदारं
+      कीर्तितञ्च न जगाद स किञ्चित् ।
+      न्यस्तवानखिलमभ्युपचारं
+      तं पराशरभरे कलकीर्तिः ॥ २८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `गौरवादथ क्रिया समुदारं` (११); पाद २: `कीर्तितञ्च न जगाद स किञ्चित्` (११); पाद ३: `न्यस्तवानखिलमभ्युपचारं` (११); पाद ४: `तं पराशरभरे कलकीर्तिः` (११, हस्तलेखे `तं पराशरभरो / पराशरभरे`). पूर्व निष्कासन में `स पाराशरभरो` और टिप्पणी के `अकर्मण्य दीनता कामिनी` जैसे अर्थहीन पाठ थे। वास्तविक पाठ में मृकण्डु ने संकोच एवं गुरु-गौरववश स्वयं मौन रहकर विवाह का सम्पूर्ण कार्यभार पराशर के ऊपर न्यस्त (`न्यस्तवानखिलमभ्युपचारं पराशरभरे`) कर दिया।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. In earlier transcriptions, `स पाराशरभरो` was garbled, and the commentary was misunderstood. Mṛkaṇḍu, out of modesty and reverence for his preceptor/elder, said nothing himself regarding the marriage, but entrusted the entire ceremonial responsibility onto the shoulders of Parāśara (nyastavān akhilam abhyupacāraṃ taṃ parāśarabhare).
+    translation:
+      author: amanuensis
+      text: |
+        गौरव के कारण उदार रूप से प्रशंसित शोभनकीर्तिशाली महर्षि मृकण्डु लज्जावश कुछ नहीं बोले, पराशर के लिए समस्त सत्कार की सामग्री एकत्रित कर लिये ॥ २८ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्डु ने अपनी उदारशमतो तथा संकोच वश अपनी प्रतिष्ठा के कारण भी किसी से कुछ कहा नहीं। अत्यन्त विनम्र स्वभाव यथार्थ सत्ता वाले मृकण्डु महर्षि ने अपने वैवाहिक समस्त कार्य भार का पूर्ण दायित्व महर्षि पराशर के ऊपर ही सम्पादित करने का निश्चय कर दिया। २८
+    translation_en:
+      author: ai_translation
+      text: |
+        Out of reverence and dignity, he did not utter a single word himself regarding the noble proposal; of sweet renown, he entrusted all ceremonial obligations entirely upon the care and charge of Parāśara. (Verse 28)
+    notes_en:
+      author: ai_translation
+      text: |
+        Sage Mṛkaṇḍu, restrained by natural modesty and a sense of solemn propriety, refrained from speaking about the matter himself. Being of an extraordinarily humble and genuine disposition, Sage Mṛkaṇḍu resolved to place the complete responsibility and decision of his marriage into the hands of Sage Parāśara. (28)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

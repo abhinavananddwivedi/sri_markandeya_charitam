@@ -1,0 +1,73 @@
+page_number_devanagari: "१०६"
+page_number_arabic: 106
+image: "images/pages/p106.jpg"
+verses:
+  - number: 39
+    shlok: |
+      इत्युदीर्य विरते किल तस्मि-
+      न्नत्युदारहृदये मुनिवर्ये ।
+      वाचमाकलयता रुचिरार्थां
+      शक्तिजेन गदितं स्मितपूर्वम् ॥ ३९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā.
+    shlok_en:
+      author: ai_translation
+      text: |
+        When that most noble-hearted, excellent sage had spoken thus and fallen silent, the son of Śakti, weighing his speech of fine meaning, spoke with a smile. (39)
+    translation:
+      author: amanuensis
+      text: |
+        मुनिश्रेष्ठ उदारचेता मुद्गल के ऐसे कह कर मौन हो जाने पर सुन्दर अर्थ वाले वाणी का आकलन करता हुआ शक्तिपुत्र महर्षि पराशर मुस्कुराते हुए बोल पड़े ॥ ३९ ॥
+    notes:
+      author: grandfather
+      text: |
+        अत्यन्त उदार ऋषिप्रवर मुद्गल के ऐसा कहने के बाद शान्त हो जाने पर अत्यन्त सुरुचिपूर्ण अतिशय उदार मन्द-मन्द मुस्कराहट के साथ महर्षि शक्तिपुत्र पराशर जी ने यों कहना शुरू किया। ३९
+    translation_en:
+      author: ai_translation
+      text: |
+        When the noble-minded best of sages, Mudgala, had said this and fallen silent, Maharṣi Parāśara, the son of Śakti, weighing his words of fine meaning, spoke with a smile. (39)
+    notes_en:
+      author: ai_translation
+      text: |
+        When the most generous, eminent sage Mudgala had finished speaking and fallen quiet, Maharṣi Parāśara, the son of Śakti, began to speak thus, with a most gracious, very kindly, gentle smile. (39)
+  - number: 40
+    shlok: |
+      स्वीकृतं सकलमेव मनःस्थं
+      यद्भवद्भिरुदितं सुविभाव्य ।
+      यौतके विवदतां मनुजानां
+      वेद्मि हन्त वरविक्रयमेव ॥ ४० ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद १ "स्वीकृतं सकलमेव मनःस्थं", पाद २ "...सुविभाव्य" (पूर्व निष्कासन का "निजमनोभवमन्त्रं" तथा "सुविचार्या" भ्रान्त थे)। पाद ३ "यौतके" (हस्तलेख)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 1 reads "स्वीकृतं सकलमेव मनःस्थं" and pāda 2 "...सुविभाव्य"; the earlier export's "निजमनोभवमन्त्रं" and "सुविचार्या" were misreadings. Pāda 3 has "यौतके" (manuscript).
+    shlok_en:
+      author: ai_translation
+      text: |
+        "All that is in your heart, which you have spoken after careful thought, is accepted. Alas, among men who quarrel over dowry, I see nothing but the selling of the groom." (40)
+    translation:
+      author: amanuensis
+      text: |
+        आपलोगों ने निश्चय कर जो कुछ कहा उस मनोभाव को मैंने स्वीकार किया। दहेज के लिए विवाद करने वाले मनोभाव तो मुझे जान पड़ता है यह विवाह नहीं अपितु वर को बेचना ही है ॥ ४० ॥
+    notes:
+      author: grandfather
+      text: |
+        ऋषिश्रेष्ठ! आपने बड़ी सावधानीपूर्वक अपने मन में जो विचार स्थिर किया है वैवाहिक कार्य सम्पादन के सम्बन्ध में उसे मैंने सहर्ष स्वीकार किया, क्योंकि यौतुक (दहेज) के लिए जो लोग परस्पर कम बेश आदि की चर्चा कर विवाद (बहस) करते हैं वह तो मुझे वरविक्रय सा ही लगता है। ४०
+    translation_en:
+      author: ai_translation
+      text: |
+        "I have accepted the intention you have expressed after deciding. As for the attitude of those who quarrel over dowry, it seems to me that this is not marriage but simply selling the groom." (40)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Best of sages! I have gladly accepted what you have very carefully settled in your mind about carrying out the marriage. For when people argue (debate) over dowry (yautuka), discussing more or less, it seems to me just like selling the groom." (40)
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

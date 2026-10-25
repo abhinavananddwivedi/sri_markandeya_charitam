@@ -115,9 +115,15 @@ verses:
       author: ai_translation
       text: |
         ...
+    shlok_en:                  # optional: direct English translation of the Sanskrit `shlok`
+      author: ai_translation   #   (all cantos, added 2026-10-24); rendered as "English Translation (of the Sanskrit)"
+      text: |
+        ...
 placeholder: true   # set true only for sample/test data — never on real transcriptions
 notes_uncertain: true   # set true when any block contains [unclear: ...] markers
 ```
+
+**Canto 4 (`Sarg_4/p087.yml`–`p118.yml`) is hand-corrected and is its own source of truth.** On 2026-10-24 Claude re-read every verse, Hindi translation and note from upright line-level crops of the scans, correcting the Gemini 3.1 Pro re-run. Gemini's markdown and YAML are archived in `Sarg_4/superseded/gemini_rerun_2026-10-24/`; the YAML copies there are renamed `*.gemini.yaml` so that `build_site.R`, which globs `*.yml` recursively, ignores them. `scripts/build_sarga4_transcripts.R` is retired and stops on run. Canto 4's metre is **Svāgatā** (ऽ।ऽ ।।। ऽ।। ऽऽ), not Rathoddhatā; v63 is Śārdūlavikrīḍita, and the colophon is Vasantatilakā for vv. 64–65 and Svāgatā for v66. `translation_en` translates the Hindi and `shlok_en` the Sanskrit; keep them separate.
 
 `verses` length and presence of `notes`/`translation` per verse is flexible — don't force structure a page doesn't have. A grouped/colophon verse uses a quoted range string for `number` (e.g. `"64-66"`, `"25-27"`, `"53-55"`); such verses may carry only `translation`/`translation_en` with no `notes`/`notes_en` when the source itself has no separate commentary for that span (see p032.yml, p060.yml, p086.yml). p086.yml's `"53-55"` verse mirrors p032/p060: its `translation` is the manuscript's own pointer ("अर्थ … पृष्ठ ३२ में अवलोकन करें") plus the Hindi canto-close, its `translation_en` the English-export summary, and the Sanskrit colophon rubric is appended to its `shlok` (p032 precedent).
 

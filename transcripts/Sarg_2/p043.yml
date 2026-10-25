@@ -8,6 +8,10 @@ verses:
       गृहोन्मुखं वर्णिबरं विलोकयन् ।
       कृतानतिः संप्रणमय्य बालकान्
       चकार सम्मोदिममुं सदार्चितम् ॥ २१ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then, seeing the excellent brahmacārī coming toward his house from far off, he bowed, made the children bow, and gladly honoured him. (21)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Spotting the radiant young brahmacārī (Sage Mṛkaṇḍu) approaching his home from afar, the householder bowed with humility, had all his children and household members pay their respects, and joyfully received the guest with devout hospitality.
+        After that, seeing the brahmacārī coming toward his house from far off, he bowed, made the children bow too, and worshipped him. (21)
     notes_en:
       author: ai_translation
       text: |
-        Beholding the effulgent young ascetic walking toward his dwelling at sunset, the noble householder bowed low in reverence. Gathering his family members and children, he instructed them all to offer their prostrations to this unexpected divine guest, welcoming him with heartfelt adoration and traditional hospitality.
+        Meanwhile, seeing that brahmacārī coming toward his house from quite far off, the master of the house bowed humbly; he also had all the members of his household and the children bow respectfully to him, and he respectfully worshipped that unknown brahmacārī guest who had come to his house at sunset. (21)
   - number: 22
     shlok: |
       उपाजहाराथ स यज्ञियां वृषीं
       सुविष्टरं पाद्यमथार्घ्यमुत्तमम् ।
       ततः समाचान्तममुं सुबोधितं
       सवत्सधेन्वा मधुपर्कमाहरत् ॥ २२ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then he brought him a sacrificial seat, a fine mat, water for the feet and an excellent arghya; then, when he had sipped water and was at ease, he brought the madhuparka, with a cow and calf. (22)
     translation:
       author: amanuensis
       text: |
@@ -41,9 +49,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        He offered the ascetic a sacred kuśa-grass seat (vṛṣī), a comfortable mat, water for washing the feet (pādya), and the auspicious oblation (arghya). Once the sage had washed, sipped water (ācamana), and seated himself comfortably, the host offered him the traditional honey-curd concoction (Madhuparka) prepared from the milk of his lactating cow and calf.
+        He gave the brahmacārī a sacrificial seat, a seat to sit on, water for the feet and an excellent arghya. After he had taken the water and arghya and was seated at ease, he offered him the madhuparka by means of a cow with her calf. (22)
     notes_en:
       author: ai_translation
       text: |
-        The pious host provided a sanctified ritual seat for the ascetic guest, washed his feet with cool water, and performed the customary welcoming offerings (arghya). Once Sage Mṛkaṇḍu had refreshed himself and sat at ease, the householder respectfully presented the sacred sweet offering of Madhuparka, prepared with pure honey and fresh milk from his cow with calf.
+        For that brahmacārī guest he provided a sacrificial seat to sit on, water for washing the feet, arghya and other proper honours; after the guest had washed his hands and feet, sipped water and sat down at ease, he also offered madhuparka mixed with honey, prepared [with milk] from his cow-goddess with her calf. (22)
 source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

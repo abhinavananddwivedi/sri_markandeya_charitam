@@ -16,6 +16,10 @@ verses:
       सद्विजोचितसदाऽऽचरणाढ्ये ।
       सर्ग एष रमण्यो द्वितीयोऽपि
       व्यत्यगादिह महेशकृपातः ॥ ५५-५६-५७ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        (55) By the son of the wise Śrī Candrabhūṣaṇa, the fortunate grandson of Baccū Rāma, this [poem], rich in the nine virtues, was woven, after bowing in his mind to the pair of feet of the good-hearted, by that good disciple of Śiva. (56) By Dharaṇīdhara, born of the heart of Dhāneśvarī, worshipper of Śiva, devoted to honouring the learned: may this poem, full of auspiciousness and good purpose, be victorious for endless years by the grace of Śiva and Pārvatī. (57) In the poem "The Nectar of the Life of the Long-Lived", rich in the good conduct proper to good brahmins, this delightful second canto too has come to its end here by the grace of Maheśa.
     translation:
       author: amanuensis
       text: |
@@ -23,5 +27,5 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Composed by Dharaṇīdhara—the devoted worshipper of Lord Śiva and lover of wise scholars; the son of the eminent scholar Paṇḍita Candra-bhūṣaṇa; the auspicious grandson of Śrī Bacchū-rāma; born from the sacred womb of Devī Dhāneśvarī; and the worthy disciple of revered Paṇḍita Śiva Prasāda—after bowing in deep humility before the lotus feet of the divine gods and enlightened seers: May this auspicious Mahākāvya, richly imbued with the noble ideals of the Pravṛtti Mārga, triumph eternally across the ages by the divine grace of Lord Śiva and Mother Pārvatī! Thus concludes the delightful Second Canto of the immortal epic Dīrghajīvi-caritāmṛtam (The Nectarine Life of the Immortal Sage Mārkaṇḍeya), celebrating the exalted conduct of the righteous, by the supreme benevolence of Lord Maheśvara.
+        (Note: for the Hindi translation of these three verses, 55–57, see page 31.) Composed by Dharaṇīdhara, son of the learned and excellent Śrī Candrabhūṣaṇa, grandson of Śrī Bacchūrāma, born of the goddess Dhāneśvarī, good disciple of Śrī Paṇḍita Śiva Prasāda, honourer of Śiva and of the learned: having bowed to the pairs of feet of the gods and the learned, may this auspicious mahākāvya, full of good purpose, composed by Dharaṇīdhara, be victorious for many years by the grace of Śiva and Pārvatī. In this mahākāvya, "The Nectar of the Life of the Long-Lived Mārkaṇḍeya", attained through the good conduct proper to good brahmins, this second canto is complete by the grace of Lord Maheśa. (55–57) (Thus the second canto of the very sweet poetic Hindi translation is complete.)
 source: "Transcribed via antigravity by the user (2026-08-25/2026-09-02) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. Closing rubric line taken from this page's own Devanagari transcription (Sarg_2/...page_60.md), not from the differently-worded rubric variant appended in the English-translation export -- and appended to the translation (not the shlok, unlike p032) since its own wording specifically closes the Hindi anuvad ('...हिन्दी अनुवाद में द्वितीय सर्ग पूर्ण हुआ')."

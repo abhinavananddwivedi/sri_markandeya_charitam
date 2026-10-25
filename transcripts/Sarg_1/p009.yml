@@ -4,46 +4,70 @@ image: "images/pages/p009.jpg"
 verses:
   - number: 17
     shlok: |
-      सुसन्ततिः कर्दमदेवहूतिका
-      वदन्न या ख्यातिरिति प्रसिद्धिमान् ।
-      हिरण्यगर्भीय मुतायसो
-      यया प्रजाभ्यः स्वाभिमताविधिश्चुः ॥ १७ ॥
+      सुसन्ततिः कर्दमदेवहूतिजा
+      बभूव या ख्यातिरिति प्रसिद्धिभाक् ।
+      हिरण्यगर्भात्प्रभवाप्तलिप्सितो
+      भृगुः प्रजिघ्ये स्वप्रजाविवर्धिषुः ॥ १७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद ३ और ४ का पाठ कुछ अनिश्चित है ("प्रभवाप्तलिप्सितो", "प्रजिघ्ये")। पूर्व पाठ "…वदन्न या ख्यातिरिति प्रसिद्धिमान् / हिरण्यगर्भीय मुतायसो / यया प्रजाभ्यः स्वाभिमताविधिश्चुः" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. The readings of pādas 3 and 4 ("प्रभवाप्तलिप्सितो", "प्रजिघ्ये") are somewhat uncertain. The earlier reading ("…वदन्न या ख्यातिरिति प्रसिद्धिमान् / हिरण्यगर्भीय मुतायसो / यया प्रजाभ्यः स्वाभिमताविधिश्चुः") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        The fine offspring born of Kardama and Devahūti became famous by the name Khyāti; Bhṛgu, born of Hiraṇyagarbha, wishing to increase his own progeny, [took her as wife]. [Lines 3–4 partly unclear.] (17)
     translation:
       author: amanuensis
       text: |
-        कर्दम और देवहूति से जो सन्तान हुई वह ख्याति के नाम से प्रसिद्ध हुई। ब्रह्मा से जन्म प्राप्त कर महर्षि ने अपनी प्रजा बढ़ाने की इच्छा से ख्याति के साथ विवाह किया ॥ १७ ॥
+        कर्दम और देवहूति से जो सन्तति हुई वह ख्याति के नाम से प्रसिद्ध हुई। ब्रह्मा से जन्म प्राप्त कर महर्षि भृगु ने अपनी प्रजा बढ़ाने की इच्छा से ख्याति के साथ विवाह किया ॥ १७ ॥
     notes:
       author: grandfather
       text: |
-        महामुनि मनु ने अपनी छोटी कन्या देवहूति का विवाह सन्तति वृद्धि के लिए अतिप्रवर कर्दम ऋषि के साथ किया, जिससे ख्याति नामक कन्या उत्पन्न हुई, जिसका विवाह हिरण्यगर्भ से उत्पन्न महाप्रवर भृगु से हुआ, जिन्होंने विविध प्रजाओं के उत्पादनार्थ मन भाया ख्याति से सृष्टि क्रम की विविध विकास प्रक्रिया आरम्भ की ॥ १७ ॥
+        महामुनि मनु ने अपनी छोटी कन्या देवहूति का विवाह सन्तति वृद्धि के लिए ऋषिप्रवर कर्दम जी के साथ किया, जिससे ख्याति नामक कन्या उत्पन्न हुई, जिसका विवाह हिरण्यगर्भ से उत्पन्न महर्षिप्रवर भृगु से हुआ, जिन्होंने विविध प्रजाओं के उत्पादनार्थ मनुकन्या ख्याति से सृष्टिक्रम की विविध विकास प्रक्रिया आरम्भ की। १७
     translation_en:
       author: ai_translation
       text: |
-        The offspring born of Sage Kardama and Devahūti became celebrated across the worlds as Khyāti. The venerable Sage Bhṛgu, born of Brahmā, married Khyāti with the noble aspiration to expand the lineages of creation.
+        The offspring born of Kardama and Devahūti became famous by the name Khyāti. Maharṣi Bhṛgu, born of Brahmā, married Khyāti, wishing to increase his progeny. (17)
     notes_en:
       author: ai_translation
       text: |
-        For the righteous propagation of the world, Mahāṛṣi Manu united his devout younger daughter Devahūti in sacred marriage with the foremost ascetic Sage Kardama. From their union was born Khyāti, who was subsequently wedded to Sage Bhṛgu (born of Hiraṇyagarbha). Through Khyāti, Bhṛgu initiated the diverse genealogical progression and cultural expansion of the early lineages.
+        For the increase of offspring, the great sage Manu married his younger daughter Devahūti to the excellent sage Kardama. From them a daughter named Khyāti was born, who was married to the excellent maharṣi Bhṛgu, born of Hiraṇyagarbha; to produce various kinds of creatures, he began with Khyāti, [grand]daughter of Manu, the varied process of developing the order of creation. (17)
   - number: 18
     shlok: |
-      भृगुः सुतौ धातृ-विधातृनामकौ
-      वजीजनत्ख्यातौ गुणौ एकाकर्मतः ।
+      भृगुः सुतौ धातृविधातृनामका-
+      वजीजनत्ख्यातगुणौ स्वकर्मतः ।
       तयोस्तु धाता प्रथमामुदूढवान्
-      सताडितां मेरुसुताममायतीम् ॥ १८ ॥
+      सतीडितां मेरुसुतामथायतीम् ॥ १८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पूर्व पाठ "…वजीजनत्ख्यातौ गुणौ एकाकर्मतः / … सताडितां मेरुसुताममायतीम्" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. The earlier reading ("…वजीजनत्ख्यातौ गुणौ एकाकर्मतः / … सताडितां मेरुसुताममायतीम्") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Bhṛgu begot two sons, named Dhātā and Vidhātā, renowned in virtue through their deeds; of the two, Dhātā first married Āyatī, Meru's daughter, praised by the virtuous. (18)
     translation:
       author: amanuensis
       text: |
-        भृगु ने अपने कर्म से प्रसिद्ध गुणवाले धाता र विधाता नामक दो पुत्रों को उत्पन्न किया। उन दोनों में धाता ने सतीत्व से प्रशस्त मेरु कन्या आयती से विवाह किया ॥ १८ ॥
+        भृगु ने अपने कर्म से प्रसिद्ध गुणवाले धाता और विधाता नामक दो पुत्रों को उत्पन्न किया। उन दोनों में धाता ने सतीत्व से प्रशंसित मेरु कन्या आयती से विवाह किया ॥ १८ ॥
     notes:
       author: grandfather
       text: |
-        महर्षि भृगु ने अपनी पत्नी ख्याति से उदात्त सत्कर्मी द्वारा अत्यन्त प्रसिद्धि प्राप्त धाता और विधाता नामक दो पुत्रों को उत्पन्न किया, जिनमें ज्येष्ठ पुत्र धाता ने सतियों में श्रेष्ठ प्रशस्त मेरु सुता आयती से अपना विवाह किया ॥ १८ ॥
+        महर्षि भृगु ने अपनी पत्नी ख्याति से उदात्त सत्कर्मों द्वारा अत्यन्त प्रसिद्धि प्राप्त धाता और विधाता नामक दो पुत्रों को उत्पन्न किया, जिनमें ज्येष्ठ पुत्र धाता ने सतियों में श्रेष्ठ प्रशंसित मेरुसुता 'आयती' से अपना विवाह किया। १८
     translation_en:
       author: ai_translation
       text: |
-        From Sage Bhṛgu and Khyāti were born two virtuous and renowned sons, Dhātā and Vidhātā. Of them, the elder, Dhātā, married Āyatī, the exceptionally pure daughter of Mount Meru.
+        Bhṛgu, by his deeds, begot two sons of renowned qualities, named Dhātā and Vidhātā. Of the two, Dhātā married Āyatī, Meru's daughter, praised for her chastity. (18)
     notes_en:
       author: ai_translation
       text: |
-        Through his noble consort Khyāti, Maharṣi Bhṛgu fathered two illustrious sons endowed with exemplary virtues and righteous deeds—Dhātā and Vidhātā. The elder son, Dhātā, married the celebrated Āyatī, daughter of King Meru, renowned as the foremost among chaste and virtuous women.
+        Through his wife Khyāti, Maharṣi Bhṛgu begot two sons named Dhātā and Vidhātā, who became very famous through their noble good deeds. Of them the elder son, Dhātā, married Āyatī, the celebrated daughter of Meru, best among chaste women. (18)
 source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude."

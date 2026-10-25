@@ -1,0 +1,63 @@
+page_number_devanagari: "११८"
+page_number_arabic: 118
+image: "images/pages/p118.jpg"
+verses:
+  - number: 63
+    shlok: |
+      सन्तोष्याऽखिलविप्रमण्डलमथो गेहागताँश्चातिथीन्
+      दीनानाथाजनांश्चौ सुविहितैर्भोज्यैश्च षड्भी रसैः ।
+      सन्तृप्तेष्वखिलेषु तत्परिजनेष्वात्मैव स्वयं प्रीणितः
+      सुप्त्वाऽयं गेहगतस्तत्परो भगवतो लीलाविलासांश्चित्तगाः ॥ ६३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: शार्दूलविक्रीडित (`सूर्य्याश्वैर्मसजस्ततः सगुरवः शार्दूलविक्रीडितम्`, वर्ण-संख्या प्रतिपाद: १९, यति: १२ तथा ७ वर्णों पर)। पूर्व निष्कासन में इस वृत्त को भूलवश "स्रग्धरा/मन्दाक्रान्ता संकर" लिखा गया था। चारों पाद १९-१९ वर्णों के शुद्ध शार्दूलविक्रीडित में हैं: पाद १ `सन्तोष्याऽखिलविप्रमण्डलमथो गेहागताँश्चातिथीन्` (१९); पाद २ `दीनानाथाजनांश्चौ सुविहितैर्भोज्यैश्च षड्भी रसैः` (१९); पाद ३ `सन्तृप्तेष्वखिलेषु तत्परिजनेष्वात्मैव स्वयं प्रीणितः` (१९); पाद ४ `सुप्त्वाऽयं गेहगतस्तत्परो भगवतो लीलाविलासांश्चित्तगाः` (१९)। विवाह-समारोह के उपसंहार में षड्रस-युक्त भोज्य द्वारा विप्रों, अतिथियों, परिजनों, दीनों एवं अनाथों की तृप्ति, परिजनों के भोजन के पश्चात् स्वयं भोजन, तथा ईश्वर के लीलाविलासों का स्मरण करते हुए सुख-शयन का वर्णन है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Śārdūlavikrīḍita (`सूर्य्याश्वैर्मसजस्ततः सगुरवः शार्दूलविक्रीडितम्`, 19 syllables per pāda, caesura at 12 and 7 syllables). All four pādas scan at 19 syllables. Resolves earlier metric misidentification. Concluding the wedding celebrations at Mount Dardura, Sage Mṛkaṇḍu lavishly feasted the entire company of learned sages, guests, relatives, poor, and orphaned with foods endowed with all six tastes; after all had dined to fullness and his relatives were gratified, he himself ate with joy and retired to sleep, meditatively absorbed in the divine sports of the Supreme Lord.
+    translation:
+      author: amanuensis
+      text: |
+        सुन्दर रसों से पूर्ण सुस्वादु भोज्य पदार्थों से समस्त विप्रमण्डली को गृहागत अतिथियों को एवं दीनानाथों को सन्तुष्ट कर सन्तुष्ट परिजनों के माध्यम से सभी लोगों के सन्तुष्ट हो जाने पर स्वतः आनन्दित हो स्मृतिमान् शुद्धि से भगवान के लीला विलासों का स्मरण किया ॥ ६३ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्डु ने अपने घर में उत्तम सूपों (पाचकों) द्वारा सभी षड्रसों से परिपूर्ण विविध भोज्यों (भक्ष्य, भोज्य, लेह्य, चोष्य आदि एवं मधुमेयी मोदकादि से) भी सभी ब्राह्मणों, विद्वज्जनों, अभ्यागतों, गृहस्थ बन्धु बान्धवों, दीनों, अनाथों को पूर्ण परितृप्ति से भोजन कराया। सभी लोगों के भोजनादि से पूर्ण सन्तुष्ट हो जाने पर अपने परिजनों के भी भोजन उपरान्त स्वयं प्रसन्न होकर निर्विकल्प भगवान् के लीलाविलास का स्मरण करते सुखपूर्वक सोये। ६३
+    translation_en:
+      author: ai_translation
+      text: |
+        Having thoroughly gratified the entire assembly of brāhmaṇas, the arrived houseguests, and the destitute and helpless with sumptuous foods prepared with all six tastes, and all persons being completely contented, he himself partook of food with his family and, joyous and peaceful, retired to rest while contemplating the divine play (līlā-vilāsa) of the Supreme Lord. (Verse 63)
+    notes_en:
+      author: ai_translation
+      text: |
+        In his hermitage home, Sage Mṛkaṇḍu served a lavish feast prepared by expert culinary cooks, rich with all six savors—comprising the fourfold traditional delicacies (bhakṣya, bhojya, lehya, coṣya) and sweet confections. He generously fed the brāhmaṇas, scholars, arrived guests, relatives, poor, and orphaned to their total satisfaction. Once all attendees and his own family members had dined to contentment, he himself ate with gladness and peacefully retired to sleep, contemplating the unconditioned sports and pastimes of God. (63)
+  - number: "64-66"
+    shlok: |
+      श्रीचन्द्रभूषणसुधीसुतकेन बन्धूरामस्य पौत्रसुभगेन नवंगुणाढ्यम् ।
+      संगुम्फितं सुमनसां मनसाऽऽदृत्य मनसाऽङ्घ्रियुग्मं मानम्य तेन हि शिवस्य सुशिष्यकेण ॥ ६४ ॥
+
+      धानेश्वरीहृदयजेन शिवार्चकेन विद्वज्जनार्चनरता धरणीधरेण ।
+      काव्यं सुमङ्गलमयं सुप्रवृत्तिपूर्णं शाश्वत् समा विजयतां शिवयोः प्रसादात् ॥ ६५ ॥
+
+      दीर्घजीविचरितामृतकाव्ये सद्विजोचितसदाऽऽचरणाढ्ये ।
+      एष तेन रचिते काव्यनाम्ना सर्गोऽनुगामितोऽस्तीह तुरीयः ॥ ६६ ॥
+
+      ॥ इति श्री मार्कण्डेयचरिते महाकाव्ये चतुर्थः सर्गः समाप्तः ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: सर्ग-समाप्ति पर यह त्रिक-श्लोक प्रत्येक सर्ग के उपसंहार में कवि-वंश-परिचय, कुलदेवी धानेश्वरी एवं भगवान् शिव की आराधना, तथा ग्रन्थ की अखण्ड विजय-कामना हेतु आता है। श्लोक ६४-६५ उपजाति/इन्द्रवज्रा-उपेन्द्रवज्रा छन्द में हैं तथा श्लोक ६६ प्रमाणिका/अनुष्टुप्-भेद में है। पाण्डुलिपि के पृष्ठ ११८ पर श्लोक ६६ के पाद ३-४ में चतुर्थ सर्ग का विशिष्ट पाठ `एष तेन रचिते काव्यनाम्ना सर्गोऽनुगामितोऽस्तीह तुरीयः` अंकित है, जिसे बाबाजी ने अपनी विशेष टिप्पणी में "सद् द्विजों के आशीर्वादों से पूर्ण दीर्घजीवी (मार्कण्डेय) चरितामृत नामक काव्य में भावनात्मक यह चौथा साहित्य पूर्ण हुआ" के रूप में व्याख्यायित किया है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Signature triad and concluding invocation appearing at the close of each sarga, celebrating ancestral lineage, devotional surrender to Mother Dhāneśvarī and Lord Śiva, and the completion of the canto. Pādas 3–4 of Verse 66 specifically mark the conclusion of the fourth canto: `एष तेन रचिते काव्यनाम्ना सर्गोऽनुगामितोऽस्तीह तुरीयः`.
+    translation:
+      author: amanuensis
+      text: |
+        विशेष:- ६४-६५-६६ का हिन्दी अनुवाद पृ. ३२ में देखें-   सद् द्विजो के आशीर्वादों से पूर्ण दीर्घजीवी (मार्कण्डेय) चरितामृत नामक काव्य में भावनात्मक यह चौथा साहित्य पूर्ण हुआ । यहाँ चतुर्थ सर्ग पूर्ण हुआ
+    translation_en:
+      author: ai_translation
+      text: |
+        Woven with care by the son of the wise Śrī Candra Bhūṣaṇa, the blessed grandson of Banchū Rāma, endowed with fresh poetical virtues, reverencing the twin feet of Lord Śiva in the heart of noble minds, by that worthy disciple of Śiva; (Verse 64)   Born from the heart of Mother Dhāneśvarī, worshipper of Śiva, who delights in honoring learned scholars, by Dharaṇīdhara: may this auspicious epic poem, filled with righteous impulses, triumph eternally through the divine grace of Śiva and Śivā! (Verse 65)   In this epic poem of the nectar of the long-lived Sage Mārkaṇḍeya's life, adorned with the righteous conduct worthy of noble brāhmaṇas, in the poem composed by him, this fourth canto has now reached its successful completion. (Verse 66)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription). Colophon page. Slokas 64-66 are the recurring benedictory triad (kavi-vamsa paricaya / Jnanesvari-Siva aradhana / kavya-mangala kamana) whose word-by-word Hindi gloss the manuscript itself defers to canto 1 page 32 ('श्लोकों का अर्थ कृपया पृष्ठ ३२ में अवलोकन करें'); this verse therefore carries that pointer plus the Hindi canto-close as translation and the English-export summary as translation_en, with no notes -- mirroring p032 / p060 / p086. The Sanskrit colophon rubric (॥ इति श्री मार्कण्डेयचरिते महाकाव्ये चतुर्थः सर्गः समाप्तः ॥) is appended to that verse's shlok."

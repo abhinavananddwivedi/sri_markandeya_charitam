@@ -9,6 +9,10 @@ verses:
       हिमावृतं शारदमेघ सन्निभम् ।
       विलङ्घ्य कृच्छ्रेण ययौ समस्थलीं
       विलोक्य यज्जातमुदोऽभ्यजायत ॥ १ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then, having crossed with difficulty the snow-covered mountain on the bank of the Gaṅgā, like an autumn cloud, he went to level ground; seeing it, joy arose in him. (1)
     translation:
       author: amanuensis
       text: |
@@ -20,17 +24,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Thereafter, having with great exertion traversed the rugged, snow-clad mountain ridges along the banks of Mother Gaṅgā—which gleamed pristine white like autumnal clouds—Sage Mṛkaṇḍu reached the gentle plains, and his heart overflowed with delight upon beholding their serene beauty.
+        After that, the sage Mṛkaṇḍu [the Hindi as transcribed reads "शुकण्ड" here and in vv. 1–2] crossed with great difficulty the snow-covered mountain on the bank of the Gaṅgā, white like an autumn cloud, and was glad on seeing the level ground. (1)
     notes_en:
       author: ai_translation
       text: |
-        Concluding his devout adoration of the celestial river, Sage Mṛkaṇḍu negotiated the dense forests adjoining the glistening, snow-covered Himalayan peaks that shone like spotless autumnal clouds. Arriving at last upon the open, fertile plains and gazing upon their enchanting landscape, his soul was inundated with immense joy.
+        After his praise of the goddess, the river of the gods, the sage Mṛkaṇḍu crossed with great difficulty the forest near the mountain ranges, decked with masses of very white snow, very white like autumn, clear like rows of clouds. Gradually reaching the level land, he saw its charming beauty, and his mind filled with joy. (1)
   - number: 2
     shlok: |
       स सैकते देवनदीतटे मुनि
       श्चिरं चरत्सामिथुनं रथाङ्गयोः ।
       ददर्श युक्तीकृत मानवन्दनं
       व्यभावयत्प्रेम तदप्यलौकिकम् ॥ २ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        On the sandy bank of the river of the gods, the sage saw a pair of cakravāka birds long moving together, bound in union, and he pondered their love, which was itself unearthly. (2)
     translation:
       author: amanuensis
       text: |
@@ -42,9 +50,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Upon the shimmering sandy banks of the sacred river, the sage beheld a pair of Cakravāka (ruddy shelduck) birds sporting together in blissful companionship, their hearts bound in inseparable affection; witnessing their pure conjugal bond, he reflected deeply upon the transcendental nature of divine love.
+        The great soul Mṛkaṇḍu saw on the sandy bank of the Gaṅgā a pair of cakravāka birds that had long been wandering there, and he contemplated their unearthly love, bound in the feeling of being a pair. (2)
     notes_en:
       author: ai_translation
       text: |
-        Reaching the plains, Sage Mṛkaṇḍu observed a pair of Cakravāka birds upon the pristine, sparkling sands of Mother Gaṅgā. Absorbed in mutual affection and roaming in sweet self-forgetfulness with his beloved mate, the male bird revealed an unwavering romantic devotion. Seeing this intense marital fidelity, the sage experienced an elevated, sublime contemplation on the mystery of pure and transcendental love.
+        As soon as he reached the level land, the great soul Mṛkaṇḍu saw, on the holy bank of the goddess Gaṅgā with its very clean white sand, a pair of cakravākas: the male, attached in love to his beloved, had been wandering with her for many days in a state of self-forgetfulness. He felt the intensity of their love as a pair, and a wonderful idea of unearthly, divine love arose in his mind. (2)
 source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

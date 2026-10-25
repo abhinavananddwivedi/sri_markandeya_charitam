@@ -4,36 +4,60 @@ image: "images/pages/p008.jpg"
 verses:
   - number: 15
     shlok: |
-      निरास योग्या क्षितियुद्धतायो
-      मनुं विलम्बु प्रदिदेश सत्वरम् ।
-      मनुस्तु तत्तो निजकाममोक्षजाः
-      शकास लोकैन विविध समेधनाम् ॥ १५ ॥
+      निवासयोग्यां क्षितिमुद्धृतामसौ
+      मनुं निवस्तुं प्रदिदेश सत्वरम् ।
+      मनुस्तु तस्यां निजभावितोः प्रजाः
+      शशास धर्मेण विधिं समर्चयन् ॥ १५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद ३ का "निजभावितोः" अंश कुछ अस्पष्ट है। पूर्व पाठ "निरास योग्या क्षितियुद्धतायो / मनुं विलम्बु … मनुस्तु तत्तो निजकाममोक्षजाः / शकास लोकैन विविध समेधनाम्" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. The part "निजभावितोः" of pāda 3 is somewhat unclear. The earlier reading ("निरास योग्या क्षितियुद्धतायो / मनुं विलम्बु … मनुस्तु तत्तो निजकाममोक्षजाः / शकास लोकैन विविध समेधनाम्") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        He quickly directed Manu to dwell on the earth that had been raised up and was fit to live on; and Manu, honouring the Creator, ruled with dharma the creatures he himself had brought forth on it. (15)
     translation:
       author: amanuensis
       text: |
-        ब्रह्मा ने निवास योग्य पृथ्वी को देखकर मध्य में उसमें निवास करने के लिए मनु को आदेश दिया। आदेश पाकर मनु ने उस प्रजा का ब्रह्मा के प्रति आदर करते हुए धर्मपूर्वक उन्होंने अपने प्रजा का शासन किया ॥ १५ ॥
+        ब्रह्मा ने निवासयोग्य पृथ्वी को जानकर शीघ्र ही उसमें निवास करने के लिए मनु को आदेश दिया। आदेश पाकर मनु ने उस पृथ्वी पर ब्रह्मा के आदर करते हुए धर्मपूर्वक उन्होंने अपनी प्रजाओं का शासन किया ॥ १५ ॥
     notes:
       author: grandfather
       text: |
-        उस समय विधाता ने प्रलयकालीन अथाह जलराशि में डूबी हुई उस भूखण्ड को आदि सूकर रूप से निकालकर प्रतिष्ठापित किया जिससे उसके ऊपर प्राणियों का सुखद जीवन संचालित हो सके, उसे मनु को विकास करने के लिए पुनः आदेश दिया। मनु ने भी अपने स्रष्टा विधाता का सम्मान करते हुए अपने द्वारा समुत्पादित मानवी प्रजा का धर्मपूर्वक उत्पादन कर उसका प्रशासन करना प्रारम्भ कर दिया ॥ १५ ॥
+        उस समय विधाता ने प्रलयकालीन अथाह जलराशि में डूबी हुई उस भूमि को आदि सूकर द्वारा निकाल कर प्रतिष्ठापित किये जाने पर, जिसके ऊपर प्राणियों का सुखद जीवन संचालित हो सके, उसे मनु को निवास करने के लिए तुरन्त आदेश दिया। मनु ने भी अपने स्रष्टा विधाता का सम्मान करते हुए अपने द्वारा समुत्पादित मानवी प्रजा को धर्मपूर्वक उत्पादन कर उसका प्रशासन करना प्रारम्भ कर दिया। १५
     translation_en:
       author: ai_translation
       text: |
-        Beholding the rescued Earth once again fit for habitation, Brahmā swiftly commanded Manu to settle upon it. Receiving this divine injunction, Manu honored his Maker and began governing his human subjects in full accordance with righteousness (Dharma).
+        Knowing the earth to be fit to live on, Brahmā quickly ordered Manu to dwell on it. Receiving the order, Manu, honouring Brahmā, ruled his creatures on that earth according to dharma. (15)
     notes_en:
       author: ai_translation
       text: |
-        Having raised the landmass from the unfathomable depths of the cosmic waters through the primeval form of Varāha, the Creator established it firmly so that living beings could flourish in peace. He then instructed Manu to develop and nurture this world. Reverencing his Creator, Manu commenced the righteous governance and benevolent leadership of humanity.
+        At that time, when the Creator had brought out, through the primal boar, the land sunk in the bottomless waters of the dissolution and set it in place, so that the happy life of creatures could go on upon it, he at once ordered Manu to dwell on it. Manu too, honouring his maker the Creator, began to produce, according to dharma, the human creatures he brought forth and to govern them. (15)
   - number: 16
     shlok: |
-      प्रियव्रतस्तस्य सुतः सता गुरु-
-      लघूस्तथोत्तानपदोऽध्यायता
-      प्रसूतिदेकान्तरजा सुमध्यमा
-      सुदेवहूतिः किल यत्परागा ॥ १६ ॥
+      प्रियव्रतस्तस्य सुतः सतां गुरु-
+      र्लघुस्तथोत्तानपदोऽभ्यजायत ।
+      प्रसूतिरेवान्तरजा सुमध्यमा
+      सुदेवहूतिः किल भर्तृतत्परा ॥ १६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पूर्व पाठ "…अध्यायता / प्रसूतिदेकान्तरजा … किल यत्परागा" भ्रान्त था; पाद ४ "भर्तृतत्परा" (पतिपरायणा, अनुवाद से पुष्ट)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. The earlier reading ("…अध्यायता / प्रसूतिदेकान्तरजा … किल यत्परागा") was wrong; pāda 4 reads "भर्तृतत्परा" ("devoted to her husband", confirmed by the Hindi).
+    shlok_en:
+      author: ai_translation
+      text: |
+        His son Priyavrata, a teacher among the good, and likewise the younger, Uttānapāda, were born; then Prasūti, born between, slender-waisted; and Devahūti, devoted to her husband. (16)
     translation:
       author: amanuensis
       text: |
-        उनका बड़ा पुत्र सज्जनों में श्रेष्ठ प्रियव्रत हुए, लघु पुत्र का नाम उत्तानपाद हुआ। उसके बाद प्रसूति, तदनन्तर कनिष्ठ कन्या देवहूति नाम की कन्या हुई ॥ १६ ॥
+        उनका बड़ा पुत्र सज्जनों में श्रेष्ठ प्रियव्रत हुए, लघु पुत्र का नाम उत्तानपाद हुआ, उसके बाद प्रसूति तदनन्तर पतिपरायणा देवहूति नाम की कन्या हुई ॥ १६ ॥
     notes:
       author: grandfather
       text: |
@@ -41,9 +65,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        From Manu was born his eldest son, Priyavrata, the foremost among the virtuous, and a younger son named Uttānapāda. Thereafter were born two daughters: the elder Prasūti, and the devoted younger daughter Devahūti.
+        His elder son was Priyavrata, best among the good; the younger son was named Uttānapāda. After that came Prasūti, and then a daughter named Devahūti, devoted to her husband. (16)
     notes_en:
       author: ai_translation
       text: |
-        To ensure the righteous expansion of humanity, the noble Manu, together with his wife, brought forth their illustrious eldest son Priyavrata and younger son Uttānapāda. In addition, they were blessed with an elder daughter named Prasūti and a devout, spiritually enlightened younger daughter named Devahūti.
+        Thus, for the proper running of creation through union, the great soul Manu, through his first wife, produced an excellent eldest son named Priyavrata and a younger son named Uttānapāda. He also begot an elder daughter named Prasūti and a younger one, devoted to her husband, named Devahūti. (16)
 source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude."

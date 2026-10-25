@@ -1,0 +1,125 @@
+# Canto-1 full re-read (Sanskrit, Hindi, notes) from upright line-level crops, Claude (Opus 5.5), 2026-10-24.
+# Applied with scripts/tools/apply_page_patches.R. Only fields that differ from the previous transcript are given.
+# Canto-1 metre: Vaṃśastha (।ऽ।ऽऽ।।ऽ।ऽ।ऽ).
+- p: 1
+  v: "1"
+  shlok: |
+    विधातुरुद्बोदयते मतिर्यदा
+    स्वनैपुणं दर्शयितुं क्रियानिधौ ।
+    करोत्यसाधारणकर्म निभृतं
+    तदा वरं लज्जितदेवमञ्जसा ॥ १ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ। पाद ३ में "करोत्य" के बाद एक शब्द काटा गया है; "निभृतं" हस्तलेख का पाठ है (छन्द दसवें वर्ण को गुरु चाहता है)। पाद १ "रुद्बोदयते" (= उद्बोधयते)। पूर्व पाठ "रद्भूतायते … कियानिधौ … करोति प्रसिद्धमसाधारणं कर्म … लज्जि तदेवमज्जला" भ्रान्त था।
+  manuscript_note_en: |
+    Metre: Vaṃśastha. In pāda 3 a word after "करोत्य" is struck out; "निभृतं" is the manuscript reading (the metre wants the tenth syllable heavy). Pāda 1 "रुद्बोदयते" (= udbodhayate). The earlier reading ("रद्भूतायते … कियानिधौ … करोति प्रसिद्धमसाधारणं कर्म … लज्जि तदेवमज्जला") was wrong.
+  shlok_en: |
+    When the Creator's mind awakens to show its own skill in the treasury of works, it quietly makes an extraordinary work, an excellent one that at once puts the gods to shame. (1)
+  translation: |
+    काव्य-निर्माण कार्य में अपनी निपुणता प्रकट करने के लिये बाल निर्माता की उचित बुद्धि प्रकट होती है, तभी प्रसिद्ध असाधारण कार्य की सिद्धि होती है, तथापि उसी कार्य को पूर्ण करने के लिये एकाएक (सहसा) लज्जित होना उचित ही है ॥ १ ॥
+  notes: |
+    अनन्त ब्रह्माण्ड नायक स्रष्टा विधाता सृष्टि संरचना में व्याप्त रहने के कारण कभी २ अपनी उत्कृष्टतम कला का निदर्शन प्रस्तुत करना चाहते हैं, उस समय वह अपनी सर्वोच्च उच्चतम कला नैपुण्य की पूर्णता का परिचय देने के लिए अपना सर्वस्व समर्पित कर अद्भुत अभिनव सृष्टि की संरचना करते हैं, जिससे सृष्टि के सर्वोत्तम स्वरूप दैवी सम्पत्तियों से परिपूर्ण देवताओं को भी अपनी उच्चतम कला से लज्जित करते हुए उनसे भी अद्भुत अनुपम पूर्ण [unclear: पुरुष] की सृष्टि करते हैं।
+  translation_en: |
+    To show skill in the work of making a poem, the apt intellect of a young maker comes forth, and only then is a renowned, extraordinary work accomplished; even so, it is fitting that he should suddenly feel abashed at completing that very work. (1)
+  notes_en: |
+    The Creator, maker and leader of the endless universe, being engaged in the work of creation, sometimes wishes to present an example of his finest art. At that time, to show the fullness of his highest skill, he gives his all and creates a wonderful new creation, by which, putting to shame with his highest art even the gods, the best form of creation, full of divine wealth, he creates a [unclear: being] more wonderful, matchless and complete than they. (1)
+- p: 1
+  v: "2"
+  shlok: |
+    क्व जीवितं स्वल्पतरं कलेर्बलात्
+    क्व सप्तकल्पावधि जीविनो मुनेः ।
+    मृकण्डुसूनोश्चरितस्य लेखनं
+    परं श्रये स्थापितलौहलेखनीम् ॥ २ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ। पाद ४ "स्थापितलौहलेखनीम्" (पूर्व पाठ "स्थापि तु लौहलेखनीम्" भ्रान्त था)।
+  manuscript_note_en: |
+    Metre: Vaṃśastha. Pāda 4 reads "स्थापितलौहलेखनीम्"; the earlier reading "स्थापि तु लौहलेखनीम्" was wrong.
+  shlok_en: |
+    Where is life, made very short by the force of the Kali age, and where the sage whose life lasts for seven kalpas? Yet, to write the story of Mṛkaṇḍu's son, I take up an iron pen and rely on it. (2)
+  notes: |
+    आज मैं उसी उदात्ततम संरचना के एक कड़ी की संस्मृति में अपनी इस कलयुगी स्थाणु लौह निर्मित लेखनी द्वारा उनका यशोवर्णन करना चाहता हूँ, यद्यपि हम सांसारिक प्राणियों का जीवन स्वतः क्षणिक एवं नगण्य है उसमें भी इस घोर कलिकाल का दुष्प्रभाव भी! फिर भी आज मैं अपने इस क्षणिक जीवन में सप्तकल्पान्त की लम्बी जीवन यात्रा करने वाले (सप्त कल्प तक चिरंजीवी) महामुनि मार्कण्डेय जी के उदात्ततम जीवन की कथा का वर्णन जो सर्वथा दुष्कर है, फिर भी उसकी चर्चा करना चाहता हूँ।
+- p: 2
+  v: "3"
+  shlok: |
+    प्रसादमासाद्य वरं कृपालवा-
+    दवाप्य तस्माच्चिरजीवितां मुनिः ।
+    तमादिमाराध्य गुरुप्रदर्शितं
+    सदैव मृत्युञ्जयमानतोऽस्म्यहम् ॥ ३ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ। पूर्व पाठ "प्रसादभासाथ वरं कृपालना- / देवाप्य तस्मान्चिरजीवितान्मुनेः / तमादिमाराध्य दुरुपदर्शितं / तेनेन मृत्युञ्जय…" भ्रान्त था।
+  manuscript_note_en: |
+    Metre: Vaṃśastha. The earlier reading ("प्रसादभासाथ वरं कृपालना- / देवाप्य … / … दुरुपदर्शितं / तेनेन …") was wrong.
+  shlok_en: |
+    Having first worshipped, as the teachers have shown, him from a particle of whose grace the sage obtained the boon and attained long life, I bow always to Mṛtyuñjaya, the conqueror of death. (3)
+  translation: |
+    जिनके कृपालव से प्रसादपूर्ण वरदान को पाकर मार्कण्डेय मुनि चिरञ्जीवी हुए, अतः गुरुओं के द्वारा प्रदर्शित उनकी प्रथम आराधना कर मैं भगवान् मृत्युञ्जय को सतत प्रणाम करता हूँ ॥ ३ ॥
+  translation_en: |
+    Having first worshipped him, as shown by the teachers, by a particle of whose kindness the sage Mārkaṇḍeya obtained a gracious boon and became long-lived, I constantly bow to Lord Mṛtyuñjaya. (3)
+- p: 2
+  v: "4"
+  shlok: |
+    निरन्तरं सद्य उपश्रमेधते
+    त्रिलोकमध्ये कविकर्मवैभवम् ।
+    सदा भजे सन्ततमेव सादरं
+    प्रचेतसः सूनुमुदारमानसम् ॥ ४ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ। पाद १ "उपश्रमेधते" हस्तलेख के अनुसार। पूर्व पाठ "सज्ज उपसमेधते … त्यदा भजे … प्राचेतसः सुमुद्रमुदारमानसम्" भ्रान्त था।
+  manuscript_note_en: |
+    Metre: Vaṃśastha. Pāda 1 "उपश्रमेधते" follows the manuscript. The earlier reading ("सज्ज उपसमेधते … त्यदा भजे … प्राचेतसः सुमुद्रमुदारमानसम्") was wrong.
+  shlok_en: |
+    In the three worlds the glory of the poet's craft grows constantly and swiftly; so I always and ever revere, with respect, the noble-minded son of Pracetas (Vālmīki). (4)
+  translation: |
+    लोकत्रय के मध्य में कविकर्म वैभव से पूर्ण ज्ञान शीघ्र ही निरन्तर बढ़ता है, अतः सदा सतत आदरपूर्वक उदारचेता प्रचेता पुत्र का मैं भजन करता हूँ ॥ ४ ॥
+  translation_en: |
+    In the three worlds, knowledge filled with the glory of the poet's craft quickly grows without end; so I always and constantly worship, with respect, the noble-minded son of Pracetas. (4)
+- p: 2
+  v: "3"
+  notes: |
+    जिस अनादि आदि देव भगवान् सदाशिव मृत्युञ्जय की समाराधना द्वारा उनकी प्रसन्नता से प्राप्त अहैतुकी कृपा की एक कणिका मात्र पाकर मुनि मार्कण्डेय सप्तकल्पान्त चिरजीवी बन गये, आज मैं अपने पूर्व पुरुषों (पितामह इत्यादि) के द्वारा निर्दिष्ट एवं समाराधित उस सृष्टि स्थिति लय के एकमात्र सञ्चालक भगवान् त्र्यम्बक मृत्युञ्जय को निरन्तर अन्तश्चेतना से परिपूर्ण हो प्रणति निवेदन करता हूँ। ३
+  notes_en: |
+    By worshipping the beginningless, primal god, Lord Sadāśiva Mṛtyuñjaya, and receiving only a particle of the causeless grace that came from his pleasure, the sage Mārkaṇḍeya became long-lived to the end of seven kalpas. Today, with my inner awareness full, I constantly offer my bow to that Lord Tryambaka Mṛtyuñjaya, sole ruler of creation, preservation and dissolution, as shown and worshipped by my forefathers (my grandfather and others). (3)
+- p: 2
+  v: "4"
+  notes: |
+    प्रायः ऐसा देखा जाता है कि इस त्रिलोकी (संसार) में कवित्व कर्म से परिपूर्ण सामान्य ज्ञान भी (निपुणता, काव्य शास्त्रादिकों [unclear] निरन्तर अभ्यास आदि के द्वारा) निरन्तर बढ़ता ही रहता है जिसके प्रत्यक्ष प्रमाण प्राचेतस (प्रचेतापुत्र) महर्षि वाल्मीकि ही हैं; उस उदारचेता कवि कर्म के आद्य स्रष्टा अतिशय उदार [unclear] विश्वजनीन कल्याण में निरन्तर निरत रहने वाले वाल्मीकि महर्षि का हृदय से समाराधना करता हूँ। ४
+  notes_en: |
+    It is generally seen that in these three worlds (the world), even ordinary knowledge, when filled with the poet's craft, keeps on growing (through skill and constant practice of poetics and the other śāstras [unclear]); the direct proof of this is Maharṣi Vālmīki, the Prācetasa (son of Pracetas). From my heart I worship that Maharṣi Vālmīki, noble-minded, the first creator of the poet's craft, most generous [unclear], always engaged in the welfare of all the world. (4)
+- p: 3
+  v: "5"
+  shlok: |
+    बलिन्तथा वालिसुतं समीरजं
+    विभीषणं द्रोणसुतं कृपन्तथा ।
+    [unclear: सराममेवं] चिरजीविनां गणं
+    स्मराम्यभीष्टार्थवरादिवाञ्छया ॥ ५ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ। पाद ३ का आरम्भ अस्पष्ट है ("सराम…"; अनुवाद "भार्गव राम के साथ" से संगत)। पाद ४ "स्मराम्यभीष्टार्थवरादिवाञ्छया" — पूर्व पाठ "समेधयेयं चिरजीविनो गणं / तथा भार्गवरामेण सह" भ्रान्त था।
+  manuscript_note_en: |
+    Metre: Vaṃśastha. The start of pāda 3 is unclear ("सराम…"; it fits the Hindi "with Bhārgava Rāma"). Pāda 4 reads "स्मराम्यभीष्टार्थवरादिवाञ्छया"; the earlier reading ("समेधयेयं चिरजीविनो गणं / तथा भार्गवरामेण सह") was wrong.
+  shlok_en: |
+    Bali, and Vāli's son, the son of the Wind, Vibhīṣaṇa, Droṇa's son, and Kṛpa too: this band of the long-lived, [with Rāma], I remember, wishing for the boon of my desired aim. (5)
+  translation: |
+    बली- बाली- हनुमान्- विभीषण- द्रोणपुत्र- अश्वत्थामा, कृपाचार्य तथा भार्गव राम के साथ इन सभी चिरजीवियों का स्मरण मैं अभीष्ट वरदान सिद्धि प्राप्ति की कामना से करता हूँ ॥ ५ ॥
+  notes: |
+    मैं अपने नायक सप्तकल्पान्तजीवी महामुनि मार्कण्डेय दीर्घजीवी सप्तकल्पान्त की चिरजीविता प्राप्त करने वाले के आराध्य शिव की स्तुति के पूर्व उसकी परिपूर्णता के लिए महाराज बलि, महाबली बालि, परम नैष्ठिक ब्रह्मचारी पवन तनय हनुमान्, एकान्त रामभक्त लंकेश महाराज विभीषण, परम साहसिक अप्रतिम योद्धा आचार्य द्रोणपुत्र अश्वत्थामा, महाभारत समर के प्रत्यक्ष साक्षी कौरव पाण्डव के कुलगुरु महर्षि आचार्य कृप, [unclear: ईश्वरशक्तियान्तर] एकनिष्ठ पितृभक्त परशुराम इन सातों चिरजीवियों के समूह को हार्दिक नमस्कार करता हूँ कि ये लोग मेरे इष्टपूर्ति के लिए सम्बल प्रदान करें। ५
+  translation_en: |
+    Bali, Vāli, Hanumān, Vibhīṣaṇa, Droṇa's son Aśvatthāmā, Kṛpācārya and Bhārgava Rāma: I remember all these long-lived ones, wishing to obtain the boon of my desired aim. (5)
+  notes_en: |
+    Before praising Śiva, the deity worshipped by my hero, the great sage Mārkaṇḍeya, who lives to the end of seven kalpas and attained long life to the end of seven kalpas, I bow from the heart, for the completion of [this work], to this group of seven long-lived ones: King Bali; the mighty Vāli; Hanumān, son of the Wind, a supremely steadfast brahmacārī; Vibhīṣaṇa, king of Laṅkā, single-minded devotee of Rāma; the teacher Droṇa's son Aśvatthāmā, a supremely daring, matchless warrior; the maharṣi and teacher Kṛpa, family teacher of the Kauravas and Pāṇḍavas and eyewitness of the Mahābhārata war; and Paraśurāma, [unclear], single-mindedly devoted to his father: may they give me strength to fulfil my aim. (5)
+- p: 3
+  v: "6"
+  shlok: |
+    कवित्वलब्धौ न मनो निमज्जते
+    न वा यशः ख्यापयितुं मनाक् स्पृहा ।
+    परामृतत्वं लभते यतः स्मृतेः
+    कथां ततस्तां गदितुं मनो दधे ॥ ६ ॥
+  manuscript_note: |
+    वृत्त: वंशस्थ। पाद १ "लब्धौ" किसी पूर्व शब्द पर अधिलिखित है। पाद २ "स्पृहा" (अनुवाद "इच्छा" से पुष्ट), पाद ४ "गदितुं मनो दधे" — पूर्व पाठ "…कथां ततस्तां जीवेत्तु" भ्रान्त था।
+  manuscript_note_en: |
+    Metre: Vaṃśastha. In pāda 1, "लब्धौ" is written over an earlier word. Pāda 2 reads "स्पृहा" (confirmed by the Hindi "इच्छा"), and pāda 4 "गदितुं मनो दधे"; the earlier reading "…कथां ततस्तां जीवेत्तु" was wrong.
+  shlok_en: |
+    My mind is not absorbed in gaining poetic skill, nor have I even a little longing to spread my fame; since one gains the highest immortality through remembrance, I have set my mind on telling that story. (6)
+  translation: |
+    मेरा मन कवित्व प्राप्ति में संलग्न नहीं, न तो यशः-ख्यापनार्थ थोड़ी ही इच्छा होती है, क्योंकि स्मृति अमरत्व प्राप्त करती है अत एव मेरा मन कथा कहने के लिए तत्पर हुआ है ॥ ६ ॥
+  notes: |
+    कवि अपने हृद्गत भावना द्वारा कवित्व-स्वाभिमान का परिहार करते हुए कहता है कि:— मैं एक विशिष्ट कवि के रूप में प्रख्यात होऊँ ऐसी भावना नहीं है। मुझे तनिक भी अपने यशः कामना की भी अभिलाषा नहीं, किन्तु स्मृति ही ऐसी वस्तु है जो अमरत्व प्राप्त करती है, अतः मेरे मन में एक ऐसे ईश्वरार्पित सप्तकल्पान्त जीवी, समाराधित मृत्युञ्जय देव के अहैतुकी कृपापात्र, चिरजीवियों में भी श्रेष्ठ महर्षि मार्कण्डेय की कथा कहने की अभिलाषा विवश करती है। ६
+  notes_en: |
+    Setting aside, through the feeling in his heart, the pride of being a poet, the poet says: I have no wish to become famous as a distinguished poet. I have not the least desire even for fame; but remembrance is the one thing that attains immortality. So a longing compels my mind to tell the story of Maharṣi Mārkaṇḍeya: devoted to God, living to the end of seven kalpas, recipient of the causeless grace of the god Mṛtyuñjaya whom he worshipped, the best even among the long-lived. (6)

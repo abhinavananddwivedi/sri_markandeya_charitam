@@ -8,6 +8,10 @@ verses:
       त्तत्र चोपनयनस्य मण्डपः ।
       छात्रवास भवनं तथैकतः
       पत्रपुष्पनियमेऽत्र वाटिका ॥ ७ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Here the fire-house would be good, and there the pavilion for the upanayana; on one side a house for the students to live in, and here a garden for the rule of leaves and flowers." (7)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        "Here shall be the auspicious sanctuary for the sacred fire, and there the pavilion for the investiture of the sacred thread (upanayana); likewise, an abode for resident students on one side, and an orderly garden here for ritual leaves and sacred flowers."
+        "Here the fire-house will be right; here build the upanayana pavilion; on one side a place for the students; and in one place a garden for leaves, flowers and the like is fitting." (7)
     notes_en:
       author: ai_translation
       text: |
-        In accord with sacred architectural lore (vāstuśāstra), Sage Mṛkaṇḍu envisioned that an agnihotra hall (sacrificial chamber) would be ideally placed here, alongside an upanayana pavilion for initiating young brahmacārins. A well-constructed hostel would be situated to lodge student initiates, while a delightful flower grove could be cultivated to supply fresh leaves and blossoms for daily Vedic rites.
+        In keeping with the science of building, the sage Mṛkaṇḍa thought: "Here a fire-hall (sacrificial hall) for the agnihotra will be right; here a pavilion for the upanayana of the boys will be right; here it will also be right to build a fine hostel for the brahmacārī students to live in. For carrying out sacrifices, worship and the like properly, a charming flower garden can be made here." (7)
   - number: 8
     shlok: |
       पाणिपीडन विधौ तथा चतु-
       शालमत्र भवनं विधास्यते ।
       साम्प्रतं दशगवञ्च मे भवे-
       च्छिष्यमण्डल सहस्रकन्तथा ॥ ८ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "And for the rite of marriage, a four-sided house will be built here; for now let me have ten cows, and likewise a circle of a thousand disciples." (8)
     translation:
       author: amanuensis
       text: |
@@ -41,9 +49,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        "Furthermore, for solemnising the sacred rites of marriage, a four-winged quadrangle mansion (catuḥśāla) shall be constructed here. For now, let there be for me a herd of ten kine, and likewise an assembly of a thousand scholarly disciples."
+        "For the marriage, a four-sided house (catuḥśāla) will be built here. At present, ten cows and a thousand disciples are the right number for me." (8)
     notes_en:
       author: ai_translation
       text: |
-        For observing the sacred duties of householdership following his eventual marriage, Sage Mṛkaṇḍu planned that an expansive four-courtyard mansion would be built upon this sacred ground. For the present, a herd of ten cows and a scholarly community of one thousand disciples could be comfortably sustained and organized here.
+        "For carrying out the householder's dharma, after the marriage, a grand house with four storeys or four courtyards will be built here. So, for now, a herd of ten cows and a company of a thousand disciples can also be well arranged for me." (8)
 source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

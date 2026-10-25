@@ -1,0 +1,41 @@
+# Canto-1 Sanskrit re-read from upright line-level crops of the scans, Claude (Opus 5.5), 2026-10-24.
+# Applied by scripts/tools/apply_shlok_reread.R. Canto 1 metre: Vaṃśastha (।ऽ।ऽऽ।।ऽ।ऽ।ऽ) unless noted.
+- p: 1
+  v: "1"
+  shlok: |
+    विधातुर[unclear: ुद्बोदयते] मतिर्यदा
+    स्वनैपुणं दर्शयितुं क्रियानिधौ ।
+    करोत्यसाधारणकर्म निभृतं
+    तदा वरं लज्जितदेवमञ्जसा ॥ १ ॥
+  note: |
+    पाद १ का "रुद्बोदयते" अंश अस्पष्ट है (अर्थ: उदित होती है)। पाद ३ में "करोत्य" के बाद एक शब्द काटा गया है; "निभृतं" हस्तलेख का पाठ है (छन्द दसवें वर्ण को गुरु चाहता है, "निर्भृतं")। पाद ४ "लज्जितदेवम्" (देवताओं को भी लज्जित करने वाला; टिप्पणी से पुष्ट) — पूर्व पाठ "लज्जि तदेवमज्जला" भ्रान्त था।
+  note_en: |
+    The part "रुद्बोदयते" of pāda 1 is unclear (sense: "rises"). In pāda 3 a word after "करोत्य" is struck out; "निभृतं" is the manuscript reading (the metre wants the tenth syllable heavy, "निर्भृतं"). Pāda 4 reads "लज्जितदेवम्" ("that puts even the gods to shame", confirmed by the notes); the earlier reading "लज्जि तदेवमज्जला" was wrong.
+  se: |
+    When the mind of the Creator rises to show its own skill in the treasury of works, it quietly makes an extraordinary work, an excellent one that at once puts the gods to shame. (1)
+- p: 2
+  v: "3"
+  shlok: |
+    प्रसादमासाद्य वरं कृपालवा-
+    दवाप्य तस्माच्चिरजीवितां मुनिः ।
+    तमादिमाराध्य गुरुप्रदर्शितं
+    सदैव मृत्युञ्जयमानतोऽस्म्यहम् ॥ ३ ॥
+  note: |
+    पूर्व पाठ "प्रसादभासाथ वरं कृपालना- / देवाप्य तस्मान्चिरजीवितान्मुनेः / तमादिमाराध्य दुरुपदर्शितं / तेनेन मृत्युञ्जय..." भ्रान्त था; हस्तलेख में ऊपर का पाठ स्पष्ट है।
+  note_en: |
+    The earlier reading ("प्रसादभासाथ वरं कृपालना- / देवाप्य … / … दुरुपदर्शितं / तेनेन …") was wrong; the manuscript clearly has the text above.
+  se: |
+    Having first worshipped, as the teachers have shown, him from a particle of whose grace the sage obtained the boon of long life, I bow always to Mṛtyuñjaya, the conqueror of death. (3)
+- p: 2
+  v: "4"
+  shlok: |
+    निरन्तरं सद्य उपश्रमेधते
+    त्रिलोकमध्ये कविकर्मवैभवम् ।
+    सदा भजे सन्ततमेव सादरं
+    प्रचेतसः सूनुमुदारमानसम् ॥ ४ ॥
+  note: |
+    पाद १ "उपश्रमेधते" हस्तलेख के अनुसार (छन्द-सम्मत; "उपसमेधते" भी सम्भव)। पूर्व पाठ "सज्ज उपसमेधते … त्यदा भजे … प्राचेतसः सुमुद्रमुदारमानसम्" भ्रान्त था।
+  note_en: |
+    Pāda 1 "उपश्रमेधते" follows the manuscript (it scans; "उपसमेधते" is also possible). The earlier reading ("सज्ज उपसमेधते … त्यदा भजे … प्राचेतसः सुमुद्रमुदारमानसम्") was wrong.
+  se: |
+    In the three worlds the glory of the poet's craft grows constantly and swiftly; so I always and ever revere, with respect, the noble-minded son of Pracetas (Vālmīki). (4)

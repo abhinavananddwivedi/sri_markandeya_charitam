@@ -1,0 +1,74 @@
+page_number_devanagari: "११०"
+page_number_arabic: 110
+image: "images/pages/p110.jpg"
+verses:
+  - number: 47
+    shlok: |
+      निश्चितं वरणके समये सोऽ-
+      तीव सान्निकटगं सुविभाव्य ।
+      प्राप्य सद्म भगवन्तमभीष्टं
+      मुद्गलो हृदयतोऽनुजुहाव ॥ ४७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद १ "वरणके" में संशोधन है; पाद २ "सान्निकटगं" (अतीव समीप; अनुवाद "अतीव समीप" से पुष्ट)। पूर्व निष्कासन का "वरणमेव समये सोऽ- / तीव सानन्दकरं" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 1 "वरणके" contains a correction; pāda 2 reads "सान्निकटगं" ("very near", confirmed by the Hindi "अतीव समीप"). The earlier export's "वरणमेव समये सोऽ- / तीव सानन्दकरं" was a misreading.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Realising that the appointed time for the betrothal (varaṇa) was very near, Mudgala reached his home and invoked his chosen Lord from the heart. (47)
+    translation:
+      author: amanuensis
+      text: |
+        वर वरण का निश्चित समय अतीव समीप जानकर [unclear: मुनि]वर मुद्गल अपने घर आकर अभीष्ट भगवान् का हृदय से आह्वान किया ॥ ४७ ॥
+    notes:
+      author: grandfather
+      text: |
+        घर आने पर मुनि मुद्गल ने अब वैवाहिक तैयारियों के लिए और वरण का समय अत्यन्त सन्निकट जानकर अपने अभीष्ट देवता का हृदय से ध्यान करते हुए सम्मानपूर्वक स्तुति की तथा अपने अभीष्ट पूर्ति के बारे आह्वान करते रहे। ४७
+    translation_en:
+      author: ai_translation
+      text: |
+        Knowing that the fixed time for choosing the groom was very near, the excellent sage Mudgala came home and invoked his chosen Lord from the heart. (47)
+    notes_en:
+      author: ai_translation
+      text: |
+        On reaching home, Sage Mudgala, knowing that the time for the wedding preparations and the betrothal (varaṇa) was now very close, meditated on his chosen deity from the heart, offered praise with reverence, and kept calling on him for the fulfilment of his wish. (47)
+  - number: 48
+    shlok: |
+      तत्र चेशकृपया सकलानि
+      शीघ्रमेव कलितानि वसूनि ।
+      चारु सम्भरणमेव निरीक्ष्य
+      सन्मुनिः प्रजहृषेऽपि समर्थैः ॥ ४८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद ४ "सन्मुनिः प्रजहृषेऽपि समर्थैः" (पूर्व निष्कासन का "बन्धुभिः" हस्तलेख में नहीं है)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 4 reads "सन्मुनिः प्रजहृषेऽपि समर्थैः"; the earlier export's "बन्धुभिः" is not in the manuscript.
+    shlok_en:
+      author: ai_translation
+      text: |
+        There, by the Lord's grace, all the goods were quickly assembled; seeing the fine store of provisions, the good sage rejoiced, together with capable [helpers]. (48)
+    translation:
+      author: amanuensis
+      text: |
+        वहाँ ईश्वर कृपा से सभी वस्तु शीघ्र ही एकत्रित हो गये, सुन्दर सभी सामग्रियों को देखकर [unclear: स्वजनों] के साथ मुनिवर भी आनन्दित हो उठे ॥ ४८ ॥
+    notes:
+      author: grandfather
+      text: |
+        ऋषि मुद्गल की ईश्वर के प्रति अतीव आस्था एवं निष्ठा से उनके देखते देखते ही [unclear: सारी] वरण की सामग्रियाँ उनके मनोनुकूल स्वतः सम्पन्न हो गईं, उन सामग्रियों को देखकर जो उनकी कल्पना से भी उत्तम एवं आशा से भी बढ़कर थीं जिसे देखकर सपरिवार ऋषि आनन्दातिरेक से अत्यन्त हर्षित हो उठे। ४८
+    translation_en:
+      author: ai_translation
+      text: |
+        There, by God's grace, all the things were quickly gathered. Seeing all the fine provisions, the excellent sage, too, rejoiced together with [unclear: his people]. (48)
+    notes_en:
+      author: ai_translation
+      text: |
+        Through Sage Mudgala's great faith and devotion towards God, [unclear: all] the provisions for the betrothal were ready of their own accord, just as he wished, while he looked on. Seeing these provisions, which were finer than he could imagine and beyond his hopes, the sage and his family were overjoyed. (48)
+notes_uncertain: true
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

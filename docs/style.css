@@ -63,7 +63,7 @@ h2.sarga-group-heading { font-size: 1.15rem; border-bottom: 2px solid var(--rule
 .block-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 0.3rem; }
 .author-tag { font-style: normal; font-size: 0.7rem; color: var(--muted); border: 1px solid var(--rule); border-radius: 4px; padding: 0.05rem 0.4rem; margin-left: 0.4rem; }
 .source-scan { margin-top: 2rem; }
-.source-scan img { max-width: 100%; border: 1px solid var(--rule); border-radius: 4px; }
+.source-scan img { max-width: 100%; border: 1px solid var(--rule); border-radius: 4px; image-orientation: none; }
 .source-scan summary { cursor: pointer; color: var(--muted); font-size: 0.9rem; }
 .placeholder-banner { background: #fbe6e0; border: 1px solid #d98a72; color: #7a2e1c; padding: 0.6rem 1rem; border-radius: 6px; font-size: 0.9rem; margin-bottom: 1.5rem; }
 footer { margin-top: 3rem; color: var(--muted); font-size: 0.85rem; }

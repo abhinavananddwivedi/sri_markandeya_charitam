@@ -1,0 +1,73 @@
+page_number_devanagari: "९२"
+page_number_arabic: 92
+image: "images/pages/p092.jpg"
+verses:
+  - number: 11
+    shlok: |
+      तत्र चारुचरणीषु धृतासु
+      स्थापिता दृढतरं सुवलभ्यः ।
+      किञ्च चारुपटलेषु समन्तात्
+      वेश्म तद्रुचिरतामुपपेदे ॥ ११ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद २ का मध्य ("दृढतरं") धुँधला है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. The middle of pāda 2 ("दृढतरं") is faint.
+    shlok_en:
+      author: ai_translation
+      text: |
+        There, on the fine posts that had been set up, good rafters were firmly fixed; and with fine roofs all around, the house took on its beauty. (11)
+    translation:
+      author: amanuensis
+      text: |
+        चारों सुन्दर चरणियों पर स्थापित वलभियाँ सुशोभित होने लगीं और चारों बरामदों से भवन सुशोभित हो उठा ॥ ११ ॥
+    notes:
+      author: grandfather
+      text: |
+        उन पक्की दीवारों के ऊपर अच्छी पुष्ट बल्ली (धरनें) रखी गईं, उनके सुरक्षा के लिए अनेकों वलभी (बल्लियाँ) भी सुन्दर ढंग से रखी गईं, साथ ही ऊपर सुन्दर बने हुए सभी पटलों से युक्त सुन्दर भवन बन कर तैयार हो गया जिसे देख कर सभी लोग उसकी भूरि २ प्रशंसा करते नहीं अघाते। ११
+    translation_en:
+      author: ai_translation
+      text: |
+        The rafters (valabhī) set on the four fine posts began to look handsome, and with its four verandas the house shone. (11)
+    notes_en:
+      author: ai_translation
+      text: |
+        On top of those brick walls, good strong beams (dharan) were laid, and for their support many rafters (valabhī, ballī) were also neatly placed. With all the fine roofs on top, a beautiful house was completed; everyone who saw it could not stop praising it. (11)
+  - number: 12
+    shlok: |
+      प्रागलिन्दमतिशोभमतीत्य
+      वर्तुलाक्ष समसोमकलावत् ।
+      कुण्डमेखलयुतं स्थपतिभ्यः
+      सोऽग्निहोत्रगृहमत्र चकार ॥ १२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Beyond the very handsome front veranda, he had the builders make here a fire-sanctuary (agnihotra house) with a fire-pit and its girdle (mekhalā), round like the full disc of the moon. (12)
+    translation:
+      author: amanuensis
+      text: |
+        महर्षि मृकण्डु ने अलिन्द की शोभा को पार कर चन्द्रकलावत् वर्तुलाकार कारीगरों से मेखलायुक्त कुण्ड तथा अग्निशाला का निर्माण कराया ॥ १२ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्ड ने उस नव्य भव्य भवन के (ड्योढ़ी) देहली (दरवाजे के आगे भीतर प्रवेश करने की जगह) को पार करने पर अत्यन्त पूर्ण चन्द्रमा की गोल आकृति के समान गोल आकार वाला तेजोदीप्त कुण्ड निर्माण के साथ मेखला त्रिविध पीठिकाओं से युक्त उत्तम अग्निहोत्र करने के योग्य घर का निर्माण कराया। १२
+    translation_en:
+      author: ai_translation
+      text: |
+        Beyond the beauty of the veranda, Maharṣi Mṛkaṇḍu had craftsmen build a fire-pit with a girdle (mekhalā), round like the digit of the moon, and a fire-house. (12)
+    notes_en:
+      author: ai_translation
+      text: |
+        Past the entrance (ḍyoṛhī) of that new and splendid house, the threshold (the space inside the doorway for entering), Sage Mṛkaṇḍa had a radiant fire-pit built, perfectly round like the full moon, and with it a house fit for performing the Agnihotra, furnished with a mekhalā of three tiers. (12)
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

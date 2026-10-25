@@ -8,6 +8,10 @@ verses:
       सुताश्च शिष्या मुनिदेशवर्तिनः ।
       मनोऽभिनन्दात् सकलं प्रसिद्ध्यति
       मुनेऽतिशालीनतराऽसि भाग्यवान् ॥ ४१ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Your household has wonderful power; your sons and disciples follow your direction, sage; everything succeeds by the joy of your mind. Sage, you are most modest and fortunate." (41)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Praising the host, Sage Mṛkaṇḍu said: 'O venerable householder! Your domestic order is imbued with wondrous spiritual power; your sons and disciples are paragons of obedience, humility, and devotion. All your righteous desires achieve effortless fruition; truly, you are exceptionally cultured, saintly, and blessed by fortune!'
+        The brahmacārī great soul Mṛkaṇḍu said: "Householder sage! Your household is endowed with wonderful power; your sons and disciples are obedient. All the work you wish for is completed; so you are more modest and fortunate [than others]." (41)
     notes_en:
       author: ai_translation
       text: |
-        Commending the householder, Sage Mṛkaṇḍu remarked: 'O Sage! The moral and spiritual discipline of your household is truly extraordinary. Your sons and disciples are profoundly humble and dutiful; every noble intention of your heart reaches natural fulfillment. Indeed, you are an exalted soul, revered by the virtuous and crowned with divine auspiciousness.'
+        Praising him, the sage Mṛkaṇḍa said to the householder sage: "Sage! The order of your household has a very remarkable power. Your sons and disciples are very disciplined and obedient; all your well-considered work is completed of itself. So, sage, you are very high-minded, approved by the good, and fortunate." (41)
   - number: 42
     shlok: |
       इति प्रशस्याचमनार्थमुत्थिते
       गतेऽतिथौ द्वारि गृहाधिपो मुदा ।
       द्विजावशिष्टं परिविष्टमुत्तमं
       प्रिया समक्षं विधिवज्जघास सः ॥ ४२ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having praised him thus, when the guest rose to rinse his mouth and went to the door, the master of the house gladly ate, duly, before his wife, the excellent food served, left over from the brahmin. (42)
     translation:
       author: amanuensis
       text: |
@@ -41,9 +49,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Having thus praised the host, when the guest stepped outside to the threshold to wash his hands and rinse his mouth, the master of the house joyfully partook of the sacred leftover meal (prasāda) in the loving company of his devoted wife, fulfilling the sacred householder rite.
+        Having praised him thus, Mṛkaṇḍu went to the door to wash his hands; then the master of the house, before his wife (with his wife), lovingly began to eat the holy food left over after the brahmin's meal. (42)
     notes_en:
       author: ai_translation
       text: |
-        After Sage Mṛkaṇḍu concluded his heartfelt appreciation and walked to the entrance for ceremonial ablutions, the noble householder joyfully sat down with his loving wife to partake of the consecrated remnants of the meal sanctified by the holy Brāhmaṇa guest, following the sacred Vedic injunction of consuming sacrificial food (amṛta-bhojana).
+        Thus the sage Mṛkaṇḍa praised the meal and other arrangements of that householder sage very highly. After he had gone to the door of the house to wash his hands, the householder sage, after the brahmin guest had eaten, lovingly ate the remaining holy food, left over from the sacrifice, himself, before his dear, good wife and in her company. (42)
 source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

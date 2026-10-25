@@ -8,6 +8,10 @@ verses:
       भवन्तमालोक्य तदुक्तिसम्मितम् ।
       दधे मनोऽहं गृहमेधिकर्मणि
       प्रशाधि विप्रोऽसि गुरुर्मतो मया ॥ ३१ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "So told, I came along this road; seeing you, who match their words, I have set my mind on the work of a householder. Instruct me, brahmin; I have taken you as my teacher." (31)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        'Thus instructed by those divine masters, I journeyed along this holy path. Beholding you here—the living embodiment of their description—my mind is firmly resolved to enter the householder’s path. Pray instruct and guide me, O wise Brāhmaṇa; for I have accepted you from this moment as my revered Guru!'
+        "On being told so by those two, I came by this road. Seeing you, who fit their words, I set my mind on the householder's dharma. Teach me, for you know; I have accepted you as my teacher." (31)
     notes_en:
       author: ai_translation
       text: |
-        'Guided by their divine counsel, I traversed along the holy river. Finding you to be the exact embodiment of the ideal householder described by the sages, my resolve to embrace Gṛhastha Dharma has become unshakeable. Since you possess complete mastery of the duties and sanctity of household life, pray instruct me; from this day forth, I accept you as my venerable preceptor.'
+        "On such teaching from those excellent sages, I set out on this road. Finding you, who are most fitting according to their words, I too have made up my mind to follow the householder's dharma. Now give me proper teaching, for you have full knowledge of the householder's dharma; from today I have accepted you as my revered teacher." (31)
   - number: 32
     shlok: |
       इतीरयित्वा विरते गृहीमुनि-
       र्मनस्युदासीनवदास्थितश्चिरम् ।
       पुनर्बभाषे तदुपायदर्शना-
       न्मुने समाधन्वतया न कन्यका ॥ ३२ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        When he had said this and stopped, the householder sage remained long in his mind as if indifferent; then, seeing a way to it, he spoke again: "Sage, [I have] no daughter [to give] in this matter." (32)
     translation:
       author: amanuensis
       text: |
@@ -41,9 +49,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Having spoken thus, when Sage Mṛkaṇḍu fell silent, the householder remained lost in deep, subdued contemplation for a long while. Then, seeking to offer guidance and solace to the young sage, he spoke with gentle melancholy: 'O noble sage! Alas, by fate’s disposition, I have no daughter of my own to offer you in marriage.'
+        When Mṛkaṇḍu, having said this, fell silent, that householder sage remained for a long time in a somewhat downcast mood. Seeing a way for him, he spoke again: "Excellent sage! By my misfortune I have no daughter." (32)
     notes_en:
       author: ai_translation
       text: |
-        When Sage Mṛkaṇḍu ceased speaking, the host remained reflective and silent for a long moment, pondering how best to assist him. Desiring to guide and reassure the young ascetic, the householder gently replied: 'O venerable sage! It is my misfortune that by the decree of providence, I do not have a daughter of my own whom I might bestow upon you in sacred wedlock.'
+        When the sage Mṛkaṇḍa had said this much and fell silent, that householder sage was very downcast in his mind for some time; but then, with a view to reassuring him, he spoke again: "Sage! As it happens, by misfortune I have no daughter." (32)
 source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

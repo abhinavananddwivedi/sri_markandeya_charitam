@@ -1,0 +1,74 @@
+page_number_devanagari: "१०३"
+page_number_arabic: 103
+image: "images/pages/p103.jpg"
+verses:
+  - number: 33
+    shlok: |
+      देयमस्ति न मया किमपीह
+      किन्तु सारगुणतोऽस्त्यनुरूपा ।
+      एतयोः परिणये भवतैव
+      सर्व एव विधिरस्त्युपपाद्यः ॥ ३३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद २ "सारगुणतोऽस्त्यनुरूपा" और पाद ३ "भवतैव" हस्तलेख के अनुसार (पूर्व निष्कासन का "साऽत्र गुणतो" तथा "भवता वै" भ्रान्त थे)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 2 "सारगुणतोऽस्त्यनुरूपा" and pāda 3 "भवतैव" follow the manuscript; the earlier export's "साऽत्र गुणतो" and "भवता वै" were misreadings.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "I have nothing at all to give here; but in excellence of virtues she is a fit match. In the marriage of these two, every rite is to be carried out by you alone." (33)
+    translation:
+      author: amanuensis
+      text: |
+        मेरे पास देय कुछ नहीं है, किन्तु मेरी कन्या इसके गुणानुरूप ही है। इन दोनों के विवाह में सारा कार्य आप ही सम्पादित करें ॥ ३३ ॥
+    notes:
+      author: grandfather
+      text: |
+        महर्षे! मेरे पास यौतुक (दहेज) देने के लिए कुछ नहीं है। मैं कुछ दे नहीं सकता, किन्तु हाँ मेरी कन्या इनके गुणानुरूप सर्वथा सुयोग्य है। [unclear: पूज्यपाद]! इन दोनों के विवाह सम्बन्ध में सारी विधियाँ सभी कार्यजात केवल आप को ही करना है। ३३
+    translation_en:
+      author: ai_translation
+      text: |
+        "I have nothing to give, but my daughter is a match for his virtues. Please carry out all the work of the marriage of these two yourself." (33)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Great sage! I have nothing to give as dowry (yautuka); I cannot give anything. But yes, my daughter is fully worthy of him in virtue. [unclear: Revered one]! In the matter of these two being married, all the rites and all the tasks are for you alone to perform." (33)
+  - number: 34
+    shlok: |
+      वल्कलानि परिधाय तरूणा-
+      माश्रमे हिमजलादि सहित्वा ।
+      कन्दमूलफलभोजनशीला
+      जङ्गलेषु मुनयो निवसामः ॥ ३४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद २ "माश्रमे" (तरूणाम् आश्रमे) — पूर्व निष्कासन का "मातपे" हस्तलेख में नहीं है (हिन्दी अनुवाद में "आतप" शब्द काटा गया है)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 2 reads "माश्रमे" (tarūṇām āśrame); the earlier export's "मातपे" is not in the manuscript. In the Hindi translation the word "आतप" is struck out.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Wearing the bark of trees, enduring snow, water and the like in the hermitage, living on roots, tubers and fruits, we sages dwell in the forests." (34)
+    translation:
+      author: amanuensis
+      text: |
+        वृक्षों के छाल पहन कर ठण्डी गर्मी को सहन कर कन्द-मूल-फलादि भक्षण करने वाले हम मुनिगण इस वन्यभूमि में रहते हैं ॥ ३४ ॥
+    notes:
+      author: grandfather
+      text: |
+        अहो मुनीन्द्र! हम लोग सदा वृक्षों की छाल पहनकर, वहाँ की भीषण सर्दी गर्मी (शीत उष्णतादि) अत्यन्त शीतल बर्फीली नदियों का जल आदि का सहन करते हुए जंगली फल मूल कन्दादि का भोजन कर जङ्गलों में रहते हुए मुनिवृत्ति से अपना जीवन निर्वाह करते हुए रह रहे हैं। ३४
+    translation_en:
+      author: ai_translation
+      text: |
+        "Wearing the bark of trees, enduring cold and heat, we sages, who live on roots, tubers, fruits and the like, dwell in this forest land." (34)
+    notes_en:
+      author: ai_translation
+      text: |
+        "O lord of sages! We always wear the bark of trees and endure the fierce cold and heat there (cold, heat and the like) and the water of icy, snow-fed rivers; we eat wild fruits, roots and tubers, live in the forests, and sustain our life by the way of life of sages." (34)
+notes_uncertain: true
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

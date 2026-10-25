@@ -8,6 +8,10 @@ verses:
       क्व कामधेनुं विरहय्य लभ्यते ।
       कदाप्यनास्वादितमोदनोऽथवा-
       पिकिं त्वयेतोऽद्य समार्पितं नृणाम् ॥ ३९ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Can milk that tastes like this be had anywhere apart from the Kāmadhenu? Or is this rice, never tasted before, what you have offered people from [heaven] today?" [Partly unclear.] (39)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        'Where else in all the worlds, save from the celestial wish-granting cow Kāmadhenu in heaven, could such nectarine, sweet milk ever be obtained? And this exquisite rice you have served me—is it mere grain, or some heavenly ambrosial fruit? Never in my life have I tasted food so sublime!'
+        "Where else, apart from the Kāmadhenu in heaven, can such tasty milk be had? The rice you served, which I have never tasted before: is it fruit or grain?" (39)
     notes_en:
       author: ai_translation
       text: |
-        'O venerable sage! It seems impossible that such wonderfully sweet and fragrant milk could exist outside the heavenly realms without Kāmadhenu herself! And the dish served under the humble name of rice—is it truly grain, or some divine celestial fruit? Truly, I have never experienced such heavenly and delectable cuisine anywhere on this earth!'
+        "Sage! It seems that, apart from the world of heaven, without the Kāmadhenu, where else could such tasty, sweet milk be had? The dish you fed me by the name of rice: should it be called rice, or is it a very sweet fruit? I have never eaten such excellent food (rice) anywhere." (39)
   - number: 40
     shlok: |
       अहो स्नुषाणां रचना सुचातुरी
       तुरीयकक्षामतिशाय्य राजते ।
       पृथक् पृथक् षड्रसता रुचिप्रदा
       विभाव्यते यासु विमलभावना ॥ ४० ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Ah, the skill of your daughters-in-law's cooking shines, surpassing [even] the fourth rank; in it the six flavours, each distinct and pleasing, are perceived, [made] with a pure mind." (40)
     translation:
       author: amanuensis
       text: |
@@ -41,9 +49,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        'Ah! The culinary mastery of your daughters-in-law is truly wondrous; surpassing ordinary, middling, and high standards, it reaches a transcendent, fourth dimension of culinary perfection! In every dish, the six classical gastronomic flavors (ṣaḍ-rasa) are harmonized with pure devotion and unmatched delicacy.'
+        "The daughters-in-law's skill in cooking is astonishing; it shines, having passed beyond the fourth class. One can feel in it the distinct, pleasing six flavours brought out." (40)
     notes_en:
       author: ai_translation
       text: |
-        'O Great Sage! What praise can suffice for the culinary artistry of your daughters-in-law? Transcending standard classifications of skill, their craftsmanship reaches the pinnacle of transcendental culinary art. Their dishes harmonize all six primary tastes—sweet, sour, salty, bitter, pungent, and astringent—with such flawless balance and pure love that experiencing it is an extraordinarily rare blessing.'
+        "Best of great sages! What can be said of the very complete skill of your daughters-in-law in the art of cooking? It goes beyond the first, middle and best levels of skill and reaches the fourth, still higher class. These daughters-in-law have a wonderful mastery of the art of preparing food, by which one constantly feels and tastes these six flavours (sweet, sour, salty, pungent, astringent, bitter) together; such skill is very rare elsewhere." (40)
 source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

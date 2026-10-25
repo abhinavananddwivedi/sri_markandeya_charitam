@@ -8,6 +8,10 @@ verses:
       सुतैराहूयत भोजनार्थतः ।
       ततो गृहान्तर्गृहमेधिकर्मवित्
       सवैश्वदेवं बलिमर्पयत्पुरा ॥ ३५ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        As he was talking, his sons, carrying water, called them to the meal; then, inside the house, he who knew the householder's duties first offered the vaiśvadeva bali. (35)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        While they were thus conversing, the householder's son arrived carrying water in a ceremonial ewer, respectfully announcing that the meal was served. Thereupon, the host, well-versed in the rituals of Gṛhastha Dharma, stepped inside and offered the preparatory Vaiśvadeva sacrificial oblations to all cosmic deities.
+        As they were talking thus, boys with water in their hands called them to the meal. Then the householder, inside the house, offered the vaiśvadeva bali in accordance with the householder's dharma. (35)
     notes_en:
       author: ai_translation
       text: |
-        While their cordial conversation was underway, the son of the householder approached with a vessel of clean water, politely inviting them to dine. Following the strict Vedic code of a householder, the host first went inside to perform the obligatory Vaiśvadeva-bali—offering food portions to all universal deities and living creatures before serving the household.
+        These things were still being discussed when the householder sage's son came with a pot of water and respectfully invited them to eat. Then the householder sage went inside the house and completed the first duty, the vaiśvadeva bali, in keeping with the conduct of the householder's dharma. (35)
   - number: 36
     shlok: |
       ततोऽतिथिं सत्कृतमभ्युपाविश-
       न्नेकशाकैः सहसूपसंयुतम् ।
       पयोविधानैः स किलाटकूर्चिकैः
       समानिनायौदनमिन्दुसन्निभम् ॥ ३६ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then he sat by the honoured guest and brought rice like the moon, with many vegetables and soups, and with milk dishes, kilāṭa (thickened milk) and kūrcikā (curds). (36)
     translation:
       author: amanuensis
       text: |
@@ -41,9 +49,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Then, seating himself attentively beside his honored guest, the host served him steamed rice shining pure white like the autumn moon, accompanied by seasoned lentil soups (sūpa), a variety of spiced vegetables, and rich dairy delicacies including fresh curd, ghee, paneer, and thickened milk puddings (kūrcikā).
+        Then, sitting near the honoured guest, rice bright as the moon was served, with many kinds of vegetables and dishes, kūrcika with dal, and milk dishes. (36)
     notes_en:
       author: ai_translation
       text: |
-        Sitting reverently beside the honored ascetic guest, the host personally supervised the serving of a feast: pristine rice radiant like the moonlight, aromatic lentil broths, diverse seasonal vegetable preparations, and an assortment of rich milk delicacies—fresh butter, clarified ghee, curd, paneer, and sweet thickened milk (rabrī).
+        After this the householder sage sat near the guest, who had already been honoured, and served rice very white like the moon's light, with various seasonal vegetables and dal, and various rich foods such as curd, ghee, paneer and rabṛī. (36)
 source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

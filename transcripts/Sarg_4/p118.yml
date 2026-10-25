@@ -1,0 +1,74 @@
+page_number_devanagari: "११८"
+page_number_arabic: 118
+image: "images/pages/p118.jpg"
+verses:
+  - number: 63
+    shlok: |
+      सन्तोष्याऽखिलविप्रमण्डलमथो गेहागताँश्चातिथीन्
+      दीनानाथजनांश्च तैः सुविहितैर्भोज्यैश्च षड्भी रसैः ।
+      सन्तृप्तेष्वखिलेषु तत्परिजनैः स्वादैः स्वयं प्रीणितः
+      सुष्वाप स्मृतितत्परो भगवतो लीलाविलासं चिरम् ॥ ६३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: शार्दूलविक्रीडित (मसजसततग, १९ वर्ण; चारों पाद छन्द में ठीक बैठते हैं)। पाद ४ में "सुष्वाप" के बाद एक शब्द ("संस्मृत्य"?) रेखांकित है, अर्थात् त्याज्य। पूर्व निष्कासनों के "परिजनेष्वात्मैव" और "सुप्त्वाऽयं गेहगतस्तत्परो ... लीलाविलासांश्चित्तगाः" (२०-२२ वर्ण) हस्तलेख में नहीं हैं।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Śārdūlavikrīḍita (ma-sa-ja-sa-ta-ta-ga, 19 syllables; all four pādas scan). In pāda 4, a word after "सुष्वाप" (possibly "संस्मृत्य") is underlined, i.e. marked for deletion. The earlier exports' "परिजनेष्वात्मैव" and "सुप्त्वाऽयं गेहगतस्तत्परो ... लीलाविलासांश्चित्तगाः" (20–22 syllables) are not in the manuscript.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having then gratified the whole assembly of brahmins, the guests who had come to his house, and the poor and the helpless with well-prepared food of the six flavours; and, when all of them and his household were fully satisfied, himself pleased with the delicacies, he slept, intent on recollecting the divine play of the Lord. (63)
+    translation:
+      author: amanuensis
+      text: |
+        सुन्दर रसों से पूर्ण सुस्वादु भोज्य पदार्थों से समस्त विप्रमण्डली को गृहागत अतिथियों को एवं दीनानाथों को सन्तुष्ट कर सन्तुष्ट परिजनों के माध्यम से सभी लोगों के सन्तुष्ट हो जाने पर स्वतः आनन्दित हो स्मृतिमान् बुद्धि से भगवान् के लीलाविलासों का स्मरण किया ॥ ६३ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्डु ने अपने घर में उत्तम सूदों (पाचकों) द्वारा सभी षड्रसों से परिपूर्ण विविध भोज्यों (भक्ष्य भोज्य लेह्य चोष्यादि एवं मधुमयी मोदकादि से) भी सभी ब्राह्मणों, विद्वज्जनों, अभ्यागतों, गृहस्थ बन्धु बान्धवों, दीनों, अनाथों को पूर्ण परितृप्ति से भोजन कराया। सभी लोगों के भोजनादि से पूर्ण सन्तुष्ट हो जाने पर अपने परिजनों के भी भोजन के पश्चात् स्वयं प्रसन्न होकर सविवेक भगवान् के लीलाविलास का स्मरण करते स्वयं सोये। ६३
+    translation_en:
+      author: ai_translation
+      text: |
+        Having satisfied the whole assembly of brahmins, the guests who had come to the house, and the poor and helpless with delicious food full of fine flavours, and when everyone, through his contented household, had been satisfied, he, glad of himself, recollected the divine play of the Lord with a mindful intellect. (63)
+    notes_en:
+      author: ai_translation
+      text: |
+        In his house, Sage Mṛkaṇḍu, through excellent cooks, fed to their full satisfaction all the brahmins, learned men, guests, householder relatives and kinsfolk, the poor and the orphans, with various foods full of all six flavours (foods to be chewed, eaten, licked and sucked, and sweet modakas and the like). When everyone was fully satisfied with the meal, and after his own household had also eaten, he himself, glad at heart, went to sleep thoughtfully recollecting the divine play of the Lord. (63)
+  - number: "64-66"
+    shlok: |
+      श्रीचन्द्रभूषणसुधीसुतकेन बच्चू-
+      रामस्य पौत्रसुभगेन नवंगुणाढ्यम् ।
+      संगुम्फितं सुमनसां मनसाऽङ्घ्रियुग्म-
+      मानम्य तेन हि शिवस्य सुशिष्यकेण ॥ ६४ ॥
+      धानेश्वरीहृदयजेन शिवार्चकेन
+      विद्वज्जनार्चनरता धरणीधरेण ।
+      काव्यं सुमङ्गलमयं सुप्रवृत्तिपूर्णं
+      शश्वत् समा विजयतां शिवयोः प्रसादात् ॥ ६५ ॥
+      दीर्घजीविचरितामृतकाव्ये
+      सद्द्विजोचितसदाचरणाढ्ये ।
+      [unclear: एष तेन रचिते काव्यनाम्नि]
+      सर्ग एष गमितोऽस्ति तुरीयः ॥ ६६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: श्लोक ६४-६५ वसन्ततिलका, श्लोक ६६ स्वागता। यह पुष्पिका-त्रयी पृष्ठ ३२ और ६० की त्रयी के समान है; यहाँ पाठ पृष्ठ ११८ से पढ़ा गया है। कवि के पितामह का नाम "बच्चू राम" है (पूर्व निष्कासन का "बन्धूराम" भ्रान्त था)। श्लोक ६६ का अन्तिम पाद "सर्ग एष गमितोऽस्ति तुरीयः" (स्वागता) पठनीय है; तीसरा पाद अस्पष्ट है। पृष्ठ पर संस्कृत "इति ... सर्गः समाप्तः" पुष्पिका-वाक्य नहीं है; त्रयी के बाद सीधे लिपिकार का "विशेष" आता है, और उसके नीचे दो वृत्ताकार चिह्नों वाली समापन-रेखा है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: verses 64–65 Vasantatilakā, verse 66 Svāgatā. This colophon triad matches the triads on pages 32 and 60; here it was read from page 118. The poet's grandfather is named "Baccū Rāma" (the earlier export's "Bandhūrāma" was wrong). The last pāda of verse 66, "सर्ग एष गमितोऽस्ति तुरीयः" (Svāgatā), is legible; the third pāda is unclear. The page has no Sanskrit "इति ... सर्गः समाप्तः" rubric: the amanuensis's "विशेष" follows the triad directly, and below it is a closing rule with two small circles.
+    shlok_en:
+      author: ai_translation
+      text: |
+        (64) By the son of the wise Śrī Candrabhūṣaṇa, the fortunate grandson of Baccū Rāma, this [poem], rich in the nine virtues, was woven, after bowing in his mind to the feet of the good-hearted, by that good disciple of Śiva. (65) By Dharaṇīdhara, born of the heart of Dhāneśvarī, worshipper of Śiva, devoted to honouring the learned: may this poem, full of auspiciousness and good purpose, be victorious for endless years by the grace of Śiva and Pārvatī. (66) In the poem "The Nectar of the Life of the Long-Lived", rich in the good conduct proper to good brahmins, [unclear] this fourth canto has been completed.
+    translation:
+      author: amanuensis
+      text: |
+        विशेष - ६४-६५ का हिन्दी अनुवाद पृ. ३२ में देखें - सद् द्विजों के आचरणों से पूर्ण दीर्घजीवी (मार्कण्डेय) चरितामृत नामक काव्य में [unclear: आज] यह चौथा सर्ग पूर्ण हुआ।
+    translation_en:
+      author: ai_translation
+      text: |
+        Note: for the Hindi translation of verses 64–65, see page 32. [Verse 66:] In the poem named "The Nectar of the Life of the Long-Lived (Mārkaṇḍeya)", rich in the conduct of good brahmins, this fourth canto is [unclear: today] complete.
+notes_uncertain: true
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (v63 Śārdūlavikrīḍita; colophon vv. 64–65 Vasantatilakā, v66 Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi. Colophon page: as on p032/p060, the manuscript defers the Hindi gloss of vv. 64–65 to page 32; v66 is glossed in place. Unlike p032/p086, this page carries no Sanskrit 'iti ... samāptaḥ' rubric, so none is appended."

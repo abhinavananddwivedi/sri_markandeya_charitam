@@ -4,10 +4,22 @@ image: "images/pages/p019.jpg"
 verses:
   - number: 37
     shlok: |
-      न देशकालो फलितो मया क्वचि
-      न्नवाहमदिग्दर्शनमेव भाचितम् ।
-      न शक्तिरस्यामाभाचिता मनाक्
-      त्वित्थे ततो युवां बोधयितुं समाश्रये ॥ ३७ ॥
+      न देशकालौ कलितौ मया क्वचि-
+      न्नवाप्तदिग्दर्शनमेव भावितम् ।
+      न शक्तिरप्याकलिता मनाक् क्षितौ
+      ततो युवां बोधयितुं समाश्रये ॥ ३७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद २ का "नवाप्त" अनिश्चित है; अक्षर "न्नवाह्म" जैसे दिखते हैं। पाद ३ "शक्तिरप्याकलिता" ("रस्याकलिता" भी सम्भव)। पूर्व पाठ "फलितो / न्नवाहमदिग्दर्शनमेव भाचितम् / न शक्तिरस्यामाभाचिता मनाक् / त्वित्थे ततो…" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). In pāda 2, "नवाप्त" is uncertain; the letters look like "न्नवाह्म". Pāda 3 reads "शक्तिरप्याकलिता" ("रस्याकलिता" is also possible). The earlier reading ("फलितो / न्नवाहमदिग्दर्शनमेव भाचितम् / न शक्तिरस्यामाभाचिता मनाक् / त्वित्थे ततो…") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "I have nowhere grasped place and time, nor have I [unclear: attained] a sense of direction; nor have I gained even a little power on earth. Therefore I take refuge with you two, to be taught." (37)
     translation:
       author: amanuensis
       text: |
@@ -15,35 +27,48 @@ verses:
     notes:
       author: grandfather
       text: |
-        हे प्रभो! मुझ अनजाने को सामयिक देशकाल की स्थिति का तनिक भी ज्ञान नहीं है और न मैं अपने अग्रिम जीवन दर्शन का सूक्ष्म/निश्चित विचार ही कर पाया हूँ, भगवन्! इस धरित्री पर मैंने तनिक भी शक्ति का भी अर्जन नहीं किया है, अतः अपनी सर्वविध अज्ञानता के निवारणार्थ आप दोनों के शरण में आकर प्रबोध की याचना कर रहा हूँ ॥ ३७ ॥
+        हे प्रभो! मुझ अनजाने को सामयिक देशकाल की स्थिति का तनिक भी ज्ञान नहीं है और न मैं अपने अग्रिम जीवन दर्शन का कुछ भी निश्चित विचार ही कर पाया हूँ, भगवन्! इस धरती पर मैंने न तनिक भी शक्ति का भी अर्जन किया है, अतः अपनी सर्वविध अज्ञानता के निवारणार्थ आप दोनों के शरण में आया हुआ हूँ। ३७
     translation_en:
       author: ai_translation
       text: |
-        'I possess no mature understanding of place and time (deśa-kāla), nor have I determined the true spiritual direction of my future life. I have acquired neither worldly power nor spiritual mastery on this earth; therefore, I take wholehearted refuge in you both to attain supreme illumination.'
+        "I have no knowledge of place and time, nor have I been able to settle my direction. I have gained no power on this earth either; so I take refuge with you for the sake of knowledge." (37)
     notes_en:
       author: ai_translation
       text: |
-        'O Lords! Simple and inexperienced as I am, I have no comprehensive grasp of the conditions of time and circumstance, nor have I formulated a clear vision for the deeper spiritual course of my future life. O Divine Ones! I have acquired neither personal strength nor worldly authority on this earth; hence, to dispel every trace of my ignorance, I surrender entirely at your feet, seeking the dawn of true wisdom.'
+        "Lord! I, an ignorant man, have not the least knowledge of the present state of place and time, nor have I been able to form any settled idea of how my life ahead should go. Lord! On this earth I have not acquired even the least power. So, to remove my ignorance of every kind, I have come to take refuge with you two." (37)
   - number: 38
     shlok: |
-      हिरण्यगर्भस्य त्वगुद्भवा सुतो
+      हिरण्यगर्भस्य त्वगुद्भवः सुतो
       भृगुस्ततोऽजायत धातृनामकः ।
-      ततो मृकण्डोऽजस्म समागकौ युवां
-      प्रसादये न्याम्यमिवादये गुरू ॥ ३८ ॥
+      ततो मृकण्डोऽस्मि स भार्गवो युवां
+      प्रसादये चाप्यभिवादये गुरू ॥ ३८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद १ में "स्य त्वगु…" का "स्य" संयोग-पूर्व होने से गुरु है (छठा अक्षर लघु होना चाहिए) — छन्दोभङ्ग, पाण्डुलिपि यथावत्। पाद ३ "स भार्गवो" पाण्डुलिपि में "समार्गवो" जैसा लिखा है (टिप्पणी: "भृगुवंशोत्पन्न")। पाद ४ "चाप्यभिवादये" ("और अभिवादन") अक्षर "न्याम्यमिवादये" जैसे दिखते हैं। पूर्व पाठ "ततो मृकण्डोऽजस्म समागकौ युवां / प्रसादये न्याम्यमिवादये गुरू" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. In pāda 1, the "स्य" before "त्वगु…" is heavy by position, where the sixth syllable should be light: a metrical fault, kept as written. In pāda 3, "स भार्गवो" is written like "समार्गवो" (the note says "born in Bhṛgu's line"). In pāda 4, "चाप्यभिवादये" ("and salute") looks like "न्याम्यमिवादये". The earlier reading ("ततो मृकण्डोऽजस्म समागकौ युवां / प्रसादये न्याम्यमिवादये गुरू") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "The son born of Hiraṇyagarbha's skin was Bhṛgu; from him was born the one named Dhātā; from him I am Mṛkaṇḍu, that descendant of Bhṛgu. I propitiate you two, my teachers, and salute you." (38)
     translation:
       author: amanuensis
       text: |
-        हिरण्यगर्भ ब्रह्मा के त्वक् से उत्पन्न पुत्र भृगु हुए, उनके धातृ (धाता) नामक पुत्र हुआ। धाता का पुत्र अपने भाई विधाता के मैं मृकण्डु हुआ, वही मृकण्डु नामा मैं उत्तम दोनों गुरुओं को प्रसन्न कर रहा हूँ और अभिवादन कर रहा हूँ ॥ ३८ ॥
+        हिरण्यगर्भ ब्रह्मा के त्वक् से उत्पन्न पुत्र भृगु हुए उनके धातृ (धाता) नामक पुत्र हुआ। धाता का पुत्र अपने भाई विधाता के मैं मृकण्डु हुआ, वही मृकण्डु नामा मैं आप दोनों गुरुओं को प्रसन्न कर रहा हूँ और अभिवादन कर रहा हूँ ॥ ३८ ॥
     notes:
       author: grandfather
       text: |
-        उस स्रष्टा हिरण्यगर्भ ब्रह्मा के त्वक् (चमड़ी) से उत्पन्न महर्षि भृगु हुए, उनके धाता विधाता नामक दो पुत्र हुए, उन धाता का पुत्र मैं मृकण्डु वंशोत्पन्न आप दोनों परमपूज्य देववरों की प्रणति एवं प्रसन्नतापूर्वक अपने ऊपर कृपा प्राप्त करने की प्रार्थना कर रहा हूँ ॥ ३८ ॥
+        आद्य स्रष्टा हिरण्यगर्भ ब्रह्मा के त्वक् (चमड़ी) से उत्पन्न महर्षि भृगु हुए, उनके धाता विधाता नामक दो पुत्र हुए, उस धाता का पुत्र मैं मृकण्डु भृगुवंशोत्पन्न आप दोनों परमपूज्य देववरों की प्रणति एवं प्रसन्नतापूर्वक अपने ऊपर कृपा प्राप्त करने की प्रार्थना कर रहा हूँ। ३८
     translation_en:
       author: ai_translation
       text: |
-        'From the skin of the cosmic Creator Hiraṇyagarbha was born Sage Bhṛgu; to him was born Dhātā. I am Mṛkaṇḍu, the son of Dhātā. Bearing this lineage, I bow reverently before you both—the supreme spiritual preceptors—seeking to please your hearts and obtain your divine grace.'
+        "Bhṛgu was the son born from the skin of Brahmā Hiraṇyagarbha; to him was born a son named Dhātṛ (Dhātā). [As] the son of Dhātā, [with] his brother Vidhātā, I, Mṛkaṇḍu, was born; I, that same Mṛkaṇḍu by name, seek to please you two teachers and greet you." [The Hindi of the second sentence is broken as written.] (38)
     notes_en:
       author: ai_translation
       text: |
-        'From the skin of the primeval Creator Hiraṇyagarbha arose Maharṣi Bhṛgu, whose noble sons were Dhātā and Vidhātā. Born as the son of Dhātā, I, Mṛkaṇḍu, approach you—the most venerable and supreme divine preceptors—offering my humble prostrations and praying for the perpetual shower of your compassionate grace upon me.'
+        "From the skin of the first creator, Brahmā Hiraṇyagarbha, was born the great sage Bhṛgu; he had two sons named Dhātā and Vidhātā. I, Mṛkaṇḍu, son of that Dhātā, born in Bhṛgu's line, bow to you two most venerable, excellent gods and pray that I may gladly receive your grace upon me." (38)
+notes_uncertain: true
 source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude."

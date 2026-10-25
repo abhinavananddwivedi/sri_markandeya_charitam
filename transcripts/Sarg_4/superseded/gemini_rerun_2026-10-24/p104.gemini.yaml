@@ -1,0 +1,65 @@
+page_number_devanagari: "१०४"
+page_number_arabic: 104
+image: "images/pages/p104.jpg"
+verses:
+  - number: 35
+    shlok: |
+      दक्षिणां किमिह दातुमभीप्सोः
+      पुङ्गवस्य पुरुषस्य वरस्य ।
+      कन्यकाऽपि रमयेव विधेया
+      सागरेण सहसा जनकेन ॥ ३५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `दक्षिणां किमिह दातुमभीप्सोः` (११); पाद २: `पुङ्गवस्य पुरुषस्य वरस्य` (११); पाद ३: `कन्यकाऽपि रमयेव विधेया` (११, पूर्व निष्कासने `केन चाप्यथ रमेव विन्द्या` भ्रष्टं पठितम्); पाद ४: `सागरेण सहसा जनकेन` (११)। यहाँ मुनि मुद्गल दृष्टान्त देते हैं कि जैसे सागर रूपी पिता ने भगवती रमा (लक्ष्मी) का निष्काम दान किया था, वैसे ही उत्तम वर के लिए दक्षिणा की अपेक्षा न कर केवल कन्यादान ही श्रेष्ठ धर्म है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. In earlier transcriptions, line 3 was garbled as `केन चाप्यथ रमेव विन्द्या`. In the manuscript, Mudgala evokes the mythical archetype of the Ocean (Sāgara) bestowing Ramā (Goddess Lakṣmī) in marriage: what sacrificial fee (dakṣiṇā) could ever be desired or given for a supreme bridegroom? A maiden should simply be bestowed like Lakṣmī by the Ocean.
+    translation:
+      author: amanuensis
+      text: |
+        उत्तम पुरुष वर के लिये क्या दक्षिणा देने की इच्छा की जाय? सागर तुल्य पिता द्वारा कन्या भी रमा (लक्ष्मी) के समान दान करना चाहिए ॥ ३५ ॥
+    notes:
+      author: grandfather
+      text: |
+        महर्षे! अत्यन्त योग्य उत्तम वर के लिए दक्षिणा देने की क्या बातें की जायं, वह तो सदा अभेद्य ही है। जैसे उदात्त प्रकृति पिता सागर ने अपनी कन्या भगवती रमा (लक्ष्मी) का जैसे उदारतापूर्वक दान किया था, वैसे ही पिता को कन्या दान करना चाहिए। ३५
+    translation_en:
+      author: ai_translation
+      text: |
+        "What fee (dakṣiṇā) could possibly be desired to be given here for an eminent man who is a supreme groom? A maiden must simply be bestowed by her father, just as Ramā (Lakṣmī) was freely given by her father, the Ocean." (Verse 35)
+    notes_en:
+      author: ai_translation
+      text: |
+        "O revered Great Sage! What need is there to speak of giving dowry or fees for a bridegroom of such supreme worth? Such an idea is ever inappropriate. Just as the noble Ocean bestowed his daughter, the divine Goddess Lakṣmī, with unconditional magnanimity, even so should a father perform the solemn gift of his maiden (kanyā-dāna)." (35)
+  - number: 36
+    shlok: |
+      अल्पमेव सकलं दुहितृभ्यो
+      यद्ददाति मनुजः किल तस्यै ।
+      किन्तु निर्वृतिमुपेत्य विधेयो
+      सज्जनैर्वरसमाजगतैः प्राक् ॥ ३६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `अल्पमेव सकलं दुहितृभ्यो` (११); पाद २: `यद्ददाति मनुजः किल तस्यै` (११); पाद ३: `किन्तु निर्वृतिमुपेत्य विधेयो` (११); पाद ४: `सज्जनैर्वरसमाजगतैः प्राक्` (११)। यहाँ कन्यादान के आदर्श का प्रतिपादन है कि कन्या के निमित्त पिता जो कुछ भी देता है वह अल्प ही होता है, किन्तु वर पक्ष के सज्जनों को जो कुछ भी मिले उसी में पूर्ण सन्तोष (निर्वृत्ति) धारण करना चाहिए।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. Addressing the critique regarding translational fidelity: the Hindi text affirms that whatever a bride's family bestows is inherently modest, but the noble elders on the groom's side ought to remain fully contented and gratified with whatever is offered.
+    translation:
+      author: amanuensis
+      text: |
+        कन्या पक्षीय पिता मातादि मनुष्य कन्या के उद्देश्य से सब कुछ दे तो भी वह अल्प ही होता है। किन्तु वर पक्षीय सज्जनों को उसने ही देख कर तृप्ति होना चाहिए ॥ ३६ ॥
+    notes:
+      author: grandfather
+      text: |
+        कन्या पक्ष के रहने वाले माता पिता भाई बन्धुओं द्वारा कन्या के लिए उदारतापूर्वक जितना भी दिया जाता है वह सब कुछ कम ही है क्योंकि देने की कोई सीमा नहीं होती, यों ही वर पक्ष के लोगों को भी सम्मानपूर्वक उदारता से जो कुछ मिल जाय उसी से परम सन्तुष्ट एवं प्रसन्न रहना चाहिए। ३६
+    translation_en:
+      author: ai_translation
+      text: |
+        "Whatever a mortal father gives to his daughter is inherently modest; yet the noble persons belonging to the bridegroom's assembly ought primarily to maintain serene contentment (nirvṛti) with that." (Verse 36)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Whatever a bride's parents and relatives generously give on her behalf remains modest, for there is no upper bound to giving; likewise, the people on the bridegroom's side ought to remain entirely content, respectful, and joyful with whatever is offered with gracious dignity." (36)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

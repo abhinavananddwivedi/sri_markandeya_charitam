@@ -8,6 +8,10 @@ verses:
       हरित्सुशैवालपट्टाङ्कृतान्तथा ।
       पयःप्रवाहेण सुनर्त्तितामिव
       ददर्श पुष्टोन्नमितां स पद्मिनीम् ॥ ११ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Somewhere he saw a lotus plant, lovely with the humming of rows of bees, covered with a garment of green moss, as if made to dance by the stream of water, swelling and raised up. (11)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        In another tranquil reach, he beheld blossoming lotus beds echoing with the sweet melodious humming of swarming black bees, draped gracefully in emerald-green mossy shawls, swaying and dancing rhythmically to the gentle ripples of the flowing stream.
+        Somewhere he saw a blooming lotus plant, full of the lovely humming of rows of bees, covered with a garment of green moss, made to dance by the stream of water. (11)
     notes_en:
       author: ai_translation
       text: |
-        Sage Mṛkaṇḍu was enchanted by lotus groves resonating with the soft, intoxicating drone of hovering bees. Clothed in delicate, verdant aquatic moss and bowing gently under the weight of their abundant blossoms, the lotuses swayed gracefully with each undulating wave of the sacred river, appearing like celestial dancers in joyful tribute to Mother Gaṅgā.
+        Somewhere he heard rows of bees humming softly and sweetly; somewhere he also saw a row of blooming lotus plants, covered with soft green moss leaves, adorned in green garments, made to dance in various forms by the free stream of water, bending a little under the great weight of their flowers. (11)
   - number: 12
     shlok: |
       ददर्श पीठानिव कच्छपान् क्वचित्
       परञ्च मीनान् मकरान् विसर्पतः ।
       प्रवाह मध्ये शिशुमारमद्भूतं
       तथा परावृत्य निमज्जतं मुहुः ॥ १२ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Somewhere he saw turtles like wooden seats, elsewhere fish and makaras gliding, and in the middle of the stream a wonderful dolphin (śiśumāra) turning over and diving again and again. (12)
     translation:
       author: amanuensis
       text: |
@@ -41,9 +49,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        He observed massive turtles basking like wooden stools upon the sandbanks, glistening fish and crocodiles gliding effortlessly through the water, and in the deep central current, wondrous river dolphins (śiśumāra / gaṅgeya dolphins) somersaulting and leaping gracefully amidst the waves.
+        Somewhere he saw turtles like wooden seats (low stools), elsewhere fish and makaras swimming, and in the middle of the stream dolphins (śiśumāra, the sõs) turning over and diving. (12)
     notes_en:
       author: ai_translation
       text: |
-        His gaze took in the rich aquatic life of the holy river: great turtles resting motionlessly like wooden seats, shimmering shoals of fish darting alongside gliding crocodiles, and magnificent river dolphins (the ancient Śiśumāra) somersaulting, leaping, and plunging joyously in the heart of the sacred current.
+        Somewhere he saw turtles moving about like wooden seats (low stools); on the other side, large fish and large makaras swimming; and in the middle current of the great mass of water, wonderful creatures of the śiśumāra (sõs) kind, turning over and sinking and rising. (12)
 source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

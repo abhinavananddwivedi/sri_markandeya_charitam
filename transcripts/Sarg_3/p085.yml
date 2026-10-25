@@ -16,6 +16,10 @@ verses:
       author: ai_transcription
       text: |
         Paleographic / Textual Note: Lines 1–2 record Mṛkaṇḍu acknowledging his humility as an unknown aspirant receiving such extraordinary grace. Lines 3–4 express heartfelt gratitude and complete refuge at the sage's lotus feet. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "If you had had no such feeling for one like me, unknown to you, how would [my] intention reach fulfilment? Now I respectfully take refuge at your lotus feet." (50)
     translation:
       author: amanuensis
       text: |
@@ -31,7 +35,7 @@ verses:
     notes_en:
       author: ai_translation
       text: |
-        Sage Mṛkaṇḍu humbly submitted: "O Lord! If this generous, mercy-laden affection had not flowed from you toward an unfamiliar, destitute seeker such as myself, how could my desires ever have been realized? Filled with infinite gratitude, I surrender myself completely at your lotus feet and consider my life blessed and fulfilled." (50)
+        The sage Mṛkaṇḍu began to say humbly: "Lord! If you had not had this generous, compassionate feeling toward an unknown, poor person like me, how could my wishes have been fulfilled? I am wholly grateful; now, [taking refuge at] your lotus feet with my whole self, I consider myself fulfilled." (50)
   - number: 51
     shlok: |
       योऽपि मे सहचरोऽर्पितस्त्वया
@@ -46,6 +50,10 @@ verses:
       author: ai_transcription
       text: |
         Paleographic / Textual Note: In line 2, the scribal text reads `वाङ्गिरः कुलसमुद्भवो मुनिः` (the sage born of the Āṅgirasa lineage). Lines 3–4 compare the sage’s cooperative assistance to the wish-fulfilling tree (kalpavṛkṣa). Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "And the sage born of the Āṅgirasa line whom you have given me as companion will, like a wish-granting tree, having received your direction, fulfil what I seek." (51)
     translation:
       author: amanuensis
       text: |
@@ -57,9 +65,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        "And this noble sage born of the venerated Āṅgirasa gotra whom you have assigned as my companion—acting like a celestial wish-fulfilling tree (kalpavṛkṣa) under your direction—will surely fulfill all my prayers." (Verse 51)
+        "You have given me this sage, the ornament of the Āṅgirasa line, as my companion; having received your direction, he will fulfil my wish like a wish-granting tree." (51)
     notes_en:
       author: ai_translation
       text: |
-        "O great Maharṣi! This eminent ascetic born into the exalted lineage of Sage Aṅgiras, whom you have commanded to accompany and assist me, will himself—like the celestial kalpavṛkṣa following your sacred mandate—undoubtedly bring every single one of my noble aspirations to total fruition." (51)
+        "Maharṣi! The excellent sage born in the high line of the sage Āṅgirasa, whom you have also ordered to go with me to help me, will himself, like a wish-granting tree, obeying your commands, certainly fulfil all my wishes completely." (51)
 source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. This page's source markdown uses the later antigravity 'dialect B': the shlok is a fenced code block rather than a blockquote, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

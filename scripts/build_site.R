@@ -48,9 +48,9 @@ sarga_heading <- setNames(lapply(sarga_order, function(sn) {
 # ---- copy page images into docs/images/ --------------------------------
 
 for (p in pages) {
-  src <- file.path(repo_root, p$image)
-  if (file.exists(src)) {
-    file.copy(src, file.path(docs_images_dir, basename(src)), overwrite = TRUE)
+  for (img in c(p$image, unlist(p$extra_images))) {
+    src <- file.path(repo_root, img)
+    if (file.exists(src)) file.copy(src, file.path(docs_images_dir, basename(src)), overwrite = TRUE)
   }
 }
 
@@ -121,7 +121,7 @@ h2.sarga-group-heading { font-size: 1.15rem; border-bottom: 2px solid var(--rule
 .block-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 0.3rem; }
 .author-tag { font-style: normal; font-size: 0.7rem; color: var(--muted); border: 1px solid var(--rule); border-radius: 4px; padding: 0.05rem 0.4rem; margin-left: 0.4rem; }
 .source-scan { margin-top: 2rem; }
-.source-scan img { max-width: 100%; border: 1px solid var(--rule); border-radius: 4px; }
+.source-scan img { max-width: 100%; border: 1px solid var(--rule); border-radius: 4px; image-orientation: none; }
 .source-scan summary { cursor: pointer; color: var(--muted); font-size: 0.9rem; }
 .placeholder-banner { background: #fbe6e0; border: 1px solid #d98a72; color: #7a2e1c; padding: 0.6rem 1rem; border-radius: 6px; font-size: 0.9rem; margin-bottom: 1.5rem; }
 footer { margin-top: 3rem; color: var(--muted); font-size: 0.85rem; }
@@ -158,6 +158,7 @@ render_block <- function(type, text, author = NULL) {
     shlok = "block-shlok",
     translation = "block-translation",
     translation_en = "block-translation-en",
+    shlok_en = "block-translation-en",
     notes = "block-notes",
     notes_en = "block-notes-en",
     manuscript_note = "block-manuscript-note",
@@ -167,7 +168,8 @@ render_block <- function(type, text, author = NULL) {
   label <- switch(type,
     shlok = "Shlok",
     translation = "Translation",
-    translation_en = "English Translation",
+    translation_en = "English Translation (of the Hindi)",
+    shlok_en = "English Translation (of the Sanskrit)",
     notes = "Notes",
     notes_en = "English Notes",
     manuscript_note = "Manuscript Note",
@@ -187,6 +189,7 @@ render_verse <- function(v) {
     if (!is.null(v$shlok)) render_block("shlok", v$shlok, "amanuensis") else NULL,
     if (!is.null(v$manuscript_note)) render_block("manuscript_note", v$manuscript_note$text, v$manuscript_note$author) else NULL,
     if (!is.null(v$manuscript_note_en)) render_block("manuscript_note_en", v$manuscript_note_en$text, v$manuscript_note_en$author) else NULL,
+    if (!is.null(v$shlok_en)) render_block("shlok_en", v$shlok_en$text, v$shlok_en$author) else NULL,
     if (!is.null(v$translation)) render_block("translation", v$translation$text, v$translation$author) else NULL,
     if (!is.null(v$translation_en)) render_block("translation_en", v$translation_en$text, v$translation_en$author) else NULL,
     if (!is.null(v$notes)) render_block("notes", v$notes$text, v$notes$author) else NULL,
@@ -227,11 +230,14 @@ for (i in seq_along(pages)) {
   sarga_html <- if (!is.null(p$sarga)) glue('<p class="sarga">{html_escape(p$sarga)}</p>') else ""
   title_html <- if (!is.null(p$title)) glue("{html_escape(p$title)}") else "Mahakavya manuscript"
 
+  extra_imgs <- paste0(vapply(unlist(p$extra_images), function(x) glue('
+    <p class="block-label">Continuation of the notes, written on the facing sheet</p>
+    <img src="images/{basename(x)}" alt="Overflow sheet for manuscript page {html_escape(p$page_number_devanagari)}">'), character(1)), collapse = "")
   img_tag <- if (!is.null(p$image) && file.exists(file.path(repo_root, p$image))) {
     glue('
   <details class="source-scan">
     <summary>View original scanned page</summary>
-    <img src="images/{basename(p$image)}" alt="Scan of manuscript page {html_escape(p$page_number_devanagari)}">
+    <img src="images/{basename(p$image)}" alt="Scan of manuscript page {html_escape(p$page_number_devanagari)}">{extra_imgs}
   </details>')
   } else ""
 

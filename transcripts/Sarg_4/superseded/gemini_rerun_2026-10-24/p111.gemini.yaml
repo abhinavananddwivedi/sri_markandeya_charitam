@@ -1,0 +1,65 @@
+page_number_devanagari: "१११"
+page_number_arabic: 111
+image: "images/pages/p111.jpg"
+verses:
+  - number: 49
+    shlok: |
+      संसदा समुदिते तिथौ सः
+      सामग्रीं वरणतो प्रजिघाय।
+      सज्जैः सुपरिचितैः शकटैश्च
+      दाक्षिण्यद्विजवरेण सनाथैः॥ ४९॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाण्डुलिपि में पाद १ में `संसदा समुद्दिष्ट तिथौ सः` (लिपिकार द्वारा छन्दोऽनुरोधे 'समुदिते' अथवा 'संसदा समुद्दिष्टे तिथौ'), पाद २ में `सामग्रीं वरणतो प्रजिघाय` (वरणतः/वरणतो = वरण-हेतु सामग्री भेजी), पाद ३ में `सज्जैः सुपरिचितैः शकटैश्च` (सुसज्जित एवं मार्ग-परिचित शकटों द्वारा), तथा पाद ४ में स्पष्टतः `दाक्षिण्यद्विजवरेण सनाथैः` (गत पाठ के अशुद्ध 'द्विजनटेन' के स्थान पर शुद्ध 'द्विजवरेण', जैसा लिपिकार के 'दक्षिण द्विजवर से सनाथित' तथा बाबाजी की व्याख्या 'दाक्षि मुनि... के साथ भेजा' से पूर्णतः पुष्ट है)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). In pāda 1, the manuscript writes `संसदा समुद्दिष्ट तिथौ सः` (emended metrically to `समुदिते` or scanning `समुद्दिष्टे` without pause). In pāda 2, `सामग्रीं वरणतो प्रजिघाय` denotes the bridal-choosing requisites dispatched. In pāda 3, `सज्जैः सुपरिचितैः शकटैश्च` describes well-equipped, road-experienced bullock carts. In pāda 4, the earlier misreading `द्विजनटेन` is emended to the authentic `दाक्षिण्यद्विजवरेण सनाथैः`, corroborated directly by the amanuensis Hindi `दक्षिण द्विजवर से सनाथित` and the author's commentary identifying Sage Dākṣi.
+    translation:
+      author: amanuensis
+      text: |
+        संसद के द्वारा निर्दिष्ट तिथि में उन्होंने वरण की सामग्री दाक्षि द्विजवर से सनाथित राजकीय परिचारकों द्वारा गाड़ियों में भेजा॥ ४९॥
+    notes:
+      author: grandfather
+      text: |
+        विद्वन्मण्डली द्वारा पूर्व निर्धारित वर (राजतिलक) के तिथि पर वरण की सारी वस्तुयें एकत्रित करके राजकीय सम्मानित ढंग से (जैसे किसी अत्यन्त समृद्ध व्यक्ति का वरण होने जा रहा है) कई बैलगाड़ियों पर रख कर अनेक ब्रह्मविद् विप्रों के सहित दाक्षि मुनि (जो उनके सहयोगी एवं पुरोहित थे) के साथ भेजा। ४९
+    translation_en:
+      author: ai_translation
+      text: |
+        On the date appointed by the assembly, he dispatched the ceremonial materials for the bridal choosing (varaṇa) in carts, escorted by royal attendants and sanctified by the noble southern Brahmin sage Dākṣi. (Verse 49)
+    notes_en:
+      author: ai_translation
+      text: |
+        On the auspicious day previously determined by the council of learned scholars for the investiture/ceremonial choosing (varaṇa / royal coronation-style betrothal), he gathered all the ritual requisites. In a regal, honorific manner—befitting the formal honor of an exceedingly opulent personage—he loaded these materials onto several bullock carts and dispatched them in the company of numerous Brahman-knower sages, accompanied by Sage Dākṣi (his associate and family priest). (49)
+  - number: 50
+    shlok: |
+      तत्र खारिपचनं शुचि शुभ्रं
+      कांस्यंबटुलयुगं सुरुचे द्राक्।
+      किञ्च चन्द्ररुचिकंसयुगेन
+      स्थालराजमपि रजतभामित्॥ ५०॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाण्डुलिपि में पाद १ में पूर्वलिखित `क्षारपचनं` को काटकर ऊपर `खारिं` जोड़कर `तत्र खारिपचनं शुचि शुभ्रं` (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, पूर्णतः निर्दोष ११ वर्ण रथोद्धता; खारिपचनम् = एक खारी / ३२-६४ सेर अन्न पकाने योग्य विशाल पात्र), पाद २ में `कांस्यंबटुलयुगं सुरुचे द्राक्`, पाद ३ में `किञ्च चन्द्ररुचिकंसयुगेन`, तथा पाद ४ में `स्थालराजमपि रजतभामित्॥५०॥` (रजत-द्युति युक्त विशाल थाल) अंकित है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). In the manuscript, the author crossed out initial `क्षारपचनं` and wrote `खारिं` above, yielding `तत्र खारिपचनं शुचि शुभ्रं` (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`), a flawless 11-syllable Rathoddhatā line (khārī-pacana denotes an enormous vessel capable of cooking a khārī, i.e., 32-64 seers of grain). Pāda 2 specifies two bronze cauldrons (kāṁsyaṁ-baṭula-yugam); pāda 3 notes two water-serving vessels with lunar brilliance; and pāda 4 designates a massive silver-lustered platter (sthāla-rājam).
+    translation:
+      author: amanuensis
+      text: |
+        उन सामग्रियों में दूध (पकाने) के लिये काँसे की गोल बटलोई सुशोभित हो रही थी, चन्द्र के समान कान्ति वाले दो जल परोसने के जग के साथ चाँदी निर्मित थाल (परात) भी था॥ ५०॥
+    notes:
+      author: grandfather
+      text: |
+        उन सामग्रियों में एक खारिपचन (जिसमें ३२ या ६४ सेर चावल पकाया जा सकता है) बड़ा बर्तन था, जो अत्यन्त चमकीला एवं पवित्र था, उसके साथ काँसे की दो बटुलिया भी अपनी आभा बिखेर रही थी, साथ ही काँसे पीतल के बने बड़े २ दो जल वितरण के लिए पात्र चन्द्रकान्ति को भी तिरस्कृत करने वाले थे, इसी के साथ एक बड़ा विशाल चमचमाता हुआ फूल का एक थाल भी था। ५०
+    translation_en:
+      author: ai_translation
+      text: |
+        Among those materials, round bronze cooking-cauldrons (baṭloī) gleamed for boiling milk, along with two water-serving vessels radiating moon-like luster, and a large ceremonial tray (parāt) fashioned of silver. (Verse 50)
+    notes_en:
+      author: ai_translation
+      text: |
+        Among those ceremonial items was an enormous vessel designated as a khārī-pacana (a massive cooking pot capable of cooking an entire khārī, i.e., 32 to 64 seers of rice at once), which was exceptionally bright and ritually pure. Beside it, two bronze cooking pots (baṭuliyā) radiated their splendor. Additionally, there were two very large water-distribution flagons made of bell-metal and brass whose sheen eclipsed even the radiance of the moon. Alongside these was an immense, gleaming platter made of fine bell-metal alloy (phūl / bronze platter, not flower-shaped). (50)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

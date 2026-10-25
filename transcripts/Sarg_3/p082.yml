@@ -16,6 +16,10 @@ verses:
       author: ai_transcription
       text: |
         Paleographic / Textual Note: In line 1, the scribal hand writes `याहि वत्स लघु दद्दि क्षितौ` (referring to the sacred region of Dardura). Line 3 refers to Sage Mudgala giving his daughter in marriage (`निजकन्यकाम् अचिरेण`). Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Go quickly, child, to the land of Dardura; all you desire will come to be. Mudgala too will soon come to you, to give his own daughter." (44)
     translation:
       author: amanuensis
       text: |
@@ -27,11 +31,11 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        "Go swiftly, dear child, to the sacred land of Dardura; everything you have aspired for shall indeed come to pass. Sage Mudgala himself will arrive before you without delay to bestow his virtuous daughter in marriage." (Verse 44)
+        "Child! Set out quickly for Dardura; all your wishes will be fulfilled. Mudgala too will come to you very soon, to give his daughter." (44)
     notes_en:
       author: ai_translation
       text: |
-        "Beloved child! Set out immediately without delay for the region of Dardura. The moment you arrive there, all your heartfelt aspirations will be fulfilled. Moreover, to solemnize the marriage of his maiden daughter with you, Sage Mudgala will surely come and meet you forthwith." (44)
+        "Dear child! Now set out at once (quickly) for the Dardura region; as soon as you get there, all the wishes in your mind will be fulfilled; and the sage Mudgala too will certainly come at once to meet you, to have his daughter's marriage performed." (44)
   - number: 45
     shlok: |
       वाचकोऽस्म्यहमिह तव दारसंग्रहे
@@ -46,6 +50,10 @@ verses:
       author: ai_transcription
       text: |
         Paleographic / Textual Note: Line 1 uses `वाचकोऽस्मि तव दारसंग्रहे` in the technical ceremonial sense of the spiritual preceptor/coordinator who officiates the marriage declarations and auspicious astrological hour (lagna). Line 4 notes Mṛkaṇḍu's noble adherence to pravṛtti-mārga. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "I am the one here to speak [the rites] in your taking of a wife; I know the lagna (auspicious moment), full of great joy. I too have regard for you as you will be, since you go on by taking up [the path of] action." (45)
     translation:
       author: amanuensis
       text: |
@@ -57,9 +65,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        "I myself stand as the authoritative officiating preceptor (vācaka) for your sacred matrimony, knowing well the deeply joyous and auspicious planetary alignment (lagna). My profound respect goes with you, for you conduct your life in alignment with the righteous path of worldly duties (pravṛtti-mārga)." (Verse 45)
+        "In your marriage I myself am the one who speaks the marriage rite, for I know the whole lagna (auspicious timing) of this marriage. You are a follower of the path of action, so I too have regard for you." (45)
     notes_en:
       author: ai_translation
       text: |
-        "Beloved child! Having comprehended the entire astrological timing and destiny of this sacred wedding hour, I assure you that I myself stand as the spiritual officiant and coordinator (saṁyojaka / vaivāhika paṇḍita) of your forthcoming marriage. I hold your upcoming matrimony in highest esteem, because you too have chosen to live righteously in full conformity with the path of sacred domestic duties (pravṛtti-mārga)." (45)
+        "Dear child! Having understood everything from the lagna of this present time, I tell you that I myself am the officiant (the arranger, the wedding paṇḍit) of your coming marriage. I also respect your coming marriage, because you too wish to conduct yourself according to the path of action." (45)
 source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. This page's source markdown uses the later antigravity 'dialect B': the shlok is a fenced code block rather than a blockquote, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

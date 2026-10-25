@@ -16,6 +16,10 @@ verses:
       author: ai_transcription
       text: |
         Paleographic / Textual Note: In lines 3–4, the amanuensis manuscript writes `धात्ऱजस्त्वजा- / ल्लक्ष्यसे`, which metrically and semantically stands for `धात्रजस्त्वया लक्ष्यसे` or `धात्रजस्तथा लक्ष्यसे`. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Your appearance truly tells, wonderfully, all your wishes. Are you Mṛkaṇḍu, son of Dhātā? So you seem; still, tell me quickly." (32)
     translation:
       author: amanuensis
       text: |
@@ -27,11 +31,11 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        "Truly, your wondrous divine appearance itself reveals all your inner desires. Are you indeed Mṛkaṇḍu, the son of Sage Dhātā? You appear unmistakably so, yet please speak quickly and confirm." (Verse 32)
+        "Your very appearance expresses a wonderful sāttvika feeling and all your wishes. Are you Mṛkaṇḍu, son of Dhātā? Quickly say everything plainly." (32)
     notes_en:
       author: ai_translation
       text: |
-        "Beloved child! Your very form radiates a blazing, sattvic spiritual luster (tejodīpta urjasvitā), and all the heartfelt aspirations deep within you are clearly visible to us. Are you not indeed Mṛkaṇḍu, the virtuous son of Maharṣi Dhātā? Please do us the grace of stating all these matters explicitly." (32)
+        "Dear child! Your form itself shows your radiant vigour, and at the same time all the wishes in your heart are clearly visible to us. You are Mṛkaṇḍa, the good son of Maharṣi Dhātā, are you not? Please be so kind as to say all these things plainly." (32)
   - number: 33
     shlok: |
       भूतभाव्यभवदादि कालजं
@@ -46,6 +50,10 @@ verses:
       author: ai_transcription
       text: |
         Paleographic / Textual Note: Lines 3–4 intend `तान्निशम्य चकितोऽभिधाय निजान् पूर्वजान् सुचरितान् अभासत`. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        Hearing the words of this one, who grasped knowledge born of time, past, future and present, [Mṛkaṇḍu,] amazed, named himself and spoke of his ancestors and their good conduct. (33)
     translation:
       author: amanuensis
       text: |
@@ -57,9 +65,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Hearing the words of the great sage, which encapsulated omniscient knowledge across past, present, and future (trikālajñatā), Sage Mṛkaṇḍu was struck with wonder. Humbly remembering and citing the noble virtues of his venerable ancestors, he began to speak. (Verse 33)
+        Hearing his words, which gathered up knowledge of past, future and present, born of time, Mṛkaṇḍu was amazed and began to speak words befitting the virtues of his ancestors. (33)
     notes_en:
       author: ai_translation
       text: |
-        Hearing Maharṣi Parāśara speak with total omniscience of the three divisions of time (past, future, and present)—that is, experiencing the sage’s flawless trikālajñatā first-hand—Sage Mṛkaṇḍu was deeply amazed. Furthermore, hearing the exalted virtues and spiritual renown of his own ancestral lineage mentioned so intimately by the sage astonished him even further. (33)
+        The sage Mṛkaṇḍu, hearing all that Maharṣi Parāśara said through his knowledge of past, future and present (what happens in all three times), that is, through Maharṣi Parāśara's knowledge of the three times, was very amazed; and on hearing the excellent virtues and glory of his own ancestors he became more amazed still. (33)
 source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export. This page's source markdown uses the later antigravity 'dialect B': the shlok is a fenced code block rather than a blockquote, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

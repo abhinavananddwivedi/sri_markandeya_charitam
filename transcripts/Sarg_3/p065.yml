@@ -8,6 +8,10 @@ verses:
       कश्च वा मुनिवरोऽत्र जागृतः ।
       यद्दयालवलभाम्यथापि त-
       त्सम्मितेन सहसैव भूयताम् ॥ ९ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Who is the ruler of this land now? And which excellent sage is awake (eminent) here? [Gaining] whose kindness I may at once come to be at one with him." (9)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        "Who is the ruler of this territory at present? And which revered sage here is awakened in spiritual radiance? By obtaining even a small particle of whose compassionate favour might I straightway become harmonious in fellowship with him?"
+        "Who is the king of this country now? Which excellent sage is influential here? By whose kindness and favour I too may come to share his views." (9)
     notes_en:
       author: ai_translation
       text: |
-        "Now I shall ascertain who is the king of this region, and who among the eminent, spiritually awakened ascetics stands preeminent here—so that through proximity to him and receiving even a fraction of his grace, I may establish myself as his noble associate."
+        "Now let me see who is the lord (king) of this region, and who is the best among the very awake, influential sages of this area, in whose company I may obtain even a particle of his favour and become settled as his associate." (9)
   - number: 10
     shlok: |
       एवमादि सुबहून्मनोरथाँ
       श्चेतसा परिसमीक्ष्य निर्वृतः ।
       श्रान्तिमात्मनि पथा निवेदिता-
       न्निद्रया समुपनेतुमुद्यतः ॥ १० ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having surveyed in his mind these and very many other wishes, he was content, and set about removing through sleep the weariness the road had laid on him. (10)
     translation:
       author: amanuensis
       text: |
@@ -41,9 +49,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Having surveyed in his mind very many such heartfelt aspirations, he felt deeply serene; and to dispel the weariness wrought upon his limbs by the long road, he prepared to welcome sleep.
+        Having thus looked over many wishes in his mind, he was happy. He got ready to remove through sleep the tiredness in him caused by walking the road. (10)
     notes_en:
       author: ai_translation
       text: |
-        Reflecting upon these manifold inner visions and ideals, the sage experienced immense inner joy and tranquility in his heart. Having journeyed continuously alongside his sacred cow across great distances, he felt deep bodily fatigue and serenely yielded to sound sleep to dissolve all tiredness.
+        Thinking in this way about various imaginings and wishes in his mind, he felt very glad inwardly, became happy and found peace. Feeling very tired from walking constantly with the cow along the road, he fell into a calm sleep to remove his tiredness through deep sleep. (10)
 source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

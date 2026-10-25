@@ -1,0 +1,65 @@
+page_number_devanagari: "९६"
+page_number_arabic: 96
+image: "images/pages/p096.jpg"
+verses:
+  - number: 19
+    shlok: |
+      सम्मतोऽपि लघूना सम्भवेन
+      सज्जनेषु गुणगौरवशाली ।
+      जात एव स जनाग्रिः किल तत्र
+      दर्दरक्षितिरजैरनुगीतः ॥ १९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `सम्मतोऽपि लघूना सम्भवेन` (११, छन्दोऽनुरोधेन `लघूना` अथवा `लघुना सम्भवेन`); पाद २: `सज्जनेषु गुणगौरवशाली` (११); पाद ३: `जात एव स जनाग्रिः किल तत्र` (११); पाद ४: `दर्दरक्षितिरजैरनुगीतः` (११)। पूर्व निष्कासन में `सुयशोरहलीना`, `बभूविह` और `जनरङ्गेऽत्र` जैसे विकृत व भ्रान्त पाठ लिखे गए थे, जिन्हें हस्तलेख के प्रत्यक्ष परीक्षण द्वारा शुद्ध किया गया है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. In earlier transcriptions, `सुयशोरहलीना`, `बभूविह`, and `जनरङ्गेऽत्र` were corrupted readings. The manuscript clearly reads `सम्मतोऽपि लघूना सम्भवेन` (or `लघुना सम्भवेन`), describing how Mṛkaṇḍu, despite having arrived with humble beginnings and in a short span of time, became renowned among noble people for the majesty of his virtues, with his goodness sung by the inhabitants and rulers of the Dardura realm.
+    translation:
+      author: amanuensis
+      text: |
+        अल्प समय मे ही ये ऋषि सज्जनों में गुणगौरवशाली माने गये। दर्दुर क्षेत्र में पहुँचते ही भलाई का गान लोगों ने किया ॥ १९ ॥
+    notes:
+      author: grandfather
+      text: |
+        यद्यपि मुनि मृकण्डु को यहाँ आये अभी बहुत कम दिन हुए थे किन्तु अपने उदात्त गुणों, व्यवस्थाओं एवं उदात्त स्वाभाविकताओं के कारण स्थानीय लोगों में उनकी गुणवत्ता की अपूर्व छाप पड़ी जिससे वे दर्दुर क्षेत्र के सभी श्रेष्ठ उत्तम जनों में श्रेष्ठ माने जाने लगे और उनकी यशस्विता चारों ओर फैल गई। १९
+    translation_en:
+      author: ai_translation
+      text: |
+        Though respected despite his humble origin (and recent arrival), rich in the dignity of virtues among noble persons, he became indeed the foremost of men there, celebrated in song by the kings and inhabitants of the Dardura region. (Verse 19)
+    notes_en:
+      author: ai_translation
+      text: |
+        Although it had been only a few days since Sage Mṛkaṇḍu arrived here, owing to his exalted virtues, disciplined arrangements, and noble disposition, an extraordinary impression of his excellence was cast upon the local inhabitants; consequently, he came to be regarded as the foremost among all the virtuous elders of the Dardura realm, and his renown spread in every direction. (19)
+  - number: 20
+    shlok: |
+      तस्य दिक्षु च विदिक्षु सुकीर्ति-
+      -र्द्वागतन्यत महर्षिवरस्य ।
+      तस्य योगमथ चाप्यवगतानां
+      ब्रह्मवित्तमसमुदयोऽपि पुनीताम् ॥ २० ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `तस्य दिक्षु च विदिक्षु सुकीर्ति-` (११); पाद २: `र्द्वागतन्यत महर्षिवरस्य` (११, हस्तलेखे `द्रागतन्यत महर्षिवरस्य`, उपरि `परासर सूनु` प्रक्षिप्त/परित्यक्त); पाद ३: `तस्य योगमथ चाप्यवगतानां` (११); पाद ४: `ब्रह्मवित्तमसमुदयोऽपि पुनीताम्` (११, अथवा `पुनानाम्`)। पूर्व निष्कासन में `द्रागतन्द्यत` और `ब्रह्मवित्तमसुचयोऽपि` जैसे भ्रष्ट पाठ थे, जिन्हें यहाँ विशुद्ध रूप से संकलित किया गया है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. In line 2, `द्रागतन्यत महर्षिवरस्य` (11 syllables) describes the swift dissemination of his fame (`द्राक् प्रततान`); the marginal/interlinear insertion `परासर सूनु` was struck out/superseded. In line 4, `पुनीताम्` / `पुनानाम्` qualifies the assembly of purest Knowers of Brahman gathering to witness his yogic discipline.
+    translation:
+      author: amanuensis
+      text: |
+        उस महात्मा मृकण्डु की कीर्ति शीघ्र ही दिशाए-विदिशायें में फैल गयी। उस आश्रम में अभ्यागत मुनियों के भीतर ब्रह्मवेत्ता का विचार सभी भी हुआ ॥ २० ॥
+    notes:
+      author: grandfather
+      text: |
+        थोड़े ही दिनों में महर्षि मृकण्डु की उदात्त कीर्ति सभी दिशाओं विदिशाओं में व्याप्त हो गई, उनकी सुकीर्ति से प्रभावित होकर बहुतेरे महर्षियों जो सांसारिकता से अलग हट कर अपना आरण्यक जीवन बिताते हैं उनका भी समूह महर्षि मृकण्डु के आश्रम पर जुटने लगा। २०
+    translation_en:
+      author: ai_translation
+      text: |
+        The fair renown of that foremost among great sages spread swiftly across the cardinal and intermediate directions; and having come to know of his yogic discipline, an assembly of the foremost knowers of Brahman, holy and pure, gathered there as well. (Verse 20)
+    notes_en:
+      author: ai_translation
+      text: |
+        Within a few days, the noble renown of Sage Mṛkaṇḍu permeated all cardinal and intermediate directions; drawn by his sacred fame, groups of numerous sages who lived a secluded forest-dwelling (āraṇyaka) life detached from worldly concerns also began assembling at Sage Mṛkaṇḍu's hermitage. (20)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

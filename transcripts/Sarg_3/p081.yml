@@ -16,6 +16,10 @@ verses:
       author: ai_transcription
       text: |
         Paleographic / Textual Note: The verse extols the traditional spiritual power of exalted brāhmaṇas whose mere mental resolve (saṅkalpa) prompts the righteous subjects of Bhāratavarṣa to supply whatever is needed. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Excellent brahmins, here, whatever they desire in their minds attains fulfilment; by this the people of Bhārata here eagerly do it, to bring it to you." (42)
     translation:
       author: amanuensis
       text: |
@@ -27,11 +31,11 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        "Whatever the most exalted brāhmaṇas cherish in their minds attains immediate fruition in this sacred realm. Therefore, the devoted people of this land of Bhārata will eagerly bring forth and present all necessary offerings unto you." (Verse 42)
+        "There is power of fulfilment in the speech of brahmins; whatever you have wished in your mind, all the people of Bhārata will bring before you." (42)
     notes_en:
       author: ai_translation
       text: |
-        "The speech and intentions of noble, magnanimous, foremost brāhmaṇas are inherently fulfilled (siddha). Whatever objects or arrangements they mentally envision, the devoted populace inhabiting this sacred territory voluntarily and joyfully provides. It has forever been the unique glory of the people of Bhāratavarṣa that, by the mere mental conception of holy brāhmaṇas, all their sacred undertakings are spontaneously brought to complete fulfillment." (42)
+        "The speech of generous, high-minded, excellent brahmins is fulfilled of itself; whatever things they imagine in their minds, the people living in this land provide them of their own accord. It has been the special quality of the people of this land of Bhāratavarṣa that, at the mere imagining of brahmins, all the work they hold dear is completed of itself." (42)
   - number: 43
     shlok: |
       यावती च खलु भूमिरपेक्ष्यते
@@ -46,6 +50,10 @@ verses:
       author: ai_transcription
       text: |
         Paleographic / Textual Note: Line 4 clearly reads `तानि ते समुपढौकयिष्यति` [shall reverently present unto you]. Meter: Rathoddhatā [– ⏑ – | ⏑ ⏑ ⏑ | – ⏑ – | ⏑ –]
+    shlok_en:
+      author: ai_translation
+      text: |
+        "As much land as is needed, and whatever implements [are needed] now, the people who follow my direction will bring them to you." (43)
     translation:
       author: amanuensis
       text: |

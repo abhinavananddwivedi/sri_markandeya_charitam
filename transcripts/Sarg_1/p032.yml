@@ -4,42 +4,71 @@ image: "images/pages/p032.jpg"
 verses:
   - number: 63
     shlok: |
-      इति करकुसुमानि न्यस्य पाशप्रवाहे
+      इति करकुसुमानि न्यस्य पाथःप्रवाहे
       शिरसि धृतकराग्रो जानुसंस्पृष्टभूमिः ।
-      नुतिमथ भगवत्याश्चेतसा चोद्धि बुद्ध्या
-      मुनिवर उमयत्के साधु पश्चाञ्चकार ॥ ६३ ॥
+      नुतिमथ भगवत्याश्चेतसा [unclear: चाऽऽर्द्र]बुद्ध्या
+      मुनिवर उपचक्रे साधु पञ्चाङ्गयुक्ताम् ॥ ६३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: मालिनी (चारों पाद शुद्ध)। पाद ३ का "चाऽऽर्द्र" अनिश्चित है (अक्षर "चाऽऽद्रि" जैसे दिखते हैं)। पूर्व पाठ "पाशप्रवाहे / … चोद्धि बुद्ध्या / मुनिवर उमयत्के साधु पश्चाञ्चकार" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Mālinī (all four pādas scan). In pāda 3, "चाऽऽर्द्र" is uncertain (the letters look like "चाऽऽद्रि"). The earlier reading ("पाशप्रवाहे / … चोद्धि बुद्ध्या / मुनिवर उमयत्के साधु पश्चाञ्चकार") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having thus placed the flowers from his hands in the flowing water, holding his fingertips to his head, his knees touching the ground, the excellent sage then duly offered the goddess a praise complete in its five limbs, with his mind and [unclear: tender] understanding. (63)
     translation:
       author: amanuensis
       text: |
-        हाथ में रखे फूलों को जलप्रवाह में अञ्चल विन्यस्त तथा रखकर पृथ्वी पर दोनों जानुओं को सटाकर मुनिवर मृकण्डु ने भगवती गङ्गा की पञ्चाङ्ग पूर्व स्तुति चित्त तथा बुद्धि से की ॥ ६३ ॥
+        हाथ में रखे फूलों को जलप्रवाह में डालकर शिर पर हाथ रखकर पृथ्वी पर दोनों जानुओं को सटाकर मुनिवर मृकण्डु ने भगवती गङ्गा की पञ्चाङ्ग पूर्ण स्तुति चित्त तथा बुद्धि से की ॥ ६३ ॥
     notes:
       author: grandfather
       text: |
-        इस प्रकार महामुनि मृकण्डु ने अपने दोनों घुटनों को भूमिसात् कर दोनों हाथों में रखे हुए पुष्पाञ्जलि को भगवती माता गङ्गा के परम पावन शतद्रु सदृश जल राशि में प्रवाहित कर दोनों हाथों को शिर पर धारण कर परमाध्या माता गङ्गा की पूजन पूर्वक स्तुति पूर्ण किया ॥ ६३ ॥
+        इस प्रकार महामुनि मृकण्डु ने अपने दोनों घुटनों को भूमिसात् कर दोनों हाथों में रखे हुए पुष्पाञ्जलि को भगवती माता गङ्गा के परम पावन [unclear] सदृश जल राशि में प्रवाहित कर दोनों हाथों को शिर पर धारण कर परमाराध्या माता गङ्गा की पूजनपूर्वक स्तुति पूर्ण किया। ६३
     translation_en:
       author: ai_translation
       text: |
-        Having thus offered the floral tributes resting in his hands into the sacred currents of the river, placing his folded hands reverently upon his head and kneeling with both knees touching the earth, the foremost of sages, Mṛkaṇḍu, brought his heartfelt, five-limbed hymn of praise (pañcāṅga-stuti) unto Mother Gaṅgā to a devout and blissful conclusion.
+        Putting the flowers held in his hands into the stream of water, placing his hands on his head and pressing both knees to the earth, the excellent sage Mṛkaṇḍu offered the goddess Gaṅgā a praise complete in its five limbs, with mind and intellect. (63)
     notes_en:
       author: ai_translation
       text: |
-        In this manner, Mahāṛṣi Mṛkaṇḍu knelt upon the sacred ground, releasing his floral offerings into the sanctifying, nectarine waters of Mother Gaṅgā. With joined hands resting upon his brow in profound reverence, he concluded the devout worship and prayer of the supreme Mother of the cosmos with an elevated heart and awakened intellect.
+        Thus the great sage Mṛkaṇḍu, bringing both knees to the ground, let the handful of flowers in his two hands flow into the most holy, [unclear]-like waters of Mother Gaṅgā, placed both hands on his head, and completed the worship and praise of the most adorable Mother Gaṅgā. (63)
   - number: "64-66"
     shlok: |
-      श्री चन्द्रभूषणसुधो सुतकेन बच्चू-रामस्य पोत्रसुभगेन नंव गुणाढ्यम् ।
-      संगुम्फितं सुमनसो मनसां ध्रुवयुग्ममानम्य तेन हि शिवस्य सुशिष्यकेण ॥
-      धानेश्वरी हृदयजेन शिवार्चकेन विद्वज्जनार्चन रता धरणीधरेण ।
-      काव्यं सुमङ्गलमयं सुप्रवृत्तिपूर्णं शाश्वत्सदा विजयतां शिवयोः प्रसादात् ॥
-      दीर्घजीविन्चरितामृतकाव्ये सद्भिजोचितसदाचरणाढ्ये ।
-      खण्ड एवं प्रथमो ऽयमभिधायो व्यत्यगादिह महेशकृपातः ॥ ६४-६५-६६ ॥
-
-      इति श्री मार्कण्डेय चरितम् - प्रथमः सर्गः समाप्तः
+      श्रीचन्द्रभूषणसुधीसुतकेन बच्चू-
+      रामस्य पौत्रसुभगेन नवंगुणाढ्यम् ।
+      संगुम्फितं सुमनसां मनसाऽङ्घ्रियुग्म-
+      मानम्य तेन हि शिवस्य सुशिष्यकेण ॥ ६४ ॥
+      धानेश्वरीहृदयजेन शिवार्चकेन
+      विद्वज्जनार्चनरता धरणीधरेण ।
+      काव्यं सुमङ्गलमयं सुप्रवृत्तिपूर्णं
+      शश्वत् समा विजयतां शिवयोः प्रसादात् ॥ ६५ ॥
+      दीर्घजीविचरितामृतकाव्ये
+      सद्द्विजोचितसदाचरणाढ्ये ।
+      [unclear: सर्ग एष प्रथमोऽयमभिधेयो]
+      व्यत्यगादिह महेशकृपातः ॥ ६६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: श्लोक ६४–६५ वसन्ततिलका, श्लोक ६६ स्वागता। पाण्डुलिपि में तीनों श्लोक लम्बी पंक्तियों में लिखे हैं; यहाँ पादों में विभक्त (पृष्ठ ११८ के समान)। श्लोक ६६ का तीसरा पाद अनिश्चित है: "सर्ग एष प्रथमोऽयमभिधेयो" लिखा है ("प्रथमो" रेखांकित, ऊपर पंक्तियों के बीच एक अस्पष्ट संशोधन), और यह पाठ स्वागता में नहीं बैठता। चौथा पाद "व्यत्यगादिह महेशकृपातः" शुद्ध है। पृष्ठ पर संस्कृत "इति … सर्गः समाप्तः" पुष्पिका-वाक्य नहीं है; पूर्व पाठ में वह जोड़ा गया था, अब हटाया गया।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: verses 64–65 Vasantatilakā, verse 66 Svāgatā. The manuscript writes the three verses in long lines; they are divided into pādas here (as on page 118). The third pāda of verse 66 is uncertain: it is written "सर्ग एष प्रथमोऽयमभिधेयो" ("प्रथमो" underlined, with an unclear interlinear correction above), and this reading does not scan as Svāgatā. The fourth pāda, "व्यत्यगादिह महेशकृपातः", scans. The page has no Sanskrit "इति … सर्गः समाप्तः" rubric; the earlier transcript had added one, and it has been removed.
+    shlok_en:
+      author: ai_translation
+      text: |
+        (64) By the son of the wise Śrī Candrabhūṣaṇa, the fortunate grandson of Baccū Rāma, this [poem], rich in the nine virtues, was woven, after bowing in his mind to the feet of the good-hearted, by that good disciple of Śiva. (65) By Dharaṇīdhara, born of the heart of Dhāneśvarī, worshipper of Śiva, devoted to honouring the learned: may this poem, full of auspiciousness and good purpose, be victorious for endless years by the grace of Śiva and Pārvatī. (66) In the poem "The Nectar of the Life of the Long-Lived", rich in the good conduct proper to good brahmins, [unclear: this first canto, so called,] has here come to its close by the grace of Maheśa.
     translation:
       author: amanuensis
       text: |
-        श्री विद्वद्वरेण्य चन्द्रभूषण के पुत्र, श्री बच्छूराम के पोत्र देवी धानेश्वरी गर्भ जन्मा श्रीपण्डित शिव प्रसाद के सुशिष्य शिव तथा विद्वज्जनपूजक धरणीधर रचित देवों एवं विद्वानों के चरणयुगलों को प्रणाम कर धरणीधर रचित सुप्रवृत्तिपूर्ण मङ्गलमय यह महाकाव्य शिवपार्वती की कृपा से बहुवर्ष पर्यन्त विजयशील हो। सद्भिजोचित सदाचरण लभ्यन दीर्घजीवी मार्कण्डेय चरितामृत इस महाकाव्य में महेश भगवान् की कृपा से यह प्रथम उपनाम्यक सर्ग पूर्ण हुआ ॥ ६४-६५-६६ ॥
+        श्री विद्वद्वरेण्य चन्द्रभूषण के पुत्र, श्री बच्चूराम के पौत्र देवी धानेश्वरी गर्भ जन्मा श्रीपण्डित शिव प्रसाद के सुशिष्य शिव तथा विद्वज्जनपूजक देवों एवं विद्वानों के चरणयुगलों को प्रणाम कर धरणीधर रचित सुप्रवृत्तिपूर्ण मङ्गलमय यह महाकाव्य शिवपार्वती की कृपा से बहुवर्ष पर्यन्त विजयशील हो। सद्द्विजोचित सदाचरणसम्पन्न दीर्घजीवी मार्कण्डेय चरितामृत इस महाकाव्य में महेश भगवान् की कृपा से यह प्रथम [unclear: अनुनामक] सर्ग पूर्ण हुआ ॥ ६४-६५-६६ ॥
     translation_en:
       author: ai_translation
       text: |
-        Composed by Dharaṇīdhara—the devoted worshipper of Lord Śiva and lover of wise scholars; the son of the eminent scholar Paṇḍita Candra-bhūṣaṇa; the auspicious grandson of Śrī Bacchū-rāma; born from the womb of Devī Dhāneśvarī; and the worthy disciple of revered Paṇḍita Śiva Prasāda—after bowing in deep humility before the lotus feet of the divine gods and enlightened seers: May this auspicious Mahākāvya, richly imbued with the noble ideals of the Pravṛtti Mārga, triumph eternally across the ages by the divine grace of Lord Śiva and Mother Pārvatī! Thus concludes the First Canto of the immortal epic Dīrghajīvi-caritāmṛtam (The Nectarine Life of the Immortal Sage Mārkaṇḍeya), celebrating the exalted conduct of the righteous, by the supreme benevolence of Lord Maheśvara.
-source: "Transcribed via Google Lens by the user (2026-08-21) from a 2026-08-12 reshoot; structural cross-check against the scan done by Claude. Filename of the source dump (sri_markandeya_caritam_page_31_verses_63-66.md) says \"page_31\" but its own header and content are for handwritten page 32, per the user's stated verse mapping. Verses 64-66 are grouped as a single closing colophon verse, as the source itself headers them (\"श्लोक ६४-६६ (सर्ग समापन श्लोक)\"). The closing rubric line (इति श्री मार्कण्डेय चरितम् - प्रथमः सर्गः समाप्तः) is appended to the shlok text as the scribal close-of-canto marker. Images/pages/p032.jpg regenerated from the 2026-08-12 reshoot."
+        Composed by Dharaṇīdhara, son of the learned and excellent Śrī Candrabhūṣaṇa, grandson of Śrī Baccūrāma, born of the womb of the goddess Dhāneśvarī, good disciple of Śrī Paṇḍita Śiva Prasāda, honourer of Śiva and of the learned: having bowed to the pairs of feet of the gods and the learned, may this auspicious mahākāvya, full of good purpose, be victorious for many years by the grace of Śiva and Pārvatī. In this mahākāvya, "The Nectar of the Life of the Long-Lived Mārkaṇḍeya", rich in the good conduct proper to good brahmins, this first [unclear] canto is complete by the grace of Lord Maheśa. (64–66) [In the manuscript the words "धरणीधर रचित" first written after "विद्वज्जनपूजक" are struck out.]
+notes_uncertain: true
+source: "Transcribed via Google Lens by the user (2026-08-21) from a 2026-08-12 reshoot; structural cross-check against the scan done by Claude. Filename of the source dump (sri_markandeya_caritam_page_31_verses_63-66.md) says \"page_31\" but its own header and content are for handwritten page 32. Verses 64-66 are grouped as a single closing colophon verse, as the manuscript numbers them (६४-६५-६६). 2026-10-25: re-read by Claude from the scan; the Sanskrit rubric \"इति श्री मार्कण्डेय चरितम् - प्रथमः सर्गः समाप्तः\" formerly appended to the shlok is not on the page and was removed (page 118 likewise has none). Images/pages/p032.jpg regenerated from the 2026-08-12 reshoot."

@@ -1,0 +1,74 @@
+page_number_devanagari: "९०"
+page_number_arabic: 90
+image: "images/pages/p090.jpg"
+verses:
+  - number: 7
+    shlok: |
+      ध्यातमात्र इह भानुबिम्बतो
+      भास्करः समुदभूत् [unclear: सुमतो]ऽस्य ।
+      वास्तुभूमिमुपदिश्य [unclear: सतैव]
+      स्वाधिकारकरणाय तिरोऽभूत् ॥ ७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: पाद २-४ स्वागता; पाद १ का अन्त ("भानुबिम्बतो") रथोद्धता के अनुरूप है। पाद २ का अन्त "सु[म/स]तोऽस्य" और पाद ३ का अन्त "सतैव" अस्पष्ट हैं। पाद ४ "तिरोऽभूत्" है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: pādas 2–4 Svāgatā; the end of pāda 1 ("भानुबिम्बतो") fits Rathoddhatā. The end of pāda 2, "सु[म/स]तोऽस्य", and of pāda 3, "सतैव", are unclear. Pāda 4 ends "तिरोऽभूत्".
+    shlok_en:
+      author: ai_translation
+      text: |
+        As soon as he meditated on him here, Bhāskara (the Sun) came forth from the solar disc, [unclear: well-disposed] to him; having pointed out the building site [unclear], he vanished to attend to his own office. (7)
+    translation:
+      author: amanuensis
+      text: |
+        सूर्य होने की इच्छा से उन्होंने ध्यान लगाया तो मुनि के सन्तोष हो सूर्य प्रकट हुए। वास्तुभूमि को [unclear: अंकित] करके स्वाधिकार पूर्ण करने को कहकर भगवान् भास्कर तिरोहित हो गये ॥ ७ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्ड द्वारा वास्तु संरचना के लिए सर्वप्रथम भगवान् भास्कर का स्मरण किया गया, अपने ध्यान-भावित भगवान् सूर्य अपनी अतिशय मण्डल किरणों के साथ स्वयं प्रकट हो गये, और तुरन्त उन्हें वास्तु योग्य भूमि का निदर्शन कर (बतलाकर) अपने दैनन्दिन लौकिक कार्य (सृष्टि सञ्चालन) के लिए पुनः तिरोहित हो गये। ७
+    translation_en:
+      author: ai_translation
+      text: |
+        He meditated with the wish "to become the Sun" [as written; probably meaning "to have sight of the Sun"], and to the sage's satisfaction the Sun appeared. Having [unclear: marked out] the building site and told him to carry out his own task, Lord Bhāskara vanished. (7)
+    notes_en:
+      author: ai_translation
+      text: |
+        For the building work, Sage Mṛkaṇḍa first called Lord Bhāskara to mind. The Lord Sun, contemplated in his meditation, appeared in person with his intense circle of rays. At once he showed him the land fit for building (told him of it), and vanished again to his daily worldly work (running the creation). (7)
+  - number: 8
+    shlok: |
+      पूजिते च शुभवास्तुनि विप्रै-
+      रभ्रिखातसुखनित्रपिटादीन् ।
+      सम्बभार स महर्षिर्धनिकेभ्यः
+      काष्ठसञ्चयसुवंशमयानि ॥ ८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद ३ "स महर्षिर्" में एक वर्ण अधिक है (१२ वर्ण); छन्द "स मुनिर्" की अपेक्षा करता है। पाद २ "रभ्रिखात..." (अभ्रि = खोदने का उपकरण, पिट = टोकरी)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 3 "स महर्षिर्" has one syllable too many (12); the metre expects "स मुनिर्". Pāda 2 reads "रभ्रिखात..." (abhri, a digging tool; piṭa, a basket).
+    shlok_en:
+      author: ai_translation
+      text: |
+        When the brahmins had worshipped the auspicious building site, the great sage gathered from the wealthy spades for digging pits, good digging tools, baskets and the like, and stores of timber and good bamboo. (8)
+    translation:
+      author: amanuensis
+      text: |
+        विप्रों द्वारा शुभवास्तु की पूजा किये जाने पर गड्ढा खोदने के लिये कुदाल मिट्टी फेंकने के लिये टोकरी सुकाष्ठसञ्चय बाँसादि की सामग्री महात्मा मृकण्डु ने धनिकों से एकत्रित किया था ॥ ८ ॥
+    notes:
+      author: grandfather
+      text: |
+        पूज्य [unclear: षडङ्गी] ब्राह्मणों द्वारा ऋषि मृकण्ड के भवन निर्माण के लिए की गई वास्तु भूमि की सविधि पूजा आदि मौलिक कार्य सम्पादित हो जाने के बाद मुनि मृकण्ड ने स्थानीय समृद्ध लोगों के यहाँ से नींव खोदने के लिए कुदाल खनती (लोह निर्मित) पियारी (खाँची) विविध प्रयोग योग्य काठ की बल्लियाँ, बाँस की बनी गृहोपयोगी विविध वस्तुयें आदि सभी एकत्रित कीं। ८
+    translation_en:
+      author: ai_translation
+      text: |
+        When the brahmins had worshipped the auspicious building site, the great soul Mṛkaṇḍu gathered from the wealthy a spade for digging pits, baskets for throwing out earth, a store of good timber, bamboo and other materials. (8)
+    notes_en:
+      author: ai_translation
+      text: |
+        After the venerable [unclear: ṣaḍaṅgī, "versed in the six limbs"] brahmins had completed the basic work, such as the proper worship of the building site for Sage Mṛkaṇḍa's house, Sage Mṛkaṇḍa gathered from the homes of prosperous local people a spade for digging the foundation, a khantī (made of iron), a piyārī (a khā̃cī, a basket), timber beams fit for various uses, various household articles made of bamboo, and so on. (8)
+notes_uncertain: true
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

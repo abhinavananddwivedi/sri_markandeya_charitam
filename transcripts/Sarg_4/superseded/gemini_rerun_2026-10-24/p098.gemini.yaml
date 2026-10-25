@@ -1,0 +1,65 @@
+page_number_devanagari: "९८"
+page_number_arabic: 98
+image: "images/pages/p098.jpg"
+verses:
+  - number: 23
+    shlok: |
+      तेन सार्धमभिगम्य विनीतः
+      प्रार्थनातिशयमत्र चिकीर्षुः ।
+      मार्गजानपदवर्धितचेताः
+      प्रह्वतं मुनिमृकण्डुमुवाच ॥ २३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `तेन सार्धमभिगम्य विनीतः` (११); पाद २: `प्रार्थनातिशयमत्र चिकीर्षुः` (११, हस्तलेखे `प्रार्थनातिशयमत्र`, पूर्व निष्कासने `मन्त्र` अशुद्ध पठितम्); पाद ३: `मार्गजानपदवर्धितचेताः` (११); पाद ४: `प्रह्वतं मुनिमृकण्डुमुवाच` (११, हस्तलेखे `प्रह्लुतं` अथवा `प्रह्वस्तं`, लिपिकारप्रमादवशात् `प्रह्लुतं` लिखितम्; साधुपाठस्तु `प्रह्वस्तं मुनिमृकण्डुमुवाच`)। यहाँ मुनिवर मुद्गल के सान्निध्य में आकर विनम्रतापूर्वक प्रार्थना करने का वर्णन है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. In line 2, the manuscript clearly has `प्रार्थनातिशयमत्र चिकीर्षुः` (earlier misread as `मन्त्र`). In line 4, `प्रह्लुतं` in the manuscript represents scribal corruption for `प्रह्वस्तं मुनिमृकण्डुमुवाच` (Mudgala bowed humbly and spoke to Sage Mṛkaṇḍu).
+    translation:
+      author: amanuensis
+      text: |
+        अतिशय प्रार्थना करने की इच्छा वाले उनके साथ जाकर जनपद के मार्ग में प्रफुल्लित चित्त वाले मुद्गल मुनि ने मुनिवर मृकण्डु से कहा ॥ २३ ॥
+    notes:
+      author: grandfather
+      text: |
+        अत्यन्त विनयशील मुनि मुद्गल अपने सहचरों के साथ चलते हुए अपनी कन्या के विवाह के लिए विनीत भाव से अनुनय विनय करने की अभिलाषा से आ रहे थे, उन्हें रास्ते में विविध जनपदों से होते हुए जाना पड़ रहा था सर्वत्र मुनि मृकण्डु की सिद्धियों विभूतियों की कथा सुनते हुए उनके आश्रम में पहुँच कर मुनि मृकण्डु को पाकर उनके प्रति कृतज्ञता ज्ञापन किया। २३
+    translation_en:
+      author: ai_translation
+      text: |
+        Approaching in his company, humble and earnest in his desire to make a fervent supplication, his spirit uplifted by what he heard across the realms along his path, he bowed low and addressed Sage Mṛkaṇḍu. (Verse 23)
+    notes_en:
+      author: ai_translation
+      text: |
+        The supremely courteous Sage Mudgala, journeying alongside his companions with the humble aspiration of proposing the marriage of his daughter, had to traverse various realms along the way; hearing everywhere the accounts of Sage Mṛkaṇḍu's spiritual accomplishments and divine splendour, upon arriving at his hermitage and meeting Sage Mṛkaṇḍu, he expressed his deep reverence and gratitude. (23)
+  - number: 24
+    shlok: |
+      स्नातकं समुपसृत्य भवन्तं
+      पाणिपीडनमहं तनयायाः ।
+      कर्तुमागत इहास्मि मुनीन्द्र
+      स्वीकुरुष्व हि मया क्रियमाणाम् ॥ २४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `स्नातकं समुपसृत्य भवन्तं` (११); पाद २: `पाणिपीडनमहं तनयायाः` (११, हस्तलेखे `पाणिपीडनमवेत्य नतायाः / पाणिपीडनमहं तनयायाः`); पाद ३: `कर्तुमागत इहास्मि मुनीन्द्र` (११, हस्तलेखे लिपिकारस्य पाठः `कर्तुमागत भवान्हि मुनीन्द्र` यत् व्याकरणविरुद्धमासीत्; अनुवाद एवं टीका के अनुसार मुद्गल स्वयं कन्यादानार्थ उपस्थित हुए हैं, अतः `कर्तुमागत इहास्मि मुनीन्द्र` छन्द एवं अर्थ दोनों के अनुकूल है); पाद ४: `स्वीकुरुष्व हि मया क्रियमाणाम्` (११, हस्तलेखे `स्वीकुरुष्व हि मया क्रियमाणाम् / भवता करणीयाम्`)। पूर्व निष्कासन के भ्रष्ट पाठ `योजियाऽहमभिनन्दनयायाः` को निरस्त कर शुद्ध पाठ स्थापित किया गया है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. The manuscript scribal error `कर्तुमागत भवान्हि` (which was grammatically distorted) and corrupt earlier readings like `योजियाऽहमभिनन्दनयायाः` have been resolved. Mudgala is addressing Mṛkaṇḍu, who is a snātaka (celibate scholar who has completed studies but not yet married), proposing that Mṛkaṇḍu accept the hand of his daughter in marriage.
+    translation:
+      author: amanuensis
+      text: |
+        आपको स्नातक सुनकर मैं अपनी कन्या के विवाहार्थ यहाँ आया हूँ। मुनिवर! विवाहार्थ आये हुए मुझे जानकर आप स्वीकृति प्रदान करें ॥ २४ ॥
+    notes:
+      author: grandfather
+      text: |
+        हे मुनिपुङ्गव! मैंने सुना है अभी आप स्नातक (अविवाहित) हैं, मैं अपनी कन्या का विवाह करने की अभिलाषा से आया हुआ हूँ, ऐसा आप समझें, मैं आपसे विवाह करने की स्वीकृति चाहता हूँ, विश्वास है आप अवश्य स्वीकार करेंगे। २४
+    translation_en:
+      author: ai_translation
+      text: |
+        "Having approached you, knowing you to be a celibate scholar (snātaka), I have come here, O foremost of sages, to perform the marriage (pāṇipīḍana) of my daughter; please grant your acceptance to this proposal made by me." (Verse 24)
+    notes_en:
+      author: ai_translation
+      text: |
+        "O exalted Sage! I have heard that you are currently a snātaka (an unmarried scholar who has completed Vedic vows); know that I have arrived with the heartfelt desire to perform the marriage of my daughter. I seek your gracious consent for this union, confident that you will surely accept." (24)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

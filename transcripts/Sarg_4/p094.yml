@@ -1,0 +1,74 @@
+page_number_devanagari: "९४"
+page_number_arabic: 94
+image: "images/pages/p094.jpg"
+verses:
+  - number: 15
+    shlok: |
+      खादिरे मुशलमाशु पलाश-
+      काष्ठजन्यमुदुलूखलयुक्तम् ।
+      तत्र चारुतरतण्डुलकार्ये
+      सत्कलिञ्जमसावपि स्वर्पम् ॥ १५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता (पूर्व निष्कासनों का "अनुष्टुप्" वर्गीकरण भ्रान्त था; यह श्लोक भी स्वागता में है)। पाद १ "खादिरे" (हस्तलेख); व्याकरण से "खादिरं" अपेक्षित। पाद ४ "सत्कलिञ्जमसावपि स्वर्पम्" — "कलिञ्ज" (चटाई/सूप) का पाठ कुछ अस्पष्ट है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. The earlier exports classified this verse as Anuṣṭubh, which was wrong; it is also Svāgatā. Pāda 1 has "खादिरे" (manuscript); grammar expects "खादिरं". Pāda 4 "सत्कलिञ्जमसावपि स्वर्पम्": the reading "कलिञ्ज" (a mat or winnowing basket) is somewhat unclear.
+    shlok_en:
+      author: ai_translation
+      text: |
+        A pestle of khadira wood, and with it a mortar made of palāśa wood; and for the work of very fine rice, he also provided a good winnowing basket. (15)
+    translation:
+      author: amanuensis
+      text: |
+        खैर की लकड़ी निर्मित मुशल पलाश काष्ठ निर्मित ओखली, बहुत सुन्दर चावल प्रदर्श, चावल को साफ करने का साधन शूर्प भी एकत्रित कर लिया ॥ १५ ॥
+    notes:
+      author: grandfather
+      text: |
+        इन्होंने खैर वृक्ष की सुदृढ़ शाखा का मुसल तथा पलाश के उत्तम काष्ठ की ओखली का निर्माण कराया। उसमें हवनादि कार्य सम्पादन के लिए शालिधान्य का उत्तमोत्तम स्वच्छ धवल चावल बनाने के लिए सफाई करने के लिए अच्छे सूप की भी व्यवस्था की। १५
+    translation_en:
+      author: ai_translation
+      text: |
+        He also gathered a pestle made of khair wood, a mortar made of palāśa wood, very fine rice [unclear: "प्रदर्श"], and a winnowing basket, the tool for cleaning rice. (15)
+    notes_en:
+      author: ai_translation
+      text: |
+        He had a pestle made from a strong branch of the khair tree and a mortar of fine palāśa wood. For the fire offerings and other rites, he also arranged a good winnowing basket for cleaning śāli paddy and making the finest clean white rice. (15)
+  - number: 16
+    shlok: |
+      वारुणेन रचिते प्रणीता-
+      प्रोक्षणी युगलके स्रुवयुक्ते ।
+      सज्जुहूविलसिते त्वरणी द्वे
+      सच्छमीचलदलेन कृते च ॥ १६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद १ में १० वर्ण हैं (हस्तलेख के अनुसार; एक वर्ण छूटा प्रतीत होता है)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 1 has 10 syllables (as written; a syllable seems to be missing).
+    shlok_en:
+      author: ai_translation
+      text: |
+        The pair of praṇītā and prokṣaṇī vessels made of varuṇa wood, with sruva ladles and a fine juhū; and the two araṇi fire-sticks made of good śamī and of the pīpal (cala-dala). (16)
+    translation:
+      author: amanuensis
+      text: |
+        वारुण काष्ठ (औदुम्बर) रचित प्रणीता तथा प्रोक्षणी पात्र दो स्रुवों के साथ, सुन्दर जुहू से सुशोभित शमी तथा पीपल काष्ठ निर्मित अरणी मन्था भी एकत्रित कर लिये ॥ १६ ॥
+    notes:
+      author: grandfather
+      text: |
+        वैदिक शास्त्रानुमोदित वरुण वृक्ष जिसे हिन्दी में 'वरना' कहते हैं (कोई उसे उदुम्बर गूलर का पर्याय भी मानते हैं) के द्वारा बनायी गई हुई यज्ञीय कार्य सम्पादनार्थ प्रणीता, प्रोक्षणी दो स्रुवों (जुहू) से युक्त शमी और पीपल वृक्ष से निर्मित अग्नि मन्थन के लिए अरणि की भी व्यवस्था की। १६
+    translation_en:
+      author: ai_translation
+      text: |
+        He also gathered the praṇītā and prokṣaṇī vessels made of vāruṇa wood (udumbara) with two sruva ladles, and, adorned with a fine juhū ladle, the araṇi churning sticks made of śamī and pīpal wood. (16)
+    notes_en:
+      author: ai_translation
+      text: |
+        He arranged, for performing the sacrificial rites, the praṇītā and prokṣaṇī vessels made from the varuṇa tree approved by the Vedic scriptures, which in Hindi is called "varnā" (some also regard it as a synonym of udumbara, the gūlar); two sruva ladles (juhū); and araṇi sticks made of śamī and pīpal for kindling fire by friction. (16)
+notes_uncertain: true
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

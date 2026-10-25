@@ -8,6 +8,10 @@ verses:
       पृष्ठतो विपरिवर्त्य हस्तयोः ।
       पाणिपादप्रथमोद्भवं तथा
       नासिकाग्रपरिलोकने रतान् ॥ २२ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        [He saw] some seated in the lotus posture, their hands turned behind their backs [holding the toes], and [others] intent on gazing at the tip of the nose. [Line 3 is imperfectly transcribed.] (22)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        He observed certain yogis seated in the bound lotus posture (baddha-padmāsana), who, crossing their hands behind the back to hold the big toes of both feet, remained intently focused with unbroken concentration upon the tip of their nose (nāsikāgra-dṛṣṭi).
+        He saw some seated in the lotus posture, turning their hands behind them and holding their big toes, carefully intent on looking at the tip of the nose. (22)
     notes_en:
       author: ai_translation
       text: |
-        Here he witnessed ascetics seated in the lotus pose, and some who had brought both arms behind their backs to grasp the big toes of both feet with careful precision, maintaining steady mindfulness while fixing their unblinking gaze solely upon the tip of the nose.
+        Here he saw some people doing the lotus posture, and some taking both hands behind the back, holding the big toes of both feet with both hands, and, carefully and attentively, looking only at the tip of the nose. (22)
   - number: 23
     shlok: |
       बद्धलम्बकमलासनान् क्वचित्
       कुक्कुटासनपरांस्तथापरान् ।
       दोर्दण्डासनगतांस्ततोऽन्यतो
       बर्हिणासनगतान्मुनींस्तथा ॥ २३ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        In one place [he saw sages] in the bound, extended lotus posture, others intent on the cock posture, others in the arm-staff posture, and others again in the peacock posture. (23)
     translation:
       author: amanuensis
       text: |
@@ -45,5 +53,5 @@ verses:
     notes_en:
       author: ai_translation
       text: |
-        He beheld with deep admiration diverse hermits engaged in rigorous yogic asanas: some sitting motionless in prolonged lotus postures, some practicing kukkuṭāsana, others balancing in dordaṇḍāsana, and yet others performing the peacock pose (mayūrāsana).
+        With wonder he saw various sages, in one place doing the long lotus posture, in another practising the cock posture, in another the arm-staff posture, and in another the peacock posture. (23)
 source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

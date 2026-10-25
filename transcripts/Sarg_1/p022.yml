@@ -4,46 +4,71 @@ image: "images/pages/p022.jpg"
 verses:
   - number: 43
     shlok: |
-      क्रियास्वेव कुर्वन्त्येवमेव तद्वत्
-      त्सन्नाम्नि तस्य गतिः सुनिश्चिता ।
-      क्रियात्मक स्वाभावो ह्यस्य देशस्य
-      विना किञ्चित्कोऽपि तिष्ठेद्विधाव ॥ ४३ ॥
+      क्रियाश्च कुर्वन् परमेश्वरेऽर्पये-
+      त्सनातनी तस्य गतिः सुनिश्चिता ।
+      क्रियात्मकस्यास्य हि दायरूपकः [unclear]
+      विना च तां कः क्षणमत्र तिष्ठति ॥ ४३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पाद ३ का उत्तरार्ध ("हि दायरूपकः") अधिलिखित और अनिश्चित है; हिन्दी ("इस क्रियात्मक का यही अधिकार है") और टिप्पणी ("दायित्व") के आधार पर पढ़ा गया। पूर्व पाठ "क्रियास्वेव कुर्वन्त्येवमेव तद्वत् / त्सन्नाम्नि… / क्रियात्मक स्वाभावो ह्यस्य देशस्य / विना किञ्चित्कोऽपि तिष्ठेद्विधाव" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). The second half of pāda 3 ("हि दायरूपकः") is overwritten and uncertain; it is read with the help of the Hindi ("this is the right of what is of the nature of action") and the note ("दायित्व", duty). The earlier reading ("क्रियास्वेव कुर्वन्त्येवमेव तद्वत् / त्सन्नाम्नि… / क्रियात्मक स्वाभावो ह्यस्य देशस्य / विना किञ्चित्कोऽपि तिष्ठेद्विधाव") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Doing your works, offer them to the Supreme Lord; the eternal goal of one who does so is assured. This is the [unclear: birthright] of what is of the nature of action; for without it, who here stays even for a moment?" (43)
     translation:
       author: amanuensis
       text: |
-        शुभकर्म करते हुए ईश्वर को अर्पित करो, ऐसे कर्म करने वालों की प्रगति सुनिश्चित होती है। इस क्रियात्मक का ही आदि रूप है, क्योंकि बिना क्रिया के इस संसार में कौन क्षणभर रह सकता है ॥ ४३ ॥
+        शुभकर्म करते हुए परमेश्वर को अर्पित करो, ऐसे करने वालों की सनातनी गति सुनिश्चित होती है। इस क्रियात्मक का यही अधिकार है, क्योंकि बिना क्रिया किये इस संसार में कौन क्षण भर रहता है ॥ ४३ ॥
     notes:
       author: grandfather
       text: |
-        प्रिय वत्स! जीवन में निरन्तर शुभकर्म करते हुए उसे सदा ईश्वरार्पण करते रहो क्योंकि यह विधिसम्मत निर्धारित नियम है। इस प्रकार की जीवन-क्रियाशीलता का तो आधार ही (दाखिल) है, क्योंकि बिना किसी क्रिया के क्षण भर भी क्या कोई रह सकता है? ॥ ४३ ॥
+        प्रिय वत्स! जीवन में निरन्तर शुभ कर्म करते हुए उसे सदा ईश्वरार्पण करते रहो क्योंकि यह सार्वकालिक प्राकृत नियम है जो विधिसम्मत निर्धारित है, इस प्रकार की नित्य क्रियाशीलता का तो आधार ही (दायित्व) है, क्योंकि बिना किसी क्रिया के क्षण भर भी क्या कोई रह सकता है? ४३
     translation_en:
       author: ai_translation
       text: |
-        'Engaging ceaselessly in auspicious works, offer all actions unto the Supreme Divine. The spiritual progress of one who acts in this spirit of dedication is assured. Dynamic action is the foundational nature of this mortal realm; for who can remain even for a moment without performing action?'
+        "Doing good deeds, offer them to the Supreme Lord; the eternal goal of those who act thus is assured. This is the very right of what is of the nature of action; for without doing action, who stays in this world even for a moment?" (43)
     notes_en:
       author: ai_translation
       text: |
-        'Dear child! Continuously perform righteous actions throughout life, dedicating every deed to God; for this is the cosmic law established by the scriptures. Such active dynamic living is the very foundation of existence—for can any embodied being remain inactive even for a single moment?'
+        "Dear child! Constantly doing good deeds in life, always keep offering them to God, for this is a natural law for all time, laid down by rule. This kind of constant activity is indeed the very basis (a duty); for can anyone remain even for a moment without some action?" (43)
   - number: 44
     shlok: |
-      निवृत्तिमार्गीय गुरुता तथा सुदुर्गतिः
-      किं विदिताहित समादरस्तथा ।
-      च पूर्णकामानां-
-      र्माऽसक्तेः कर्मसु पश्य कौतुकम् ॥ ४४ ॥
+      निवृत्तिमार्गस्य दुरूहता तथा
+      सुदुर्गतिः किं विदिताऽस्ति नावयोः ।
+      समादरस्तत्र च पूर्णकामयो-
+      रसक्तयोः कर्मसु पश्य कौतुकम् ॥ ४४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। "आवयोः" (हम दोनों को) — नर-नारायण स्वयं के विषय में बोल रहे हैं। पूर्व पाठ "निवृत्तिमार्गीय गुरुता तथा सुदुर्गतिः / किं विदिताहित समादरस्तथा / च पूर्णकामानां- / र्माऽसक्तेः…" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). "आवयोः" ("to us two"): Nara and Nārāyaṇa are speaking of themselves. The earlier reading ("निवृत्तिमार्गीय गुरुता तथा सुदुर्गतिः / किं विदिताहित समादरस्तथा / च पूर्णकामानां- / र्माऽसक्तेः…") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Are the hardness of the path of renunciation and its grave misfortune unknown to us two? And yet see the wonder: the honour there of us two, whose desires are fulfilled and who are unattached in our actions." (44)
     translation:
       author: amanuensis
       text: |
-        निवृत्तिमार्ग की कठिनता तथा सुदुर्गति क्या हमें मालूम नहीं? मालूम है। किन्तु कर्म में असक्त पूर्णकाम वालों का जग में समादर होता है, यह कौतुक देखो ॥ ४४ ॥
+        निवृत्तिमार्ग की कठिनता तथा सुदुर्गतिता क्या हमें मालूम नहीं? मालूम है। किन्तु कर्म में असक्त पूर्णकाम वालों का वहाँ समादर होता है, यह कौतुक देखो ॥ ४४ ॥
     notes:
       author: grandfather
       text: |
-        प्रियवत्स! अब तुम संसार से विरत होकर निवृत्ति मार्ग का अवलम्बन करने वालों की निखिल कठिनाइयों तथा काल से होने वाली अनेकविध दुर्दशाओं, दुर्गतियों की ओर ध्यान दो, क्या उन बातों का ज्ञान हमें नहीं है? निवृत्ति मार्ग में निरत (रहने वाले किन्तु असक्त-भावना से सांसारिक कार्यों में संलग्न होते हुए भी पूर्णकाम (कर्मफल त्यागक) साधक-प्रवृत्ति सहस्रों का समाज में अतिशय समादर नहीं होता? यह लौकिक आश्चर्यपूर्ण कौतुक (उत्कण्ठा) क्या स्पष्ट नहीं दीखती! ॥ ४४ ॥
+        चिरञ्जीवक! अब तुम संसार से विरक्त होकर निवृत्ति मार्ग का अनुसरण करने वालों की विविध कठिनाइयों तथा उस कारण होने वाली अनेकविध दुर्दशाओं, दुर्गतियों की ओर ध्यान दो, क्या उन शारीरिक यंत्रणाओं द्वारा आत्मा का उत्पीडन नहीं किया जाता? यह बात सही है? प्रवृत्ति मार्ग में निरन्तर रहने वाले किन्तु असक्त भावना से सांसारिक कार्यों में संलग्न होते हुए भी पूर्णकाम (कर्मफल त्यागने वाली प्रवृत्ति) सद्गृहस्थों का समाज में अतिशय समादर नहीं होता? यह लौकिक आश्चर्यपूर्ण कौतुक (उत्कण्ठा) क्या स्पष्ट नहीं दीखती? ४४
     translation_en:
       author: ai_translation
       text: |
-        'Are we not well aware of the immense severity, hardships, and perils encountered on the path of total renunciation (Nivṛtti Mārga)? Indeed, we know them. Yet observe this wondrous marvel: those who remain unattached while performing duty with desireless perfection (Pūrṇa-kāma) are honored and revered by all the world.'
+        "Do we not know the hardness and the grave misfortune of the path of renunciation? We know them. But see this wonder: those who are unattached in action and whose desires are fulfilled are honoured there." (44)
     notes_en:
       author: ai_translation
       text: |
-        'Dear son! Reflect upon the severe hardships and untimely falls suffered by those who prematurely embrace the path of ascetic withdrawal (Nivṛtti Mārga)—are we not fully cognizant of these pitfalls? In contrast, consider those noble seekers who, remaining in the world, perform their righteous duties without attachment and surrender all fruits to the Divine (Pūrṇa-kāma): are they not universally revered and celebrated by society? Witness how wondrous and elevated is the path of detached, selfless righteous action (Pravṛtti Mārga)!'
+        "Long-lived one! Now consider the many hardships of those who turn away from the world and follow the path of renunciation, and the manifold sufferings and misfortunes that come of it: is the soul not tormented by those bodily torments? Is this not so? Are not good householders, who remain always on the path of active life (pravṛtti) and, though engaged in worldly work, do it with unattached feeling and are fulfilled in desire (disposed to give up the fruits of action), greatly honoured in society? Is this wonderful worldly marvel (eagerness) not plain to see?" (44)
+notes_uncertain: true
 source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude."

@@ -1,0 +1,65 @@
+page_number_devanagari: "९२"
+page_number_arabic: 92
+image: "images/pages/p092.jpg"
+verses:
+  - number: 11
+    shlok: |
+      तत्र चारुचरणेषु धृतासु
+      स्थापिता दृढतरं च वलभ्यः ।
+      किञ्च चारुपटलेषु समन्ताद्
+      वेश्म तद् रुचिरतामभिपदे ॥ ११ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `तत्र चारुचरणेषु धृतासु` (११); पाद २: `स्थापिता दृढतरं च वलभ्यः` (११); पाद ३: `किञ्च चारुपटलेषु समन्ताद्` (११); पाद ४: `वेश्म तद् रुचिरतामभिपदे` (११)। पाद २ में पाण्डुलिपि का मूल एवं स्पष्ट पाठ `वलभ्यः` (बल्भियाँ/बहलियाँ = छत की धरन/शहतीर) है, जिसे पूर्व निष्कासन में अशुद्ध रूप से `सुवल्मिकाः` (बाँबी) पढ़ा गया था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. Line 2 reads `स्थापिता दृढतरं च वलभ्यः` (valabhyaḥ = crossbeams/rafters), correcting the earlier hallucinated reading `सुवल्मिकाः`.
+    translation:
+      author: amanuensis
+      text: |
+        चारों सुन्दर चरणियों पर स्थापित वलभियों सुशोभित होने लगीं और चारों बरामदों में भवन सुशोभित हो उठा ॥ ११ ॥
+    notes:
+      author: grandfather
+      text: |
+        उन पक्की दीवारों के ऊपर अच्छी पुष्ट बल्भी (धन्नी) (घरसे) रखी गईं, उनके सुरक्षा के लिए अनेकों वलभी (बहलियाँ) भी सुन्दर ढंग से रखी गईं, साथ ही ऊपर सुन्दर वेने हुए सभी पटलों से युक्त सुन्दर भवन बनकर तैयार हो गया जिसे देखकर सभी लोग उसकी भूरि २ प्रशंसा करते नहीं अघाते। ११
+    translation_en:
+      author: ai_translation
+      text: |
+        The rafters established firmly upon the four beautiful pillars looked magnificent, and with pleasant roofs all around, the mansion shone with radiant charm. (Verse 11)
+    notes_en:
+      author: ai_translation
+      text: |
+        Upon those brick walls, strong and solid tie-beams were positioned, and for their stability and support, multiple secondary rafters were arranged handsomely; together with the thatched eaves skillfully layered above, a beautiful residence was completed, beholding which people could not tire of praising it immensely. (11)
+  - number: 12
+    shlok: |
+      प्रागलिन्दमतिशोभमतीत्य
+      वर्धुलाक्ष समसोमकलावत् ।
+      कुण्ड मेखलयुतं व्यपतिष्ठत्
+      सोऽग्निहोत्रगृह मन्त्रचकार ॥ १२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (वर्ण-संख्या: ११)। पाद १: `प्रागलिन्दमतिशोभमतीत्य` (११); पाद २: `वर्धुलाक्ष समसोमकलावत्` (११); पाद ३: `कुण्ड मेखलयुतं व्यपतिष्ठत्` (११); पाद ४: `सोऽग्निहोत्रगृह मन्त्रचकार` (११)। यहाँ अलिन्द (ड्योढ़ी/दहलीज) के आगे पूर्ण चन्द्रमा की कला के समान गोल (वर्तुलाकार) मेखलायुक्त हवन कुण्ड एवं अग्निहोत्र-शाला के निर्माण का वर्णन है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (11 syllables per pāda). Line 2 describes a circular sacrificial hearth (vardhulākṣa) shaped like the orb of the full moon (samasomakalāvat), surrounded by ritual tiers/steps (mekhalayutam) for Agnihotra offerings.
+    translation:
+      author: amanuensis
+      text: |
+        महर्षि मृकण्डु ने अलिन्द की शोभा को पार कर चन्द्रकलावत् वर्तुलाकार कारीगरों से मेखलायुक्त कुण्ड तथा अग्निहोत्र गृह का निर्माण कराया ॥ १२ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्ड ने उस नव्य भव्य भवन की ड्योढ़ी, देहली (दरवाजे के आगे भीतर प्रवेश करने की जगह) को पार करने पर अत्यन्त पूर्ण चन्द्रमा की गोल आकृति के समान गोल आकार वाला तेजोदीप्त कुण्ड निर्माण के साथ मेखला त्रिविध पीठिका से युक्त उत्तम अग्निहोत्र करने के योग्य घर का निर्माण कराया। १२
+    translation_en:
+      author: ai_translation
+      text: |
+        Passing beyond the beauty of the vestibule, Maharṣi Mṛkaṇḍu had artisans construct a sacrificial hearth fashioned round like the digit of the moon with stepped tiers, as well as an Agnihotra chamber. (Verse 12)
+    notes_en:
+      author: ai_translation
+      text: |
+        Beyond the threshold and outer veranda of that magnificent new dwelling, Sage Mṛkaṇḍu caused to be built an Agnihotra chamber equipped with an effulgent sacrificial altar fashioned in a circular form like the full moon, complete with a three-tiered platform (mekhalā). (12)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

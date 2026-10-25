@@ -8,6 +8,10 @@ verses:
       न्न दृष्टिरिष्टे व्यवधानमुच्छति ।
       समीक्षिते त्वाऽद्भुतदर्शने मुने !
       मनः स्थितं सत्स्वरुजां न जिहासति ॥ २५ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Joy at honouring you does not fit in my small body, nor does my sight accept any interruption of [this] beloved [vision]; O sage, now that your wonderful form has been seen, my mind, settled among the good, does not want to let go." [Line 4 partly unclear.] (25)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        'O Venerable Sage! The ecstasy born of worshipping you cannot be contained within my modest mortal frame; nor does my gaze wish to endure even a moment’s interruption in beholding you, my cherished deity! My soul, immersed in pure spiritual bliss upon your wondrous sight, refuses to turn away.'
+        "Excellent sage! The joy born of honouring you cannot fit into my small body, nor does my sight want any interruption in seeing the one I hold dear. My mind, delighting in a sāttvika feeling, does not want to let go quickly of this wonderful sight of you." (25)
     notes_en:
       author: ai_translation
       text: |
-        'O Holy Brahmacārī! Today, receiving an extraordinary, luminescent guest like you, my frail physical frame cannot contain the boundless joy overflowing in my heart. Having attained the unprompted darśana of one so dearly sought, my eyes refuse to blink or turn away for even a second. The deep spiritual yearning in my soul finds complete fulfillment in your radiant presence.'
+        "O brahmacārī! Today, having found an unprecedented brahmacārī like you, who is a wonder, joy cannot fit into this small body of mine. My gaze does not want to turn away even for a moment from the sight of so greatly desired a person as you, who came of your own accord. The intense longing to see an unprecedented person like you (the eagerness in me) does not want to give up its haste (to grow calm)." (25)
   - number: 26
     shlok: |
       अधीतविद्योऽसि त्वया समर्चितं सताम्
       किमद्य ते ज्ञानगुरो गुरुः सताम् ।
       निवृत्तिरिष्येत समावृतौ मनः
       स्फुटं मुने ! प्रश्नमिमं निराकुरु ॥ २६ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "You have completed your studies; what have you resolved today, O teacher of knowledge, teacher of the good? Does your mind wish for renunciation, or for return home (samāvartana)? O sage, clearly settle this question." (26)
     translation:
       author: amanuensis
       text: |
@@ -41,9 +49,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        'You have mastered all sacred branches of knowledge, O teacher of the wise! What course have you resolved upon today? Does your mind incline toward total monastic renunciation (Nivṛtti), or have you completed your student graduation (Samāvartana) to embrace the duties of a householder? Pray resolve this question clearly for me, O Great Sage!'
+        "Excellent sage! Teacher of knowledge, you are the teacher of the good: what have you resolved (decided) today? Does your mind want renunciation, or is it set on samāvartana? Please give a clear answer to my questions." (26)
     notes_en:
       author: ai_translation
       text: |
-        'O foremost among the enlightened! You have thoroughly mastered all sacred lore and sciences. Having completed your rigorous Vedic studies, what is the chosen path of your soul? Do you seek the solitude of complete renunciation (Nivṛtti Mārga), or do you intend to enter the sacred householder’s life (Gṛhastha Āśrama)? I humbly pray that you graciously clarify this for me.'
+        "Best of the wise! Excellent teacher even of the good! You have studied all branches of learning thoroughly; having completed your study, what is your intention (need) today? Do you want to withdraw from worldly enjoyments? Or do you want to complete samāvartana and follow the householder's dharma? Please accept my request to answer these questions of mine clearly." (26)
 source: "Transcribed via antigravity by the user (2026-08-25) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

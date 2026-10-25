@@ -5,54 +5,70 @@ verses:
   - number: 55
     shlok: |
       विलीनभावं सुविलोक्य शम्भुना
-      धृता मुधैव जटायन साम्प्रतम् ।
-      हतारथिनी तव पुनन्न स्वरूपा
-      तदार्द्रमूर्ति र्भवती प्रदृश्यते ॥ ५५ ॥
+      धृतस्य मूर्ध्ना विनयेन साम्प्रतम् ।
+      स्वरूपिणी तस्य पुनः स्वरूपदा
+      तदार्द्रमूर्तिर्भवती प्रदृश्यते ॥ ५५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। श्लोक-संख्या के पहले "स्य" लिखा है (सम्भवतः असावधानी)। पूर्व पाठ "धृता मुधैव जटायन… / हतारथिनी तव पुनन्न स्वरूपा" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). "स्य" is written before the verse number (probably a slip). The earlier reading ("धृता मुधैव जटायन… / हतारथिनी तव पुनन्न स्वरूपा") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Seeing the melted state of him whom Śambhu now humbly bore on his head, you, bearing his form and again bestowing his form, are seen as its melting form." (55)
     translation:
       author: amanuensis
       text: |
-        भगवान् शिव द्वारा नियमपूर्वक सिर पर धारण किये जाने से सम्प्रति अपने विलीनभाव को देखकर आप पुनः कारुण्य-दयार्द्रमूर्ति दिखाई देती हैं ॥ ५५ ॥
+        भगवान् शिव द्वारा विनयपूर्वक शिर से धारण किये जाने से सम्प्रति अपने विलीनभाव को देखकर आप पुनः यथानुरूप शिवस्वरूपदायिनी - विष्णुरूपदायिनी रूपवाली हो गईं अतः आप दयार्द्रमूर्ति दिखाई देती हैं ॥ ५५ ॥
     notes:
       author: grandfather
       text: |
-        वहाँ आपको भगवान् शिव द्वारा अतिशय प्रियतापूर्वक अपने सिर पर धारण किया गया, जिससे आपका विलीनभाव/अहम् दूर हुआ। फिर पुनः आप विश्वकल्याणकारिणी होकर सांसारिक प्राणियों को शिवप्रद सुख/आनन्द प्रदान करने के लिए इस भूतल पर प्रवाहित होती हुई इस प्रकार के स्वरूप के प्रत्यक्ष दर्शन दे रही हैं ॥ ५५ ॥
+        वहाँ आपको भगवान् शिव द्वारा अतिशय विनम्रतापूर्वक अपने शिर पर धारण किया गया, जिससे आपका स्वरूप अदृश्य हो गया, किन्तु पुनः आप विश्वकल्याणकारिणी होकर सांसारिक प्राणियों को शिव विष्णु स्वरूप प्रदान की अभिलाषा से आप दयार्द्र स्वरूप जलमयी होकर इस गङ्गा के स्वरूप में प्रत्यक्ष दर्शन दे रही हैं। ५५
     translation_en:
       author: ai_translation
       text: |
-        Beholding Your surrendered devotion, Lord Śambhu lovingly received and contained You within His matted locks, dispelling all pride. Thence emerging anew as the sanctifier of the universe, You flow down to bestow auspicious liberation upon mortal beings as the living form of compassion.
+        "Because Lord Śiva humbly holds you on his head, seeing now your melted state, you have again taken a form that, as befits, bestows the form of Śiva and the form of Viṣṇu; therefore you appear as the form melting with compassion." (55)
     notes_en:
       author: ai_translation
       text: |
-        In that celestial moment, Lord Śiva lovingly held You upon His crest, thereby melting away any lingering pride of torrential descent. Thence You emerged as the supreme redeemer of the world, flowing upon this earthly plane to bestow auspicious bliss (śiva-sukha) and peace upon worldly souls—visible to all as the tangible embodiment of divine mercy.
+        "There Lord Śiva, with great humility, held you on his head, so that your form became invisible. But again, becoming the bringer of welfare to the world, wishing to grant worldly creatures the form of Śiva and Viṣṇu, you, made of water and tender with compassion, give direct sight of yourself in the form of this Gaṅgā." (55)
   - number: 56
     shlok: |
-      अतिक्षमी यज्जगतो हिताय
-      शिवात्म विष्णोररीय शक्तिदर्जिता ।
-      धृता स्तनु भ्यामधुनाऽनुकम्पिता
-      तदार्द्रमूर्ति र्भवती प्रदृश्यते ॥ ५६ ॥
+      अतिद्रवी यज्जगतो हिताय
+      शिवस्य विष्णोरपि शक्तिरूर्जिता ।
+      शिरस्तनुभ्यामनुलालिता चिरं
+      तदार्द्रमूर्तिर्भवती प्रदृश्यते ॥ ५६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद १ में ११ ही अक्षर हैं (एक अक्षर छूटा प्रतीत होता है); पाण्डुलिपि यथावत्। पाद २ "शक्तिरूर्जिता" (हिन्दी: "उर्जित (वर्द्धित)")। पूर्व पाठ "अतिक्षमी / शिवात्म विष्णोररीय शक्तिदर्जिता / धृता स्तनु भ्यामधुनाऽनुकम्पिता" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. Pāda 1 has only eleven syllables (one seems to have dropped out); it is kept as written. Pāda 2 reads "शक्तिरूर्जिता" (the Hindi has "उर्जित (वर्द्धित)", "strengthened (increased)"). The earlier reading ("अतिक्षमी / शिवात्म विष्णोररीय शक्तिदर्जिता / धृता स्तनु भ्यामधुनाऽनुकम्पिता") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "The exceedingly fluid power of Śiva and of Viṣṇu, strengthened for the good of the world and long cherished by [Śiva's] head and [Viṣṇu's] body: you are seen as its melting form." (56)
     translation:
       author: amanuensis
       text: |
-        संसार-हितार्थ शिव-विष्णु की अतिक्षमी शक्ति अर्जित हुई। भगवान् शिव ने सिर पर धारण कर नियतकाल लालित किया और भगवान् विष्णु ने चरणों में रखकर लालित किया, अतः अब आप दयामूर्ति दिखाई देती हैं ॥ ५६ ॥
+        संसार-हितार्थ शिव-विष्णु की अतिद्रवी शक्ति उर्जित (वर्द्धित) हुई। भगवान् शिव ने शिर पर धारण कर चिरकाल तक लालित किया और भगवान् विष्णु ने चरणों में चिरकाल तक धारण कर लालित किया अत एव आप दयार्द्रमूर्ति आप दिखाई देती हैं ॥ ५६ ॥
     notes:
       author: grandfather
       text: |
-        निखिल विश्व-कल्याण सम्पादन हेतु जो अतिशय सहिष्णुता/क्षमा-शक्ति (जो विश्व में किसी के पास नहीं) उस ज्ञानदायी देवी देवनदी को भगवान् शिव ने अपने मस्तक पर धारण किया, तथा भगवान् विष्णु ने अपने श्रीचरणों में स्थान दिया, उन्हीं दोनों की ऊर्जा/अनुकम्पायुक्त (क्षमाशिणी) स्वरूपिणी प्रत्यक्ष दया-मूर्ति स्वरूप पुञ्ज रूपधारिणी स्वयं दिखाई दे रही हैं ॥ ५६ ॥
+        विश्व कल्याण सम्पादन हेतु जो अतिशय द्रवशील शक्ति सम्पन्न (जो विश्व में किसी के पास नहीं) उस परम्परा भगवती देवी देवधुनी को भगवान् शिव ने [unclear] अपने शिर पर तथा भगवान् विष्णु ने अपने शरीर में धारण किया, उन्हीं दोनों की ऊर्जामयी तेजःपुञ्ज स्वरूपिणी द्रवस्वरूपा भगवती गङ्गा आप प्रत्यक्ष दयामूर्तिस्वरूप स्वयं दिखाई दे रही हैं। ५६
     translation_en:
       author: ai_translation
       text: |
-        For the supreme welfare of the world, You gathered the boundless forbearance of both Śiva and Viṣṇu. Cherished upon the crest of Lord Śiva and nurtured at the lotus feet of Lord Viṣṇu, You now manifest visibly as the condensed embodiment of grace and forgiveness.
+        "For the good of the world, the exceedingly fluid power of Śiva and Viṣṇu was strengthened (increased). Lord Śiva held it on his head and cherished it for a long time, and Lord Viṣṇu held it at his feet for a long time and cherished it; therefore you appear as the form melting with compassion." (56)
     notes_en:
       author: ai_translation
       text: |
-        To accomplish universal redemption, You were endowed with an all-forgiving, infinite endurance possessed by none other in the cosmos. Lord Śiva held You with reverence upon His head, while Lord Viṣṇu sanctified You at His lotus feet. Imbued with the combined energy, grace, and compassion of both supreme deities, You shine visibly before us as the living embodiment of cosmic pardon and unconditional love.
-  - number: 57
-    notes:
-      author: grandfather
-      text: |
-        जल का पान न कर अपनी देवी महनीय यशस्विता का विनाश क्यों कर रहे हैं? जिससे आपकी यथा-मलिनता विश्व में व्याप्त हो रही है। अहो! अभी क्या बिगड़ा है? अहो! अभी आप तत्काल अत्यन्त शीघ्रतापूर्वक गङ्गाजल पान कर सद्यः मुक्ति-फल प्राप्त करें एवं सतत भगवती गङ्गा के प्रति निष्ठावान् बने रहें, यही गङ्गा-महिमा का सुसंदेश है ॥ ५७ ॥
-    notes_en:
-      author: ai_translation
-      text: |
-        Why do mortals allow their inner spiritual purity to decay by failing to partake of this celestial nectar, allowing worldly impurities to overpower their lives? Behold! Nothing is lost yet—partake instantly of the sacred waters of Mother Gaṅgā, attain immediate spiritual liberation, and remain ever steadfast in your devotion to Her holy stream. This is the sublime message of the glory of Gaṅgā!
-source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude. Shlok 57's verse and translation are not captured in this export -- only the tail end of its commentary (marked in the source as \"शेष अंश\", i.e. remaining portion) appears on this page; the rest likely continues onto page 29."
+        "To bring about the welfare of the world, Lord Śiva [unclear] held on his head, and Lord Viṣṇu held in his body, that goddess, the divine river, endowed with an exceedingly fluid power (which no one else in the world has). You, goddess Gaṅgā, in fluid form, embodying the energy and mass of radiance of those two, are yourself plainly seen as the very form of compassion." (56)
+notes_uncertain: true
+source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude. 2026-10-24: the v57 notes-tail formerly held here was moved to v57 on p029 (it is written on the facing sheet, images/pages/p029_overflow.jpg)."

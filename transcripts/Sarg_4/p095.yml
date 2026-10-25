@@ -1,0 +1,73 @@
+page_number_devanagari: "९५"
+page_number_arabic: 95
+image: "images/pages/p095.jpg"
+verses:
+  - number: 17
+    shlok: |
+      पेषणी दृषदमन्त्र शिलामा-
+      पुत्रकं च बहुभेषजपेषम् ।
+      सत्सुतूलफलकादियुतल्पं
+      कल्पनामतिरिच्य विरेजुः ॥ १७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता (पाद ४ में १० वर्ण, हस्तलेख के अनुसार)। श्लोक-संख्या "१७" किसी पूर्व अंक को काटकर लिखी गई है। पाद १ "दृषदमन्त्र शिलामा-" (= दृषद्, शिला) तथा पाद २ "पुत्रकं" (लोढ़ा, सिल-पुत्र) — इन दोनों का पाठ कुछ अनिश्चित है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā (pāda 4 has 10 syllables, as written). The verse number "१७" is written over an earlier numeral. The readings of pāda 1 "दृषदमन्त्र शिलामा-" (dṛṣad, the grinding slab, and śilā) and of pāda 2 "पुत्रकं" (the grinding roller, "son of the slab") are somewhat uncertain.
+    shlok_en:
+      author: ai_translation
+      text: |
+        The hand-mill, the grinding slab and its stone roller for crushing many herbs, and beds fitted with good cotton and planks: these shone beyond imagining. (17)
+    translation:
+      author: amanuensis
+      text: |
+        आटा पीसने की चक्की, मसाला चटनी पीसने के लिये सील लोढ़े, सुन्दर तख्तों से निर्मित पलंग आदि कल्पनाओं से भी बढ़कर सुशोभित हुए ॥ १७ ॥
+    notes:
+      author: grandfather
+      text: |
+        घर में एक तरफ उन्होंने आटा पीसने की चक्की तथा एक तरफ मसाला चटनी आदि पीसने के लिए सिल-लोढ़ा, कुछ उत्तम बाँस की बनी हुई पेटियाँ, कहीं पर धान्यादि अन्न रखने के लिए भण्डारगृह, कहीं पर उत्तम फलकों द्वारा निर्मित अच्छे किस्म के पलङ्ग आदि जिनकी कल्पना भी नहीं की जा सकती वे सभी यथायोग्य अपने २ स्थान पर सुशोभित हो रहे थे। १७
+    translation_en:
+      author: ai_translation
+      text: |
+        The hand-mill for grinding flour, the grinding slab and roller (sil-loṛhā) for grinding spices and chutney, and beds made of fine planks looked even finer than one could imagine. (17)
+    notes_en:
+      author: ai_translation
+      text: |
+        In the house, on one side he set the hand-mill for grinding flour, and on another the grinding slab and roller (sil-loṛhā) for grinding spices, chutney and the like. There were boxes made of good bamboo, in one place a storeroom for keeping grain, and in another fine beds made of good planks, beyond imagination. All of them looked handsome, each in its proper place. (17)
+  - number: 18
+    shlok: |
+      द्वारि तस्य शकटं वृषभाभ्या-
+      मन्वितं शुभकरं ददृशे तत् ।
+      पक्वकूपमभितः शुचिपुष्प-
+      वाटिका विरचिताऽऽस विचित्रा ॥ १८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद ४ "विरचिताऽऽस" (हस्तलेख "विरचिता ऽहसि"/"ऽह्नि" जैसा) — पाठ कुछ अनिश्चित।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 4 "विरचिताऽऽस" (the manuscript looks like "विरचिता ऽहसि"/"ऽह्नि"); the reading is somewhat uncertain.
+    shlok_en:
+      author: ai_translation
+      text: |
+        At his door was seen an auspicious cart yoked to a pair of bullocks; and around the brick-built well a wonderful garden of pure flowers had been laid out. (18)
+    translation:
+      author: amanuensis
+      text: |
+        महर्षि के गृहद्वार पर बैलों से जुते सुन्दर दिखाई देने वाला शकट (गाड़ी) भी थी। पक्के ईंटों से बँधे कुएँ की दोनों ओर पावन सुगन्धित विचित्र पुष्पवाटिका भी थी ॥ १८ ॥
+    notes:
+      author: grandfather
+      text: |
+        उनके द्वार पर युगल बैलों से युक्त अत्यन्त दृष्टि विमोहक कल्याणकारी बैलगाड़ी भी दृष्टि विमुग्धकारी थी, दरवाजे पर सामने पक्के ईंटों से बने हुए कुएँ के चारों ओर सुन्दर सुगन्धित मनोरम विविध पुष्पों की एक विचित्र उत्तम (वाटिका) पुष्पोद्यान भी बना हुआ था। १८
+    translation_en:
+      author: ai_translation
+      text: |
+        At the Maharṣi's door there was also a handsome cart (gāṛī) yoked to bullocks. On both sides of the well lined with baked brick there was also a holy, fragrant and wonderful flower garden. (18)
+    notes_en:
+      author: ai_translation
+      text: |
+        At his door stood a bullock cart with a pair of bullocks, very pleasing to the eye and auspicious, a sight that charmed the beholder. In front of the door, around a well built of baked brick, a fine and wonderful flower garden (vāṭikā) of various beautiful, fragrant and delightful flowers had also been made. (18)
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

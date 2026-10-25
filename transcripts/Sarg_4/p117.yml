@@ -1,0 +1,74 @@
+page_number_devanagari: "११७"
+page_number_arabic: 117
+image: "images/pages/p117.jpg"
+verses:
+  - number: 61
+    shlok: |
+      स्वस्तिवाचकवरैः प्रतितान्सो-
+      ऽथाक्षतान् स्वशिरसा [unclear: बिभ्रदभात्] ।
+      देवमण्डलविसर्जनपूर्वं
+      प्रागसौ स्वकुलदेवमुपास्त ॥ ६१ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद १ "स्वस्तिवाचकवरैः प्रतितान्सोऽ-" (प्रतितान् = प्रदत्तान्), पाद २ "थाक्षतान् स्वशिरसा बिभ्र..." — पाद २ का अन्त अस्पष्ट है। पाद ४ "प्रागसौ स्वकुलदेवमुपास्त" (पूर्व निष्कासन का "प्रागतो स्वकुलदेवमुपास्त" भ्रान्त था)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 1 reads "स्वस्तिवाचकवरैः प्रतितान्सोऽ-" (pratitān = given) and pāda 2 "थाक्षतान् स्वशिरसा बिभ्र..."; the end of pāda 2 is unclear. Pāda 4 reads "प्रागसौ स्वकुलदेवमुपास्त"; the earlier export's "प्रागतो स्वकुलदेवमुपास्त" was a misreading.
+    shlok_en:
+      author: ai_translation
+      text: |
+        He, bearing on his head the akṣata given by the excellent reciters of blessings, worshipped his family deity before the dismissal of the assembly of gods. (61)
+    translation:
+      author: amanuensis
+      text: |
+        उन्होंने स्वस्तिवाचकों के द्वारा दिये गये अक्षतों को अपने सिर पर धारण किया, देवों के विसर्जन के पूर्व ही अपने कुलदेवता की उपासना की ॥ ६१ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्डु ने स्वस्तिवाचन करनेवाले उच्चतम विद्वन्मण्डली द्वारा प्रदत्त पुण्य पुञ्ज अक्षत समूह को बड़ी विनम्रता के साथ विनम्रता पूर्वक अपने सिर पर धारण किया साथ ही सम्मुख संस्थापित गौरी गणपत्यादि देवों के विसर्जन के पूर्व अपने पूज्य कुल देवताओं की भी अभ्यर्थना की। ६१
+    translation_en:
+      author: ai_translation
+      text: |
+        He placed on his head the akṣata given by the reciters of the svastivācana, and before the dismissal of the gods he worshipped his family deity. (61)
+    notes_en:
+      author: ai_translation
+      text: |
+        Sage Mṛkaṇḍu humbly placed on his head the heap of holy akṣata given by the most learned assembly reciting the svastivācana. And before the dismissal of the gods installed before him, Gaurī, Gaṇapati and the others, he also offered prayers to his revered family deities. (61)
+  - number: 62
+    shlok: |
+      सम्भ्रमेण परया किल भक्त्या
+      विप्रवृन्दमपि दाक्षिसनाथम् ।
+      आशिषा किल विवर्धिततेजा-
+      स्तं पराशरमुनिं प्रणनाम ॥ ६२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। श्लोक के ऊपर बाएँ हाशिये में "सम्भ्रमेण" (पाद १ का पहला शब्द) अलग से लिखा है। पाद २ "दाक्षिसनाथम्" (दाक्षि के साथ; अनुवाद "दाक्षि से सनाथित" से पुष्ट); पूर्व निष्कासन का "दक्षिणनाथम्" भ्रान्त था। पाद ४ "स्तं" (पूर्व निष्कासन का "स्ते" भ्रान्त)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Above the verse, in the left margin, "सम्भ्रमेण" (the first word of pāda 1) is written separately. Pāda 2 reads "दाक्षिसनाथम्" ("accompanied by Dākṣi", confirmed by the Hindi "दाक्षि से सनाथित"); the earlier export's "दक्षिणनाथम्" was a misreading. Pāda 4 begins "स्तं"; the earlier export's "स्ते" was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        With eager reverence and supreme devotion he bowed to the assembly of brahmins, together with Dākṣi, and then, his splendour increased by their blessing, he bowed to the sage Parāśara. (62)
+    translation:
+      author: amanuensis
+      text: |
+        पूर्णभक्ति के साथ दाक्षि से सनाथित विप्रवृन्दों को प्रणाम कर आशीर्वाद से वर्धिततेज वाले उन्होंने पराशर मुनि को भी प्रणाम किया ॥ ६२ ॥
+    notes:
+      author: grandfather
+      text: |
+        कलश विसर्जन के अनन्तर मुनि मृकण्डु ने दाक्षि प्रमुख सभी ऋषियों विद्वज्जनों का ससम्मान सादर प्रणाम किया, सभी ऋषियों ब्राह्मण जनों के द्वारा आशीर्वाद प्राप्त कर आत्मतेजोद्दीप्त मृकण्डु जी ने महर्षि पराशर जी को भी सश्रद्ध विनयावनत होकर प्रणाम किया। ६२
+    translation_en:
+      author: ai_translation
+      text: |
+        With full devotion he bowed to the assembly of brahmins accompanied by Dākṣi, and, his splendour increased by their blessing, he also bowed to the sage Parāśara. (62)
+    notes_en:
+      author: ai_translation
+      text: |
+        After the dismissal of the kalaśa, Sage Mṛkaṇḍu respectfully bowed to all the sages and learned men headed by Dākṣi. Having received the blessing of all the sages and brahmins, Mṛkaṇḍu, radiant with his own inner splendour, also bowed to Maharṣi Parāśara with faith and humility. (62)
+notes_uncertain: true
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

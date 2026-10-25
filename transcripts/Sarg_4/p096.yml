@@ -1,0 +1,74 @@
+page_number_devanagari: "९६"
+page_number_arabic: 96
+image: "images/pages/p096.jpg"
+verses:
+  - number: 19
+    shlok: |
+      सम्मतोऽपि लघुना समयेन
+      सज्जनेषु गुणगौरवशाली ।
+      जात एव स [unclear: जनाग्रिः] किल तत्र
+      दर्दरक्षितिजनैरनुगीतः ॥ १९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद ३ का "जनाग्रिः" अस्पष्ट है और छन्द में ठीक नहीं बैठता (स्वागता के ८-९ वें वर्ण लघु होने चाहिए)। पाद २ में "स" पर अधिलेखन है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. "जनाग्रिः" in pāda 3 is unclear and does not scan (syllables 8–9 of Svāgatā should be light). In pāda 2, "स" is overwritten.
+    shlok_en:
+      author: ai_translation
+      text: |
+        In a short time he came to be esteemed among good people as rich in the dignity of virtue; there he indeed became [unclear: the foremost of men], praised in song by the people of the land of Dardara. (19)
+    translation:
+      author: amanuensis
+      text: |
+        अल्प समय में ही ये ऋषि सज्जनों में गुणगौरवशाली माने गये। दर्दर क्षेत्र में पहुँचते ही भलाई का गान लोगों ने किया ॥ १९ ॥
+    notes:
+      author: grandfather
+      text: |
+        यद्यपि मुनि मृकण्डु को यहाँ आये अभी बहुत कम दिन हुए थे किन्तु अपने उदात्त गुणों, व्यवहारों एवं उदात्त व्यावहारिकताओं के कारण स्थानीय लोगों में उनकी गुणवत्ता की अपूर्व छाप पड़ी जिससे वे दर्दर क्षेत्र के सभी श्रेष्ठ उत्तम जनों में श्रेष्ठ माने जाने लगे और उनकी यशस्विता चारों ओर फैल गई। १९
+    translation_en:
+      author: ai_translation
+      text: |
+        In a short time this sage came to be regarded among good people as rich in the dignity of virtue. As soon as he arrived in the Dardara region, people sang of his goodness. (19)
+    notes_en:
+      author: ai_translation
+      text: |
+        Although Sage Mṛkaṇḍu had come here only a very few days before, his noble virtues, his conduct and his noble dealings left a remarkable impression of his worth on the local people. As a result he came to be regarded as the best among all the excellent people of the Dardara region, and his fame spread in every direction. (19)
+  - number: 20
+    shlok: |
+      तस्य दिक्षु च विदिक्षु सुकीर्ति-
+      र्द्रागतन्यत महर्षिवरस्य ।
+      [unclear: तस्य चागमदरभ्यगतानां]
+      ब्रह्मवित्समुदयोऽपि मुनीनाम् ॥ २० ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद २ में "द्रागतन्यत" के बाद "पाराशरलब्ध्या" रेखांकित (अर्थात् त्याज्य) है; अन्तिम पाठ "द्रागतन्यत महर्षिवरस्य" छन्द-सम्मत है। पाद १ में "दिक्षु" के बाद एक शब्द काटा गया है। पाद ३ अस्पष्ट है। पाद ४ "ब्रह्मवित्समुदयोऽपि मुनीनाम्" ("वित्" पर अधिलेखन)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. In pāda 2, "पाराशरलब्ध्या" after "द्रागतन्यत" is underlined (i.e. marked for deletion); the final reading "द्रागतन्यत महर्षिवरस्य" scans. In pāda 1 a word after "दिक्षु" is struck out. Pāda 3 is unclear. Pāda 4 reads "ब्रह्मवित्समुदयोऽपि मुनीनाम्" ("वित्" is overwritten).
+    shlok_en:
+      author: ai_translation
+      text: |
+        The fair fame of that best of great sages quickly spread through the quarters and the intermediate quarters; [unclear] and a gathering of sages who knew Brahman [came] too. (20)
+    translation:
+      author: amanuensis
+      text: |
+        उस महात्मा मृकण्डु की कीर्ति शीघ्र ही दिशाएँ-विदिशाओं में फैल गयी। उस आश्रम में अभ्यागत मुनियों के बीच ब्रह्मवेत्ता [unclear: का विचार सभी] भी हुआ ॥ २० ॥
+    notes:
+      author: grandfather
+      text: |
+        थोड़े ही दिनों में महर्षि मृकण्डु की उदात्त कीर्ति सभी दिशाओं विदिशाओं में व्याप्त हो गई, उनकी सत्कीर्ति से प्रभावित होकर बहुतेरे महर्षियों जो सांसारिकता से अलग हट कर अपना आरण्यक जीवन बिताते हैं उनका भी समूह महर्षि मृकण्डु के आश्रम पर जुटने लगा। २०
+    translation_en:
+      author: ai_translation
+      text: |
+        The fame of the great soul Mṛkaṇḍu quickly spread through the cardinal and intermediate directions. In that hermitage, among the visiting sages, there was also [unclear] of the knowers of Brahman. (20)
+    notes_en:
+      author: ai_translation
+      text: |
+        Within a few days the noble fame of Maharṣi Mṛkaṇḍu spread through all the cardinal and intermediate directions. Drawn by his good name, groups of many great sages, who live a forest life apart from worldly affairs, also began to gather at Maharṣi Mṛkaṇḍu's hermitage. (20)
+notes_uncertain: true
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

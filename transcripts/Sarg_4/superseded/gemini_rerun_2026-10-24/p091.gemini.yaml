@@ -1,0 +1,65 @@
+page_number_devanagari: "९१"
+page_number_arabic: 91
+image: "images/pages/p091.jpg"
+verses:
+  - number: 9
+    shlok: |
+      रज्जुवृन्दयुत सुश्लथन युक्त
+      च्छादनाय बहुलानि तृणानि ।
+      वर्धकि रचित लोह किलादि-
+      -सन्निवेश बहुकर्मचणान् सः ॥ ९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `रज्जुवृन्दयुत सुश्लथन युक्त` (११); पाद २: `च्छादनाय बहुलानि तृणानि` (११); पाद ३: `वर्धकि रचित लोह किलादि-` (११); पाद ४: `-सन्निवेश बहुकर्मचणान् सः` (११)। यह पद्य पृष्ठ ८९ पर निरस्त प्रारूप का परिष्कृत एवं अन्तिम रूप है, जो पूर्णतः ११ वर्णों की रथोद्धता में ग्रथित है। इसमें छप्पर छाने हेतु रस्सियों, तृणों, लोहे की कीलों तथा कुशल कारीगरों का वर्णन है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. This verse is the finalized form of the draft struck through on p89. It recounts gathering grass ropes, thatch straw, iron nails prepared by carpenters, and skilled builders.
+    translation:
+      author: amanuensis
+      text: |
+        तृणादि से बटकर बनाये गये सच्छादनार्थ रस्सियों से युक्त छाने के लिए बहुत से तृण, बढ़ई द्वारा रचित लौह कील तथा भवन कार्य में निपुण कारीगरों को महात्मा मृकण्डु ने एकत्रित किया था ॥ ९ ॥
+    notes:
+      author: grandfather
+      text: |
+        विविध तृणादि के समुच्चय द्वारा बटकर बनाये गये रस्सियों से छत का घर की छज्जा छाने के लिए छाने के योग्य बहुत से तृणों के गद्दर आदि की व्यवस्था की, साथ बढ़ई लोहे का द्वारा गृहोपयोगी अनेक प्रकार लोहे की कीलें आदि की व्यवस्था के साथ ही उन्होंने उन उन कार्यों के दक्ष कार्य करने वालो में अत्यन्त कुशल कारीगरों की भी सामञ्जस्यपूर्वक व्यवस्था भी नियुक्त किया। ९
+    translation_en:
+      author: ai_translation
+      text: |
+        For roofing, Mahatma Mṛkaṇḍu gathered abundant thatch grasses along with ropes woven from grass, iron nails crafted by carpenters, and artisans skilled in construction work. (Verse 9)
+    notes_en:
+      author: ai_translation
+      text: |
+        Through bundles of various grasses, he arranged ropes woven together to thatch the eaves of the roof, along with bundles of grass suitable for roofing; simultaneously, he arranged for iron nails crafted by carpenters for household utility, and harmoniously engaged artisans who were exceedingly skilled in each of those respective tasks. (9)
+  - number: 10
+    shlok: |
+      शीघ्रमेव पट्लानि गृहाणां
+      निर्मितानि विविधानि सुरम्यम् ।
+      अङ्गणं च परितश्चतुरस्रं
+      पक्वकेष्टकव्यधायि किल भित्तिः ॥ १० ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (वर्ण-संख्या: ११)। पाद १: `शीघ्रमेव पट्लानि गृहाणां` (११); पाद २: `निर्मितानि विविधानि सुरम्यम्` (११); पाद ३: `अङ्गणं च परितश्चतुरस्रं` (११); पाद ४: `पक्वकेष्टकव्यधायि किल भित्तिः` (११)। पाद ४ के लिए पाण्डुलिपि के पार्श्व में स्पष्ट रूप से `पक्वकेष्टक` अंकित है, जिसका अर्थ पकी ईंटें (पक्व + इष्टक) है। आँगन के चारों ओर पकी ईंटों की चारदीवारी का निर्माण वर्णित है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (11 syllables per pāda). The marginal annotation `पक्वकेष्टक` confirms baked bricks (pakva-iṣṭaka) used for erecting the walls around the four-sided courtyard.
+    translation:
+      author: amanuensis
+      text: |
+        घरों के लिये शीघ्र निर्मित अनेक पटल सुशोभित होने लगे। अङ्गण के चारों ओर पके ईंटों की भित्तियाँ बन गयीं ॥ १० ॥
+    notes:
+      author: grandfather
+      text: |
+        यों गृह निर्माण कला कुशल कारीगरों द्वारा बनाई गयीं अनेक पटले (छदियाँ) (छानि देश्य भाषामें) बन कर तैयार हो गईं जो देखने में अत्यन्त मनोहारी लग रही थीं। साथ ही गृह के मध्य में चारों ओर पक्के ईंटों की बनी हुई भित्तियाँ (दीवारें) भी बनकर तैयार हो गयीं। १०
+    translation_en:
+      author: ai_translation
+      text: |
+        Various thatch roofs swiftly constructed for the houses began to look splendid; all around the courtyard, walls of baked bricks were erected. (Verse 10)
+    notes_en:
+      author: ai_translation
+      text: |
+        Thus, through artisans skilled in the art of building, numerous thatched roofs (chaanis in the local dialect) were prepared, presenting an exceedingly charming sight; at the same time, in the midst of the dwelling, walls built of baked bricks arose all around. (10)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

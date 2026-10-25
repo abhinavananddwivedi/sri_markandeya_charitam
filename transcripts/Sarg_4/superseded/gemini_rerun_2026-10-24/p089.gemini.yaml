@@ -1,0 +1,65 @@
+page_number_devanagari: "८९"
+page_number_arabic: 89
+image: "images/pages/p089.jpg"
+verses:
+  - number: 5
+    shlok: |
+      बाल्यतश्च ततपोऽद्भुतशक्तिः
+      सप्तभौम भवनं खलु कर्तुम् ।
+      ईश्वरोऽपि न तथाकृत लोक-
+      शिक्षणाय महतामनुवृत्तिः ॥ ५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या: ११)। पाद १: `बाल्यतश्च ततपोऽद्भुतशक्तिः` (११); पाद २: `सप्तभौम भवनं खलु कर्तुम्` (११); पाद ३: `ईश्वरोऽपि न तथाकृत लोक-` (११); पाद ४: `शिक्षणाय महतामनुवृत्तिः` (११)। पाण्डुलिपि के शीर्ष पर एक अप्रयुक्त/निरस्त पद्य-खण्ड (`रज्जु... आच्छाद्य बहुविधानि तृणानि...`) कलम से काटा हुआ है। मुख्य पद्य ५ में मुनि द्वारा सात-मंजिला भवन (`सप्तभौम`) निर्माण के संकल्प तथा महापुरुषों के लोक-शिक्षण का निरूपण है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at exactly 11 syllables. At the top of page 89, an aborted draft verse on thatch and cord construction is struck through with an X in the manuscript. Verse 5 speaks of constructing a seven-storied dwelling (saptabhauma bhavanam) through austere power as an exemplary model for world-instruction (loka-śikṣaṇāya).
+    translation:
+      author: amanuensis
+      text: |
+        महर्षि मृकण्डु ने सप्तमतला भवन निर्माणार्थ बाल्यकाल से ही तपश्शक्ति अर्जित की थी। ईश्वर भी उस प्रकार लोक शिक्षणार्थ परजनों का अनुवर्तन नहीं किया है ॥ ५ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्ड ने बाल्यकाल से तपस्या की अधिकता से शक्ति सम्पन्नता प्राप्त कर ली थी, उन्होंने सात मंजिला भवन निर्माण करने को सोचा, क्योंकि ईश्वर ने भी लोक शिक्षण के लिए अत्यन्त विशाल सृष्टि की रचना की है। ५
+    translation_en:
+      author: ai_translation
+      text: |
+        Maharṣi Mṛkaṇḍu had accumulated ascetic power since his childhood for constructing a seven-storied dwelling; even God did not follow others in that manner for the instruction of the world. (Verse 5)
+    notes_en:
+      author: ai_translation
+      text: |
+        From childhood, Sage Mṛkaṇḍu had attained fullness of power through intense austerity; he conceived the idea of constructing a seven-storied residence, just as God created this immensely vast cosmos for the instruction and enlightenment of the world. (5)
+  - number: 6
+    shlok: |
+      आजहार सकलं जनताभ्यो
+      वास्तुवस्तु स मुनिः ससुहायः ।
+      दैवशक्त्यनुरुद्धश्चिकीर्षुः
+      सावधानमनसा सुनिदध्यौ ॥ ६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (वर्ण-संख्या: ११)। पाद १: `आजहार सकलं जनताभ्यो` (११); पाद २: `वास्तुवस्तु स मुनिः ससुहायः` (११); पाद ३: `दैवशक्त्यनुरुद्धश्चिकीर्षुः` (११); पाद ४: `सावधानमनसा सुनिदध्यौ` (११)। पूर्व निष्कासन का विकृत पाठ `निचोकुर्-` पाण्डुलिपि में वस्तुतः `चिकीर्षुः` (करने की इच्छा रखने वाला) तथा `सुनिदध्यौ` (गम्भीर ध्यान लगाया) है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (11 syllables per pāda). The garbled reading `निचोकुर्-` of the earlier export is resolved by the clear manuscript text `चिकीर्षुः` ("desiring to perform") and `सुनिदध्यौ` ("meditated deeply").
+    translation:
+      author: amanuensis
+      text: |
+        सहायक के साथ मुनिवर मृकण्डु ने जनता से समस्त वास्तु सामग्री को ले आया। दैवशक्ति को रोक कर करने वाले उन्होंने सावधान मन से ध्यान लगाया ॥ ६ ॥
+    notes:
+      author: grandfather
+      text: |
+        यों मुनि मृकण्ड ने अपने सहयोगी ऋषि आङ्गिरस के साथ वहाँ की स्थानीय जनता से सम्पूर्ण गृहनिर्माण के लिए वास्तु विधि पूर्ण करने की सारी वस्तुयें जुटायी और अत्यन्त सावधान मन से दैवी शक्ति का संस्मरण करते हुए अभिनव वृहत्तर भवन निर्माण के लिए सावधान मन से अच्छी तरह विचार किया। ६
+    translation_en:
+      author: ai_translation
+      text: |
+        Along with his assistant, the noble sage Mṛkaṇḍu gathered all architectural building materials from the populace; desiring to act while restraining divine power, he meditated with an attentive mind. (Verse 6)
+    notes_en:
+      author: ai_translation
+      text: |
+        Thus Sage Mṛkaṇḍu, along with his associate Sage Aṅgiras, collected from the local populace all the materials necessary to fulfill the architectural (vāstu) rites for building the entire home; and deeply recollecting the divine power with an exceedingly attentive mind, he deliberated thoroughly upon constructing the grand, novel dwelling. (6)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

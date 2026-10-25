@@ -4,46 +4,71 @@ image: "images/pages/p002.jpg"
 verses:
   - number: 3
     shlok: |
-      प्रसादभासाथ वरं कृपालना-
-      देवाप्य तस्मान्चिरजीवितान्मुनेः।
-      तमादिमाराध्य दुरुपदर्शितं
-      तेनेन मृत्युञ्जयमानतोऽस्म्यहम् ॥ ३ ॥
+      प्रसादमासाद्य वरं कृपालवा-
+      दवाप्य तस्माच्चिरजीवितां मुनिः ।
+      तमादिमाराध्य गुरुप्रदर्शितं
+      सदैव मृत्युञ्जयमानतोऽस्म्यहम् ॥ ३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पूर्व पाठ "प्रसादभासाथ वरं कृपालना- / देवाप्य तस्मान्चिरजीवितान्मुनेः / तमादिमाराध्य दुरुपदर्शितं / तेनेन मृत्युञ्जय…" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. The earlier reading ("प्रसादभासाथ वरं कृपालना- / देवाप्य … / … दुरुपदर्शितं / तेनेन …") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having first worshipped, as the teachers have shown, him from a particle of whose grace the sage obtained the boon and attained long life, I bow always to Mṛtyuñjaya, the conqueror of death. (3)
     translation:
       author: amanuensis
       text: |
-        जिनके करुणाप्रसाद से आदरपूर्ण वर प्राप्त करके मार्कण्डेय मुनि चिरञ्जीवी हुए, अतः गुरुओं के द्वारा प्रदर्शित उनकी प्रथम उपासना कर मैं भगवान् मृत्युञ्जय को सतत प्रणाम करता हूँ ॥ ३ ॥
+        जिनके कृपालव से प्रसादपूर्ण वरदान को पाकर मार्कण्डेय मुनि चिरञ्जीवी हुए, अतः गुरुओं के द्वारा प्रदर्शित उनकी प्रथम आराधना कर मैं भगवान् मृत्युञ्जय को सतत प्रणाम करता हूँ ॥ ३ ॥
     notes:
       author: grandfather
       text: |
-        जिस अनादि आदि देव भगवान् सदाशिव मृत्युञ्जय की समाराधना कर उनकी प्रसन्नता से प्राप्त कृपा की एक कणिका मात्र पाकर मुनि मार्कण्डेय चिरञ्जीवी बन गये, आज मैं उन्हीं पूर्वदर्शियों के द्वारा निर्दिष्ट एवं समाश्रित उस सृष्टि-स्थिति-लय के एकमात्र सर्वेश्वर अभयङ्कर मृत्युञ्जय को निरन्तर भक्तिभावना से परिपूर्ण हो प्रणाम निवेदन करता हूँ ॥ ३ ॥
+        जिस अनादि आदि देव भगवान् सदाशिव मृत्युञ्जय की समाराधना द्वारा उनकी प्रसन्नता से प्राप्त अहैतुकी कृपा की एक कणिका मात्र पाकर मुनि मार्कण्डेय सप्तकल्पान्त चिरजीवी बन गये, आज मैं अपने पूर्व पुरुषों (पितामह इत्यादि) के द्वारा निर्दिष्ट एवं समाराधित उस सृष्टि स्थिति लय के एकमात्र सञ्चालक भगवान् त्र्यम्बक मृत्युञ्जय को निरन्तर अन्तश्चेतना से परिपूर्ण हो प्रणति निवेदन करता हूँ। ३
     translation_en:
       author: ai_translation
       text: |
-        By receiving the gracious boon of compassionate favor from Whom Sage Mārkaṇḍeya attained deathlessness, I offer my perpetual obeisance unto Lord Mṛtyuñjaya (the Conqueror of Death), following the path of adoration revealed by the venerable preceptors.
+        Having first worshipped him, as shown by the teachers, by a particle of whose kindness the sage Mārkaṇḍeya obtained a gracious boon and became long-lived, I constantly bow to Lord Mṛtyuñjaya. (3)
     notes_en:
       author: ai_translation
       text: |
-        By propitiating the beginningless Primeval Lord Sadāśiva Mṛtyuñjaya and receiving just a single droplet of His divine grace, Sage Mārkaṇḍeya became immortal. Today, following the footsteps sanctified by ancient seers, I offer my continuous, devout salutations to that Supreme Dispeller of Fear—the sole Lord of cosmic creation, preservation, and dissolution.
+        By worshipping the beginningless, primal god, Lord Sadāśiva Mṛtyuñjaya, and receiving only a particle of the causeless grace that came from his pleasure, the sage Mārkaṇḍeya became long-lived to the end of seven kalpas. Today, with my inner awareness full, I constantly offer my bow to that Lord Tryambaka Mṛtyuñjaya, sole ruler of creation, preservation and dissolution, as shown and worshipped by my forefathers (my grandfather and others). (3)
   - number: 4
     shlok: |
-      निरन्तरं सज्ज उपसमेधते
+      निरन्तरं सद्य उपश्रमेधते
       त्रिलोकमध्ये कविकर्मवैभवम् ।
-      त्यदा भजे सन्ततमेव सादरं
-      प्राचेतसः सुमुद्रमुदारमानसम् ॥ ४ ॥
+      सदा भजे सन्ततमेव सादरं
+      प्रचेतसः सूनुमुदारमानसम् ॥ ४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद १ "उपश्रमेधते" हस्तलेख के अनुसार। पूर्व पाठ "सज्ज उपसमेधते … त्यदा भजे … प्राचेतसः सुमुद्रमुदारमानसम्" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. Pāda 1 "उपश्रमेधते" follows the manuscript. The earlier reading ("सज्ज उपसमेधते … त्यदा भजे … प्राचेतसः सुमुद्रमुदारमानसम्") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        In the three worlds the glory of the poet's craft grows constantly and swiftly; so I always and ever revere, with respect, the noble-minded son of Pracetas (Vālmīki). (4)
     translation:
       author: amanuensis
       text: |
-        लोकत्रय के मध्य में कविकर्म वैभव से पूर्ण ज्ञान शीघ्रता से निरन्तर बढ़ता है, अतः मैं सतत आदरपूर्वक उदारचेता प्राचेतस (वाल्मीकि) का भजन करता हूँ ॥ ४ ॥
+        लोकत्रय के मध्य में कविकर्म वैभव से पूर्ण ज्ञान शीघ्र ही निरन्तर बढ़ता है, अतः सदा सतत आदरपूर्वक उदारचेता प्रचेता पुत्र का मैं भजन करता हूँ ॥ ४ ॥
     notes:
       author: grandfather
       text: |
-        प्रायः ऐसा देखा जाता है कि इस त्रिलोकी (संसार) में कवित्व कर्म से परिपूर्ण सामान्य ज्ञान भी (निपुणता, अन्य शास्त्रादिकों का निरन्तर अभ्यास आदि के कारण) बढ़ता ही रहता है जिसके प्रत्यक्ष प्रमाण प्राचेतस महर्षि वाल्मीकि ही हैं; उस उदारचेता कविकर्म के आर्य निष्ठा अतिशय पूर्ण विश्वजनीन कल्याण में निरत रहने वाले वाल्मीकि महर्षि का हृदय से समाराधना करता हूँ ॥ ४ ॥
+        प्रायः ऐसा देखा जाता है कि इस त्रिलोकी (संसार) में कवित्व कर्म से परिपूर्ण सामान्य ज्ञान भी (निपुणता, काव्य शास्त्रादिकों [unclear] निरन्तर अभ्यास आदि के द्वारा) निरन्तर बढ़ता ही रहता है जिसके प्रत्यक्ष प्रमाण प्राचेतस (प्रचेतापुत्र) महर्षि वाल्मीकि ही हैं; उस उदारचेता कवि कर्म के आद्य स्रष्टा अतिशय उदार [unclear] विश्वजनीन कल्याण में निरन्तर निरत रहने वाले वाल्मीकि महर्षि का हृदय से समाराधना करता हूँ। ४
     translation_en:
       author: ai_translation
       text: |
-        Within the three worlds, the profound wisdom born of poetic splendor ever flourishes; therefore, with constant reverence, I worship the noble-minded Prācetasa (Sage Vālmīki), whose expansive vision encompasses the highest truth.
+        In the three worlds, knowledge filled with the glory of the poet's craft quickly grows without end; so I always and constantly worship, with respect, the noble-minded son of Pracetas. (4)
     notes_en:
       author: ai_translation
       text: |
-        It is widely observed across the three worlds that even modest intellect, when nurtured by poetic discipline and the continuous study of sacred scriptures, expands boundlessly—a truth livingly exemplified by Maharṣi Vālmīki. I adore from the depth of my heart that magnanimous sage, who remained steadfast in noble Vedic ideals and dedicated his life to universal welfare through divine poetry.
+        It is generally seen that in these three worlds (the world), even ordinary knowledge, when filled with the poet's craft, keeps on growing (through skill and constant practice of poetics and the other śāstras [unclear]); the direct proof of this is Maharṣi Vālmīki, the Prācetasa (son of Pracetas). From my heart I worship that Maharṣi Vālmīki, noble-minded, the first creator of the poet's craft, most generous [unclear], always engaged in the welfare of all the world. (4)
+notes_uncertain: true
 source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude."

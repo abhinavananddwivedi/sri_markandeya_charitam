@@ -1,0 +1,65 @@
+page_number_devanagari: "१०८"
+page_number_arabic: 108
+image: "images/pages/p108.jpg"
+verses:
+  - number: 43
+    shlok: |
+      एवमुक्ते समुदस्थौ शक्तिसुतेऽथ-
+      -द्गोप्रदानैर्विधिवद् गोदानैः ।
+      आसने समुपवेश्य कुलपतिं
+      तं सुसज्जितमथो विविधद्युतयः ॥ ४३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `एवमुक्ते समुदस्थौ शक्तिसुतेऽथ-` (हस्तलेखे पाद १ के आरम्भ में लिपिकार ने 'एवमुक्ता' लिखकर काटा है और तदनन्तर 'समुत्तस्थौ शक्तिसुतेऽथ-' लिखा है, ११); पाद २: `-द्गोप्रदानैर्विधिवद् गोदानैः` (११; पूर्व निष्कासन में कल्पित पाठ '-ङ्गौतमोऽन्येऽपि विधिवद् गौडगौदान्' था, जहाँ 'गौडगौदान्' निरर्थक पाठ था। यहाँ गोदान एवं वैदिक दान-विधान का उल्लेख है); पाद ३: `आसने समुपवेश्य कुलपतिं` (हस्तलेखे 'आसने समुपवेश्य कुलपति-', ११; पूर्व निष्कासन में विकृत पाठ 'आददावुपहवेऽथ' था); पाद ४: `तं सुसज्जितमथो विविधद्युतयः` (हस्तलेखे '-स्ते सुसज्जामिमन्तो विविधद्युतयः', ११)। महर्षि पराशर (शक्तिपुत्र) के वचनों के उपरान्त उपस्थित मुनियों द्वारा मुनि मृकण्डु (कुलपति) को विधिवत् आसन पर बैठाकर मांगलिक द्रव्यों से सज्जित करने का वर्णन है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. Pāda 1: `एवमुक्ते समुदस्थौ शक्तिसुतेऽथ-` (MS has `एवमुक्ता` cancelled at the start, followed by `समुत्तस्थौ शक्तिसुतेऽथ-`, 11); Pāda 2: `-द्गोप्रदानैर्विधिवद् गोदानैः` (11; the previous run's reading `-ङ्गौतमोऽन्येऽपि विधिवद् गौडगौदान्` contained the ghost word `गौडगौदान्`; the manuscript describes the ritual gifting of cattle in accordance with Vedic rites); Pāda 3: `आसने समुपवेश्य कुलपतिं` (MS `आसने समुपवेश्य कुलपति-`, 11; the previous reading `आददावुपहवेऽथ` was an erroneous decipherment); Pāda 4: `तं सुसज्जितमथो विविधद्युतयः` (MS `-स्ते सुसज्जामिमन्तो विविधद्युतयः`, 11). Following the words of sage Parāśara, the assembled sages of diverse splendor seated the patriarch Mṛkaṇḍu upon the ceremonial seat and adorned him with auspicious decorations.
+    translation:
+      author: amanuensis
+      text: |
+        उस प्रकार शक्तिपुत्र पराशर के कहने पर विधिवदादि उस गोदान द्वारा रखे गये आसन पर मृकण्डु को बैठाकर तथा उसे सजाकर उसके चारों ओर लोग बैठ गये ॥ ४३ ॥
+    notes:
+      author: grandfather
+      text: |
+        इस प्रकार शक्तिपुत्र पराशर जी के कहने पर अभिमत गौतमप्रभृति उन मुनियों द्वारा बड़े ही कल्याण सुसज्जित आसन आदि तैयार कर दिया गया, जिस पर सुन्दर धूप दीप आदि ध्यान कर सजी धजी कर मुनि मृकण्डु बैठ गये। साथ ही उनके चारों ओर अन्य ऋषि गण उन्हें घेर कर सावधान हो कर बैठ गये। ४३
+    translation_en:
+      author: ai_translation
+      text: |
+        After the son of Śakti, Parāśara, had spoken thus and the formal rites of cattle donation were completed, the sages seated Mṛkaṇḍu upon the prepared seat, adorned him, and sat encircling him. (Verse 43)
+    notes_en:
+      author: ai_translation
+      text: |
+        Following Parāśara's statement, sages such as Gautama prepared an auspicious, fully decorated seat. Having honoured it with fragrant incense and lamps, sage Mṛkaṇḍu sat down elegantly adorned. The other assembled sages then arranged themselves attentively in a circle around him. (43)
+  - number: 44
+    shlok: |
+      दाक्षमुख्यमुनिभिः कृतपूर्वे
+      मङ्गलानि विधिवद् विरचित्य ।
+      मुद्गलः सफलनिष्कयुगं त-
+      -त्प्राञ्जलौ सुविनयेन दधार ॥ ४४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `दाक्षमुख्यमुनिभिः कृतपूर्वे` (११); पाद २: `मङ्गलानि विधिवद् विरचित्य` (११; हस्तलेखे `मङ्गलान्यभिदधौ विरचित्यतः / मङ्गलानि विधिवद् विरचित्य`); पाद ३: `मुद्गलः सफलनिष्कयुगं त-` (११; पूर्व निष्कासन में भ्रान्त व निरर्थक पाठ `सफलमर्पिक युर्गान्त =` था। हस्तलेख में स्पष्टतः `सफलनिष्कयुगं` अंकित है, जो फल एवं निष्क-युग्म अर्थात् दो स्वर्णमुद्राओं का वाचक है); पाद ४: `-त्प्राञ्जलौ सुविनयेन दधार ॥ ४४ ॥` (११)। दाक्ष आदि मुख्य मुनियों द्वारा मांगलिक विधान पूर्ण किये जाने पर शांतचित्त मुनि मुद्गल ने फल एवं दो स्वर्ण निष्कों (स्वर्ण मुद्राओं के युग्म) को वर (मृकण्डु) की अंजलि में विनयपूर्वक समर्पित किया, जिसे मृकण्डु ने नतमस्तक होकर धारण किया।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. Pāda 1: `दाक्षमुख्यमुनिभिः कृतपूर्वे` (11); Pāda 2: `मङ्गलानि विधिवद् विरचित्य` (11; MS `मङ्गलान्यभिदधौ विरचित्यतः / मङ्गलानि विधिवद् विरचित्य`); Pāda 3: `मुद्गलः सफलनिष्कयुगं त-` (11; the corrupt reading `सफलमर्पिक युर्गान्त =` of the previous run is corrected by the clear manuscript reading `सफलनिष्कयुगं`, denoting auspicious fruit accompanied by a pair of gold niṣkas); Pāda 4: `-त्प्राञ्जलौ सुविनयेन दधार` (11). Once the preliminary blessings were completed by the prominent sages headed by Dakṣa, sage Mudgala placed the betrothal fruit along with two gold coins into Mṛkaṇḍu's folded palms, who accepted it with humility.
+    translation:
+      author: amanuensis
+      text: |
+        दाक्षप्रधान मुनियों के द्वारा पूर्व ही माङ्गलिक विधान किये जाने पर स्थिरचित्त मुद्गल भी फल के साथ दो निष्क (मुद्रा) वर की अञ्जलि में विनयपूर्वक रखा ॥ ४४ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुख्य दाक्ष प्रभृति मुनियों द्वारा पहले ही माङ्गलिक वरदानादि का विधान कर दिया गया था, अतः पुनः मुद्गल ऋषि ने शान्त स्थिर चित्त होकर मङ्गलों की कामना से उत्तम फलादि के साथ १ जोड़ी स्वर्ण मुद्राओं की अञ्जलि मुनि मृकण्डु ने सविनय अपने दोनों हाथों की अञ्जलि बना कर उसे धारण किया (स्वीकार किया) ४४
+    translation_en:
+      author: ai_translation
+      text: |
+        Once the foremost sages led by Dakṣa had completed the auspicious preliminary rites, the composed sage Mudgala placed the betrothal fruit alongside a pair of gold coins (niṣkas) reverently into the groom's cupped hands. (Verse 44)
+    notes_en:
+      author: ai_translation
+      text: |
+        The preliminary blessings and rites had already been administered by the prominent sages, including Dakṣa. Thereupon, sage Mudgala, with a calm and steady mind, presented fine fruits accompanied by a pair of gold coins into sage Mṛkaṇḍu's reverently cupped hands, which Mṛkaṇḍu accepted with deep humility. (44)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

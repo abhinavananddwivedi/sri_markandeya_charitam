@@ -1,48 +1,75 @@
 page_number_devanagari: "२९"
 page_number_arabic: 29
 image: "images/pages/p029.jpg"
+extra_images: ["images/pages/p029_overflow.jpg"]
 verses:
   - number: 57
     shlok: |
-      यस्याः पङ्केऽपि सूते तपति सुरपतिः शौरिराक्रन्दयुक्तः ।
-      जुष्टं दृष्ट्वा प्रियसमा अनुनय शान्तिं विलोक्य ॥
-      रे रे नाकाधिपत्वं किमिति विजह्यो यत्स्मरन्तातन्मो-
-      न्निता राहूतः ॥ ५७ ॥
+      यस्याः पङ्केऽपि रङ्को हसति सुरपतिं स्वैरवृत्त्या प्रतुष्टः
+      जुष्टं दृष्ट्वा प्रियाया अनुनयवचनैः शान्तिदानं विलोक्य ।
+      रे रे नाकाधिप! त्वं किमिति निजयशो म्लापयस्य[unclear: स्वदित्वा]
+      नैवाम्भो विष्णुपद्याः सपदि तु समाचम्य मुक्तिं भजेथाः ॥ ५७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्रग्धरा। पाद १–३ शुद्ध। पाद ३ का अन्तिम शब्द अनिश्चित है: अक्षर "स्वतन्मो" जैसे दिखते हैं; हिन्दी ("जल का पान न कर") के आधार पर "स्वदित्वा" सम्भावित है। पाद ४ के मध्य खण्ड ("सपदि तु समाचम्य") में छन्दोभङ्ग है (७ के स्थान पर ६ लघु-गुरु क्रम ठीक नहीं बैठता); पाण्डुलिपि यथावत्। पूर्व पाठ "रङ्को … शौरिराक्रन्दयुक्तः / प्रियसमा अनुनय शान्तिं / … विजह्यो यत्स्मरन्तातन्मो- / न्निता राहूतः" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Sragdharā. Pādas 1–3 scan. The last word of pāda 3 is uncertain: the letters look like "स्वतन्मो"; "स्वदित्वा" (tasting) is likely from the Hindi ("not drinking the water"). The middle segment of pāda 4 ("सपदि तु समाचम्य") does not scan; kept as written. The earlier reading ("… शौरिराक्रन्दयुक्तः / प्रियसमा अनुनय शान्तिं / … विजह्यो यत्स्मरन्तातन्मो- / न्निता राहूतः") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        In whose mud even a pauper, content in his own free way of life, laughs at the lord of the gods, seeing him soothed only by his beloved's entreating words: "Ho, lord of heaven! Why do you let your fame fade, not [unclear: tasting] the water of Viṣṇupadī? Sip it at once and win liberation." (57)
     translation:
       author: amanuensis
       text: |
-        जल के पंक में भी फंसा हुआ गरीब अपनी तृप्ति के अन्त पर होकर देवराज इन्द्र की खिल्ली उड़ाता है। उसकी प्रियतमा इन्द्राणी के प्रीति एवं तनिक मम अनुनयवचनों में शान्ति दान को देखकर कि- हे इन्द्र अनर्वाचित गङ्गा के पावन जल का पान न कर क्यों अपने यश को धूमिल कर रहे हो (यह है भर्त्सना कभी भी कुछ बिगड़ा नहीं सोचता पूर्वक गङ्गा जल पान कर मुक्ति के भागी बनो (यह है आहुति वचन) ॥ ५७ ॥
+        जिस गङ्गा के कीचड़ में भी सना हुआ गरीब अपनी वृत्ति से सन्तुष्ट होकर देवराज इन्द्र की खिल्ली उड़ाता है। अपनी प्रियतमा इन्द्राणी के प्रीति एवं भर्त्सनामय अनुनयवचनों से शान्तिदान को देखकर कि - अरे-ओ स्वर्गाधिप! गङ्गा के पावन जल का पान न कर क्यों अपने यश को धूमिल कर रहे हो (यह है भर्त्सना) अभी भी कुछ बिगड़ा नहीं शीघ्रतापूर्वक गङ्गाजल पान कर मुक्ति के भागी बनो (यह है प्रीति वचन) ॥ ५७ ॥
     notes:
       author: grandfather
       text: |
-        असहाय गरीब व्यक्ति अपने मनोरथ अनुसार देवराज इन्द्र की भी खिल्ली उड़ाता है। देवराज इन्द्र को भी सरोजिनियों का सिञ्चन करते हुए आदरसहितपूर्वक कहता है- हे इन्द्रानी! देवराज इन्द्र भी अपनी प्रियतमा शची के अनुनय एवं अमन्द अश्रुपूरित मन्दिरों में विविध अनुनय वचनों द्वारा अशान्ति को पार कर ही? अहो! दुःख के समय में देवराज महेन्द्र को आज भी भगवती स्वच्छन्दिनी देवी गङ्गा के ५७
+        अरी माँ विष्णुपगे! आपके कीचड़ में भी सना हुआ अत्यन्त दरिद्र व्यक्ति अपनी दयनीय स्थिति में सन्तुष्ट रहता हुआ भी परमैश्वर्यशाली देवराज इन्द्र की भी सर्वलक्ष्मी का तिरस्कार करते हुए उपहासपूर्वक कहता है कि हे देवराज, महेन्द्र! आज भी आप अपनी प्रियतमा शची देवी के प्रणयपूर्ण एवं समयोचित भर्त्सनापूर्ण विविध अनुनयवचनों द्वारा शान्ति को पा रहे हो? अरे स्वर्लोकाधिपति महाराज महेन्द्र! क्यों आज भी आप भगवती स्वर्धुनी देवी गंगा के जल का पान न कर अपनी देवाधिराज की महनीय यशस्विता का विनाश क्यों कर रहे हैं जिससे आपकी यशःमलिनता विश्व में व्याप्त हो रही है। अरे! अभी क्या बिगड़ा है? देवराज! अभी आप तत्काल अत्यन्त शीघ्रतापूर्वक गङ्गाजल का पान कर सद्यः मुक्तिफल प्राप्त करें एवं यशस्वितालाभ भी। भगवती गङ्गा के प्रति विरक्त व्यक्तियों के प्रति भर्त्सनापूर्वक अनुनयवचनों से गङ्गा महिमा का सदुपदेश है। ५७
     translation_en:
       author: ai_translation
       text: |
-        Even a humble pauper standing in the shallows of Mother Gaṅgā laughs at the fleeting sovereignty of Indra, King of the Gods. Beholding the solace sought by celestial lords amidst their sorrowful pleas, he calls out: 'O Sovereign of Heaven! Why tarnish your glory by ignoring this nectar? Partake of the sacred waters of Gaṅgā and attain everlasting liberation!'
+        A poor man, smeared even with the mud of the Gaṅgā, content with his way of life, mocks Indra, king of the gods. Seeing [Indra] given peace by the loving yet chiding words of entreaty of his beloved Indrāṇī, [he says]: "Ho there, lord of heaven! Why are you dimming your fame by not drinking the holy water of the Gaṅgā?" (this is the rebuke); "nothing is lost yet; drink Gaṅgā water quickly and become a sharer in liberation" (these are words of affection). (57)
     notes_en:
       author: ai_translation
       text: |
-        A humble, destitute mortal, taking shelter along the banks of Mother Gaṅgā, looks with pity upon the ephemeral vanity of heavenly kingship. Even Indra, amidst celestial distress, finds true solace and peace only by surrendering before the holy stream of Mother Gaṅgā. The poet reminds us that true sovereignty lies not in heavenly thrones, but in drinking the purifying waters of Gaṅgā and securing eternal peace for the soul.
+        O Mother, who flows from Viṣṇu's foot! A very poor man, smeared even with your mud, though content in his pitiable state, scorns all the wealth even of Indra, the supremely glorious king of the gods, and says mockingly: "King of the gods, Mahendra! Even today do you find peace through the many loving, timely and chiding words of entreaty of your beloved, the goddess Śacī? Ho, lord of the heavenly world, great king Mahendra! Why, even today, do you not drink the water of the goddess Gaṅgā, the heavenly river, and so destroy the great glory that belongs to you as overlord of the gods, so that the stain on your fame spreads through the world? Ho! What is lost yet? King of the gods! Drink Gaṅgā water now, at once, with all speed, and gain immediately the fruit of liberation, and the gain of fame as well." Through words of entreaty that chide those indifferent to the goddess Gaṅgā, this is good teaching on the greatness of Gaṅgā. (57)
   - number: 58
     shlok: |
-      निःशब्देऽपि प्रदेशे मन्दकलकलनातत्परैः शब्द जालैः
-      राह्वायाह्वय जीवान् वितरति सततं लेखनं जीवनम् ।
-      तन्मेऽह्याद्रैः सुदयामयो ममल कल्पयामि नितान्तम् ॥ ५८ ॥
+      निःशब्देऽपि प्रदेशे कलकलकलनातत्परैः शब्दजालै-
+      राहूयाहूय जीवान् वितरसि सततं जीवनं जीवनाय ।
+      क्वेदं दृष्टं दयार्द्रं हृदयमिति चिरं चिन्तयन्तः सदैव
+      त्वय्येवाऽऽलम्ब्य मातर्जनुरिदममलं कल्पयामो नितान्तम् ॥ ५८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्रग्धरा (चारों पाद शुद्ध)। पाद ३ में "चिन्तयन्" के बाद एक शब्द काटा गया है। पूर्व पाठ "मन्दकलकलनातत्परैः / … लेखनं जीवनम् / तन्मेऽह्याद्रैः सुदयामयो ममल कल्पयामि नितान्तम्" (पाद ३–४ एक में मिले) भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Sragdharā (all four pādas scan). In pāda 3 a word after "चिन्तयन्" is struck out. The earlier reading ("मन्दकलकलनातत्परैः / … लेखनं जीवनम् / तन्मेऽह्याद्रैः सुदयामयो ममल कल्पयामि नितान्तम्", with pādas 3–4 run together) was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Even in a soundless region, with nets of sound intent on murmuring, you call and call to living beings and constantly give them water (life) for their living. Ever pondering, 'Where has such a heart, moist with compassion, been seen?', we, resting on you alone, Mother, make this birth wholly pure." (58)
     translation:
       author: amanuensis
       text: |
-        निर्जन देश में भी अपनी कलकल मधुर ध्वनिसमूहों से जीवों को बार-बार बुलाकर निरन्तर जीवित रहने के लिए प्राणप्रद जीवन (जल) प्रदान करती हो। इस प्रकार दया के आर्द्र (ओतप्रोत) हृदय किसने कहाँ देखा? इस बात का सतत चिन्तन करता हुआ हे माँ! आपके दयाद्र जल को प्राप्त कर मैं अपने इस जन्म को निष्पाप बनाता हूँ ॥ ५८ ॥
+        क्योंकि हे गङ्गे! आप धन्य हो, निर्जन प्रदेश में भी अपनी कलकल मधुर ध्वनिसमूहों से जीवों को बार-बार बुलाकर निरन्तर जीवित रहने के लिए प्राणप्रद जीवन (जल) प्रदान करती हो। इस प्रकार दया से आर्द्र (ओतप्रोत) हृदय किसने कहाँ देखा? इसी बात का सतत चिन्तन करता हुआ हे माँ! आपका ही आश्रय ग्रहण कर मैं अपने इस जन्म को निर्मल बनाता हूँ ॥ ५८ ॥
     notes:
       author: grandfather
       text: |
-        अरी माँ गङ्गे! निर्जन एकान्त में निःशब्द स्थानों में भी अनिर्वचनीय शब्दवालियों से विविध जीव समूहों को अपने पास बुलाकर उन्हें जीवित रहने के लिए अपना जीवन (जलराशि) निःसंकोच वितरण करती रहती हो। अरी माँ गङ्गे! आप जैसी दयाद्र हृदयवाली जल की धारा कहीं किसी ने देखा है? उन्हीं बातों का निरन्तर विचार करता हुआ मैं इस भूजीवन को निर्मल बनाकर आपमें समाहित होना चाहता हूँ। ५८
+        अरी माँ गङ्गे! क्या कोई तुम्हारी [unclear: तुलना कर सकता] है? क्योंकि माँ, जनशून्य एकान्त निःशब्द स्थानों में भी निरन्तर कलकल मधुर ध्वन्यात्मक शब्दावलियों से विविध जीव समूहों को अपने निकट बुलाकर उन्हें जीवित रहने के लिए अपना जीवन (जलराशि) निःसंकोच वितरण करती रहती हो। अरी माँ गङ्गे! आपजैसी दयार्द्र हृदयवाली जननी क्या कहीं किसीने देखा है? इन्हीं बातों को निरन्तर विचार करता हुआ आज मैं इस क्षुद्र जीवन को निर्मल बनाकर आपमें समाहित होना चाहता हूँ। ५८
     translation_en:
       author: ai_translation
       text: |
-        'Even in uninhabited, silent wildernesses, through the gentle murmuring symphony of your cascading waters, You summon all living creatures and unreservedly bestow upon them life-giving sustenance. Who in the worlds has ever witnessed such a heart overflowing with tender mercy? Contemplating this boundless compassion, O Mother, I purify this earthly existence in Your holy waters.'
+        "For, O Gaṅgā, you are blessed: even in a deserted land, with your sweet murmuring sounds you call living beings again and again and constantly give them life-giving water (jīvana) so that they may live. Who has ever seen, anywhere, a heart so moist (steeped) with compassion? Constantly thinking of this, O Mother, taking refuge in you alone, I make this birth of mine pure." (58)
     notes_en:
       author: ai_translation
       text: |
-        'O Mother Gaṅgā! Even in desolate, silent solitudes, with sweet ineffable murmurs, You call forth all wandering creatures and generously shower upon them Your very life-essence—Your nectarine waters. Where in all existence has anyone witnessed a river of such overflowing, maternal mercy? Meditating perpetually upon Your boundless compassion, I yearn to purify my mortal life and merge my soul into Your holy presence.'
-source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude. Verse 57's full shlok/translation/notes are captured here; only its commentary's tail end (the closing words) appears on the previous page (p028.yml), marked there as continuing onto this page."
+        "O Mother Gaṅgā! Can anyone [unclear: compare with] you? For, Mother, even in lonely, deserted, soundless places, with your constant sweet murmuring strings of sound you call many kinds of creatures near you and freely keep giving them your life (your waters) so that they may live. O Mother Gaṅgā! Has anyone anywhere seen a mother with a heart as moist with compassion as yours? Constantly thinking on these things, today I wish to make this petty life pure and to merge into you." (58)
+notes_uncertain: true
+source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude. The end of v57's notes is written on the facing sheet (images/pages/p029_overflow.jpg) and is joined to the notes here (2026-10-24)."

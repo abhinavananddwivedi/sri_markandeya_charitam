@@ -6,32 +6,56 @@ image: "images/pages/p001.jpg"
 verses:
   - number: 1
     shlok: |
-      विधातु रद्भूतायते मतिर्यदा
-      स्व नैपुणं दर्शयितुं कियानिधौ।
-      करोति प्रसिद्धमसाधारणं कर्म निभृतं
-      तदा वरं लज्जि तदेवमज्जला ॥ १ ॥
+      विधातुरुद्बोदयते मतिर्यदा
+      स्वनैपुणं दर्शयितुं क्रियानिधौ ।
+      करोत्यसाधारणकर्म निभृतं
+      तदा वरं लज्जितदेवमञ्जसा ॥ १ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद ३ में "करोत्य" के बाद एक शब्द काटा गया है; "निभृतं" हस्तलेख का पाठ है (छन्द दसवें वर्ण को गुरु चाहता है)। पाद १ "रुद्बोदयते" (= उद्बोधयते)। पूर्व पाठ "रद्भूतायते … कियानिधौ … करोति प्रसिद्धमसाधारणं कर्म … लज्जि तदेवमज्जला" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. In pāda 3 a word after "करोत्य" is struck out; "निभृतं" is the manuscript reading (the metre wants the tenth syllable heavy). Pāda 1 "रुद्बोदयते" (= udbodhayate). The earlier reading ("रद्भूतायते … कियानिधौ … करोति प्रसिद्धमसाधारणं कर्म … लज्जि तदेवमज्जला") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        When the Creator's mind awakens to show its own skill in the treasury of works, it quietly makes an extraordinary work, an excellent one that at once puts the gods to shame. (1)
     translation:
       author: amanuensis
       text: |
-        काव्य-निर्माण कार्य में अपनी निपुणता प्रकट करने के लिये बाल निर्माता की उचित बुद्धि प्रकट होती है, तथा प्रसिद्ध असाधारण कार्य की सिद्धि होती है, तथापि उसी कार्य को पूर्ण करने के लिये एकाएक (सहसा) लज्जित होना उचित ही है ॥ १ ॥
+        काव्य-निर्माण कार्य में अपनी निपुणता प्रकट करने के लिये बाल निर्माता की उचित बुद्धि प्रकट होती है, तभी प्रसिद्ध असाधारण कार्य की सिद्धि होती है, तथापि उसी कार्य को पूर्ण करने के लिये एकाएक (सहसा) लज्जित होना उचित ही है ॥ १ ॥
     notes:
       author: grandfather
       text: |
-        अनन्त ब्रह्माण्ड नायक ईश्वर सिरजन सृष्टि संरचना में व्याप्त रहने के कारण कबीर अपनी उत्कृष्टतम कला का निदर्शन प्रस्तुत करना चाहते हैं, उस समय वह अपनी सर्वोच्च उच्चतम कला नैपुण्य की पूर्णता का परिचय देने के लिए अपना सर्वस्व समर्पित कर अद्भुत अभिनव सृष्टि की संरचना करते हैं, जिससे सृष्टि के सर्वोत्तम स्वरूप दैवी सम्पत्तियों से परिपूर्ण देवताओं को भी अपनी उच्चतम कला से लज्जित करते हुए उसे भी अद्भुत अनुपम पूर्ण प्रसंसक की सृष्टि कर लेते हैं।
+        अनन्त ब्रह्माण्ड नायक स्रष्टा विधाता सृष्टि संरचना में व्याप्त रहने के कारण कभी २ अपनी उत्कृष्टतम कला का निदर्शन प्रस्तुत करना चाहते हैं, उस समय वह अपनी सर्वोच्च उच्चतम कला नैपुण्य की पूर्णता का परिचय देने के लिए अपना सर्वस्व समर्पित कर अद्भुत अभिनव सृष्टि की संरचना करते हैं, जिससे सृष्टि के सर्वोत्तम स्वरूप दैवी सम्पत्तियों से परिपूर्ण देवताओं को भी अपनी उच्चतम कला से लज्जित करते हुए उनसे भी अद्भुत अनुपम पूर्ण [unclear: पुरुष] की सृष्टि करते हैं।
     translation_en:
       author: ai_translation
       text: |
-        When the mind of the Creator is moved with wonder to reveal its supreme mastery within the vast realm of poetic creation, it quietly accomplishes a renowned and extraordinary feat; yet, in undertaking such a monumental task, feeling a sudden, humble hesitation is indeed natural and fitting.
+        To show skill in the work of making a poem, the apt intellect of a young maker comes forth, and only then is a renowned, extraordinary work accomplished; even so, it is fitting that he should suddenly feel abashed at completing that very work. (1)
     notes_en:
       author: ai_translation
       text: |
-        The Sovereign Lord of the infinite cosmos, ever engaged in the marvel of universal design, chooses at times to manifest His most sublime artistry. In those moments, to reveal the pinnacle of creative perfection, He pours His entire essence into crafting an extraordinary, novel creation—one whose breathtaking beauty excels even the divine splendor of celestial beings, evoking boundless wonder and adoration across all realms.
+        The Creator, maker and leader of the endless universe, being engaged in the work of creation, sometimes wishes to present an example of his finest art. At that time, to show the fullness of his highest skill, he gives his all and creates a wonderful new creation, by which, putting to shame with his highest art even the gods, the best form of creation, full of divine wealth, he creates a [unclear: being] more wonderful, matchless and complete than they. (1)
   - number: 2
     shlok: |
       क्व जीवितं स्वल्पतरं कलेर्बलात्
-      क्व सप्तकल्पावधि जीवनो मुनेः।
+      क्व सप्तकल्पावधि जीविनो मुनेः ।
       मृकण्डुसूनोश्चरितस्य लेखनं
-      परं श्रये स्थापि तु लौहलेखनीम् ॥ २ ॥
+      परं श्रये स्थापितलौहलेखनीम् ॥ २ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद ४ "स्थापितलौहलेखनीम्" (पूर्व पाठ "स्थापि तु लौहलेखनीम्" भ्रान्त था)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. Pāda 4 reads "स्थापितलौहलेखनीम्"; the earlier reading "स्थापि तु लौहलेखनीम्" was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Where is life, made very short by the force of the Kali age, and where the sage whose life lasts for seven kalpas? Yet, to write the story of Mṛkaṇḍu's son, I take up an iron pen and rely on it. (2)
     translation:
       author: amanuensis
       text: |
@@ -39,13 +63,14 @@ verses:
     notes:
       author: grandfather
       text: |
-        आज मैं उसी उदात्ततम संरचना के एक कड़ी की संस्मृति में अपनी इस कलजुगी स्थाणु लोह निर्मित लेखनी द्वारा उनका यशोवर्णन करना चाहता हूँ, यद्यपि हम सांसारिक प्राणियों का जीवन स्वतः क्षणिक एवं नगण्य है उसमें भी इस घोर कलिकाल का प्रभाव भी! फिर भी आज मैं अपने इस क्षणिक जीवन में सप्तकल्पान्त की लम्बी जीवन यात्रा करने वाले (सप्त-कल्प तक चिरंजीवी) महामुनि मार्कण्डेय जी के उदात्ततम जीवन की कथा का वर्णन जो सर्वथा दुष्कर है, फिर भी उसकी चर्चा करना चाहता हूँ।
+        आज मैं उसी उदात्ततम संरचना के एक कड़ी की संस्मृति में अपनी इस कलयुगी स्थाणु लौह निर्मित लेखनी द्वारा उनका यशोवर्णन करना चाहता हूँ, यद्यपि हम सांसारिक प्राणियों का जीवन स्वतः क्षणिक एवं नगण्य है उसमें भी इस घोर कलिकाल का दुष्प्रभाव भी! फिर भी आज मैं अपने इस क्षणिक जीवन में सप्तकल्पान्त की लम्बी जीवन यात्रा करने वाले (सप्त कल्प तक चिरंजीवी) महामुनि मार्कण्डेय जी के उदात्ततम जीवन की कथा का वर्णन जो सर्वथा दुष्कर है, फिर भी उसकी चर्चा करना चाहता हूँ।
     translation_en:
       author: ai_translation
       text: |
-        Where is my fleeting mortal lifespan, curtailed by the debilitating weight of the Kali age, and where is the immortal sage Mārkaṇḍeya, whose life spans seven cosmic cycles (kalpas)? Yet, to chronicle the sublime life of this noble son of Mṛkaṇḍu, I take refuge in this iron pen.
+        Where is my short life, under the influence of the Kali age, and where the sage Mārkaṇḍeya, who lives for seven kalpas? To write the life of such a one, Mārkaṇḍeya, son of Mṛkaṇḍu, I take the support of my iron pen. (2)
     notes_en:
       author: ai_translation
       text: |
-        Today, in reverent memory of that most exalted divine lineage, I endeavor to sing his glorious renown using this iron-nibbed pen of the Kali era. Though the lifespan of us worldly mortals is inherently fleeting and insignificant—further diminished by the dark age of Kali—I nevertheless dare to embark upon narrating the sublime life-story of Mahāṛṣi Mārkaṇḍeya, the death-conquering sage who lives across seven kalpas. Though this undertaking is supremely difficult, my heart is filled with the ardent yearning to recount his sacred tale.
+        Today, in remembrance of one link of that most exalted creation, I wish to describe his glory with this iron pen of the Kali age, rigid as a post. The life of us worldly beings is fleeting and insignificant in itself, and on top of that there is the influence of this terrible Kali age! Even so, today, in this fleeting life of mine, I wish to tell the most exalted life story of the great sage Mārkaṇḍeya, who makes the long journey of life to the end of seven kalpas (living for seven kalpas). Although this is altogether difficult, I still wish to speak of it. (2)
+notes_uncertain: true
 source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude."

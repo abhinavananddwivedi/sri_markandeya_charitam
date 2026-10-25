@@ -1,0 +1,65 @@
+page_number_devanagari: "११४"
+page_number_arabic: 114
+image: "images/pages/p114.jpg"
+verses:
+  - number: 55
+    shlok: |
+      उत्तरेण परितोष्य जनांस्तान्
+      हर्षयद्भिरखिलांश्च समुत्कान्।
+      मार्गसत्कृतसमाननिकेतैः
+      प्रापितैः स्थितिरवापि सुसत्त्वा॥ ५५॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाण्डुलिपि में पाद १ में `उत्तरेण परितोष्य जनांस्तान्`, पाद २ में `हर्षयद्भि रविलाल समुत्कौः` (अखिलांश्च समुत्कान् = सभी उत्सुक लोगों को आनन्दित करते हुए), पाद ३ में `मार्गसत्कृत समाननिकेतैः`, तथा पाद ४ में `प्रापिते स्यन्चिति स्थानमुवाप` (स्थान प्राप्त किया) अंकित है। गत टिप्पणी के अशुद्ध 'आये एस्तों के' के स्थान पर बाबाजी का मूल हस्तलेख स्पष्टतः 'आराम के लिए आधे रास्ते में डेरा (स्थान) बनाया' है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). Pāda 1 depicts gratifying the people with answers. Pāda 2 portrays gladdening the eager bystanders. Pādas 3-4 describe obtaining a restful midway encampment suited to their honor. In the Hindi commentary, the earlier erroneous transcription `आये एस्तों के` is corrected to the manuscript's authentic phrase: `आराम के लिए आधे रास्ते में डेरा (स्थान) बनाया`.
+    translation:
+      author: amanuensis
+      text: |
+        मध्यमार्ग में डेरा डालने के लिए उत्सुक लोगों ने प्रश्न कर्त्ताओं के अपने उत्तर से आनन्दित करते हुए अपने अनुरूप सत्कार योग्य मध्यमार्ग में निवास स्थान प्राप्त किया॥ ५५॥
+    notes:
+      author: grandfather
+      text: |
+        यों मार्ग में चलते हुए वरण करने वालों ने आराम के लिए आधे रास्ते में डेरा (स्थान) बनाया उस समय उत्सुक मार्ग में रहने वालों ने इस उक्त सम्बन्ध में जो प्रश्न किया था किसको है? कहाँ से है? इत्यादि का सम्यक उत्तर देते हुए उन सब को अपने हरिविषयक आन्दोलित किया, साथ ही उन लोगों द्वारा समुचित सत्कारादि से भी तृप्त हुए। ५५
+    translation_en:
+      author: ai_translation
+      text: |
+        Along the midpoint of their journey, eager to pitch camp, they delighted the curious questioners with answers, and secured a resting encampment worthy of hospitable reception in the midway region. (Verse 55)
+    notes_en:
+      author: ai_translation
+      text: |
+        Thus traveling along the road, the members of the bridal delegation pitched a midway encampment to rest. At that juncture, the curious wayside inhabitants posed questions: "For whom is this? Whence has it come?" In response, they gave thorough explanations that inspired everyone with spiritual joy concerning Lord Hari, while they themselves were fully satisfied by the generous hospitality accorded by the local residents. (55)
+  - number: 56
+    shlok: |
+      एवमेव बहुजानपदैस्तैः
+      स्वागतेन परितुष्टमनोभिः।
+      दाक्षिमुख्यवरयातृगणैः प्रा-
+      ग्गम्यते स्म गमनीयदिशैव॥ ५६॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाण्डुलिपि में पाद १ में `एवमेव बहुजानपदैस्तैः`, पाद २ में `स्वागतेन परितुष्टमनोभिः` (११ वर्ण), पाद ३-४ में `दाक्षिमुख्यचरितुर्गलैः प्राग्गम्यते स्म गमनीयदिशैव॥५६॥` अंकित है। अनुवाद में गत पाठ के भ्रष्ट 'दक्षिण प्रधान भारतीयों' के स्थान पर शुद्ध 'दाक्षि प्रधान बारातियों ने' (वरपक्षीय सम्भार-दल) तथा व्याख्या में 'गणप्रमुख दाक्षि मुनि के संरक्षण में' है। दाक्षिणात्य मुनि वस्तुतः महर्षि दाक्षि (Dākṣi) हैं जो इस यात्रा-दल के मुख्य संरक्षक हैं।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). Pādas 1-2 (`ए-व-मे-व ब-हु-जा-न-प-दै-स्तैः`, `स्वा-ग-ते-न प-रि-तु-ष्ट-म-नो-भिः`) scan in clean 11-syllable Rathoddhatā. Pādas 3-4 describe the bridal procession proceeding forward (`प्राग्गम्यते स्म गमनीयदिशैव`). In Hindi, the earlier misreading `दक्षिण प्रधान भारतीयों` is emended to the authentic `दाक्षि प्रधान बारातियों ने` (the wedding procession led by Sage Dākṣi), and the notes clarify that Sage Dākṣi (Dākṣi Muni) is the chief guardian of this delegation.
+    translation:
+      author: amanuensis
+      text: |
+        इस प्रकार जनपद निवासियों द्वारा स्वागत करने से सन्तुष्ट मन वाले दाक्षि प्रधान बारातियों ने अपने गन्तव्य दिशा में प्रस्थान किया॥ ५६॥
+    notes:
+      author: grandfather
+      text: |
+        मार्ग में जाते हुए उन लोगों को मार्ग के रहने वाले विविध जनपद वासियों ने सविधि उत्तम सत्कार सम्मान किया जिससे वे सभी अत्यन्त प्रसन्न एवं मुदित तथा पूर्ण रूप से सन्तुष्ट मन से गणप्रमुख दाक्षि मुनि के संरक्षण में बारातियों ने भी अपने गन्तव्य मार्ग का अनुसार किया। ५६
+    translation_en:
+      author: ai_translation
+      text: |
+        In this manner, with minds gratified by the hospitable welcome extended by the countryside residents, the wedding procession led by Sage Dākṣi set forth in the direction of their destination. (Verse 56)
+    notes_en:
+      author: ai_translation
+      text: |
+        As they journeyed along the way, inhabitants of diverse rural realms welcomed and honored them with high esteem according to traditional custom. Consequently, the procession members—thoroughly delighted, joyful, and completely contented—followed their designated route onward under the protective guidance of Sage Dākṣi, the foremost leader of their delegation. (56)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

@@ -4,46 +4,71 @@ image: "images/pages/p016.jpg"
 verses:
   - number: 31
     shlok: |
-      मुनी पुराणौ शतशः श्रुतो मया
-      तपश्चरन्तावति दीर्घकालतः ।
-      तौ कृतार्थो युष्मद्विलोकनात्
-      न्मनः सन्नितिमेति सर्वतः ॥ ३१ ॥
+      मुनी पुराणौ शतशः श्रुतौ मया
+      तपश्चरन्तावतिदीर्घकालतः ।
+      दृशौ कृतार्थे युवयोर्विलोकनात्
+      मनः परां निर्वृतिमेति सर्वतः ॥ ३१ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पूर्व पाठ के पाद ३–४ ("तौ कृतार्थो युष्मद्विलोकनात् / न्मनः सन्नितिमेति…") भ्रान्त थे।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). The earlier reading of pādas 3–4 ("तौ कृतार्थो युष्मद्विलोकनात् / न्मनः सन्नितिमेति…") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Hundreds of times I have heard of the two ancient sages practising austerity for a very long time. My eyes are fulfilled by seeing you two, and my mind attains supreme bliss on every side." (31)
     translation:
       author: amanuensis
       text: |
-        मैंने प्राचीन दो मुनि दीर्घकाल से तप कर रहे हैं यह बात अनेक बार सुना था। किन्तु सम्प्रति आप दोनों के दर्शन से मेरी दृष्टि कृतार्थ हो गई और मन इससे आनन्दित है ॥ ३१ ॥
+        मैंने प्राचीन दो मुनि अतिदीर्घकाल से तपस्या कर रहे हैं यह बात अनेक बार सुना था। किन्तु सम्प्रति आपदोनों के दर्शन से मेरी दृष्टि कृतार्थ हो गई और मन पूर्णरूप से आनन्दित हो रहा ॥ ३१ ॥
     notes:
       author: grandfather
       text: |
-        हे विभो! मैंने अनेक बार सुन रखा है कि दो अद्भूत प्रवर (नर-नारायण नामक) अनन्त प्राचीन काल से अपन नियमों से तपस्या करते हुए रह रहे हैं, मुझे लगता है कि वे दोनों श्रेष्ठ आप ही हैं, आज आप युगल दोनों के दर्शन करने मात्र से मेरी ये दोनों आँखें धन्य हो गईं, मैं कृतार्थ हुआ, आज मेरा मन अत्यन्त प्रफुल्लित होकर आनन्दातिरेक से प्रफुल्लित हो उठा है ॥ ३१ ॥
+        हे विभो! मैंने अनेक बार सुन रखा है कि दो ऋषि प्रवर (नरनारायण नामक) अनन्त प्राचीन काल से अगणित दिनों से तपस्या करते हुए रह रहे हैं, मुझे लगता है वे दोनों मुनि आप ही हैं, आज आप युगल (दोनों) के दर्शन करने मात्र से मेरी ये दोनों आँखें धन्य हो गईं, मैं कृतार्थ हुआ, आज मेरा मन अत्यन्त प्रफुल्लित होकर आनन्दातिरेक से प्रफुल्लित हो उठा है। ३१
     translation_en:
       author: ai_translation
       text: |
-        'O Venerable Lords! Hundreds of times have I heard of the two primeval sages who have been performing rigorous austerities since ancient antiquity. Today, by beholding you both directly, my eyes are truly blessed, and my soul has attained supreme fulfillment and serenity in every way.'
+        "I had heard many times that two ancient sages have been practising austerity for a very long time. But now, by seeing you both, my sight has been fulfilled and my mind is wholly joyful." (31)
     notes_en:
       author: ai_translation
       text: |
-        'O Omnipresent Lords! Countless times have I heard that two extraordinary, eternal sages—Nara and Nārāyaṇa—have been performing relentless penance in these sacred realms since time immemorial. I perceive with certainty that you are indeed those very supreme beings! Today, simply by the darśana of your divine presence, my eyes have found their ultimate purpose, my life has become blessed, and my heart overflows with unbounded spiritual ecstasy.'
+        "Lord! I have often heard that two excellent sages (named Nara and Nārāyaṇa) have been living here practising austerity since endlessly ancient times, for countless days. I feel that you are those two sages. Today, merely by seeing you two, these two eyes of mine are blessed, I am fulfilled, and today my mind, greatly delighted, has blossomed with overflowing joy." (31)
   - number: 32
     shlok: |
       तपो निहन्तुं प्रहिता सुराङ्गना
-      दिवौकसामप्सरसो वृषणा ।
-      उरु विनिर्मित वरोरुमुर्वशीं
+      दिवौकसामप्सरसो वृषेण [unclear] ।
+      ऊरुं विनिर्भिद्य वरोरुमुर्वशीं
       समेत्य जग्मुः स्वपुराण्यमर्षिताः ॥ ३२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ/इन्द्रवंशा (उपजाति)। पाद २ पाण्डुलिपि में "दिवौकसामप्सरसो वृषेण" लिखा है, जो एक अक्षर कम (११) है; कोई अक्षर छूटा प्रतीत होता है। पाद ३ में "विनिर्भिद्य" का पाठ अर्थ (नारायण की ऊरु से उर्वशी) के आधार पर; अक्षर "विनिर्मिद्य" जैसे दिखते हैं। पूर्व पाठ "वृषणा / उरु विनिर्मित" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha/Indravaṃśā (Upajāti). Pāda 2 is written "दिवौकसामप्सरसो वृषेण", one syllable short (11); a syllable seems to have dropped out. In pāda 3, "विनिर्भिद्य" is read from the sense (Urvaśī from Nārāyaṇa's thigh); the letters look like "विनिर्मिद्य". The earlier reading ("वृषणा / उरु विनिर्मित") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "The divine women, the apsarases of the dwellers in heaven, sent by Indra to destroy [your] austerity, met Urvaśī of the lovely thighs, whom [Nārāyaṇa] produced by splitting open his thigh, and went back to their own city, indignant." (32)
     translation:
       author: amanuensis
       text: |
-        इन्द्र ने उनकी तपस्या भङ्ग करने के लिए स्वर्ग से अप्सराओं को प्रेषित किया था। किन्तु नारायण ने अपने ऊरु से एक उर्वशी नामक दिव्याङ्गना उन्हें प्रदान किया, वे उससे अमर्ष से भरी हुई अपनी नगरी (स्वर्ग) चली गयीं ॥ ३२ ॥
+        इन्द्र ने उनकी तपस्या भङ्ग करने के लिए स्वर्ग से मेनकादि सुराङ्गनाओं को प्रेषित किया था। किन्तु नारायण ने अपने ऊरु से एक उर्वशी नामक दिव्याङ्गना उन्हें प्रदान किया, वे उसे लेकर अमर्ष से भरी हुई अपनी नगरी (स्वर्ग) चली गयीं ॥ ३२ ॥
     notes:
       author: grandfather
       text: |
-        सुना है ऋषियों की तपस्या से देवराज सदा भयभीत रहा करते हैं। अतः आप दोनों की तपस्या से डरकर इन्द्र ने मेनकादि दिव्य अप्सराओं को आप दोनों का तप भङ्ग करने के लिए भेजा था किन्तु भगवान् नारायण ने अपने ऊरु से निकाल कर एक अद्भूत दिव्याङ्गना उर्वशी नाम वाली को उन्हें दिया, जिसके अननिन्द्य सौंदर्य और माधुरी से व्यथित होकर सभी अप्सराएँ अमर्ष से भरी हुई उसे साथ लेकर अपनी नगरी स्वर्ग पूरी में चली गईं ॥ ३२ ॥
+        सुना है ऋषियों की तपस्या से देवराज सदा भयभीत रहा करते हैं। अतः आप दोनों की तपस्या से डरकर देवराज इन्द्र ने मेनकादि दिव्य अप्सराओं को आप [की] तपस्या भङ्ग करने के लिए भेजा था किन्तु भगवान् नारायण ने अपने ऊरु से निकाल कर एक अद्भुत दिव्याङ्गना उर्वशी नाम वाली को उन्हें दिया, जिसके अनिन्द्य सौन्दर्य और माधुरी [से] व्यथित होकर सभी अप्सरायें अमर्ष से भरी हुई उसे साथ लेकर अपनी नगरी स्वर्गपुरी में चली गईं। ३२
     translation_en:
       author: ai_translation
       text: |
-        'To disrupt your profound austerities, the King of Heaven dispatched the most alluring celestial damsels (apsaras). Yet Lord Nārāyaṇa, manifesting the exquisitely beautiful Urvaśī directly from his own thigh (ūru), bestowed her upon the gods. Humiliated and humbled by her unmatched grace, the celestial maidens retreated to heaven in bewilderment.'
+        "Indra had sent Menakā and other divine women from heaven to break your austerity. But Nārāyaṇa gave them a divine woman named Urvaśī, from his thigh; taking her, they went back to their city (heaven), filled with indignation." (32)
     notes_en:
       author: ai_translation
       text: |
-        'It is well known that Indra, sovereign of the celestials, ever fears the towering penances of great seers. Terrified by your unwavering austerities, Indra sent Menakā and the divine apsaras to shatter your meditation. However, Lord Nārāyaṇa effortlessly brought forth from his own thigh the peerless maiden Urvaśī, whose flawless beauty and celestial sweetness completely eclipsed all the apsaras. Overwhelmed by shame and awe, they took Urvaśī with them and retreated to their celestial capital of Svarga.'
+        "I have heard that the king of the gods is always afraid of the austerities of sages. So, frightened by the austerity of you both, Indra, king of the gods, sent Menakā and other divine apsarases to break your austerity. But Lord Nārāyaṇa brought out from his thigh a wonderful divine woman named Urvaśī and gave her to them; pained by her flawless beauty and sweetness, all the apsarases, full of indignation, took her with them and went to their city, Svargapurī." (32)
+notes_uncertain: true
 source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude."

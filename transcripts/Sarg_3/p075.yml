@@ -8,6 +8,10 @@ verses:
       हृद्यमन्नमथ मिष्टतर्पणम् ।
       स्वासनेऽभिसमुपाविशद् द्रुतं
       तं मृकण्डुमवदत् पराशरः ॥ ३० ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having given the cow with the madhuparka, and pleasing food, sweet and satisfying, [and] when [Mṛkaṇḍu] had quickly sat down on his seat, Parāśara spoke to Mṛkaṇḍu. (30)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Offering the ceremonial cow and the honey-curd mixture (madhuparka), along with wholesome, sweet and satisfying sustenance, Sage Parāśara seated the refreshed Mṛkaṇḍu upon an honoured seat and addressed him with sweet and gracious words.
+        Having offered a cow for the madhuparka, and [served] satisfying, sweet and tasty food, the excellent sage Parāśara expressed his heartfelt feelings in fine words to Mṛkaṇḍu, who was seated on a comfortable seat. (30)
     notes_en:
       author: ai_translation
       text: |
-        Receiving him with utmost goodwill and sublime eloquence, Sage Parāśara duly fulfilled every obligation of hospitality with delightful, wholesome food. As Sage Mṛkaṇḍu sat comfortably refreshed upon his seat and prepared to speak, Maharṣi Parāśara preempted him, speaking forth in sweet and melodious tones.
+        The sage Parāśara honoured him with excellent words full of goodwill and duly completed the hospitality with very fine, pleasing foods. After [Mṛkaṇḍa], satisfied and glad, had sat down on his seat, and just as the sage Mṛkaṇḍa was trying to say what he had to say, Maharṣi Parāśara began to speak to him in his very sweet voice. (30)
   - number: 31
     shlok: |
       वत्स वेद्मि भृगुवंशभूषणं
       धातृपुत्रमखिलाहृतदूषणम् ।
       अंशुमद्विदितवेदपूरुषं
       त्वां सदा क्रतुषु सोमभूषणम् ॥ ३१ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Child, I know you: ornament of the Bhṛgu line, son of Dhātā, who has removed every fault, radiant, knower of the Vedas and of the Person, always the ornament of the soma at sacrifices." (31)
     translation:
       author: amanuensis
       text: |
@@ -41,9 +49,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        "Dear child! I know thee well—the jewel of the Bhṛgu lineage, the virtuous son of Dhātā, completely devoid of all blemish; radiant like the sun, possessing profound knowledge of the Vedas and the Supreme Person, and ever adorned among the foremost somapāyī drinkers of soma in sacred sacrifices!"
+        "Child! I know you, the ornament of the Bhṛgu line, son of Dhātā, free of all faults. By your power you know all the Vedas; you are like the sun, and a drinker of soma at sacrifices." (31)
     notes_en:
       author: ai_translation
       text: |
-        "Beloved child! I recognize you: you are the jewel of the Bhṛgu clan, the noble son of Sage Dhātā, and entirely pure and untainted by fault. By your intense spiritual brilliance, you enhance even the splendour of the Sun God; and among those steadfast in the sacred vows of soma sacrifices, you occupy the highest, most exalted station."
+        "Dear child! I know that you are the ornament of the Bhṛgu line; you are the good son of Maharṣi Dhātā, wholly faultless and always far from faults. With your intense mass of light you strengthen even the radiance of Lord Bhāskara, and you are always the best even among those who keep the vows of soma-drinking; that is, you have the highest place among excellent soma-drinkers." (31)
 source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

@@ -1,0 +1,74 @@
+page_number_devanagari: "११४"
+page_number_arabic: 114
+image: "images/pages/p114.jpg"
+verses:
+  - number: 55
+    shlok: |
+      उत्तरेण परितोष्य जनांस्तान्
+      हर्षयद्भिरखिलान् समुत्कैः ।
+      मार्गमध्यकृतवासनिकेतैः
+      प्राप्यते स्म [unclear: उचिता] स्वनुरूपा ॥ ५५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद २ में १० वर्ण हैं (हस्तलेख के अनुसार)। पाद ३ "मार्गमध्यकृतवासनिकेतैः" (अनुवाद "मध्यमार्ग में डेरा डालने के लिए") और पाद ४ "प्राप्यते स्म ... स्वनुरूपा" ("अपने अनुरूप ... निवास स्थान प्राप्त किया"); पाद ४ का मध्य अस्पष्ट है। पूर्व निष्कासन का "मार्गसत्कृतसमाननिकेतैः / प्रापितैः स्थितिरवापि सुसत्त्वा" हस्तलेख में नहीं है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 2 has 10 syllables (as written). Pāda 3 reads "मार्गमध्यकृतवासनिकेतैः" (Hindi: "to camp midway along the road") and pāda 4 "प्राप्यते स्म ... स्वनुरूपा" (Hindi: "obtained lodging suited to them"); the middle of pāda 4 is unclear. The earlier export's "मार्गसत्कृतसमाननिकेतैः / प्रापितैः स्थितिरवापि सुसत्त्वा" is not in the manuscript.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Pleasing those people with their answers, the eager [members of the party], gladdening everyone and making their camp midway along the road, found a [unclear: fitting] lodging well suited to them. (55)
+    translation:
+      author: amanuensis
+      text: |
+        मध्यमार्ग में डेरा डालने के लिए उत्सुक लोगों ने प्रश्नकर्ताओं के अपने उत्तर से आनन्दित करते हुए अपने अनुरूप सत्कार योग्य मध्यमार्ग में निवास स्थान प्राप्त किया ॥ ५५ ॥
+    notes:
+      author: grandfather
+      text: |
+        यों मार्ग में चलते हुए वर वरण करने वालों ने आराम के लिए आधे रास्ते में डेरा (स्थान) बनाया उस समय उत्सुक मार्ग में रहने वालों ने इस उक्त सम्बन्ध में जो प्रश्न किया था किसको है? कहाँ से है? इत्यादि का सम्यक् उत्तर देते हुए उन सबको अत्यन्त हर्षित और आनन्दित किया, साथ ही उन लोगों द्वारा समुचित सत्कारादि से भी तृप्त हुए। ५५
+    translation_en:
+      author: ai_translation
+      text: |
+        The people, eager to camp midway on the road, delighted the questioners with their answers and found lodging midway on the road, fit for the honour due to them. (55)
+    notes_en:
+      author: ai_translation
+      text: |
+        Thus, as they travelled, the betrothal party made a camp (a halting place) halfway along the road to rest. At that time, the curious people who lived along the road asked about the matter: "Whose is it? Where is it from?" and so on. Giving them proper answers, the party made them all very happy and glad, and were themselves also satisfied by the fitting hospitality those people gave them. (55)
+  - number: 56
+    shlok: |
+      एवमेव बहुजानपदैस्तैः
+      स्वागतेन परितृप्तमनोभिः ।
+      दाक्षिमुख्यवरयातृगणैः प्रा-
+      ग्गम्यते स्म गमनीयदिशैव ॥ ५६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद २ "परितृप्तमनोभिः" (पूर्व निष्कासन का "परितुष्टमनोभिः" भ्रान्त था)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 2 reads "परितृप्तमनोभिः"; the earlier export's "परितुष्टमनोभिः" was a misreading.
+    shlok_en:
+      author: ai_translation
+      text: |
+        In just this way, their minds fully satisfied by the welcome of the many country people, the groom's party, led by Dākṣi, went on along the road they had to travel. (56)
+    translation:
+      author: amanuensis
+      text: |
+        इस प्रकार जनपदनिवासियों द्वारा स्वागत करने से सन्तुष्ट मन वाले दाक्षि प्रधान बारातियों ने अपने गन्तव्य दिशा में प्रस्थान किया ॥ ५६ ॥
+    notes:
+      author: grandfather
+      text: |
+        मार्ग में जाते हुए उन लोगों को मार्ग में रहने वाले विविध जनपद वासियों ने सविधि उत्तम सत्कार सम्मान किया जिससे वे सभी अत्यन्त प्रसन्न एवं मुदित तथा पूर्णरूप से सन्तुष्ट मन से गणप्रमुख दाक्षि मुनि के संरक्षण में बारातियों ने भी अपने गन्तव्य मार्ग का अनुसरण किया। ५६
+    translation_en:
+      author: ai_translation
+      text: |
+        Thus the members of the procession (bārātī), led by Dākṣi, their minds content with the welcome given by the country people, set out in the direction they were bound for. (56)
+    notes_en:
+      author: ai_translation
+      text: |
+        As they travelled, the people of the various districts along the road received and honoured them well and with due rites. So, very glad, joyful and fully content in mind, the members of the procession, under the protection of Sage Dākṣi, the leader of the party, followed the road to their destination. (56)
+notes_uncertain: true
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

@@ -8,6 +8,10 @@ verses:
       निश्चिते समयकारि गन्तुकः ।
       तिर्य्यग्गन्तिदिशि वह्निसंज्ञकायाम्
       गङ्गाया समनुमोदितो ययौ ॥ ३ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Following the path pointed out by Dākṣi, the traveller, keeping to the appointed time, went in the slanting direction called Agni's (south-east), with the Gaṅgā's approval. [Partly unclear; "दाक्षिण्या" may name Dākṣi, the sage of canto 4.] (3)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Having determined upon the path indicated by the wise sage, the resolute traveller advanced along the route bearing southeastward (in the direction of Agni), blessed and guided by the holy river Gaṅgā.
+        That travelling great soul, having settled on the hermitage pointed out by Dakṣa [the Hindi glosses "(चातुर)", "clever one"; the Sanskrit "दाक्षिण्या" suggests Dākṣi], set out on the road slanting toward the south-east, with the Gaṅgā's approval. (3)
     notes_en:
       author: ai_translation
       text: |
-        Although Sage Mṛkaṇḍu had resolved to proceed along the path described by Dakṣa's son to establish his future hermitage, he determined to follow the course of Mother Gaṅgā where her waters veer toward the southeastern quarter, advancing steadily toward his sacred goal.
+        Although the decision was to go only by the road shown to Mṛkaṇḍa by Dakṣa's son [the notes as transcribed add "(दधि)"; probably Dākṣi] for making his dwelling, he nonetheless decided to go toward his goal along the Gaṅgā's stream, which runs slanting toward the south-east, and set out in that direction. (3)
   - number: 4
     shlok: |
       वामभागमपहाय पार्वतीं
       भूमिमाशु सरलेन वर्त्मना ।
       पीतभित्ति मुपगम्य कस्यचि-
       त्तस्याश्रमेऽतिथितया न्युवास सः ॥ ४ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        Leaving the hilly land on his left and going quickly by a straight road, he reached Pītabhitti and lodged as a guest in someone's hermitage there. (4)
     translation:
       author: amanuensis
       text: |
@@ -41,9 +49,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Leaving behind the rugged mountainous terrain on his left and taking the swift and straightforward path across the plains, he reached Pītabhitti (Pīlībhīt), where he resided as an honoured guest at the pleasant hermitage of a noble householder.
+        Leaving the hilly land on his left, he went quickly by a straight road to Pītabhitti (Pīlībhīt), and stayed as a guest in someone's lovely hermitage. (4)
     notes_en:
       author: ai_translation
       text: |
-        Journeying forth from that place, the sage departed from the hilly country bordering his left flank and traversed the straight, level plains ahead until he arrived at the locality known as Pilibhit. There, welcomed into the gracious home of a virtuous householder, he rested overnight as an honored guest.
+        Going on from there, he left the hilly land on his left, walked along the straight road ahead over level ground, came to a place named Pīlībhīt, and spent the night as a guest in some good householder's lovely house or hermitage. (4)
 source: "Transcribed via antigravity by the user (2026-08/2026-09) from the manuscript scan; cross-checked against the independent Hindi/Sanskrit copy embedded in the English-translation export."

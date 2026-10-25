@@ -1,0 +1,65 @@
+page_number_devanagari: "९७"
+page_number_arabic: 97
+image: "images/pages/p097.jpg"
+verses:
+  - number: 21
+    shlok: |
+      सोऽविदं समुपलभ्य सुसिद्धौ
+      निर्वृताः प्रतिययुः प्रणिपत्य ।
+      प्रेरयंश्च निजज्ञानानभिगन्तुं
+      मैहिकादिफलसिद्धिविधौ च ॥ २१ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `सोऽविदं समुपलभ्य सुसिद्धौ` (११); पाद २: `निर्वृताः प्रतिययुः प्रणिपत्य` (११); पाद ३: `प्रेरयंश्च निजज्ञानानभिगन्तुं` (११); पाद ४: `मैहिकादिफलसिद्धिविधौ च` (११, हस्तलेखे `मैहिकादि-` सन्धि-रूपेण अथवा `ह्यैहिकादि-`)। पूर्व निष्कासन में `ऐहिकादि कलादियों में चतुर लोगों को जान के लिए` जैसे निरर्थक हिन्दी अंश थे, जिन्हें यहाँ हस्तलेख के मूल पाठानुसार शुद्ध किया गया है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. In line 4, `मैहिकादि-` represents Sandhi for `ह्यैहिकादि-` or `म-ऐहिकादि-`. The earlier critique noted meaningless Hindi phrasing; here the text is faithfully restored from the manuscript: the visiting sages, having attained peace and supreme resolution from Mṛkaṇḍu, bowed in reverence and returned satisfied, urging their acquaintances to visit him as well for spiritual and temporal fulfilment.
+    translation:
+      author: amanuensis
+      text: |
+        ऐहिकादि फलसिद्धि में चतुर लोगों को जाने के लिए प्रेरित करते हुए सुसिद्धि से समाधान को पाकर प्रणाम कर सुखी हो लौट आये ॥ २१ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्डु के विविध प्रत्यक्ष ज्ञानों की जानकारी, उनकी उस (पक्की) अनुपम सिद्धि जानकर आने वाले लोग अपनी सारी जिज्ञासा पूर्ण कर पूर्ण शान्त स्वस्थ होकर वापस जाते थे, और जो उनके अनतिव्याप्ति होते थे और वे विविध कार्यों में अपनी कार्य सिद्धि की अपेक्षा रखते उन्हें भी वे लोग मुनि मृकण्डु के पास जाने के समुत्साहित करते। २१
+    translation_en:
+      author: ai_translation
+      text: |
+        Having obtained resolution and profound peace upon witnessing his exalted accomplishment, they bowed down and departed fully contented, urging their acquaintances to approach him for the attainment of worldly and otherworldly fruits. (Verse 21)
+    notes_en:
+      author: ai_translation
+      text: |
+        Upon gaining direct knowledge of Sage Mṛkaṇḍu's diverse wisdom and witnessing his proven, peerless spiritual accomplishments, visiting seekers had all their doubts resolved and returned completely tranquil and composed; moreover, they enthusiastically encouraged their relatives and those seeking success in various endeavours to visit Sage Mṛkaṇḍu as well. (21)
+  - number: 22
+    shlok: |
+      एवमेव बहुधा श्रुतकीर्ति-
+      -र्मुद्गलो मुनिवरः कुरुवासी ।
+      दाक्षिणात्यचरितं सुश्रुत-वृत्तः
+      स्वात्मजा परिणयाय समुत्कः ॥ २२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `एवमेव बहुधा श्रुतकीर्ति-` (११); पाद २: `र्मुद्गलो मुनिवरः कुरुवासी` (११); पाद ३: `दाक्षिणात्यचरितं सुश्रुत-वृत्तः` (११, हस्तलेखे `दाक्षिणा चरितं` / `दाक्षिणात्यचरितं`); पाद ४: `स्वात्मजा परिणयाय समुत्कः` (११)। यहाँ कुरु देश के निवासी श्रेष्ठ मुनि मुद्गल द्वारा दाक्षी (दक्षिण देश से आए ऋषि) के मुख से महर्षि मृकण्डु के चरित्र का वृत्तान्त सुनकर अपनी कन्या के विवाह के लिए उत्सुक होने का वर्णन है। यह स्पष्ट करता है कि दाक्षी वह दूत/ऋषि हैं जिन्होंने दक्षिण से आकर उत्तर में मुद्गल को सूचित किया था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. Crucial textual context: Mudgala is an eminent sage residing in the Kuru realm (Kurukṣetra). Having heard Mṛkaṇḍu's noble conduct and ascetic renown reported by Dākṣi (a sage hailing from the southern realm, Dākṣiṇātya), Mudgala became eager to arrange his daughter's marriage with Mṛkaṇḍu. This directly clarifies the identity of 'Dākṣi' who appears later in the dialogue.
+    translation:
+      author: amanuensis
+      text: |
+        इस प्रकार अनेक बार कीर्ति सुनकर तथा दाक्षी द्वारा परिचय पाके सुश्रुत सुनकर कुरुवासी मुनिवर मुद्गल अपनी कन्या के विवाह के लिये उत्कण्ठित हो गये ॥ २२ ॥
+    notes:
+      author: grandfather
+      text: |
+        यों उनकी यशस्विता की पताका चारों ओर फैल रही थी, उस समय कुरुक्षेत्र निवासी महात्मा मुद्गल ने जिन्हें महर्षि दाक्षी ने इनकी सारी बातें बतलाकर पूर्ण अभिज्ञ बना दिया था वे सदाचारशील व्यक्ति थे, अपनी कन्या के विवाह के लिए उत्सुक भी थे। २२
+    translation_en:
+      author: ai_translation
+      text: |
+        In this manner, having repeatedly heard of his fame, the venerable sage Mudgala, dwelling in the Kuru country, having learned of the southern sage's account and virtues from Dākṣi, became deeply desirous of giving his own daughter in marriage. (Verse 22)
+    notes_en:
+      author: ai_translation
+      text: |
+        As the banner of Mṛkaṇḍu's renown thus spread in all quarters, the noble Sage Mudgala residing in Kurukṣetra—who had been fully apprised of all these matters by Sage Dākṣi, and who was himself a person of steadfast virtue—became extremely eager to arrange the marriage of his daughter. (22)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

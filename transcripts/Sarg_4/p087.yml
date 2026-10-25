@@ -1,0 +1,74 @@
+sarga: "अथ चतुर्थः सर्गः"
+page_number_devanagari: "८७"
+page_number_arabic: 87
+image: "images/pages/p087.jpg"
+verses:
+  - number: 1
+    shlok: |
+      तं प्रणम्य कृतनित्यविधिः प्राक्
+      स्वाशिषा किल विवर्धिततेजाः ।
+      प्रातरेव स चतुर्गवयुक्तः
+      सत्सहायवशगोऽनु चचाल ॥ १ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता (ऽ।ऽ ।।। ऽ।। ऽऽ)। हिन्दी अनुवाद में लिपिकार ने "तपस्या के बल पर भी बहुदर्शी होने के कारण उसे अपना सहायक नहीं माना" काटकर ऊपर "आशीर्वाद से" लिखा है, तथा बाएँ हाशिये में "समृद्ध तेजस्वी मुनिवर" जोड़ा है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. In the Hindi translation the amanuensis struck out "तपस्या के बल पर भी बहुदर्शी होने के कारण उसे अपना सहायक नहीं माना" and wrote "आशीर्वाद से" above it; "समृद्ध तेजस्वी मुनिवर" is added in the left margin.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having first performed his daily rites and bowed to him (Parāśara), his splendour increased by his blessing, he set out at dawn itself with his four cattle, following the guidance of his good companion. (1)
+    translation:
+      author: amanuensis
+      text: |
+        समृद्ध तेजस्वी मुनिवर नित्यकर्म करने के पूर्व उन्हें प्रणाम कर अपनी आशीर्वाद से प्रातःकाल ही चार गौ के साथ सत्सहायक के वशीभूत हो चल पड़े ॥ १ ॥
+    notes:
+      author: grandfather
+      text: |
+        इसके बाद ऋषि मृकण्डु ने नित्य क्रियादि कर लेने पर पहले मुनीश्वर पराशर जी को प्रणाम किया, उनका आशीर्वाद प्राप्त कर वे और भी अधिक तेजोदीप्त हो उठे, और प्रातःकाल ही अपने सवत्सा दोनों गायों (चार गायों) के साथ अपने सहयोगी आंगिरस ऋषि के साथ जो उच्च कोटि के सहयोगी हैं, अतः उनके अनुकूल हो चल पड़े। १
+    translation_en:
+      author: ai_translation
+      text: |
+        The sage, grown rich in splendour, bowed to him before performing his daily rites, and with his blessing set out at dawn itself with four cows, guided by his good companion. (1)
+    notes_en:
+      author: ai_translation
+      text: |
+        After this, when Sage Mṛkaṇḍu had completed his daily rites, he first bowed to the lord of sages, Parāśara. Having received his blessing, he became still more radiant. At dawn he set out with his two cows and their calves (four cattle), together with his companion, Sage Āṅgirasa, a companion of the highest rank, and so proceeded in harmony with him. (1)
+  - number: 2
+    shlok: |
+      सत्यपि स्वतपसि स्वसहाय-
+      न्नाभ्यमन्यत यतो बहुदर्शी ।
+      ईश्वरोऽपि निजशक्तिसहायः
+      सृष्टिकर्मणि बभूव समर्थः ॥ २ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Though his own austerity sufficed, being far-sighted he did not count on a helper of his own; yet even the Lord became able in the work of creation only with His own Śakti as helper. (2)
+    translation:
+      author: amanuensis
+      text: |
+        अपनी तपस्या के विद्यमान होने पर उन्होंने अपने सहायक स्वीकार नहीं किया क्यों कि वे बहुदर्शी थे। ईश्वर भी अपनी शक्ति की सहायता से ही सृष्टि कर्म में समर्थ हुआ ॥ २ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्ड यद्यपि स्वयं अपनी तपस्या की अतिशयिता से तेजोदीप्त थे, वे यद्यपि सांसारिक सम्पूर्ण वस्तुओं क्रियाओं के पूर्ण अभिज्ञ थे, उन्हें किसी सहचर या अनुचर की आवश्यकता नहीं थी किन्तु मुनि पराशर जी के दिये सहयोगी मुनि आंगिरस को उन्होंने तिरस्कार नहीं किया, क्योंकि ईश्वर भी यद्यपि सृष्टि संरचना स्वयं कर सकता है किन्तु उसने भी अपने सृष्टि संरचना में अपनी शक्ति को ही सहायिका बनाया था। २
+    translation_en:
+      author: ai_translation
+      text: |
+        Since his own austerity was present, he did not accept a helper of his own, because he was far-sighted. Even God became able in the work of creation only with the help of His own power. (2)
+    notes_en:
+      author: ai_translation
+      text: |
+        Although Sage Mṛkaṇḍa was himself radiant through the intensity of his austerity, and although he knew all worldly things and actions fully and needed no companion or attendant, he did not spurn Sage Āṅgirasa, the companion given by Sage Parāśara. For although God can create the world by Himself, He too made His own Śakti His helper in creating it. (2)
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

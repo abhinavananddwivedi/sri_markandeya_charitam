@@ -4,44 +4,71 @@ image: "images/pages/p007.jpg"
 verses:
   - number: 13
     shlok: |
-      बद्धाञ्जलिं तौ पितुराज्ञास्तरा-
-      समाप्तिमानाह भूतिनामी अनुभौ ।
-      विषय चाललोक पतिर्विधा स्वयम् ॥ १३ ॥
+      गृहीतबद्धाञ्जलिनौ पितुः पुरः
+      स्वराकृतिं नामतयाऽऽचतुर्मुखौ ।
+      मनुं पुमांसं शतरूपयाऽऽख्यया
+      स्त्रियं [unclear: व्यधात्]लोकपतिर्विधिः स्वयम् ॥ १३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। यह श्लोक हस्तलेख में धुँधला है; पाद २ और ४ का पाठ अनिश्चित है। पूर्व पाठ "बद्धाञ्जलिं तौ पितुराज्ञास्तरा- / समाप्तिमानाह भूतिनामी अनुभौ / विषय चाललोक पतिर्विधा स्वयम्" (पाद ३ अनुपस्थित) भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. This verse is faint in the manuscript; the readings of pādas 2 and 4 are uncertain. The earlier reading ("बद्धाञ्जलिं तौ पितुराज्ञास्तरा- / समाप्तिमानाह भूतिनामी अनुभौ / विषय चाललोक पतिर्विधा स्वयम्", with pāda 3 missing) was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        The two, with joined palms before their father, [asked for] their form and name; then the Creator, lord of the worlds, himself named the man Manu and the woman Śatarūpā. [Partly unclear.] (13)
     translation:
       author: amanuensis
       text: |
-        उन दोनों ने पिता के आगे हाथ जोड़कर अपनी आकृति और पति नामा (शतरूपा) की नाम तथा कर्म की याचना की। विधाता ने निश्चय किया ॥ १३ ॥
+        उन दोनों ने पिता के आगे हाथ जोड़कर अपनी आकृति और नाम की याचना की। तब लोकपति ब्रह्मा ने मनु नाम वाले पुरुष को पति तथा स्त्री आकृति वाली शतरूपा को मनु की पत्नी के रूप में निश्चित किया ॥ १३ ॥
     notes:
       author: grandfather
       text: |
-        अनन्तर उन दोनों स्त्री-पुरुषों ने अपने पूज्य पिता विधाता के समक्ष दोनों हाथों को जोड़कर अपने कार्य और नाम की याचना (माँग) की, कि—"पिताजी! हम लोगों का नाम क्या होगा? तथा कर्म क्या होगा?" यह सुन पितामह आदि स्रष्टा ने कहा कि—"हे वत्स! तुम्हारा नाम मनु एवं इस स्त्री का नाम शतरूपा होगा। अब तुम को आगे नयी मैथुनी सृष्टि करनी है।" ॥ १३ ॥
+        अनन्तर उन दोनों स्त्री-पुरुषों ने अपने पूज्य पिता विधाता के समक्ष दोनों हाथों को जोड़कर अपने कार्य और नाम की याचना (माँग) की, पिता! हम लोगों का नाम क्या होगा? तथा कार्य क्या होगा? यह सुन पितामह आदि स्रष्टा ने कहा कि हे वत्स! तुम्हारा नाम मनु एवं इस स्त्री का नाम शतरूपा होगा। अब तुम को आगे नयी मैथुनी सृष्टि करनी है। १३
     translation_en:
       author: ai_translation
       text: |
-        With folded hands, the couple approached their divine progenitor, humbly requesting their respective names, identities, and designated cosmic duties. The Creator himself sovereignly ordained their path.
+        The two joined their hands before their father and asked for their form and their names. Then Brahmā, lord of the worlds, fixed the man named Manu as husband and Śatarūpā, of woman's form, as Manu's wife. (13)
     notes_en:
       author: ai_translation
       text: |
-        Thereupon, the primeval man and woman joined their palms before their revered Father, the Creator, inquiring: 'O Father! What shall be our names, and what is our ordained duty?' Hearing their humble plea, Grandfather Brahmā replied: 'O dear child! Your name shall be Manu, and this noble woman shall be known as Śatarūpā. Your sacred task henceforth is to initiate and nurture the procreative generational lineage of humanity.'
+        Then the two, man and woman, joined both hands before their revered father, the Creator, and asked for their work and their names: "Father! What will our names be? And what will our work be?" Hearing this, the grandfather, the first creator, said: "Child! Your name will be Manu and this woman's name Śatarūpā. From now on you must carry out the new creation through union." (13)
   - number: 14
     shlok: |
-      नियुज्या तौ मानव सृष्टि कर्मणि
-      सिले खावुद्धरणमचिन्तयत् ।
-      द्विनिर्गता लोकपुण्डरीक्षिनोऽभवत् ॥ १४ ॥
+      नियुज्य तौ मानवसृष्टिकर्मणि
+      क्षितेः समुद्धारणमभ्यचिन्तयत् ।
+      वराहमूर्तिं भुवतः स्वकाननात्
+      विनिःसृतां वीक्ष्य मुदाऽन्वितोऽभवत् ॥ १४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद ३ "भुवतः स्वकाननात्" का पाठ कुछ अनिश्चित है (अनुवाद "अपने मुख से")। पूर्व पाठ "सिले खावुद्धरणमचिन्तयत् / द्विनिर्गता लोकपुण्डरीक्षिनोऽभवत्" (पाद ३ अनुपस्थित) भ्रान्त था; हस्तलेख में "वराहमूर्ति" स्पष्ट है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. The reading "भुवतः स्वकाननात्" in pāda 3 is somewhat uncertain (Hindi: "from his own mouth"). The earlier reading ("सिले खावुद्धरणमचिन्तयत् / द्विनिर्गता लोकपुण्डरीक्षिनोऽभवत्", with pāda 3 missing) was wrong; the manuscript clearly has "वराहमूर्ति".
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having appointed the two to the work of human creation, he thought about raising up the earth; and seeing the form of a boar come forth from his own mouth, he was filled with joy. (14)
     translation:
       author: amanuensis
       text: |
-        तब ब्रह्मा ने उन दोनों को मानवीय सृष्टिकार्य में नियुक्त कर पृथ्वी को पाताल से बाहर निकालने के विषय में विचार किया। तत्पश्चात् अपने मुख से विनिर्गत महामूर्त्ति के नासिका छिद्र से प्रकट हुए ॥ १४ ॥
+        तब ब्रह्मा ने उन दोनों को मानवीय सृष्टि कार्य में नियुक्त कर पृथ्वी को पाताल से बाहर निकालने के विषय में विचार किया। सोचते हुए अपने मुख से विनिर्गत वराहमूर्ति को देखकर वे आनन्दित हो उठे ॥ १४ ॥
     notes:
       author: grandfather
       text: |
-        तब विधाता ने अपने उन युगल को मानवी मैथुनी सृष्टि करने के लिए आदेश देकर सृष्टि कहाँ की जाय की चिन्ता में व्यस्त हो गये। जलमग्न पृथ्वी को पाताल लोक से निकालने के लिए विधि-विधान (प्रतिक्षणाभ्यन्तर) में लीन ब्रह्मा के नासा छिद्र से एक विचित्र प्राणि (सूकर) की मूर्ति सामने उपस्थित हो उठी—उसे देख वे अत्यन्त आनन्दित और पूर्ण सन्तुष्ट हो गये ॥ १४ ॥
+        यों विधाता ने अपने उन युगल को मानवी मैथुनी सृष्टि करने के लिए आदेश देकर सृष्टि कहाँ की जाय की चिन्ता में व्यस्त हो गये। जलनिमग्न पृथ्वी को पाताल लोक से बाहर निकालने के लिए विविध विचार मग्न थे कि अचानक उन्हें छींक आ गई और उनके मुँह से एक विचित्र प्रकार की वाराह (सूकर) की मूर्ति सामने उपस्थित हो उठी। उसे देखकर विधाता अत्यन्त आनन्दित और पूर्ण सन्तुष्ट हो गये। १४
     translation_en:
       author: ai_translation
       text: |
-        Having commissioned the couple to the task of human propagation, Brahmā reflected on how to rescue the Earth submerged in the cosmic abyss. In that deep contemplation, from his nostril emerged an extraordinary divine form (the Varāha incarnation).
+        Then Brahmā, having appointed the two to the work of human creation, thought about bringing the earth out of Pātāla. As he thought, he saw the form of a boar come out of his own mouth and was overjoyed. (14)
     notes_en:
       author: ai_translation
       text: |
-        After commissioning the first couple to begin human creation, the Creator became deeply concerned about finding stable ground for their habitation, as the Earth lay submerged in the dark cosmic deluge (Pātāla). While Brahmā was absorbed in seeking a divine remedy, there suddenly emerged from his nostril an astonishing form—the cosmic Boar (Varāha). Seeing this divine manifestation, Brahmā was filled with supreme joy and tranquility.
+        Thus the Creator, having ordered the couple to carry out human creation through union, became busy with the worry of where creation should take place. He was absorbed in various thoughts about bringing the submerged earth out of Pātāla when suddenly he sneezed, and from his mouth the strange form of a boar (varāha) appeared before him. Seeing it, the Creator was overjoyed and fully satisfied. (14)
+notes_uncertain: true
 source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude."

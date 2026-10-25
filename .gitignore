@@ -4,3 +4,4 @@ transcripts/**/*.docx
 .Rhistory
 Thumbs.db
 .DS_Store
+/Images/pages_superseded_2026-10-24/

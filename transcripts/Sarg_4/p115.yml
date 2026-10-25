@@ -1,0 +1,73 @@
+page_number_devanagari: "११५"
+page_number_arabic: 115
+image: "images/pages/p115.jpg"
+verses:
+  - number: 57
+    shlok: |
+      प्राप्य तत्र शुचिचत्वरमध्ये
+      शक्तिजेन विहितास्तरणाढ्ये ।
+      पूजिता मुनिवरैः कृतपाद्या-
+      स्ते निषेदुरधिकर्द्धिसमेताः ॥ ५७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद ४ "निषेदुरधिकर्द्धिसमेताः" (पूर्व निष्कासन का "निषेदुरधिकं विधिसमेताः", १२ वर्ण, भ्रान्त था)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 4 reads "निषेदुरधिकर्द्धिसमेताः"; the earlier export's "निषेदुरधिकं विधिसमेताः" (12 syllables) was a misreading.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Arriving there, in the middle of the pure square, rich in the carpets spread by the son of Śakti, honoured by the excellent sages with water for their feet, they sat down, endowed with great splendour. (57)
+    translation:
+      author: amanuensis
+      text: |
+        वहाँ पावन चौराहे के बीच शक्तिपुत्र पराशर के द्वारा पूर्व से बिछाये गये बिस्तर में मुनियों के द्वारा पाद्यादि से पूजित हो वे सबों अधिक सम्मानता के साथ निवास किये (आराम किये) ॥ ५७ ॥
+    notes:
+      author: grandfather
+      text: |
+        वहाँ मुनि मृकण्ड के आश्रम में इन लोगों के पहुँचते ही शक्तिपुत्र मुनि पराशर जी के द्वारा आँगन में सविधि बिछाये गये उत्तम आस्तरणों पर हाथ पैर आदि सविधि धोकर सभी अतिथिगण अतिशय प्रसन्नता पूर्वक अत्यन्त श्रान्ति मुक्त होकर विश्रामलीन हो गये। ५७
+    translation_en:
+      author: ai_translation
+      text: |
+        There, in the middle of the holy crossroads, honoured by the sages with water for the feet and the like, they all rested with great honour on the bedding spread beforehand by Parāśara, the son of Śakti. (57)
+    notes_en:
+      author: ai_translation
+      text: |
+        As soon as these people reached Sage Mṛkaṇḍa's hermitage there, all the guests washed their hands, feet and so on in due form and, very happily, freed from their great weariness, settled down to rest on the fine carpets that Sage Parāśara, the son of Śakti, had duly spread in the courtyard. (57)
+  - number: 58
+    shlok: |
+      स्थाप्य मङ्गलघटं च वरस्य
+      स्थापिते सुकलशे कनकस्य ।
+      पूजिते गणपतौ सहगौर्या
+      सुग्रहैश्च वरुणोऽर्चित देवैः ॥ ५८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद ३ "गणपतौ सहगौर्या" (पूर्व निष्कासन का "गणपतिः सगौर्या", १० वर्ण, भ्रान्त था)। पाद ४ "सुग्रहैश्च वरुणोऽर्चित देवैः" (पूर्व निष्कासन का "वरुणैर्वरवन्द्यैः" हस्तलेख में नहीं है)। पाद ४ की व्याकरणिक संरचना कुछ शिथिल है; पाठ हस्तलेख के अनुसार।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 3 reads "गणपतौ सहगौर्या"; the earlier export's "गणपतिः सगौर्या" (10 syllables) was a misreading. Pāda 4 reads "सुग्रहैश्च वरुणोऽर्चित देवैः"; the earlier export's "वरुणैर्वरवन्द्यैः" is not in the manuscript. The grammar of pāda 4 is somewhat loose; the text follows the manuscript.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having set up the auspicious pot of the groom, and a fine golden kalaśa being installed, Gaṇapati with Gaurī was worshipped, and Varuṇa was worshipped together with the good planets and the gods. (58)
+    translation:
+      author: amanuensis
+      text: |
+        अपनी मङ्गल कामना से वर ने सुवर्ण कलश स्थापित कर गौरी के साथ गणपति ग्रहों एवं समस्त देवों के साथ वरुण की पूजा की ॥ ५८ ॥
+    notes:
+      author: grandfather
+      text: |
+        अपने वरण की माङ्गलिक विधि जान स्वयं वर मृकण्डु ने सोने के कलश की स्थापना की, उसके ऊपर भगवती गौरी के साथ भगवान् विघ्नविनाशक गणपति की भी सविधि पूजा सम्पन्न की, अनन्तर वरुण देवता के साथ सभी देवों एवं सूर्यादि नवग्रह की भी सविधि पूजार्चना की। ५८
+    translation_en:
+      author: ai_translation
+      text: |
+        Wishing for good fortune, the groom installed a golden kalaśa and worshipped Gaṇapati with Gaurī, the planets, and Varuṇa together with all the gods. (58)
+    notes_en:
+      author: ai_translation
+      text: |
+        Knowing the auspicious rite of his betrothal, the groom Mṛkaṇḍu himself installed a golden kalaśa. On it he duly worshipped Lord Gaṇapati, the remover of obstacles, together with the goddess Gaurī; then he also duly worshipped the god Varuṇa together with all the gods and the nine planets beginning with the Sun. (58)
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

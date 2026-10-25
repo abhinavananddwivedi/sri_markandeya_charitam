@@ -4,45 +4,70 @@ image: "images/pages/p023.jpg"
 verses:
   - number: 45
     shlok: |
-      अतो द्विज श्रेष्ठ न तेऽपदिश्यते
-      तथैव शिष्यांस्त्वमुपदिक्ष महोदया ।
-      प्रकृतिमार्ग प्रथमो महामुने
-      भुवि त्वमाचार्यपदे ऽभिषिच्यते ॥ ४५ ॥
+      अतो द्विज! त्वां प्रति नोपदिश्यते
+      तथैव शिष्यानुपदेष्टुमर्हसि ।
+      प्रवृत्तिमार्गे प्रथमो महामुने!
+      भुवि त्वमाचार्यपदेऽभिषिच्यसे ॥ ४५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ। पाद २ "शिष्यानुपदेष्टुमर्हसि" (= शिष्यान् उपदेष्टुम्; छन्द शुद्ध)। पाद ३ "प्रवृत्तिमार्गे" (पूर्व पाठ "प्रकृतिमार्ग" भ्रान्त था); पाद २ का पूर्व पाठ "शिष्यांस्त्वमुपदिक्ष महोदया" भी भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha. Pāda 2 reads "शिष्यानुपदेष्टुमर्हसि" (= शिष्यान् उपदेष्टुम्; it scans). Pāda 3 reads "प्रवृत्तिमार्गे" (the earlier "प्रकृतिमार्ग" was wrong); the earlier pāda 2, "शिष्यांस्त्वमुपदिक्ष महोदया", was also wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "So, twice-born one, you are not [being] taught; you are yourself fit to teach disciples in the same way. Great sage! On earth you are consecrated to the office of first teacher of the path of active life (pravṛtti)." (45)
     translation:
       author: amanuensis
       text: |
-        हे द्विज! तुम्हें उपदेश नहीं दिया जा रहा है, वैसे ही तुम शिष्यों को उपदेश देने में समर्थ हो। हे महामुने! इसलिए इस पृथ्वी पर तुम्हें हम प्रकृतिमार्ग पर प्रथम आचार्य के रूप में अभिषिक्त करते हैं ॥ ४५ ॥
+        हे द्विज! तुम्हें उपदेश नहीं दिया जा रहा है, वैसे ही तुम शिष्यों को उपदेश देने में समर्थ हो। हे महामुने! पहिले इस पृथ्वीपर तुम्हें हम प्रवृत्तिमार्ग पद पर आचार्य के रूप में अभिषिक्त करते हैं ॥ ४५ ॥
     notes:
       author: grandfather
       text: |
-        अतः हे द्विज श्रेष्ठ! हम तुम्हें कोई उपदेश नहीं दे रहे हैं। तुम योग्य शिष्यों को यथावत् उपदेश देने की क्षमता रखते हो। हे महामुने मृकण्डु! आज हम तुम्हें इस धरती पर प्रकृतिमार्ग के प्रथम आचार्य के पद पर विधिवत् अभिषिक्त करके प्रवृत्ति मार्ग के सविधि सञ्चालन के लिए अधिकार देकर कल्याण-कामना द्वारा इसके निरन्तर समर्थन एवं संयोजन की आकांक्षा करते हैं ॥ ४५ ॥
+        अतः हे द्विज श्रेष्ठ! हम तुझे कोई उपदेश नहीं दे रहे हैं, तुम स्वयं शिष्यों को यथावत् उपदेश देने की क्षमता रखते हो। हे महामुने मृकण्डु! आज हम तुम्हें इस धरती पर प्रवृत्तिमार्ग के प्रथम आचार्य के पद पर विधिवत् अभिषिक्त कर इस सरल प्रवृत्ति मार्ग के सविधि सञ्चालन के लिए आशीर्वाद देकर कल्याण-कामना द्वारा इसके निरन्तर समर्थन एवं संयोजन की आकांक्षा करते हैं। ४५
     translation_en:
       author: ai_translation
       text: |
-        'Therefore, O foremost of the twice-born! These are not mere instructions to you, for you yourself are fully endowed to instruct worthy disciples. O Great Sage! On this earth, we consecrate and anoint you as the first supreme preceptor (Ācārya) of the natural path of righteous living (Pravṛtti Mārga).'
+        "Twice-born one! You are not being taught; you are yourself able to teach disciples in the same way. Great sage! First, on this earth, we consecrate you as teacher in the office of the path of active life (pravṛtti)." (45)
     notes_en:
       author: ai_translation
       text: |
-        'Therefore, O crest-jewel of the twice-born! We do not need to instruct you further, for you already possess the full capacity to guide worthy disciples. O Mahāṛṣi Mṛkaṇḍu! Today, upon this sacred earth, we formally consecrate and anoint you as the inaugural supreme Ācārya of the Pravṛtti Mārga, empowering you to systematically establish, sustain, and champion the noble path of active righteous living for universal welfare.'
+        "So, best of the twice-born! We are giving you no teaching; you yourself are able to teach disciples properly. Great sage Mṛkaṇḍu! Today, having duly consecrated you on this earth to the office of first teacher of the path of active life, we bless you to conduct this simple path of active life as prescribed, and, wishing you well, we hope that you will constantly support and organise it." (45)
   - number: 46
     shlok: |
-      त्वयोपनेया वटवो द्विजन्मना
-      य आप्लुता मार्गमिमं पुरस्कृता ।
+      त्वयोपनेया वटवो द्विजन्मनां
+      तथा विनेयाश्च भवेयुरेव ते ।
+      य आप्लुता मार्गमिमं सुखप्रदं
       निवस्तुमर्हन्ति तवोपदेशतः ॥ ४६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पूर्व पाठ में पाद २ नहीं था, और पाद ३ "पुरस्कृता" भ्रान्त था (पाण्डुलिपि: "सुखप्रदं")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). The earlier reading lacked pāda 2, and its pāda 3 ending "पुरस्कृता" was wrong (the manuscript has "सुखप्रदं").
+    shlok_en:
+      author: ai_translation
+      text: |
+        "You are to give the sacred thread to the boys of the twice-born, and they should indeed become well disciplined. Those who are steeped in this joy-giving path are fit to dwell [here] by your teaching." (46)
     translation:
       author: amanuensis
       text: |
-        आप द्विजन्मों के बालकों का उपनयन करें जो आपके उपदेश द्वारा विनयी बनें। आपके उपदेश से जो इस मार्ग पर आरूढ़ होंगे, वे ही निवास के योग्य होंगे ॥ ४६ ॥
+        आप द्विजन्मों के बालकों को उपनीत करें वे आपके द्वारा विनयी बनें। आपके उपदेश से जो इस मार्ग पर आरूढ़ [होंगे], वे ही निवास के योग्य होंगे ॥ ४६ ॥
     notes:
       author: grandfather
       text: |
-        अब आप द्विजन्मा (ब्राह्मणबटुओं) का सविधि उपनयन संस्कार सम्पादित करें, वे आपके सुप्रसिद्ध शिक्षण से वटुक विनयशील एवं शालीनता के प्रतीक बनें, वे इस अत्यन्त सुख प्रदान करने वाले प्रवृत्ति मार्ग पर आस्थावान् बनकर आपके उपदेश से इस भूत ल पर रहते हुए ज्ञान-प्रवृत्ति मार्ग के सरस एवं प्रेरणाप्रद बनकर इसके संवर्धन-संरक्षण में सतत प्रवृत्त होवें ॥ ४६ ॥
+        अब आप द्विजन्मा (ब्राह्मणवटुकों) का सविधि उपनयन संस्कार सम्पादित करें, आप द्वारा सदुपदिष्ट वे द्विजवटुक विनयशील एवं शालीनता के प्रतीक बनें, वे इस अत्यन्त सुखप्रदान करने वाले इस प्रवृत्ति मार्ग पर आस्थावान बनकर आपके सदुपदेश से इस भूतल पर रहते हुए प्रवृत्तिमार्ग की सरस एवं प्रेरणाप्रद बनकर रहते हुए इसके संवर्धन संरक्षण में सतत प्रवृत्त होवें। ४६
     translation_en:
       author: ai_translation
       text: |
-        'You shall initiate the young twice-born celibate students through the sacred thread ceremony (Upanayana), molding them through your profound guidance into paragons of humility and virtue. Those who tread this righteous path under your instruction shall become truly worthy to inhabit and enlighten this earth.'
+        "Perform the upanayana of the boys of the twice-born; let them become disciplined through you. Those who [will] take up this path through your teaching, they alone will be worthy of dwelling [here]." (46)
     notes_en:
       author: ai_translation
       text: |
-        'Henceforth, perform the sacred investiture rites (Upanayana) for young twice-born seekers. Under your illustrious mentorship, let these young students blossom into living symbols of humility, modesty, and righteous wisdom. Imbibing unwavering faith in this blissful path of active Dharma, let them become inspiring stewards who perpetually protect and expand spiritual culture across the world.'
+        "Now duly perform the upanayana rite for the twice-born (brāhmaṇa boys). Well taught by you, may those twice-born boys become models of discipline and good conduct. Gaining faith in this most joy-giving path of active life, may they, living on this earth by your good teaching, become [exemplars] of the path of active life, delightful and inspiring, and remain constantly engaged in its growth and protection." (46)
 source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude."

@@ -1,0 +1,65 @@
+page_number_devanagari: "१०५"
+page_number_arabic: 105
+image: "images/pages/p105.jpg"
+verses:
+  - number: 37
+    shlok: |
+      यज्ञसूत्रफलमिदं प्रभुसूत्रं
+      त्संप्रीत्या मम नु गृह्यतां प्रहर्षम् ।
+      अल्पकैरहमहर्गणैः प्रविष्टः
+      कर्तुमिह प्रयत्नविधिं विधातुम् ॥ ३७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `यज्ञसूत्रफलमिदं प्रभुसूत्रं` (११); पाद २: `त्संप्रीत्या मम नु गृह्यतां प्रहर्षम्` (११, हस्तलेखे `त्सम्प्रितं मम नु गृह्यतां प्रहर्षम् / संप्रीत्या`); पाद ३: `अल्पकैरहमहर्गणैः प्रविष्टः` (११, हस्तलेखे `अल्पकै रहमहर्गणे`); पाद ४: `कर्तुमिह प्रयत्नविधिं विधातुम्` (११)। यहाँ मुनि मुद्गल द्वारा वररक्षा/फलदान (सगाई) के रूप में फलसमन्वित यज्ञोपवीत समर्पित करने तथा अल्पकाल में ही लौटकर सम्पूर्ण वैवाहिक विधि सम्पन्न कराने की प्रतिज्ञा का वर्णन है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. In earlier versions, `सम्प्रितं मम नु गृह्यतां` and `अल्पकै रहमहर्गणे` were corrupted. This verse and the notes describe the formal betrothal ritual (phaladāna / vara-rakṣā): Mudgala offers the sacred thread (yajñasūtra / brahmasūtra) accompanied by auspicious fruit to solemnize the engagement, promising to return in a few days (alpakaiḥ ahargaṇaiḥ) with all preparations to conduct the full wedding ceremony.
+    translation:
+      author: amanuensis
+      text: |
+        यज्ञसूत्र समन्वित इस फल को मेरे लिए अनुग्रह करके आप लोग स्वीकार करें। थोड़े दिनों में सावधान होकर मैं उपस्थित इस माङ्गलिक विधि को सम्पन्न करना चाहता हूँ ॥ ३७ ॥
+    notes:
+      author: grandfather
+      text: |
+        महर्षे! आप उदारता पूर्वक मेरे ऊपर अपनी कृपापूर्ण उदारता देखकर यह फलसमन्वित ब्रह्मसूत्र (यज्ञोपवीत) जो आपको फलदान (वररक्षा) स्वरूप प्रदान करता हूँ, उसे आप मेरे ऊपर स्वीकार करें। मैं पूरी सावधानी के साथ थोड़े ही दिनों में इस वैवाहिक माङ्गलिक कार्य को सविधि पूर्ण करना चाहता हूँ। ३७
+    translation_en:
+      author: ai_translation
+      text: |
+        "May this sacred thread accompanied by auspicious fruit—this noble thread—be joyfully accepted from me with affection; within a few days, having gathered myself, I shall return to perform the required rites with every exertion." (Verse 37)
+    notes_en:
+      author: ai_translation
+      text: |
+        "O Great Sage! Viewing me with gracious magnanimity, please accept from me this sacred thread (yajñopavīta) accompanied by fruit, which I offer as the formal betrothal token (phaladāna / vara-rakṣā). With meticulous care, in just a few days, I desire to bring this auspicious wedding rite to complete fulfillment according to scriptural injunctions." (37)
+  - number: 38
+    shlok: |
+      दैवतो यदिह किञ्चिदुपेया-
+      -त्तत् तद् भवद्भि रधुना गृहणीयम् ।
+      दिष्टवादिभिरतीव यतस्तत्
+      -त्कार्यमेव सकलं हृदयेन ॥ ३८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `दैवतो यदिह किञ्चिदुपेया-` (११); पाद २: `-त्तत् तद् भवद्भि रधुना गृहणीयम्` (११); पाद ३: `दिष्टवादिभिरतीव यतस्तत्` (११); पाद ४: `-त्कार्यमेव सकलं हृदयेन` (११)। यहाँ दैवयोग/भाग्य से जो कुछ भी प्राप्त हो उसे सहर्ष स्वीकार करने का उपदेश दिया गया है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. Acknowledged as Grade A across all categories in earlier assessment. Mudgala asks that whatever is provided by divine providence be gladly accepted, for believers in divine destiny must embrace such providential outcomes with an open heart.
+    translation:
+      author: amanuensis
+      text: |
+        भाग्यवशात् जो कुछ यहाँ उपलब्ध हो उसे सम्प्रति आप लोग स्वीकार करें। भाग्यवादियों को भी हृदय से इसे अवश्य करना चाहिए ॥ ३८ ॥
+    notes:
+      author: grandfather
+      text: |
+        ईश्वरेच्छा और दैवयोग से जो कुछ भी यहाँ मुझको उपलब्ध हो जायगा मैं समस्त वस्तुजात आपको समर्पित करूँगा, आप भी सहर्ष प्रसन्नतापूर्वक उसे स्वीकारें, हम भाग्यवादियों को जो भी दैवयोग से उपस्थित हो जाय उसे सहृदयतापूर्वक अवश्य स्वीकार करना चाहिए। ३८
+    translation_en:
+      author: ai_translation
+      text: |
+        "Whatever may come to hand here through providence, all of that ought to be accepted by your reverences at present; for by those who trust in divine destiny, every such outcome must indeed be embraced whole-heartedly." (Verse 38)
+    notes_en:
+      author: ai_translation
+      text: |
+        "Whatever resources become available to me through God's will and providential destiny, I shall offer all of them to you; may you too accept them with cheerful delight. For we who trust in providence must whole-heartedly welcome whatever situation presents itself through divine arrangement." (38)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

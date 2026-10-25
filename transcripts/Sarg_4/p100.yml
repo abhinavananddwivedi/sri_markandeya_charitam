@@ -1,0 +1,74 @@
+page_number_devanagari: "१००"
+page_number_arabic: 100
+image: "images/pages/p100.jpg"
+verses:
+  - number: 27
+    shlok: |
+      आगतेषु वरितुं स्वमसौ द्राक्
+      पूर्णजल्प[unclear: शुभमाजमभीप्सन्]
+      आजुहाव कलकीर्तिनिमुख्यं
+      तं पराशरमभीष्टसुसिद्ध्यै ॥ २७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता (पाद १, ३, ४ स्वागता में ठीक बैठते हैं)। पाद २ का उत्तरार्ध अस्पष्ट है ("…शुभमाजमभीप्सम्/-न्" जैसा)। पूर्व निष्कासन का "तं पाराशरमभीष्टसिद्धये" भ्रान्त था; हस्तलेख में "तं पराशरमभीष्टसुसिद्ध्यै" स्पष्ट है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā (pādas 1, 3 and 4 scan correctly). The second half of pāda 2 is unclear (it looks like "…शुभमाजमभीप्सम्/-न्"). The earlier export's "तं पाराशरमभीष्टसिद्धये" was a misreading; the manuscript clearly has "तं पराशरमभीष्टसुसिद्ध्यै".
+    shlok_en:
+      author: ai_translation
+      text: |
+        When they had come to choose him [as son-in-law], he quickly [unclear], and summoned that Parāśara, foremost among those of sweet renown, for the success of the desired undertaking. (27)
+    translation:
+      author: amanuensis
+      text: |
+        अपने विवाह के लिये लोगों के आने पर शीघ्रतापूर्वक महर्षि मृकण्डु बड़े भाई के गुणानुरूप कलकीर्ति [unclear: नियुक्त] अपने परम अभीष्ट पराशर मुनि को अभीष्ट कार्य की सिद्धि के लिए बुलवाये ॥ २७ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्ड ने अपने विवाह के लिए आने वाले लोगों के कारण अपने से बड़े ऋषि (बड़े भाई पितृतुल्यादि के रूप में अपने अभिभावक स्वरूप) महर्षि पराशर जी को जिनकी यशस्विता आधारता लोक सम्मति सबकी फैली हुई थी, उन्हें सादर सस्नेह अपने वैवाहिक कार्य सिद्धि के लिए बुलवाया। २७
+    translation_en:
+      author: ai_translation
+      text: |
+        When people came for his marriage, Maharṣi Mṛkaṇḍu promptly sent for the sage Parāśara, his dearest one, worthy of the virtues of an elder brother and [unclear] of sweet renown, to bring the desired matter to success. (27)
+    notes_en:
+      author: ai_translation
+      text: |
+        Because of the people who had come about his marriage, Sage Mṛkaṇḍa respectfully and affectionately sent for Maharṣi Parāśara, a sage senior to him (in the role of an elder brother or father, as his guardian), whose fame was founded on the esteem of all the world, so that the matter of his marriage might be accomplished. (27)
+  - number: 28
+    shlok: |
+      गौरवादथ क्रियासमुदारं
+      कीर्तितञ्च न जगाद स किञ्चित् ।
+      न्यस्तवानखिलमभ्युपचारं
+      तं पराशरभरे कलकीर्तिः ॥ २८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद १ में "क्रिया" से पहले का अक्षर लघु गिना गया है ("क्र" को स्थिति-कारक नहीं माना गया, जैसा इस काव्य में अन्यत्र भी)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. In pāda 1 the syllable before "क्रिया" is counted light ("क्र" is not treated as making position, as elsewhere in this poem).
+    shlok_en:
+      author: ai_translation
+      text: |
+        Out of reverence he said nothing at all about the noble rites or their praise; he of sweet renown placed the entire arrangement under Parāśara's charge. (28)
+    translation:
+      author: amanuensis
+      text: |
+        गौरव के कारण उदार रूप से प्रशंसित शोभनकीर्तिशाली महर्षि मृकण्डु लज्जावश कुछ नहीं बोले, पराशर के लिए समस्त सत्कार की सामग्री एकत्रित कर लिये ॥ २८ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्ड ने अपनी [unclear: उदारशमता] तथा संकोचवश अपनी प्रतिष्ठा के कारण भी किसी से कुछ कहा नहीं। अत्यन्त [unclear: दिव्य कान्तिनी] यशस्विता वाले मृकण्ड महर्षि ने अपने वैवाहिक समस्त कार्य भार का पूर्ण दायित्व महर्षि पराशर जी के ऊपर ही सम्पादित करने का निश्चय कर दिया। २८
+    translation_en:
+      author: ai_translation
+      text: |
+        Out of dignity, Maharṣi Mṛkaṇḍu, generously praised and of fair renown, said nothing out of modesty, and gathered all the materials for honouring Parāśara. (28)
+    notes_en:
+      author: ai_translation
+      text: |
+        Out of his [unclear] and his reserve, and because of his own standing, Sage Mṛkaṇḍa said nothing to anyone. Maharṣi Mṛkaṇḍa, of very [unclear] renown, decided that the whole responsibility for all the work of his marriage should rest on Maharṣi Parāśara alone. (28)
+notes_uncertain: true
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

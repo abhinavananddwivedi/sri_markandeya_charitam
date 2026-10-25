@@ -1,0 +1,74 @@
+page_number_devanagari: "९३"
+page_number_arabic: 93
+image: "images/pages/p093.jpg"
+verses:
+  - number: 13
+    shlok: |
+      द्वारि चारु धरणिं विरचय्य
+      गोसुसेवनपरो मुनिरासीत् ।
+      येन भावि विषयाय विभूतिं
+      ह्यागमन्यत [unclear: सुसन्निहितैव] ॥ १३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद ४ का उत्तरार्ध अस्पष्ट है; हस्तलेख "सु(स)न्निहित(र)ैव" जैसा दिखता है। अनुवाद का "निकटतर" "सन्निहित" का समर्थन करता है; "सुसन्निहितैव" छन्द-सम्मत है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. The second half of pāda 4 is unclear; the manuscript looks like "सु(स)न्निहित(र)ैव". The Hindi "निकटतर" ("nearer") supports "सन्निहित"; "सुसन्निहितैव" fits the metre.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having made the ground beautiful at the door, the sage devoted himself to the service of cows, through which he deemed the prosperity of his future concerns to be [unclear: very near at hand]. (13)
+    translation:
+      author: amanuensis
+      text: |
+        द्वार पर पृथ्वी को सुन्दर बनाकर महर्षि मृकण्डु गो-सेवा में संलग्न हो गये। जिस गो-सेवा से उन्होंने भावी विषय की समृद्धि को निकटतर ही माना ॥ १३ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनि मृकण्ड ने अपने दरवाजे पर ज्योतिः शास्त्रानुमोदित सुन्दर चरणि (चरनी जहाँ गायें आदि पशुओं के खिलाने पिलाने की व्यवस्था होती है) का निर्माण कराया, वहीं पर गोसेवा में नित्य निरत होते हुए अपनी चर्या प्रारम्भ की, जिससे भविष्य में भी इस क्षेत्र में इनकी विभूति अत्यन्त समृद्धिपूर्ण होगी ऐसा इन्होंने सोचा। १३
+    translation_en:
+      author: ai_translation
+      text: |
+        Having made the ground at the door beautiful, Maharṣi Mṛkaṇḍu devoted himself to the service of cows, through which he considered the prosperity of his future affairs to be very near. (13)
+    notes_en:
+      author: ai_translation
+      text: |
+        At his door Sage Mṛkaṇḍa had a fine caraṇī built (a manger, where cows and other animals are fed and watered) as approved by the science of astrology. There, constantly engaged in the service of cows, he began his daily discipline, thinking that through it his prosperity in this region would become very great in future. (13)
+  - number: 14
+    shlok: |
+      भाविनि [unclear: स्व]परिणीतिविधौ य-
+      [unclear: त्सम्भाहित]मभूत् किल वस्तु ।
+      गृह्यकर्मनिपुणः स महर्षि-
+      रुत्सुको मुनिवरोऽपि हि तत्तत् ॥ १४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद १ में "स्व" किसी अन्य अक्षर पर अधिलिखित है। पाद २ का आरम्भ अस्पष्ट है ("त्स(म्)भाहित-"); यह छन्द में ठीक नहीं बैठता। पाद ३ का पाठ "गृह्य-" या "गृहस्थ-" हो सकता है; छन्द "गृह्य-" का समर्थन करता है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. In pāda 1, "स्व" is written over another letter. The start of pāda 2 is unclear ("त्स(म्)भाहित-") and does not scan. Pāda 3 may read "गृह्य-" or "गृहस्थ-"; the metre supports "गृह्य-".
+    shlok_en:
+      author: ai_translation
+      text: |
+        Whatever thing was needed for his coming marriage rite, that great sage, skilled in household rites and eager though the best of sages, [gathered] each and every one. (14)
+    translation:
+      author: amanuensis
+      text: |
+        भावी वैवाहिक कार्य में जो-जो वस्तु आवश्यक है, उसे गृहस्थ कर्म में चतुर मुनिवर ने भी एकत्रित कर लिया ॥ १४ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनिवर मृकण्डु अतिशय सचेतन व्यक्ति थे, प्रवृत्ति मार्ग के नियमानुसार अपने होने वाले वैवाहिक कार्य तथा उसके द्वारा सम्पादित होने वाले कार्यों के प्रति भी सतत जागरूक होने के कारण भविष्य में जिन गृहकार्य के लिए जिन २ वस्तुओं की आवश्यकता थी उन सभी वस्तुओं को एकत्र करने के लिए समुद्यत होकर इकट्ठा किया। १४
+    translation_en:
+      author: ai_translation
+      text: |
+        Whatever things are needed for the coming marriage, the excellent sage, skilled in household duties, also gathered. (14)
+    notes_en:
+      author: ai_translation
+      text: |
+        The excellent Sage Mṛkaṇḍu was a very alert person. Following the rules of the path of worldly life (pravṛtti-mārga), he was constantly mindful of his coming marriage and of the duties it would bring. So he set about gathering all the things that would be needed in future for household work, and collected them. (14)
+notes_uncertain: true
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

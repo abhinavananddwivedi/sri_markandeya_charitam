@@ -1,0 +1,65 @@
+page_number_devanagari: "१०२"
+page_number_arabic: 102
+image: "images/pages/p102.jpg"
+verses:
+  - number: 31
+    shlok: |
+      स्पष्टवाचि न हि वञ्चकतेति
+      स्पष्टमेव निखिला निगदन्ति ।
+      आर्य! तेन कथयामि भवन्तं
+      प्रार्थनां सफलयन्तु भवन्तः ॥ ३१ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `स्पष्टवाचि न हि वञ्चकतेति` (११, हस्तलेखे `वञ्चकतेति / वञ्चनातेति`); पाद २: `स्पष्टमेव निखिला निगदन्ति` (११); पाद ३: `आर्य! तेन कथयामि भवन्तं` (११); पाद ४: `प्रार्थनां सफलयन्तु भवन्तः` (११)। पूर्व निष्कासन में पाद १ में ९ तथा पाद २ में १२ वर्णों की अशुद्धि थी। यहाँ चारों पाद शुद्ध ११ वर्णों की रथोद्धता में अनुस्यूत हैं।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. In earlier versions, syllable count was irregular (9 and 12 syllables). Here the verse scans cleanly. Mudgala explains that speaking plainly carries no deceit, and petitions the venerable assembly to bring his prayer to fulfillment.
+    translation:
+      author: amanuensis
+      text: |
+        स्पष्ट बोलने में वञ्चकता नहीं होती, सभी स्पष्ट ही बोलते हैं। हे आर्य! आप सभी मेरी प्रार्थना को सफल करें ॥ ३१ ॥
+    notes:
+      author: grandfather
+      text: |
+        भगवन् स्पष्ट बात कह देने में कोई धूर्तता नहीं हो सकती, सभी लोग स्पष्ट बातें ही कहते हैं। अतः हे श्रेष्ठ मुनिवर! आपसे इसीलिए मैं अपना स्पष्ट निवेदन कर रहा हूँ, आप मेरी यह कन्या विवाह की प्रार्थना पूर्ण करने की कृपा करें। ३१
+    translation_en:
+      author: ai_translation
+      text: |
+        "There is no deception in plain speech; indeed, all righteous persons speak clearly. Therefore, O noble sage, I submit plainly to you: may your reverences make my petition fruitful." (Verse 31)
+    notes_en:
+      author: ai_translation
+      text: |
+        "O Lord! There can be no duplicity in stating a matter candidly; truthful people speak only with clarity. Therefore, O foremost sage, I place my straightforward supplication before you: please be gracious enough to fulfill this petition of mine regarding the marriage of my daughter." (31)
+  - number: 32
+    shlok: |
+      दाक्षिणाच्छ्रुतमपूर्वगुणौघं
+      स्नातकं किल मृकण्डुमहर्षिम् ।
+      आगतोऽस्मि तत एव चिकीर्षुः
+      पाणिपीडनमहं तनयायाः ॥ ३२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        हस्तलेख पाठभेद/लिपि-टिप्पणी: वृत्त: रथोद्धता (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, वर्ण-संख्या प्रतिपाद: ११)। पाद १: `दाक्षिणाच्छ्रुतमपूर्वगुणौघं` (११, सन्धि: `दाक्षिणात् श्रुतम् अपूर्वगुणौघम्`); पाद २: `स्नातकं किल मृकण्डुमहर्षिम्` (११); पाद ३: `आगतोऽस्मि तत एव चिकीर्षुः` (११); पाद ४: `पाणिपीडनमहं तनयायाः` (११)। पूर्व समीक्षा का प्रमुख संशय (वक्ता सम्बन्धी भ्रम: "दाक्षी suddenly speaks the father's words") यहाँ पूर्णतः निरस्त होता है: वक्ता स्वयं मुनि मुद्गल ही हैं। वे कहते हैं कि "दाक्षी (दक्षिण देश के मुनि) के मुख से स्नातक महर्षि मृकण्डु के अनुपम गुणों को सुनकर ही मैं अपनी कन्या का विवाह करने की इच्छा से यहाँ आया हूँ।" चारों पाद पूर्णतः ११ वर्णों की रथोद्धता हैं।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Paleographic / Textual Note: Meter: Rathoddhatā (`ऽ।ऽ ।।। ऽ।ऽ ।ऽ`, 11 syllables per pāda). All four pādas scan at 11 syllables. Crucial textual resolution of the speaker controversy: The speaker is Sage Mudgala himself, who states that having heard from Dākṣi (`दाक्षिणात् श्रुतम्`) regarding the bachelor status and unprecedented virtue of Sage Mṛkaṇḍu, he has travelled specifically to propose the marriage of his daughter. There is no speaker contradiction across verses 23–39.
+    translation:
+      author: amanuensis
+      text: |
+        दाक्षी से स्नातक महर्षि मृकण्डु के गुणसमूह को सुना है, उसी कार्य के सम्पादनार्थ अपनी कन्या के विवाहार्थ मैं यहाँ आया हूँ ॥ ३२ ॥
+    notes:
+      author: grandfather
+      text: |
+        मुनिश्रेष्ठ दाक्षी से मुनि मृकण्डु की अद्भुत पूर्व गुण राशि का मैंने निरन्तर श्रवण किया है, ये महर्षि अभी स्नातक हैं। इसीलिए इस महर्षि के साथ अपनी कन्या का विवाह संस्कार करने की अभिलाषा से मैं यहाँ आया हुआ हूँ। ३२
+    translation_en:
+      author: ai_translation
+      text: |
+        "Having heard from Dākṣi of the unprecedented treasure of virtues of the bachelor sage Mṛkaṇḍu, for that very reason have I arrived here, desiring to perform the hand-taking (marriage) of my daughter." (Verse 32)
+    notes_en:
+      author: ai_translation
+      text: |
+        "I have repeatedly heard from the revered sage Dākṣi about the wonderful, unparalleled virtues of Sage Mṛkaṇḍu, and that this great sage remains a celibate scholar (snātaka). It is precisely for this reason that I have come here with the ardent wish to solemnize the sacred marriage of my daughter with this exalted sage." (32)
+source: "Transcribed via antigravity (flash-tier batch subagents, 2026-09) from the manuscript scan. The Hindi/Sanskrit copy embedded in the English-translation export is byte-identical to the primary export, so it is not an independent cross-check; no second transcription exists for this canto. This page's source markdown uses antigravity 'dialect B': the shlok is a fenced code block, the Hindi anuvad and vyakhya are plain-text paragraphs, and each shlok carries a paleographic / variant-reading / metre note (वृत्त: रथोद्धता / अनुष्टुप्) captured here as manuscript_note / manuscript_note_en (author: ai_transcription)."

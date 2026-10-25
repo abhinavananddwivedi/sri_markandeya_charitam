@@ -1,0 +1,74 @@
+page_number_devanagari: "१०९"
+page_number_arabic: 109
+image: "images/pages/p109.jpg"
+verses:
+  - number: 45
+    shlok: |
+      [unclear: सर्वहर्षप्रदे] समयेऽस्मिन्
+      सर्व एव रुचिकारसुभोज्यैः ।
+      प्रीतिरीतिरसिकाऽपि कलाऽपि
+      नृत्यवन्मुदिह दर्शनजाऽभूत् ॥ ४५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद १ का आरम्भ अस्पष्ट है (अनुवाद: "आनन्द भरी के अवसर पर")। पाद २-४ स्वागता में पूर्णतः ठीक बैठते हैं और अनुवाद से पुष्ट हैं ("सुन्दर भोज्य पदार्थों से सभी सुखी", "प्रीति-रीति की कला", "दर्शनमात्र से नृत्य के समान आनन्द")। पूर्व निष्कासनों के पाद ("प्रीतिं हरिरिविलाउगे...", "प्रीतिरीतिरसोल्लासैः कलयापि / नृत्यन्नुदितदर्शनादभूत्") हस्तलेख में नहीं हैं।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. The start of pāda 1 is unclear (Hindi: "on the occasion full of joy"). Pādas 2–4 scan perfectly as Svāgatā and are confirmed by the Hindi ("all were happy with fine food", "the art of love and custom", "joy like a dance at the mere sight"). The earlier exports' pādas ("प्रीतिं हरिरिविलाउगे...", "प्रीतिरीतिरसोल्लासैः कलयापि / नृत्यन्नुदितदर्शनादभूत्") are not in the manuscript.
+    shlok_en:
+      author: ai_translation
+      text: |
+        At this [unclear: all-gladdening] time, everyone [was content] with delightful, fine food; and the art of those who relish love and custom, too, brought joy at the sight, like a dance. (45)
+    translation:
+      author: amanuensis
+      text: |
+        इस आनन्द भरी के अवसर पर सुन्दर भोज्य पदार्थों से सभी सुखी रहे। समस्त प्रीति-रीति की कला भी दर्शनमात्र से नृत्य के समान आनन्द हुए ॥ ४५ ॥
+    notes:
+      author: grandfather
+      text: |
+        यह अत्यन्त मनोहर मुस्कान का [unclear: था], चारों ओर प्रसन्नता बाँटी हुई थी, आनन्द की वर्षा हो रही थी, सभी लोग अत्यन्त प्रसन्न थे, विविध प्रकार के भोज्य पदार्थों से परितृप्त होकर सभी आनन्द मग्न थे, उस समय प्रेम की [unclear: नाक] सीमा पार कर सभी आनन्दातिरेक में प्रवाहित हो रहे थे, अनेक लोग अपनी अपनी कलाओं का भी प्रदर्शन करने में लगे थे, इन दृश्यों के देखने से नृत्य दर्शन का सा सुख मिल रहा था। ४५
+    translation_en:
+      author: ai_translation
+      text: |
+        On this joyful occasion everyone was happy with fine food. All the art of love and custom, too, gave joy at the mere sight, like a dance. (45)
+    notes_en:
+      author: ai_translation
+      text: |
+        This was [unclear] of most charming smiles; happiness was shared all around and joy rained down. Everyone was very happy; satisfied with many kinds of food, all were immersed in joy. At that time, passing the [unclear] limit of love, all were carried along in an overflow of joy. Many people were also busy displaying their own arts, and watching these scenes gave a pleasure like that of watching a dance. (45)
+  - number: 46
+    shlok: |
+      प्रस्थितेषु निजसद्मसु यज्ञ-
+      [unclear: र्त्विक्ष्वथ मुदितेषु सुतेषु]
+      सम्प्रहृष्टहृदयः सुदयोर्मि-
+      रानतेन शिरसा प्रणनाम ॥ ४६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद २ अस्पष्ट है; उसके अन्त में दाहिनी ओर "सतेषु" अलग से लिखा है। पाद ३ "सम्प्रहृष्टहृदयः सुदयोर्मि-/रानतेन" (दया की लहरों वाला; टिप्पणी के "दया की अनन्त लहरियों से" से पुष्ट) — पूर्व निष्कासन का "सम्पश्यन् हृष्टहृदयः सुदयार्द्रो" (१२ वर्ण) भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 2 is unclear; at its end "सतेषु" is written separately on the right. Pāda 3 reads "सम्प्रहृष्टहृदयः सुदयोर्मि-/रानतेन" ("with waves of compassion", confirmed by the notes' "दया की अनन्त लहरियों से"); the earlier export's "सम्पश्यन् हृष्टहृदयः सुदयार्द्रो" (12 syllables) was a misreading.
+    shlok_en:
+      author: ai_translation
+      text: |
+        When the sacrificial priests [and others], delighted, had set out for their own homes, he, overjoyed at heart and with waves of kindness, bowed with his head lowered. (46)
+    translation:
+      author: amanuensis
+      text: |
+        समान गति प्रफुल्लित मुदयुक्त [unclear: पुत्रों] के अपने घर प्रस्थान किये जाने पर आनन्दित मन वाले सप्रेमजन दयाधिक्य से झुके शिर से प्रणाम किये ॥ ४६ ॥
+    notes:
+      author: grandfather
+      text: |
+        उत्सव के बाद उन सभी लोगों के अपने अपने आश्रमों को लौट जाने के [unclear] थे वे प्रसन्नता पूर्वक अपने २ घरों को जाने की तैयारी में थे, अत्यन्त प्रफुल्लित सहृदय दया की अनन्त लहरियों से झुकते मिलते हुए ऋषि मृकण्डु ने सविनय शिर झुका कर सबका प्रणाम किया। ४६
+    translation_en:
+      author: ai_translation
+      text: |
+        When the cheerful, glad [unclear: sons] had set out for their homes at an even pace, the loving people, glad at heart, bowed with heads lowered in abundant kindness. (46)
+    notes_en:
+      author: ai_translation
+      text: |
+        After the festival, when all those people [unclear] to return to their own hermitages and were gladly preparing to go to their homes, Sage Mṛkaṇḍu, very joyful and kind-hearted, bowing and meeting them with endless waves of compassion, humbly lowered his head and bowed to them all. (46)
+notes_uncertain: true
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

@@ -1,49 +1,75 @@
 page_number_devanagari: "३१"
 page_number_arabic: 31
 image: "images/pages/p031.jpg"
+extra_images: ["images/pages/p031_overflow.jpg"]
 verses:
-  - number: 59
+  - number: 61
     shlok: |
-      शिक्षासञ्चारचक्रे गमनिरहगमने बाधकस्योद्भवं
-      धैर्य गाम्भीर्यभावात् क्षणमनिगता गच्छन्ती मन्दयानम् ।
-      तुच्छे लोकस्य दृष्ट्या शिजसहागते कुर्वती स्वच्छभावम्
-      लोकेऽपूर्णं रहस्यं प्रकटयितलतस्त्वत्पदान्जे श्रयामः ॥ ५९ ॥
+      शिक्षासञ्चारचक्रेऽप्यनिरतगमने बाधकाबाधपूर्वं
+      धैर्यं गाम्भीर्यभावात् स्वयमवनिगता सन्दिशन्ती जनौघान् ।
+      तुच्छे लोकस्य दृष्ट्या निजशरणगते कुर्वती स्वच्छभावं
+      लोकेऽपूर्वं रहस्यं प्रकटयसि ततस्त्वत्पदाब्जं श्रयामः ॥ ६१ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्रग्धरा (चारों पाद शुद्ध)। पूर्व पाठ "गमनिरहगमने बाधकस्योद्भवं / … क्षणमनिगता गच्छन्ती मन्दयानम् / … शिजसहागते … / … प्रकटयितलतस्त्वत्पदान्जे…" भ्रान्त था, और श्लोक-संख्या "५९" भूल थी।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Sragdharā (all four pādas scan). The earlier reading ("गमनिरहगमने बाधकस्योद्भवं / … क्षणमनिगता गच्छन्ती मन्दयानम् / … शिजसहागते … / … प्रकटयितलतस्त्वत्पदान्जे…") was wrong, and its verse numeral "५९" was a slip.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Unceasing in your course even in the wheel of spreading teaching, [arriving] before any obstructer could obstruct, you came down to earth of yourself and, from your gravity, bring the multitudes the message of steadfastness. Making pure in heart one whom the world's eye counts lowly, once he takes refuge in you, you reveal to the world a mystery never seen before; therefore we resort to your lotus feet." (61)
     translation:
       author: amanuensis
       text: |
-        शिक्षासञ्चार चक्र में गति न रुकने पर भी बाधक के बाध होने से पहिले गम्भीरता पूर्वक पृथ्वीतल पर आकर जन समूहों के धैर्य का सन्देश देती हुई। लोक दृष्टि तुच्छ माने गये व्यक्ति के शरणागत होने पर स्वच्छ भाव को करती हुई आप संसार में अपूर्व रहस्य का उद्घाटन करती हैं अतः मैं आपके चरणकमलों का आश्रय लेता हूँ ॥ ५९ ॥
+        शिक्षासञ्चार चक्र में गति न रुकने पर भी बाधक के बाध होने से पहिले गम्भीरतापूर्वक पृथ्वीतल पर आकर जनसमूहों को धैर्य का सन्देश देती हुई। लोकदृष्टि तुच्छ माने गये व्यक्ति के शरणागत होने पर स्वच्छ भाव को करती हुई आप संसार में अपूर्व रहस्य का उद्घाटन करती हैं अतः मैं आपके चरणकमलों का आश्रय लेता हूँ ॥ ६१ ॥
     notes:
       author: grandfather
       text: |
-        समस्त विश्व में मन्यु उद्रेक की महत्ता का प्रतिपादन के लिए विविध बाधाओं के होने पर उससे निर्बाध होकर भक्ति प्राप्ति की शिक्षा देने के लिए निरन्तर गतिशील इस भूमि पर आकर गम्भीरता का उपदेश देती हुई प्राणियों को आगे बढ़ने का सन्देश दे रही है। सांसारिक दृष्टि से अत्यन्त तुच्छ दीन-हीन होने पर भी उन्हें अपने शरण में लेकर अपनी उदात्त उदारता का परिचय देकर हार्दिक निर्मलता के रहस्य को अभिव्यक्त कर पवित्रता का पाठ पढ़ाती हो अतः माँ आज मैं आपके धर-चरण कमलों का आश्रयण कर रहा हूँ ॥ ५९ ॥
+        समस्त विश्व में [unclear: भक्त्युद्रेक] की महत्ता का प्रतिपादन के लिए विविध बाधाओं के होने पर उससे निर्बाध होकर भक्ति प्राप्ति की शिक्षा देने के लिए निरन्तर गतिशील इस भूमि पर आकर परम धीरता का उपदेश देती हुई प्राणियों को आगे बढ़ने का सन्देश दे रही है। सांसारिक दृष्टि से अत्यन्त तुच्छ दीनहीन होने पर भी उन्हें अपने शरण में लेकर अपनी उदात्त उदारता का परिचय देकर हार्दिक निर्मलता के रहस्य को अभिव्यक्त कर पवित्रता का पाठ पढ़ाती हो अतः माँ आज मैं आपके चरणकमलों का आश्रयण कर रहा हूँ। ६१
     translation_en:
       author: ai_translation
       text: |
-        Flowing majestically upon the earth with unwavering patience and profound depth, undeterred by any obstacle, You impart to humanity the supreme lesson of steadfast perseverance. Welcoming even the most lowly, neglected, and destitute souls who seek refuge in You, You purify their hearts and reveal the divine mystery of unconditional grace. Therefore, O Mother, I take refuge at Your lotus feet!
+        "Though your motion does not stop in the wheel of spreading teaching, before the obstructer could obstruct you came with gravity to the surface of the earth, giving the multitudes of people the message of steadfastness. When one counted lowly in the world's eyes comes to you for refuge, you make his heart pure; thus you reveal an unprecedented mystery in the world. Therefore I take refuge at your lotus feet." (61)
     notes_en:
       author: ai_translation
       text: |
-        Flowing upon this mortal plane to teach the art of transcending all obstacles and securing pure devotion, You embody the sublime message of unshakeable patience and continuous spiritual advancement. Embracing even those deemed most humble, poor, and insignificant by worldly standards, You reveal the profound mystery of maternal generosity and inner purity. Therefore, O Mother, I take eternal shelter at Your sacred lotus feet today!
-  - number: "60-62"
+        "To establish in the whole world the importance of the [unclear: surge of devotion], and to teach how to attain devotion unhindered despite many obstacles, you came to this earth, ever moving, teaching supreme steadfastness and giving creatures the message to go forward. Though people are very lowly, poor and wretched in the world's eyes, you take them into your refuge, show your noble generosity, reveal the mystery of purity of heart and teach the lesson of holiness. So, Mother, today I take refuge at your lotus feet." (61)
+  - number: 62
     shlok: |
-      त्वय्येवात्मनिवेदनं सुजनुषं सेन्जाघटीत्यर्थतः
-      अन्येष्वञ्च तदोपचारिकमिति प्रत्यक्षतो दृश्यते ।
-      त्वाहित्वा सदहन्निगुर्गुणतरं ज्योतिः कथं ध्यायतो
-      ध्यानं निर्विषये ऽवकाशमलभं दृश्यर्थ च समाश्रितम् ॥ ६० ॥
+      त्वय्येवात्मनिवेदनं सुजनुषां सञ्जाघटीत्यर्थतः
+      अन्येषाञ्च तदौपचारिकमिति प्रत्यक्षतो दृश्यते ।
+      त्वां हित्वाऽन्यददृष्टनिर्गुणतरं ज्योतिः कथं ध्यायतां
+      ध्यानं निर्विषयेऽवकाशमलभं [unclear: दम्भार्थञ्च] समाश्रितम् ॥ ६२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: शार्दूलविक्रीडित। पाद १–३ शुद्ध। पाद ४ का उत्तरार्ध अनिश्चित है: अक्षर "…मलभद्व्यर्थञ्च सम्माश्रितम्" जैसे दिखते हैं; हिन्दी ("केवल दम्भाश्रित") के आधार पर "दम्भ" अभिप्रेत प्रतीत होता है; इस पाठ में एक अक्षर अधिक है। पूर्व पाठ "सेन्जाघटीत्यर्थतः / अन्येष्वञ्च तदोपचारिकमिति / त्वाहित्वा सदहन्निगुर्गुणतरं / … दृश्यर्थ च…" भ्रान्त था, और श्लोक-संख्या "६०" भूल थी।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Śārdūlavikrīḍita. Pādas 1–3 scan. The second half of pāda 4 is uncertain: the letters look like "…मलभद्व्यर्थञ्च सम्माश्रितम्"; the Hindi ("resting only on pretence") suggests "दम्भ" (pretence) is meant; the reading given has one syllable too many. The earlier reading ("सेन्जाघटीत्यर्थतः / अन्येष्वञ्च तदोपचारिकमिति / त्वाहित्वा सदहन्निगुर्गुणतरं / … दृश्यर्थ च…") was wrong, and its verse numeral "६०" was a slip.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "The self-offering of the well-born truly comes about in you alone; that of others is plainly seen to be a mere formality. Leaving you, how can those who meditate on some other unseen light, still more beyond qualities, [claim] meditation, finding room in the objectless? That rests on [unclear: pretence]." (62)
     translation:
       author: amanuensis
       text: |
-        सज्जनों का आत्मनिवेदन तथतः घटित होता है, क्योंकि अन्य लोगों के प्रति आत्मनिवेदन करना तो प्रत्यक्षतः औपचारिक दिखाई देता है। आप को छोड़कर न दिखाई देने वाला निर्गुणतर ज्योति का ध्यान कैसे किया जा सकता है? निर्विषय में अवकाश पू (स्थान) प्राप्त होते हैं (यह कहना तो) केवल दम्भाश्रित प्रतीत होता है ॥ ६१ ॥
+        सज्जनों का आत्मनिवेदन तथ्यतः घटित होता है, क्योंकि अन्य लोगों के प्रति आत्मनिवेदन करना तो प्रत्यक्षतः औपचारिक दिखाई देता है। आप को छोड़कर न दिखाई देने वाला निर्गुणतर ज्योति का ध्यान कैसे किया जा सकता है? निर्विषय में अवकाश (स्थान) प्राप्त होते हैं (यह कहना तो) केवल दम्भाश्रित प्रतीत होता है ॥ ६२ ॥
     notes:
       author: grandfather
       text: |
-        जगदाधार माँ गङ्गे! उपयुक्त तथ्यों तथा आपकी निष्काम निवेधि संसार सागर से सन्तारण करने की अपूर्व क्षमता और शक्ति जानकर तुमही अपना सर्वस्व समर्पण कर देना उचित एवं स्वाभाविक है। अन्य स्थानों (देवों तथा मानवों) में आत्मनिवेदन समर्पण करना तो एकमात्र औपचारिकता (प्रदर्शन) मात्र है। माँ प्रत्यक्ष स्वरूपवाली तुम्हें छोड़कर अन्य अदृश्य ज्योति निर्गुण निराकार (प्रकाश प्रज्वलप्रह) का ध्यान कैसे किया जा सकता है? जो लोग निर्गुण निराकार परब्रह्म ज्योतिर्मय स्वरूप के दर्शन का व्यर्थ में दम्भ भरते हैं वे मात्र केवल ढोंगी ही होते हैं। ६२
+        जगदाधार माँ गङ्गे! उपर्युक्त तथ्यों तथा आपकी निष्काम निर्बाध संसार सागर से सन्तारण करने की अपूर्व क्षमता और शक्ति जानकर तुम्हें ही अपना सर्वस्व समर्पित कर देना उचित एवं स्वाभाविक है। अन्य स्थानों (देवों तथा मानवों) में आत्मनिवेदन समर्पण करना तो एकमात्र औपचारिकता (प्रदर्शन) मात्र है। माँ प्रत्यक्ष स्वरूपवाली तुम्हें छोड़कर अन्य अदृश्य ज्योति निर्गुण निराकार (प्रकाशपुञ्ज ब्रह्म) का ध्यान कैसे किया जा सकता है? जो लोग निर्गुण निराकार परब्रह्म ज्योतिःस्वरूप के दर्शन का व्यर्थ में दम्भ भरते हैं वे मात्र केवल ढोंगी होते हैं। क्योंकि मन वाणी को अगम अगोचर (सो जानै जो पावै)। न तत्र वाग्गच्छति, न मनः, नेन्द्रियाणि। अतः सगुण स्नेहमयी प्रत्यक्ष मूर्ति मातृस्वरूपा भगवती गङ्गा का हम सदा आश्रयण करते हैं। ६२
     translation_en:
       author: ai_translation
       text: |
-        For noble souls, complete self-surrender (ātma-nivedana) truly finds its authentic fulfillment in You alone; surrender elsewhere is merely a formal, outward pretense. Leaving aside Your living, tangible, and visible divine form, how can one meaningfully meditate upon an abstract, unmanifest, formless light? To claim realization of the formless void without devotion to the tangible Divine is nothing but empty pretension.
+        "The self-offering of good people truly comes about [in you], for offering oneself to other people is plainly seen to be a formality. Leaving you, how can one meditate on an invisible light even more beyond qualities? [To say that] one finds room (a place) in the objectless seems to rest only on pretence." (62)
     notes_en:
       author: ai_translation
       text: |
-        O Mother Gaṅgā, Sustainer of the World! Recognizing Your unparalleled power to deliver embodied souls across the ocean of worldly existence, dedicating one’s entire being to You is the only genuine and natural path. Surrender to other entities or deities is often mere ceremony and display. Abandoning Your living, visible, and tangible divine presence, how can ordinary mortals meditate on a distant, formless, unmanifest radiance? Those who boast of realizing the abstract, formless Absolute while despising the living, manifest Divine engage only in empty hypocrisy.
-source: "Transcribed via Google Lens by the user (2026-08-21) from a 2026-08-12 reshoot; structural cross-check against the scan done by Claude. Verses 60-62 are represented as a single combined verse (one shlok/translation/notes block spanning all three numbers) per the user's explicit confirmation, not a transcription gap. Images/pages/p031.jpg regenerated from the 2026-08-12 reshoot -- the original 2026-08-11 photo for this page turned out to be a fragmentary duplicate shot of this same leaf, not a separate page."
+        "Mother Gaṅgā, support of the world! Knowing the facts above, and your matchless, selfless and unhindered power and ability to carry us across the ocean of worldly existence, it is right and natural to surrender our all to you alone. Self-offering and surrender in other places (to gods and to men) is a mere formality (a show). Mother, leaving you, whose form is before our eyes, how can one meditate on some other invisible light, without qualities and without form (brahman, a mass of light)? Those who vainly boast of seeing the formless supreme brahman, without qualities, whose nature is light, are mere pretenders. For it is beyond the reach of mind and speech ('he knows it who attains it'): 'na tatra vāg gacchati, na manaḥ, nendriyāṇi' (speech does not go there, nor the mind, nor the senses). Therefore we always take refuge in the goddess Gaṅgā, whose form is a mother's, loving, endowed with qualities, visible before us." (62)
+notes_uncertain: true
+source: "Transcribed via Google Lens by the user (2026-08-21) from a 2026-08-12 reshoot; structural cross-check against the scan done by Claude. 2026-10-24: verses relabelled 61 and 62 as numbered in the manuscript (previously 59 and \"60-62\", because page 30, vv. 59-60, had not been transcribed). The end of v62's notes is on the facing sheet (images/pages/p031_overflow.jpg) and is joined to the notes here."

@@ -1,0 +1,74 @@
+page_number_devanagari: "१११"
+page_number_arabic: 111
+image: "images/pages/p111.jpg"
+verses:
+  - number: 49
+    shlok: |
+      संसदा समुदिष्टतिथौ सः
+      सम्भृतीर्वरणतः प्रजिघाय ।
+      [unclear: राजकीयचरैः] शकटैश्च
+      दाक्षिणा द्विजवरेण सनाथैः ॥ ४९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद १ में १० वर्ण हैं (हस्तलेख के अनुसार; एक वर्ण छूटा प्रतीत होता है)। पाद ३ का पूर्वार्ध अस्पष्ट है (अनुवाद: "राजकीय परिचारकों द्वारा गाड़ियों में")। पाद ४ "दाक्षिणा द्विजवरेण" — "दाक्षिणा" दाक्षि का तृतीया एकवचन है (श्लोक ३२ की भाँति), अनुवाद "दाक्षि द्विजवर से सनाथित" से पुष्ट। पूर्व निष्कासन का "सामग्रीं" और "दाक्षिण्यद्विजवरेण" हस्तलेख में नहीं हैं।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 1 has 10 syllables (as written; a syllable seems to be missing). The first half of pāda 3 is unclear (Hindi: "by royal attendants, in carts"). Pāda 4 reads "दाक्षिणा द्विजवरेण": "दाक्षिणा" is the instrumental singular of Dākṣi (as in verse 32), confirmed by the Hindi "दाक्षि द्विजवर से सनाथित". The earlier export's "सामग्रीं" and "दाक्षिण्यद्विजवरेण" are not in the manuscript.
+    shlok_en:
+      author: ai_translation
+      text: |
+        On the date fixed by the assembly, he sent the betrothal provisions by [unclear: royal attendants] and carts, under the protection of Dākṣi, the excellent brahmin. (49)
+    translation:
+      author: amanuensis
+      text: |
+        संसद के द्वारा निर्दिष्ट तिथि में उन्होंने वरण की सामग्री दाक्षि द्विजवर से सनाथित राजकीय परिचारकों द्वारा गाड़ियों में भेजा ॥ ४९ ॥
+    notes:
+      author: grandfather
+      text: |
+        विद्वन्मण्डली द्वारा पूर्व निर्धारित वर (राजतिलक) के तिथि पर वरण की सारी वस्तुयें एकत्रित करके राजकीय सम्मानित ढंग से (जैसे किसी अत्यन्त समृद्ध व्यक्ति का वरण होने जा रहा है) कई बैलगाड़ियों पर रख कर अनेक ब्रह्मचारि बटुकों के सहित दाक्षि मुनि (जो उनके सहयोगी एवं पुरोहित भी थे) के साथ भेजा। ४९
+    translation_en:
+      author: ai_translation
+      text: |
+        On the date fixed by the assembly, he sent the betrothal provisions in carts, by royal attendants under the protection of Dākṣi, the excellent brahmin. (49)
+    notes_en:
+      author: ai_translation
+      text: |
+        On the date of the betrothal (rājtilak) fixed beforehand by the assembly of learned men, he gathered all the things for the varaṇa and, in a royal and honourable manner (as if some very wealthy person were being chosen), loaded them on several bullock carts and sent them with Sage Dākṣi (who was also his associate and family priest), together with many young brahmacārīs. (49)
+  - number: 50
+    shlok: |
+      तत्र खारिपचनं शुचि शुभ्रं
+      कांस्यवर्तुलयुगं सुरुचे द्राक् ।
+      किञ्च चन्द्ररुचिकंसयुगेन
+      स्थालराजमपि राजतभामित् ॥ ५० ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्वागता। पाद १ में मूलतः "क्षीरपचनं" लिखा था; "क्षीर" रेखांकित है और ऊपर "खारिं" लिखा है (संशोधित पाठ "खारिपचनं")। लिपिकार का अनुवाद मूल पाठ "क्षीर" (दूध पकाने) का अनुसरण करता है; रचनाकार की टिप्पणी संशोधित "खारीपचन" का। पाद ४ "राजतभामित्" (पूर्व निष्कासन का "रजत" भ्रान्त)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Svāgatā. Pāda 1 originally read "क्षीरपचनं"; "क्षीर" is underlined with "खारिं" written above, giving the corrected reading "खारिपचनं". The amanuensis's Hindi follows the original "क्षीर" ("for boiling milk"); the poet's notes follow the corrected "खारीपचन". Pāda 4 reads "राजतभामित्"; the earlier export's "रजत" was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        There a pure, bright khārī-pacana (great cooking vessel) and a pair of round bronze pots shone at once; and, with a pair of moon-bright bronze vessels, a splendid platter shining like silver. (50)
+    translation:
+      author: amanuensis
+      text: |
+        उन सामग्रियों में दूध (पकाने) के लिये काँसे की गोल बटलोही सुशोभित हो रही थी, चन्द्र के समान कान्ति वाले दो जल परोसने के जग के साथ चाँदी निर्मित थाल (परात) भी था ॥ ५० ॥
+    notes:
+      author: grandfather
+      text: |
+        उन सामग्रियों में एक खारीपचन (जिसमें ३२ या ६४ सेर चावल पकाया जा सकता है) बड़ा बर्तन था, जो अत्यन्त चमकीला एवं पवित्र था, उसके साथ काँसे की दो बटुलोहिया भी अपनी आभा बिखेर रही थीं, साथ ही काँसे पीतल के बने बड़े २ दो जल वितरण के लिए पात्र चन्द्रकान्ति को भी तिरस्कृत करने वाले थे, इसी के साथ एक बड़ा विशाल चमकता हुआ फूल का थाल भी था। ५०
+    translation_en:
+      author: ai_translation
+      text: |
+        Among those provisions, a round bronze pot (baṭlohī) for (boiling) milk looked handsome, and with two water-serving jugs bright as the moon there was also a large platter (parāt) made of silver. (50)
+    notes_en:
+      author: ai_translation
+      text: |
+        Among those provisions was a large vessel, a khārīpacan (in which 32 or 64 ser of rice can be cooked), very bright and pure. With it, two bronze pots (baṭulohiyā) also spread their gleam, and two large water-serving vessels made of bronze and brass outshone even the radiance of the moon. Along with these there was also a very large, gleaming platter of phūl (bell-metal). (50)
+notes_uncertain: true
+source: "Sanskrit, Hindi translation and notes re-read line by line from upright crops of the scan by Claude (Opus 5.5), 2026-10-24, correcting the Gemini 3.1 Pro re-run (kept in superseded/gemini_rerun_2026-10-24/). Metre checked by laghu/guru scansion (Svāgatā). shlok_en translates the Sanskrit; translation_en and notes_en translate the Hindi."

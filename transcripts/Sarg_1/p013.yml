@@ -8,6 +8,10 @@ verses:
       विनिःसृता गोपुरवत् समको मुखकम् ।
       अबीर कालाढला मुपागत
       ददर्श धारां शिव मस्तके चिरात् ॥ २५ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        [Partly unclear.] Before him, falling from a cleft in the snowy mountain, issuing like [water through] a gateway at Gomukha, he saw the stream that has long dwelt on Śiva's head. (25)
     translation:
       author: amanuensis
       text: |
@@ -19,17 +23,21 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Emerging from the glacial cavern of the Himālayan heights through the portal of Gomukha, cascading downwards with roaring splendor—Sage Mṛkaṇḍu beheld the pure, eternal stream of Gaṅgā, who has rested since time immemorial upon the matted locks of Lord Śiva.
+        [The stream] falling downward from the Gomukha that issues from a cave of the Himālaya: he saw the stream that has been present for a long time on the head of Śiva, established since time without beginning. (25)
     notes_en:
       author: ai_translation
       text: |
-        There, he witnessed the crystal-clear waters of Mother Bhāgīrathī descending from the cavernous heights of the Himālayas toward Gomukha, murmuring with celestial melody. He saw that sovereign river which, endowed with boundless spiritual potency, has eternally sanctified the crest of Lord Sadāśiva.
+        Here he saw the clear stream of the goddess Bhāgīrathī, which comes out of a cave of the Himālaya mountain and falls downward to Gomukh, murmuring, and which has been present with great force since time without beginning on the head of Lord Sadāśiva. (25)
   - number: 26
     shlok: |
       निमेषशून्यान् दिशमादयच्चिरं
       विलोकयन् पीयूष समान निवृतिम् ।
       यमो मनूनामृषयस्ततस्तद
       निवस्तुमिच्छन्ननुगो बभूव सः ॥ २६ ॥
+    shlok_en:
+      author: ai_translation
+      text: |
+        [Partly unclear.] Gazing long and unblinking in that direction and finding contentment like nectar, he, wishing to live there, followed [the river]. (26)
     translation:
       author: amanuensis
       text: |
@@ -41,9 +49,9 @@ verses:
     translation_en:
       author: ai_translation
       text: |
-        Gazing unblinkingly upon that divine direction and experiencing a peace akin to the nectar of immortality, the foremost among the thoughtful descendants of Manu, filled with the longing to establish his dwelling there, began following the river's sacred course upstream.
+        Fixing his unblinking gaze in that direction, he experienced joy like obtaining nectar. Wishing to live [there], devoted to keeping [the ways] of the best of Manu's line, he set off upstream. (26)
     notes_en:
       author: ai_translation
       text: |
-        Listening to the melodious murmuring of the radiant Mother Bhāgīrathī and beholding her resplendent stream with unblinking eyes, Sage Mṛkaṇḍu experienced supreme tranquility like one tasting heavenly ambrosia. Immersed in an ocean of spiritual joy and wishing to reside permanently along her sanctifying banks, he followed the sacred riverway along its holy shores.
-source: "Content originally attached to the sri_markandeya_caritam_page_11.md export; reassigned to page 13 after cross-checking against page 14's confirmed content (shlok 27-28) and the old low-quality p012.md, both of which independently point to this content belonging here rather than on page 11."
+        Hearing the murmuring of this flowing, very radiant goddess Bhāgīrathī and gazing at it with unblinking eyes for endless time, Mṛkaṇḍu obtained the highest peace, like obtaining nectar, and kept diving into an ocean of joy. Now, to live on the bank of that holy goddess Gaṅgā, he set off following her stream along her bank, which gives merit. (26)
+source: "Content originally attached to the sri_markandeya_caritam_page_11.md export; reassigned to page 13 after cross-checking against page 14's content. No photograph of manuscript page 13 exists yet (found 2026-10-24: the image formerly named p013.jpg showed page 14), so this page has no scan, and its Sanskrit, which is corrupt as transcribed, could not be re-read. Re-read it once page 13 is photographed."

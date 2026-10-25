@@ -4,46 +4,71 @@ image: "images/pages/p026.jpg"
 verses:
   - number: 51
     shlok: |
-      गुणस्मृते गद्गदवाग् महामुनिः
-      प्रबुद्धलोमाञ्चित धेषयुश्चिरम् ।
-      संधोटस हानी हरये सुभावतो
-      प्रचक्रमे स्तोतुमथो सुरापगाम् ॥ ५१ ॥
+      गुणस्मृतेर्गद्गदवाङ्महामुनिः
+      प्रबुद्धलोमाञ्चितवेपथुश्चिरम् ।
+      संयोज्य हस्तौ हृदये सुमान्वितौ
+      प्रचक्रमे स्तोतुमसौ सुरापगाम् ॥ ५१ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: उपजाति (पाद १, २, ४ वंशस्थ; पाद ३ इन्द्रवंशा)। पूर्व पाठ "गुणस्मृते … / … धेषयुश्चिरम् / संधोटस हानी हरये सुभावतो / … स्तोतुमथो…" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Upajāti (pādas 1, 2 and 4 Vaṃśastha; pāda 3 Indravaṃśā). The earlier reading ("गुणस्मृते … / … धेषयुश्चिरम् / संधोटस हानी हरये सुभावतो / … स्तोतुमथो…") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        At the remembrance of her virtues the great sage's voice faltered; his hair stood on end and he trembled for a long while. Joining his flower-filled hands at his heart, he began to praise the river of the gods. (51)
     translation:
       author: amanuensis
       text: |
-        यशस्वी गङ्गा के गुणस्मरण से महामुनि की वाणी गद्गद हो उठी, शरीर में आनन्दातिरेक से दीर्घकाल तक कम्पन के साथ रोमाञ्च व्याप्त हो गया। कुसुमान्वित हाथों को हृदय में जोड़कर देवनदी गङ्गा की स्तुति करना प्रारम्भ किये ॥ ५१ ॥
+        यशस्वती गङ्गा के गुणस्मरण से महामुनि की वाणी गद्गद हो उठी, शरीर में आनन्दातिरेक से चिरकालतक कम्पन के साथ रोमाञ्च व्याप्त हो गया। कुसुमान्वित हाथों को हृदय में जोड़कर देवी गङ्गा की स्तुति करना प्रारम्भ किये ॥ ५१ ॥
     notes:
       author: grandfather
       text: |
-        समस्त विश्व-पावनी भगवती गङ्गा के अनन्त गुण-समूह के स्मरण मात्र से महामुनि मृकण्डु की वाणी सहसा गद्गद हो उठी, आनन्द की अतिशयता से समस्त शरीर की समस्त रोमराशि खड़ी हो गई (रोमाञ्चित हो उठी), दोनों हाथों में पुष्पों की राशि लेकर हृदय से लगाकर परात्पर आराध्‌या भगवती देवनदी गङ्गा की स्तुति करना प्रारम्भ किया ॥ ५१ ॥
+        समस्त विश्वपावनी भगवती गङ्गा के अनन्त गुणराशि के स्मरण मात्र से महामुनि मृकण्डु की वाणी सहसा गद्गद हो उठी, आनन्द की अतिशयिता से सकम्पन शरीर की समस्त रोमराजि कण्टकित हो उठी (समस्त रोंगटे अचानक खड़े हो गये) सश्रद्ध दोनों हाथों में पुष्पों की राशि लेकर हृदय से लगाकर परमाराध्या भगवती देवनदी गङ्गा की स्तुति करना प्रारम्भ किया। ५१
     translation_en:
       author: ai_translation
       text: |
-        Merely remembering the infinite divine attributes of the glorious Mother Gaṅgā, the voice of the great sage choked with deep emotion, and his body was swept by waves of ecstatic horripilation (romāñca). Clasping handfuls of fragrant blossoms to his heart with folded palms, he began singing devout hymns of adoration unto the celestial river.
+        At the remembrance of the glorious Gaṅgā's virtues, the great sage's voice choked; from excess of joy, trembling and thrilling of the hair spread through his body for a long time. Joining his flower-filled hands at his heart, he began to praise the goddess Gaṅgā. (51)
     notes_en:
       author: ai_translation
       text: |
-        The moment Sage Mṛkaṇḍu meditated upon the boundless holy attributes of Mother Gaṅgā—the universal purifier—his voice trembled with overwhelmed emotion and every hair on his body stood on end in spiritual rapture. Holding fragrant floral offerings close to his chest with joined palms, he commenced the exalted praise of the supreme, transcendent goddess of celestial rivers.
+        At the mere remembrance of the endless virtues of the goddess Gaṅgā, who purifies the whole world, the great sage Mṛkaṇḍu's voice suddenly choked; from the excess of joy all the hair of his trembling body bristled (all his hair suddenly stood on end). With faith, taking heaps of flowers in both hands and holding them to his heart, he began to praise the most worshipful goddess, the divine river Gaṅgā. (51)
   - number: 52
     shlok: |
-      जनान् गोलोकगतस्य वाञ्छया
+      जनस्य गोलोकगतस्य वाञ्छया
       समुद्दिधीर्षुर्भगवान् परात्परः ।
-      अलौकिकं रासमियेष संयुगे
-      दयामयों दर्शयितुं स्विकां तनुम् ॥ ५२ ॥
+      अलौकिकं रासमियेष संस्फुटं
+      दयामयीं दर्शयितुं स्विकां तनुम् ॥ ५२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: वंशस्थ (चारों पाद शुद्ध)। पूर्व पाठ "जनान् गोलोकगतस्य / … रासमियेष संयुगे / दयामयों…" भ्रान्त था।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Vaṃśastha (all four pādas scan). The earlier reading ("जनान् गोलोकगतस्य / … रासमियेष संयुगे / दयामयों…") was wrong.
+    shlok_en:
+      author: ai_translation
+      text: |
+        At the longing of the folk who had gone to Goloka, the Lord beyond the highest, wishing to raise them up, desired the unearthly rāsa, so as to show plainly his own compassionate form. (52)
     translation:
       author: amanuensis
       text: |
-        गोलोक गत व्यक्ति की इच्छा से परात्पर भगवान् उनके उद्धार करने वाले होकर अलौकिक रासक्रीड़ा करने की इच्छा की। अपने को दिखाने के लिए भी रास की इच्छा की ॥ ५२ ॥
+        गोलोकगत व्यक्ति की इच्छा से परात्पर भगवान् उन्हें उद्धार करने की कामना वाले होकर अलौकिक रासक्रीडा करने की इच्छा की। और दयामयी संस्फुट अपने आपके शरीर को दिखाने के लिए भी रास की इच्छा की ॥ ५२ ॥
     notes:
       author: grandfather
       text: |
-        अनन्त ब्रह्माण्ड नायक परात्पर भगवान् ने अपने गोलोक के निवासी स्वजनों की उत्कट अभिलाषा से अभिभूत होकर उनके समुद्धार हेतु अलौकिक रासक्रीड़ा करने की इच्छा की। वे अपनी परा प्रकृति को स्पष्ट कर देने की अभिलाषा से अपनी दयामयी मूर्ति का प्रत्यक्ष दर्शन देने का भी अभय किया ॥ ५२ ॥
+        अनन्त ब्रह्माण्ड नायक परात्पर भगवान् ने अपने गोलोक के निवासी स्वजनों की उत्कट अभिलाषा से अभिभूत होकर अलौकिक रासक्रीडा करने की इच्छा की और उनके समुद्धार हेतु अपनी परा प्रकृति को स्पष्ट स्वरूप देने की अभिलाषा से अपनी दयामयी मूर्ति का प्रत्यक्ष दर्शन देने का भी [unclear: अनुभव] किया। ५२
     translation_en:
       author: ai_translation
       text: |
-        To fulfill the ardent spiritual yearning of the devotees in the heavenly realm of Goloka and to ensure their ultimate liberation, the Supreme Lord willed to manifest the transcendental Rāsa-līlā, revealing His most compassionate divine form.
+        At the wish of those who had gone to Goloka, the Lord beyond the highest, wishing to deliver them, desired to perform the unearthly rāsa play; and he desired the rāsa also in order to show his own compassionate body plainly. (52)
     notes_en:
       author: ai_translation
       text: |
-        Moved by the intense devotion of the blessed souls residing in Goloka, the Sovereign Lord of infinite universes manifested the transcendental dance of divine ecstasy (Rāsa-līlā) for their eternal upliftment. Longing to reveal the mystery of His supreme primordial nature (Parā Prakṛti), He directly unveiled His blissful and all-merciful form before them.
+        The Lord beyond the highest, master of endless universes, overcome by the ardent longing of his own people dwelling in Goloka, wished to perform the unearthly rāsa play; and, wishing to give his supreme nature a visible form for their deliverance, he also [unclear] to give them a direct sight of his compassionate figure. (52)
+notes_uncertain: true
 source: "Transcribed via Google Lens by the user; structural cross-check against the scan done by Claude."
