@@ -37,7 +37,8 @@ scan_line <- function(line) {
 metres <- c(rathoddhata = "GLGLLLGLGL.", svagata = "GLGLLLGLLG.", vamsastha = "LGLGGLLGLGL.",
             indravamsa = "GGLGGLLGLGL.", indravajra = "GGLGGLLGLG.", upendravajra = "LGLGGLLGLG.",
             drutavilambita = "LLLGLLGLLGL.", vasantatilaka = "GGLGLLLGLLGLG.",
-            sardula = "GGGLLGLGLLLGGGLGGL.", anustubh = "........")
+            sardula = "GGGLLGLGLLLGGGLGGL.", malini = "LLLLLLGGGLGGLG.",
+            sragdhara = "GGGGLGGLLLLLLGGLGGLG.", anustubh = "........")
 which_metre <- function(p) { m <- names(metres)[map_lgl(metres, ~ str_detect(p, paste0("^", .x, "$")))]; if (length(m)) paste(m, collapse = "/") else "-" }
 
 a <- commandArgs(TRUE); dir <- a[1]

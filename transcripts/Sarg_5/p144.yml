@@ -1,0 +1,73 @@
+page_number_devanagari: "१४४"
+page_number_arabic: 144
+image: "images/pages/p144.jpg"
+verses:
+  - number: 51
+    shlok: |
+      विभुजकेतुनिभोऽपि कबन्धधृक्
+      खगविमानवरे किल दृश्यते ।
+      सकलविघ्नविनाशनहेतवे
+      महसि केतुरयं विनिमन्त्रितः ॥ ५१ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। सब पाद लिखित रूप में छन्द में बैठते हैं। पाद १: "कबन्धधृक्" (धड़ धारण करने वाला); "विभुजकेतुनिभः" — भुजा-रहित ध्वज के समान (हिन्दी "विभुजाकार केतु स्वरूप")। पाद ४: "महसि" = उत्सव में।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Every pāda scans as written. Pāda 1: "कबन्धधृक्" (bearing only a trunk); "विभुजकेतुनिभः", like an armless banner (the Hindi has "in the form of an armless Ketu/banner"). Pāda 4: "महसि" = at the festival.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Though like an armless banner, bearing only a trunk, he is seen in a fine bird-shaped aerial car: this is Ketu, invited to the festival to destroy every obstacle. (51)
+    translation:
+      author: amanuensis
+      text: |
+        विभुजाकार केतु स्वरूप होकर भी कबन्धधारी श्रेष्ठ खगविमान पर दिखाई दे रहे हैं । समस्त विघ्न विनाशार्थ इस उत्सव में निमन्त्रित ये केतु हैं ॥ ५१ ॥
+    notes:
+      author: grandfather
+      text: |
+        विभु आकार पताका के समान रूप धारण करने वाले होकर भी, मात्र धड़ (केवल शिरविहीन शरीर) ही धारण करने वाले ये केतु ग्रह पक्षियों के स्वरूप के उत्तम विमान पर आरूढ़ होकर सम्पूर्ण विघ्नों के विनाशार्थ इस महाग्रह केतु को भी निमन्त्रित किया गया था, ये सभी विघ्नों का नाशकर मङ्गल दान के लिए बरयात्रा के आये हुए हैं । ५१
+    translation_en:
+      author: ai_translation
+      text: |
+        Though in the form of an armless Ketu, bearing only a trunk, he is seen on a fine bird-shaped aerial car. This is Ketu, invited to this festival to destroy all obstacles. (51)
+    notes_en:
+      author: ai_translation
+      text: |
+        Though taking a form like a vast banner, bearing only a trunk (a body without a head), this planet Ketu rides a fine aerial car shaped like a bird. This great planet Ketu too was invited, to destroy every obstacle; he has come to the wedding procession to destroy all obstacles and bestow auspiciousness. (51)
+  - number: 52
+    shlok: |
+      प्रोड्डीनैर्व्योमयानैर्विविधरुचिकरैश्चित्रवर्णैः प्रपूर्णं
+      सस्याढ्यैर्वप्रलक्षैः क्षितिरिव [unclear: यदभाति संछन्नसूर्यम्] ।
+      [unclear: आस्माकीनाभिरेषापि] च करिनिवहै[unclear: र्योद्दिताभि]र्घटाभि-
+      र्नीलत्वं सन्दधाना भवति वसुमती सन्नभःसन्निभेयम् ॥ ५२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: स्रग्धरा (ऽऽऽऽ।ऽऽ ।।।।।।ऽ ऽ।ऽऽ।ऽऽ) — इस सर्ग में पहला भिन्न वृत्त। पाद १ और ४ पूरे छन्द में बैठते हैं। पाद २: "क्षितिरिव" के ऊपर "चै" जैसा कुछ जोड़ा गया है; उसके बाद "यदभातिसंछन्नसूर्यम्" जैसा लिखा है, जो छन्द में नहीं बैठता (१५वाँ अक्षर गुरु, १६वाँ लघु चाहिए)। पाद ३: आरम्भ "आस्माकीना…" (हमारी; हिन्दी "हमारी यह पृथ्वी") जैसा, फिर "भिरेषापि"; "करिनिवहै" के बाद का शब्द ("र्योद्दिताभि"?) अस्पष्ट — छन्द को वहाँ ऽ। चाहिए। हिन्दी: "हाथी के झुण्ड के समान उमड़े हुए घटाओं से"।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Sragdharā (ऽऽऽऽ।ऽऽ ।।।।।।ऽ ऽ।ऽऽ।ऽऽ), the first verse of the canto in a different metre. Pādas 1 and 4 scan in full. Pāda 2: something like "चै" is added above "क्षितिरिव"; what follows reads like "यदभातिसंछन्नसूर्यम्", which does not scan (syllable 15 must be heavy and 16 light). Pāda 3: it begins like "आस्माकीना…" (ours; the Hindi has "this earth of ours"), then "भिरेषापि"; the word after "करिनिवहै" ("र्योद्दिताभि"?) is unclear, and the metre needs ऽ। there. The Hindi: "with clouds massed like herds of elephants".
+    shlok_en:
+      author: ai_translation
+      text: |
+        Filled with soaring sky-craft of many dazzling colours, [the sky] shone like the earth with its crop-laden field-banks, the sun hidden. And this [earth] of ours too, taking on a blue hue from cloud-banks [massed] like herds of elephants, becomes like the sky. (52)
+    translation:
+      author: amanuensis
+      text: |
+        आकाशयान में ऊँचे उड़ने वाले अनेक कान्ति सम्पन्न चित्रविचित्र रंगों से परिपूर्ण, धान्यों से युक्त मेड़ों के समान बादलों से आच्छादित सूर्य [unclear: उर-] काश में पृथ्वी के समान सुशोभित हो रहे हैं । हाथी के झुण्ड के समान उमड़े हुए घटाओं से नील वर्ण को धारण करती हुई हमारी यह पृथ्वी भी श्रेष्ठ गगन के समान प्रतीत हो रही है ॥ ५२ ॥
+    notes:
+      author: grandfather
+      text: |
+        आकाश में अनेक प्रकार की उड़ान भरने वाले, अत्यन्त [unclear: शोभा] धारण करने वाले, विविध विभिन्न रंगों से युक्त, वायुयानों से सूर्यमण्डल को ढक देने वाले [unclear: आकाश] — जैसे [unclear: मेड़ों के] समूह (क्षेत्रसीमा) से विभक्त किए हुए भी फसलों से भरीपूरी भूमि सदा आवृत रहती है, सुशोभित होती रहती है, वैसे बारात में आये हुए हाथियों के आने के [unclear: झुण्ड] की घटाओं से चारों ओर काली उमड़ी हुई मेघ घटायें सारी [unclear: पृथ्वी] को काली (नीली) बनाये हुए हैं, जिससे यह धरती आकाश के समान ही काली दिखलाई पड़ रही है ।
+    translation_en:
+      author: ai_translation
+      text: |
+        [The sky,] full of aerial cars flying high, radiant and of many colours, with the sun covered as if by clouds, is as beautiful as the earth with its grain-laden field-banks. And this earth of ours too, taking on a blue colour from clouds massed like herds of elephants, seems like the lofty sky. (52)
+    notes_en:
+      author: ai_translation
+      text: |
+        The sky — with aerial cars making many kinds of flight, very splendid, of many different colours, covering the sun's disc — is like the land that, though divided by [unclear: field-banks] (field boundaries), is always covered and beautified by crops. In the same way, the dark cloud-masses billowing on every side, like the [unclear: herds] of elephants that have come in the procession, have turned the whole [unclear: earth] black (blue), so that this earth looks just as dark as the sky. (52)
+notes_uncertain: true

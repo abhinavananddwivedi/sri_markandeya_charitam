@@ -1,0 +1,73 @@
+page_number_devanagari: "१३४"
+page_number_arabic: 134
+image: "images/pages/p134.jpg"
+verses:
+  - number: 31
+    shlok: |
+      मुकुटवेष्टनवेष्टितमौलयः
+      स्मरसमच्छसमुज्ज्वलकञ्चुकाः ।
+      तदधिरूढजना अपि सस्मितं
+      समलपन्त मिथः कृतसौहृदाः ॥ ३१ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद १ का पहला अक्षर "मु"/"सु" जैसा; "मुकुट" पढ़ा गया (हिन्दी: "सुन्दर सिर पर पगड़ी")। पाद २: "स्मरसम" के बाद "च्छ" जैसा अक्षर दो बार लिखा प्रतीत होता है (एक सम्भवतः दोहराव); "स्मरसमच्छसमुज्ज्वलकञ्चुकाः" छन्द में ठीक बैठता है (हिन्दी: "कामकान्ति वाले … मनोहर अचकन")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. The first letter of pāda 1 looks like "मु" or "सु"; read as "मुकुट" (the Hindi: "a turban on the handsome head"). Pāda 2: after "स्मरसम" a letter like "च्छ" seems to be written twice (one probably a repetition); "स्मरसमच्छसमुज्ज्वलकञ्चुकाः" scans (the Hindi: "with the radiance of Kāma … handsome achkans").
+    shlok_en:
+      author: ai_translation
+      text: |
+        Their heads bound with crown-like turbans, in bright, shining coats, clear and fair as Smara (Kāma), the men riding on them too, having struck up friendships, chatted with one another, smiling. (31)
+    translation:
+      author: amanuensis
+      text: |
+        तदनन्तर सुन्दर सिर पर पगड़ी बांधे हुए मनोहर अचकन पहिने हुए कामकान्ति वाले हाथी पर सवार बराती हास्ययुक्त [unclear: भाषण] में बातें करते सौहृदपूर्ण ढंग से चल पड़े ॥ ३१ ॥
+    notes:
+      author: grandfather
+      text: |
+        विविध प्रकार के [unclear: सुनिर्मित] रेशमी और अन्य प्रकार के विविध पगड़ियों को बांधे हुए अत्यन्त दर्शनीय श्वेत-पीताभ रंग के अचकन पहने हुए देखने में कामदेव की शोभा को तिरस्कृत करते हुए, हाथियों पर सवार बरातीगण, परस्पर परम सौहार्द के साथ, मुस्कराते हुए बातचीत करते हुए, चल रहे थे । ३१
+    translation_en:
+      author: ai_translation
+      text: |
+        Thereupon the members of the wedding party riding on the elephants, turbans tied on their handsome heads, wearing handsome achkans, radiant as Kāma, set off in friendly fashion, chatting in [unclear: talk] full of laughter. (31)
+    notes_en:
+      author: ai_translation
+      text: |
+        Wearing various kinds of [unclear: well-made] silk and other turbans, and most handsome achkans of white and yellowish colour, outshining in looks the beauty of Kāmadeva, the members of the wedding party riding on the elephants moved along, smiling and chatting with one another in the greatest friendship. (31)
+  - number: 32
+    shlok: |
+      विरलमालिषु वाजिगजादिषु
+      छविरियं परिदृश्यत एव यत् ।
+      किमु सुसज्जितराजिगता तदा
+      श्वशुरसद्ममुखी सुषमा व्रजेत् ॥ ३२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद ४: "श्वशुरसद्ममुखी" पढ़ा गया (हिन्दी: "ससुराल की ओर")। हिन्दी अनुवाद के अन्त में कोश-उद्धरण: "(सुषमा परमा शोभा) इत्यमरः"।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Pāda 4 is read as "श्वशुरसद्ममुखी" (the Hindi: "towards the in-laws' house"). The Hindi translation ends with a lexicon citation: "(सुषमा = परमा शोभा) इत्यमरः", "suṣamā means supreme beauty", says the Amarakośa.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Among the horses, elephants and the rest, in their spaced-out lines, such a splendour was seen as if supreme beauty itself, in well-arrayed ranks, were then setting off towards the house of the father-in-law. (32)
+    translation:
+      author: amanuensis
+      text: |
+        अच्छी तरह से सजाये गये घोड़े हाथियों पर बरातियों की छवि ऐसी दिखाई पड़ रही है मानों ससुराल की ओर सुसज्जित पंक्तिबद्ध परमा शोभा ही चल पड़ी हो ॥ ३२ ॥ (सुषमा परमा शोभा) इत्यमरः
+    notes:
+      author: grandfather
+      text: |
+        बारात की तैयारी में घोड़ों की कमनीय पंक्ति [unclear: श्वेत] एक तरफ, हाथियों की लम्बी चौड़ी गजघटा की काली पंक्ति एक तरफ अलग २ अत्यन्त मनोहारी दिख रही थी, उसकी अद्भुत अनुपम शोभा देखकर लगता हो था कि स्वयं साक्षात् सुषमा रानी (शोभा रानी) स्वयं अपने ससुराल जा रही हों । अर्थात् उस बारात की अवर्णनीय शोभा निराली थी । ३२
+    translation_en:
+      author: ai_translation
+      text: |
+        The look of the wedding guests on the well-decked horses and elephants is such that it seems as if supreme beauty itself, adorned and arrayed in rows, had set out towards the in-laws' house. (32) ("suṣamā" means supreme beauty, says the Amarakośa.)
+    notes_en:
+      author: ai_translation
+      text: |
+        As the wedding procession was made ready, the lovely [unclear: white] line of horses on one side and the long, broad black line of the elephant-host on the other looked most charming, each apart. Seeing its wonderful, matchless splendour, it seemed as though Queen Suṣamā (Queen Beauty) herself, in person, were going to her own in-laws' house. That is, the indescribable splendour of that procession was unique. (32)
+notes_uncertain: true

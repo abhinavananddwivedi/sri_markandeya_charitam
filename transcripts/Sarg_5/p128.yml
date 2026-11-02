@@ -1,0 +1,73 @@
+page_number_devanagari: "१२८"
+page_number_arabic: 128
+image: "images/pages/p128.jpg"
+verses:
+  - number: 19
+    shlok: |
+      अथ गतो गृहमध्यमसौ मुनिः
+      सविधि कुड्यगता[unclear: श्चित]गोमयैः ।
+      विरचिताः सुगणेशयुतास्ततो
+      [unclear: ह्यकृत] षोडशमातृसुपूजनम् ॥ १९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद २: "कुड्यगता" के बाद का संयुक्ताक्षर "श्चि"/"ञ्चि" जैसा दिखता है; अर्थ (गोबर से भित्ति पर बनाई गई मातृकाएँ) स्पष्ट, पर शब्द अनिश्चित। पाद ३: लिखा "विरचिता सुगणेश युतास्ततो"; स्त्रीलिङ्ग द्वितीया बहुवचन ("विरचिताः … युताः", मातृकाः) माना गया। पाद ४: प्रथम अक्षर "ह्य"/"स्" जैसा (लिपिकार का "ह्य" अन्यत्र भी "प्य" जैसा दिखता है); छन्द को यहाँ एक लघु अक्षर चाहिए।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Pāda 2: the conjunct after "कुड्यगता" looks like "श्चि"/"ञ्चि"; the sense (Mothers drawn on the wall in cow-dung) is clear, but the word is uncertain. Pāda 3: written "विरचिता सुगणेश युतास्ततो"; read as feminine accusative plural ("विरचिताः … युताः", agreeing with the Mothers). Pāda 4: the first letter looks like "ह्य" or "स्" (the amanuensis's "ह्य" looks like "प्य" elsewhere too); the metre needs one light syllable here.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then the sage went into the middle of the house and, with due rite, [the Mothers] fashioned with cow-dung on the wall, together with fine Gaṇeśa, he then performed the worship of the sixteen Mothers. (19)
+    translation:
+      author: amanuensis
+      text: |
+        इसके बाद घर के भीतर गोमय से ~~चित्रित~~ भीत्ति पर चित्रित गणेश के साथ षोडशमातृका का पूजन सविधि किया ॥ १९ ॥
+    notes:
+      author: grandfather
+      text: |
+        उसके बाद घर [ऊपर जोड़ा: बीच] में जाकर पूर्व भित्ति पर गोमय से निर्मित गणेश के साथ षोडश मातृकाओं की भी सविधि पूजा अर्चना की । १९
+    translation_en:
+      author: ai_translation
+      text: |
+        After this, inside the house, he duly performed the worship of the sixteen Mothers together with Gaṇeśa, drawn in cow-dung on the wall. (19)
+    notes_en:
+      author: ai_translation
+      text: |
+        After that he went into [added above: the middle of] the house and, on the eastern wall, duly worshipped and honoured the sixteen Mothers together with Gaṇeśa, fashioned from cow-dung. (19)
+  - number: 20
+    shlok: |
+      उपरितोऽपि वितस्तिमितादधो
+      द्वितयरश्मि[unclear: कजां]घृतमातृकाः ।
+      तदनु सप्तगुडेन समीकृताः
+      प्रतिपुपूज सुपूजनतत्परः ॥ २० ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद २: "रश्मि" के बाद "कजां" जैसा पढ़ा जाता है; हिन्दी अनुवाद "दो प्रकार के रश्मि से युत", टिप्पणी "द्वितीय रश्मि पङ्क्ति के आकार रूप"। पाद ३: लिखा "समीकृता"; मातृकाः के साथ "समीकृताः" माना गया।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Pāda 2: after "रश्मि" the letters read like "कजां"; the Hindi translation has "joined with two kinds of rays", the notes "in the shape of a second row of rays". Pāda 3: written "समीकृता"; read as "समीकृताः", agreeing with the Mothers.
+    shlok_en:
+      author: ai_translation
+      text: |
+        And a span's measure below that [row], the ghee-Mothers [of the two rows of rays], made one with seven [lumps of] jaggery: these too he, intent on the worship, worshipped one by one. (20)
+    translation:
+      author: amanuensis
+      text: |
+        ऊपर से भी दो बीत्ते नीचे दो प्रकार के रश्मि से युत घृत मातृकाओं का जो सात गुड़ की भेली से एक किया गया है उसकी पूजा की ॥ २० ॥
+    notes:
+      author: grandfather
+      text: |
+        उस गणेश सहित षोडश ~~मा~~ मातृका के ऊपरी भाग से एक बीता (बित्ता) नीचे द्वितीय रश्मि पङ्क्ति के आकार रूप सात घृत मातृकाओं की भी सविधि पूजा की, फिर उन्हें सात बार गुड़ की डली से एकाकार बनाकर उस पूजन तत्पर महर्षि ने विविध रूपों से [ऊपर जोड़ा: उनकी] पूजा की । २०
+    translation_en:
+      author: ai_translation
+      text: |
+        Two spans below, too, he worshipped the ghee-Mothers joined with two kinds of rays, which had been made one with seven lumps of jaggery. (20)
+    notes_en:
+      author: ai_translation
+      text: |
+        A span below the top of those sixteen Mothers with Gaṇeśa, he also duly worshipped the seven ghee-Mothers, shaped as a second row of rays. Then, having made them one with a lump of jaggery seven times, the great sage, intent on the worship, worshipped [added above: them] in various forms. (20)
+notes_uncertain: true

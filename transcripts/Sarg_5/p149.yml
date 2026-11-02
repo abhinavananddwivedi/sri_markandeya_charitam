@@ -1,0 +1,73 @@
+page_number_devanagari: "१४९"
+page_number_arabic: 149
+image: "images/pages/p149.jpg"
+verses:
+  - number: 61
+    shlok: |
+      सुजनतापमवेक्ष्य च कौशिका
+      भ्रमतये मुदमादधतो जवात् ।
+      [unclear: अरिदुमुत्कतया] विजिघांसया
+      बहिरिताः प्रचलन्ति तमोदृशः ॥ ६१ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद १, २, ४ लिखित रूप में छन्द में बैठते हैं। पाद १: लिखित "कौशिक" (आ-मात्रा अस्पष्ट)। पाद २: "भ्रमतये" (घूमने के लिए) जैसा लिखा है। पाद ३: "विजिघांसया" (मारने की इच्छा से) स्पष्ट; आरम्भ "अरिद्रु/अरिदु-मुत्कतया" जैसा — हिन्दी "अपने शत्रुभूत काकादि को मारने की इच्छा से" के अनुसार "अरि-" (शत्रु) निश्चित, पर बीच का अक्षर और अर्थ अनिश्चित; "द्रु" हो तो "रि" गुरु होकर छन्द टूटता है। पाद ४: "तमोदृशः" = अन्धकार में देखने वाले (उल्लू)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Pādas 1, 2 and 4 scan as written. Pāda 1: written "कौशिक" (the ā-sign is unclear). Pāda 2: written "भ्रमतये" (in order to roam). Pāda 3: "विजिघांसया" (with the wish to kill) is clear; it begins like "अरिद्रु/अरिदु-मुत्कतया". From the Hindi ("wishing to kill their enemies the crows") "अरि-" (enemy) is certain, but the middle letter and the sense are not; if it is "द्रु", "रि" becomes heavy and the metre breaks. Pāda 4: "तमोदृशः" = those who see in the dark (owls).
+    shlok_en:
+      author: ai_translation
+      text: |
+        And seeing the distress of good people, the owls, delighting in roaming about swiftly, [eager] to kill their enemies, come out and move about: they who see in the dark. (61)
+    translation:
+      author: amanuensis
+      text: |
+        श्रेष्ठ जनों के ताप को देखकर कौशिक (उल्लू आदि पक्षी) वेग से घूमने के लिए उत्सुक तथा अपने शत्रुभूत काकादि को मारने की इच्छा से अन्धकार में ही दृष्टि वाले बाहर इधर उधर घूमने लगे ॥ ६१ ॥
+    notes:
+      author: grandfather
+      text: |
+        इस काली अँधेरी रात में सज्जनों को कष्ट होगा ही यह जानकर दिवान्ध (उल्लू आदि जो निशाचर जीव हैं) उन्हें अत्यन्त प्रसन्नता हो रही है, वे तेजी से निकलकर घूमने के साथ ही अपने शिकार (वध्य) की तलाश में अत्यन्त उत्सुकता से निकल पड़े हैं । ये रात्रिचर जीव जिन्हें अँधेरे में ही दिखता है वे प्रसन्नता पूर्वक कामकाज कर रहे हैं । ६१
+    translation_en:
+      author: ai_translation
+      text: |
+        Seeing the distress of good people, the owls (and other such birds), who see only in the dark, eager to roam swiftly and wishing to kill their enemies the crows and the like, came out and began to roam here and there. (61)
+    notes_en:
+      author: ai_translation
+      text: |
+        Knowing that in this black, dark night good people will surely suffer, the day-blind (owls and other night creatures) are very pleased. They have come out quickly to roam, and at the same time have set out with great eagerness in search of their prey (their victims). These night-roaming creatures, who can see only in the dark, are going about their business happily. (61)
+  - number: 62
+    shlok: |
+      गहनशाड्वलभूमिषु वासरे
+      परिविहृत्य निजाश्रयसम्मुखाः ।
+      निजखुरोद्धुतपूतरजःकणैः
+      सुरभयः प्रपुनन्ति सुयात्रिणः ॥ ६२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। चारों पाद छन्द में बैठते हैं। पाद २: "निजाश्रय" या "निजाश्रम" — दोनों छन्द में बैठते हैं (हिन्दी "अपने गोष्ठ के लिए")। पाद ३: "खुरो" के बाद एक अक्षर काटकर "द्धुत" लिखा है। पाद ४: लिखित "प्रपुनान्ति" जैसा; छन्द और व्याकरण "प्रपुनन्ति" चाहते हैं।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. All four pādas scan. Pāda 2: "निजाश्रय" or "निजाश्रम"; both scan (the Hindi has "for their own cow-pen"). Pāda 3: after "खुरो" a letter is struck out and "द्धुत" written. Pāda 4: written like "प्रपुनान्ति"; metre and grammar require "प्रपुनन्ति".
+    shlok_en:
+      author: ai_translation
+      text: |
+        Having wandered by day over the thick grasslands, the cows, turned toward their own shelter, purify the good travellers with the holy specks of dust raised by their hooves. (62)
+    translation:
+      author: amanuensis
+      text: |
+        दिन में सघन घास वाली भूमि में चारों ओर घूमकर हरे-हरे घासें चरकर सायंकाल अपने गोष्ठ के लिए समुत्सुक गायें अपने खुरों से उड़ाये गये पावन धूलियों से यात्रियों को पवित्र बनायीं ॥ ६२ ॥
+    notes:
+      author: grandfather
+      text: |
+        इस सान्ध्य वेला में दिनभर हरी कोमल घासों वाली भूमि में चरकर, अब साँझ के समय अपने अपने घरों के ओर जाने के लिए समुत्सुक ये गायें अपने गृहमार्ग से लौटने लगी हैं जिनके खुरों से उठी हुई ये धूलि की कणिकायें सभी राहगीरों को अत्यन्त पवित्र बना रही हैं । ६२
+    translation_en:
+      author: ai_translation
+      text: |
+        Having wandered all over the thickly grassed land by day and grazed on the green grass, the cows, eager in the evening for their own cow-pen, made the travellers holy with the sacred dust raised by their hooves. (62)
+    notes_en:
+      author: ai_translation
+      text: |
+        At this evening hour, having grazed all day on land with soft green grass, the cows, now eager at dusk to go to their own homes, have begun to return along the way home; the specks of dust raised by their hooves are making all the passers-by very holy. (62)
+notes_uncertain: true

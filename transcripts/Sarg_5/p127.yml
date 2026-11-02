@@ -1,0 +1,72 @@
+page_number_devanagari: "१२७"
+page_number_arabic: 127
+image: "images/pages/p127.jpg"
+verses:
+  - number: 17
+    shlok: |
+      तदनु दाक्षिनिदेशमवाप्य तै-
+      र्द्विजवरैः किल पञ्चभिरार्द्रया ।
+      चरणजानुशुभांसशिरस्सु सो-
+      विततनुः शुशुभे सुहरिद्रया ॥ १७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। तृतीय पाद के अन्त में "सो" के बाद योजक/अवग्रह जैसा चिह्न है; "सो विततनुः" (स + विततनुः) पढ़ा गया।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. At the end of pāda 3, after "सो", there is a mark like a hyphen or avagraha; it is read as "सो विततनुः" (saḥ + vitatanuḥ).
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then, on Dākṣi's instruction, those five excellent brahmins [anointed him] with moist turmeric on his feet, knees, fine shoulders and head; and he, his body thus covered, shone with the fine turmeric. (17)
+    translation:
+      author: amanuensis
+      text: |
+        उसके बाद दाक्षी के आदेश को पाकर उन पाँच द्विजवरों ने गीली हल्दी का लेप किया जिससे चरण-जानु-कन्धे तथा सिर पर लगे हल्दी से शरीर सुशोभित हो गया ॥ १७ ॥
+    notes:
+      author: grandfather
+      text: |
+        इसके बाद मुनि दाक्षि का आदेश पाकर पाँच उत्तम विद्वान ब्राह्मणों ने गीली हल्दी को लेकर वर के चरणों, जंघों, उन्नत स्कन्धों एवं सिर पर भी हरिद्रालेपन कर उनकी शरीर को पीताभ बना दिया, जिससे उनकी तेजोदीप्त शरीर और भी अधिक मनोहर बन गई। १७
+    translation_en:
+      author: ai_translation
+      text: |
+        Then, on receiving Dākṣi's instruction, those five excellent brahmins applied a paste of moist turmeric, so that his body shone with the turmeric on his feet, knees, shoulders and head. (17)
+    notes_en:
+      author: ai_translation
+      text: |
+        After this, on receiving Sage Dākṣi's instruction, five excellent, learned brahmins took moist turmeric and anointed the bridegroom's feet, thighs, broad shoulders and head with it, making his body golden-yellow, so that his radiant body became more charming still. (17)
+  - number: 18
+    shlok: |
+      अथ च षोडशमातृसुपूजनं
+      विहितवाञ्जनकोऽस्य सभार्यकः ।
+      सतृणतोरणवारिजमातृका-
+      स्थलजमातृसुपूजनपूर्वकम् ॥ १८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। "वारिज" = कमल (हिन्दी अनुवाद: "कमल"; टिप्पणी: "जल मातृका")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. "वारिज" = lotus (the Hindi translation has "lotus"; the notes have "water mātṛkā").
+    shlok_en:
+      author: ai_translation
+      text: |
+        And then his father, with his wife, performed the worship of the sixteen Mothers, preceded by the worship of the Mothers of grass and the toraṇa, of the water-born (lotus), and of the land. (18)
+    translation:
+      author: amanuensis
+      text: |
+        इसके बाद तृण-तोरण-कमल-मातृका स्थल मातृका पूजनपूर्वक वर के पिता ने पत्नी के साथ षोडश मातृका पूजन किया ॥ १८ ॥
+    notes:
+      author: grandfather
+      text: |
+        इसके बाद मुनि मृकण्डु के पिता मुनि धाता ने अपनी पत्नी के साथ षोडश मातृकाओं का पूजन किया, साथ ही सुन्दर तोरण मातृका, जल मातृका, स्थल मातृका की पूजा भी उसके पूर्व सम्पादित किया। १८
+    translation_en:
+      author: ai_translation
+      text: |
+        After this, after worshipping the grass, toraṇa and lotus mātṛkās and the land mātṛkā, the bridegroom's father with his wife performed the worship of the sixteen mātṛkās. (18)
+    notes_en:
+      author: ai_translation
+      text: |
+        After this, Sage Dhātā, father of Sage Mṛkaṇḍu, together with his wife, worshipped the sixteen mātṛkās. Before that he had also performed the worship of the beautiful toraṇa mātṛkā, the water mātṛkā and the land mātṛkā. (18)

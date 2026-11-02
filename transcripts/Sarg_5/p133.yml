@@ -1,0 +1,73 @@
+page_number_devanagari: "१३३"
+page_number_arabic: 133
+image: "images/pages/p133.jpg"
+verses:
+  - number: 29
+    shlok: |
+      विविधवाद्यगणैर्मनुजैः पृथक्
+      रुचिरवेषविधानपरायणैः ।
+      निजनिजेप्सितवाद्यसुचारवो
+      परिचयप्रचलद्भिरदर्शयत् ॥ २९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद ३ का अन्तिम शब्द "सुचारवो" पढ़ा गया (हिन्दी: "सुन्दर ध्वनि")। पाद ४ लिखित "परिचय प्रचलद्भिरदर्शयत्"; बहुवचन कर्ता के साथ एकवचन क्रिया, जैसा लिखा है वैसा रखा।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. The last word of pāda 3 is read as "सुचारवो" (the Hindi: "beautiful sound"). Pāda 4 is written "परिचय प्रचलद्भिरदर्शयत्"; the verb is singular with a plural subject and is kept as written.
+    shlok_en:
+      author: ai_translation
+      text: |
+        By men with bands of various instruments, each apart, intent on fine dress, moving along and making them known, the beautiful sounds of the instruments each loved were displayed. (29)
+    translation:
+      author: amanuensis
+      text: |
+        अनेक वाद्य बजाने में निपुण अनेक पोशाकों से सुसज्जित वादक गण अपने अपने पसन्द के बाजों के सुन्दर ध्वनि का ~~[कटा हुआ]~~ परिचय करते हुए चल रहे हैं ॥ २९ ॥
+    notes:
+      author: grandfather
+      text: |
+        अनेक प्रकार बाजों के बजाने में अत्यन्त दक्षता प्राप्त, अनेक प्रकार के वस्त्राभरणों से सुसज्जित (विविध पोशाक वाले) कतिपय अपने २ वाद्य कला कौशल में गहरी [unclear: लगन से] अपनी २ अलग वाद्य कला की महत्ता का प्रदर्शन करते हुए अपने कला निपुणता का प्रदर्शन कर रहे थे । २९
+    translation_en:
+      author: ai_translation
+      text: |
+        Musicians skilled in playing many instruments, dressed in many kinds of costume, are moving along, making known the beautiful sound of the instruments each of them loves. (29)
+    notes_en:
+      author: ai_translation
+      text: |
+        Some, highly skilled in playing many kinds of instruments and adorned with many kinds of clothes and ornaments (in various costumes), [unclear: with deep devotion] to their own art of playing, were displaying the greatness of their own particular art, showing their artistic mastery. (29)
+  - number: 30
+    shlok: |
+      परिलसत्कुथमण्डितविग्रहा
+      विविधवेषविभूषणभूषिता ।
+      तदनु सा वरवारणसंहतिः
+      प्रथितहस्तिपकैस्तु सुचालिता ॥ ३० ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। "कुथ" = हाथी की झूल/हौदे का वस्त्र।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. "कुथ" = an elephant's caparison (housing).
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then that array of fine elephants, their bodies adorned with gleaming caparisons and decked in various trappings and ornaments, was driven well by renowned mahouts. (30)
+    translation:
+      author: amanuensis
+      text: |
+        उसके बाद हौदा से सुसज्जित विविध वेशों में सजाये गये श्रेष्ठ हाथियों की पङ्क्ति महावतों के द्वारा चलाये गये ॥ ३० ॥
+    notes:
+      author: grandfather
+      text: |
+        इसके बाद अनेक प्रकार के स्वर्णिम राजत एवं अन्य प्रकार के हौदे और झूल आदि से सुसज्जित उत्तम हाथियाँ अपनी अनोखी छटा बिखेर रही थी, जिन्हें [unclear: ऊँचे] कोटि के कलाकार महावत (उनके संचालक गण) उनकी विविध [unclear: मोहक] गतियों द्वारा आवश्यकतानुरूप सुखद संचालन कर रहे थे । ३०
+    translation_en:
+      author: ai_translation
+      text: |
+        After that, the row of fine elephants, fitted with howdahs and decked in various trappings, was driven along by the mahouts. (30)
+    notes_en:
+      author: ai_translation
+      text: |
+        After this the fine elephants, decked with howdahs of gold, silver and other kinds and with caparisons and the like, were spreading their singular splendour; and [unclear: first]-rate artists, the mahouts (their drivers), were driving them pleasantly, as needed, in their various [unclear: charming] gaits. (30)
+notes_uncertain: true

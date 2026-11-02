@@ -1,0 +1,73 @@
+page_number_devanagari: "१४१"
+page_number_arabic: 141
+image: "images/pages/p141.jpg"
+verses:
+  - number: 45
+    shlok: |
+      अथ च पश्यत लोहितविग्रहा-
+      नतितनूनरुणोढविमानगान् ।
+      प्रथितदीर्घभुजाः प्रणताः सदा
+      कृतशुभङ्करमङ्गलवासिनः ॥ ४५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद ३ प्रथमा में लिखा है ("भुजाः प्रणताः"), जबकि प्रसङ्ग द्वितीया ("भुजान्प्रणतान्") चाहता है; "प्रणताः" का "ता" छन्द से गुरु। पाद २: "अतितनून् अरुणोढविमानगान्" (अत्यन्त सूक्ष्म शरीर वाले, लाल विमानों पर जाने वाले)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Pāda 3 is written in the nominative ("भुजाः प्रणताः"), though the context wants the accusative ("भुजान्प्रणतान्"); the metre makes "ता" in "प्रणताः" heavy. Pāda 2: "अतितनून् अरुणोढविमानगान्" (very slight of body, riding in red aerial cars).
+    shlok_en:
+      author: ai_translation
+      text: |
+        And look at these red-bodied, very slight beings riding in red aerial cars — famed for their long arms, ever bowing in reverence — the dwellers of Maṅgala (Mars), who do what is auspicious. (45)
+    translation:
+      author: amanuensis
+      text: |
+        अति सूक्ष्म शरीर धारी लाल रङ्ग के विमान पर बैठे लाल शरीर के रङ्ग वाले विशाल बाहु सम्पन्न नतमस्तक तथा शुभङ्करकारी मङ्गललोक निवासियों को देखो ॥ ४५ ॥
+    notes:
+      author: grandfather
+      text: |
+        अब आप लाल वर्णवाले, लम्बी काया धारण किए हुए [unclear: भौम (भौम)] के द्वारा सञ्चालित उत्तम विमान पर चढ़कर उड़ने वाले, लम्बी २ भुजा धारण करने वाले अत्यन्त विनयशील शालीन, निरन्तर मङ्गलकार्य में संलग्न रहने वाले इन मङ्गललोक निवासियों को भी आप सब देखें ! ४५
+    translation_en:
+      author: ai_translation
+      text: |
+        Look at the dwellers of Maṅgala's world: very slight of body, seated in red aerial cars, red-skinned, long-armed, with bowed heads, and doers of good. (45)
+    notes_en:
+      author: ai_translation
+      text: |
+        Now all of you look also at these dwellers of Maṅgala's world: red in colour, tall of body, flying aboard fine aerial cars driven by [unclear: Bhauma (Mars)], long-armed, very modest and courteous, ever engaged in auspicious work! (45)
+  - number: 46
+    shlok: |
+      हरितवस्त्रविभूषितवर्ष्मणो
+      हयविमानगता[unclear: नतिमोददान्] ।
+      सुभगसुन्दरवेषधरानतो
+      [unclear: बुधम]वेत बुधग्रहपालकान् ॥ ४६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद २ का अन्त "नतिलेहदान्" जैसा लिखा दिखता है; हिन्दी ("सतत उत्साहदायक") के अनुसार "अतिमोददान्" (अत्यन्त आनन्द देने वाले) अनुमान है। पाद ४: पहला शब्द "बुधम्"/"मुखम्" जैसा (हिन्दी "प्रमुख"); "अवेत" = जानो। "वर्ष्मणः" (शरीर वाले) प्रथमा/द्वितीया बहुवचन।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. The end of pāda 2 looks like "नतिलेहदान्"; "अतिमोददान्" (giving great joy) is a conjecture from the Hindi ("ever inspiring zeal"). Pāda 4: the first word looks like "बुधम्"/"मुखम्" (the Hindi has "chief"); "अवेत" = know. "वर्ष्मणः" (whose bodies) is plural.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Know these, whose bodies are adorned with green garments, riding in horse-drawn aerial cars, [unclear: giving great joy], wearing graceful and handsome dress, to be the guardians of the planet Budha (Mercury). (46)
+    translation:
+      author: amanuensis
+      text: |
+        हरित वस्त्रों से जिनका शरीर विभूषित है ऐसे घोड़े वाले विमानों पर आरूढ़ तथा सतत उत्साहदायक अतीव सुन्दर वेषधारी प्रमुख बुधग्रह पालकों को जानो ॥ ४६ ॥
+    notes:
+      author: grandfather
+      text: |
+        सदा हरे २ वस्त्रों से निरन्तर सुसज्जित शरीर धारण करने वाले, हरितवर्ण के ही अश्व युक्त विमान पर आरूढ़ होकर विचरण करने वाले, प्राणियों के समस्त इष्ट कार्यों को सदा [unclear: साकारित] करने वाले, अत्यन्त सुन्दर वेश धारण करने वाले, बुध ग्रह के द्वारा पालन किए जाने वाले हैं ऐसा समझें । ४६
+    translation_en:
+      author: ai_translation
+      text: |
+        Know these as the chief guardians of the planet Budha: their bodies adorned with green garments, mounted on horse-drawn aerial cars, ever inspiring zeal, wearing very beautiful dress. (46)
+    notes_en:
+      author: ai_translation
+      text: |
+        Understand that these, whose bodies are always dressed in green garments, who roam mounted on aerial cars drawn by horses that are green too, who always [unclear: bring to fruition] every wished-for work of living beings, and who wear very beautiful dress, are those protected by the planet Budha. (46)
+notes_uncertain: true

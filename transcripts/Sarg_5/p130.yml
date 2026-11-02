@@ -1,0 +1,73 @@
+page_number_devanagari: "१३०"
+page_number_arabic: 130
+image: "images/pages/p130.jpg"
+verses:
+  - number: 23
+    shlok: |
+      समनुसृत्य विधीन्गुरुवाक्यतो
+      यवपयोभिरतीव सुतर्पयन् ।
+      प्रचुरगोत्रसुवृद्धिमय[unclear: क्कावलि]
+      शुभाशिषमाशु [unclear: न्यकुरु] सः ॥ २३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद ३-४ संदिग्ध। पाद ३: "मय" के बाद एक अक्षर कटा-सा, फिर "कावलि"; छन्द "…मयावलिं" (।ऽ।ऽ) से पूरा हो जाता, पर यह अनुमान है। पाद ४: "शुभाशिषमाशु" के बाद रेखाङ्कित शब्द ("न्यकुरु"?) और पङ्क्ति के दाहिने हाशिए पर "ववार" लिखा है — सम्भवतः संशोधन "शुभाशिषमाशु ववार सः" (टिप्पणी: "बार बार मांगा")। लिखित रूप में पाद ४ केवल १०–११ अक्षर का है और छन्द में नहीं बैठता; पुनः पठन आवश्यक।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Pādas 3–4 are doubtful. Pāda 3: after "मय" one letter seems struck out, then "कावलि"; "…मयावलिं" (।ऽ।ऽ) would complete the metre, but that is a conjecture. Pāda 4: after "शुभाशिषमाशु" comes an underlined word ("न्यकुरु"?), and "ववार" is written in the right margin, probably a correction to "शुभाशिषमाशु ववार सः" (the notes: "asked again and again"). As written, pāda 4 has only 10–11 syllables and does not scan; it needs a re-read.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Following the rites at the guru's word, and fully satisfying [the Fathers] with barley and milk, he quickly [asked for] auspicious blessings, [a succession] full of abundant growth of the lineage. (23)
+    translation:
+      author: amanuensis
+      text: |
+        शास्त्रविधि का गुरु के आदेशानुसार अनुसरण करके यव तथा दूध से अच्छी तरह तर्पण करते हुए गोत्र में अधिक सुवृद्धि पर्यन्त उन्होंने शुभाशीर्वाद प्रदान किया ॥ २३ ॥
+    notes:
+      author: grandfather
+      text: |
+        अपने पूज्य गुरुजनों द्वारा निर्दिष्ट होकर, यव और दूध के द्वारा पूज्य पितरों का विधिवत तर्पण करते हुए, उनसे अपने पूर्व पुरुषों से अपने पीढ़ी तक की सीमा तक, अनेक विध शुभाशीर्वचनों को बार बार मांगा । २३
+    translation_en:
+      author: ai_translation
+      text: |
+        Following the scriptural rite as the guru instructed, and offering libations thoroughly with barley and milk, he gave auspicious blessings for the full growth of the lineage. (23)
+    notes_en:
+      author: ai_translation
+      text: |
+        Directed by his revered elders, and duly offering libations to the revered Fathers with barley and milk, he asked of them again and again many kinds of blessings, reaching from his forefathers down to his own generation. (23)
+  - number: 24
+    shlok: |
+      अथ यवार्द्रकमूल्य[unclear: सुनिष्क्रयं]
+      प्रतिनिधिं किल दक्षिणयान्वितम् ।
+      द्विजगणाय निवेद्य शुभं पुनः
+      पितृगणोऽपि नयेन विसर्जितः ॥ २४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद १ का अन्तिम शब्द "सुनिक्रय"/"सुनिष्क्रय" जैसा; टिप्पणी में "मूल्य निष्क्रय" आता है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. The last word of pāda 1 looks like "सुनिक्रय"/"सुनिष्क्रय"; the notes have "मूल्य निष्क्रय" (price in redemption).
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then, having offered to the company of brahmins the good substitute, the price of barley and fresh ginger, together with a fee, the host of Fathers too was duly dismissed. (24)
+    translation:
+      author: amanuensis
+      text: |
+        बाद में यव-अदरक का मूल्य दक्षिणा के साथ प्रतिनिधि रूप द्विजगणों को देकर पुनः विधि के अनुसार पितृगणों को उन्होंने विसर्जित किया ॥ २४ ॥
+    notes:
+      author: grandfather
+      text: |
+        इसके बाद प्राचीन परम्परा (यव और अदरक के मूल्य [unclear: रूप] दक्षिणा ब्राह्मणों को दी जाने की प्रथा थी, उतने से ही सन्तुष्ट रहकर सुप्रसन्न हुआ करते थे अतः) पूजनोपरान्त धाता महर्षि ने यवार्द्र मूल्य निष्क्रय की सुदीर्घ दक्षिणा विद्वानों को सादर समर्पित कर उस कल्याणकामी ने अपने पूज्य पितृगणों का भी सविधि विसर्जन किया । २४
+    translation_en:
+      author: ai_translation
+      text: |
+        Afterwards, having given the brahmins the price of barley and ginger as a substitute, together with a fee, he again dismissed the hosts of Fathers according to the rite. (24)
+    notes_en:
+      author: ai_translation
+      text: |
+        After this, following the ancient tradition (it was the custom to give brahmins a fee [unclear: in the form of] the price of barley and ginger; they were content with that much and were well pleased), once the worship was over the great sage Dhātā respectfully offered the learned men a generous fee as the redemption price of the barley and ginger, and then he, wishing for welfare, also duly dismissed his revered hosts of Fathers. (24)
+notes_uncertain: true

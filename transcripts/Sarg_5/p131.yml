@@ -1,0 +1,73 @@
+page_number_devanagari: "१३१"
+page_number_arabic: 131
+image: "images/pages/p131.jpg"
+verses:
+  - number: 25
+    shlok: |
+      अथ वरं शुभवेषविधानतः
+      कनकयानगतं रुचिराननाः ।
+      युवतयो दधिलाजशिलासुत-
+      भ्रमणपूर्वपरीक्षणमुज्जगुः ॥ २५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। "शिलासुत" = लोढ़ा (हिन्दी में स्पष्ट)। पाद ४ का अन्तिम शब्द "मुज्जगुः" पढ़ा गया।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. "शिलासुत" = the grinding-stone pestle (loṛhā), as the Hindi says. The last word of pāda 4 is read as "मुज्जगुः".
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then fair-faced young women, with curd, parched grain and the circling of the grinding-stone, sang out the parīchan of the bridegroom, finely dressed and seated in a golden carriage. (25)
+    translation:
+      author: amanuensis
+      text: |
+        सुन्दर सुसज्जित वेषभूषा धारण किये सोने की डोली पर बैठे वर (दूल्हा) का परीछन सुमुखी युवतियों ने दही-लावा तथा शिलासुत (लोढ़ा) घुमाकर की ॥ २५ ॥
+    notes:
+      author: grandfather
+      text: |
+        इसके बाद अत्यन्त पवित्र एवं आकर्षक वेश विन्यास से सजे धजे दूल्हे मृकण्ड मुनि का, जो अत्यन्त वेशभूषा सम्पन्न एवं स्वर्णिम पालकी पर बैठे हुए थे, को अतिशय सुमुखी अपनी [ऊपर जोड़ा: unclear] स्वर्णिम आभरणों से सुसज्जित हास परिहास में निमज्जित युवतियों ने दही खील (लावा) आदि के साथ शिलासुत (लोढ़ा) घुमाकर [unclear: श्रिय] (आरती) परीक्षण करते हुए विविध विध कल्याण कामनायें की । २५
+    translation_en:
+      author: ai_translation
+      text: |
+        Fair-faced young women performed the parīchan of the bridegroom (dūlhā), finely dressed and seated in a golden palanquin, with curd and parched grain and by circling the grinding-stone (loṛhā). (25)
+    notes_en:
+      author: ai_translation
+      text: |
+        After this, for the bridegroom, Sage Mṛkaṇḍu, decked out in most pure and attractive attire, who, richly dressed, was seated in a golden palanquin, the young women, exceedingly fair-faced, adorned with their [added above: unclear] golden ornaments and immersed in laughter and banter, performed the parīchan with curd, parched grain (lāvā) and the like, circling the grinding-stone (loṛhā) [unclear] (āratī), and made many kinds of wishes for his welfare. (25)
+  - number: 26
+    shlok: |
+      तदलिके तिलकं शुचिमेचकं
+      मृगमदेन विरच्य शुभेच्छवः ।
+      विदधिरे कुटिलेक्षणरक्षणं
+      युवतयो वत [unclear: योग]परायणाः ॥ २६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद ४: "योगपरायणाः" जैसा पढ़ा जाता है; हिन्दी "लौकिक कार्य में दक्ष" से "लोकपरायणाः" की सम्भावना है — दोनों छन्द में ठीक।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Pāda 4 reads like "योगपरायणाः"; the Hindi ("skilled in worldly affairs") suggests "लोकपरायणाः". Both scan.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Making on his forehead a pure dark tilaka with musk, the well-wishing young women, devoted to [worldly custom], ah, guarded him against the crooked (evil) eye. (26)
+    translation:
+      author: amanuensis
+      text: |
+        वर के शुभ चाहने वाली उसके भाल पर अति सुन्दर [ऊपर जोड़ा: तिलक तथा] मृगमद (कस्तूरी) का काला टीका [ऊपर जोड़ा: लगाकर] लौकिक कार्य में दक्ष युवतियाँ बुरी नजर से रक्षा की ॥ २६ ॥
+    notes:
+      author: grandfather
+      text: |
+        वर यात्रा के अवसर पर उसकी अत्यन्त शुभ कल्याण की कामना से उस वर के उन्नत भाल (ललाट) पर अत्यन्त मनहर कस्तूरी के ~~साथ~~ विनिर्मित काला टीका लगाकर युवतियों ने उस वर की निरन्तर कल्याण की कामना से कि कहीं वर को किसी की टेढ़ी (विरोधी) नजर न लग जाय जिससे इसका अहित हो जाय, से उसकी [unclear: हर तरह] रक्षा की ।
+    translation_en:
+      author: ai_translation
+      text: |
+        The young women who wished the bridegroom well, skilled in worldly custom, put on his forehead a most beautiful [added above: tilaka and a] black mark of mṛgamada (musk) and guarded him from the evil eye. (26)
+    notes_en:
+      author: ai_translation
+      text: |
+        On the occasion of the wedding procession, wishing him every good fortune, the young women put a most charming black mark made of musk on the bridegroom's lofty forehead (brow). Wishing for his lasting welfare, lest anyone's crooked (hostile) eye fall on him and harm him, they protected him [unclear: in every way]. (26)
+notes_uncertain: true

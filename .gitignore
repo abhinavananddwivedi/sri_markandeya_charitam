@@ -5,3 +5,4 @@ transcripts/**/*.docx
 Thumbs.db
 .DS_Store
 /Images/pages_superseded_2026-10-24/
+/second_opinion/**/*.jpg

@@ -1,0 +1,73 @@
+page_number_devanagari: "१४२"
+page_number_arabic: 142
+image: "images/pages/p142.jpg"
+verses:
+  - number: 47
+    shlok: |
+      शुचितडिद्युतिवस्त्रविभूषिता-
+      न्विबुधशिक्षणचारुकृतश्रमान् ।
+      गजविमानलसद्गुरुरोचिषः
+      सपदि वित्त बृहस्पतिलोकगान् ॥ ४७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। सब पाद लिखित रूप में छन्द में बैठते हैं। पाद ४: "वित्त" = जानो (विद्, लोट् मध्यम पुरुष बहुवचन)। शीर्ष का अंक "४७" (कर्सिव ७)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Every pāda scans as written. Pāda 4: "वित्त" = know (vid, imperative 2nd pl.). The heading numeral is "४७" (cursive ७).
+    shlok_en:
+      author: ai_translation
+      text: |
+        Know at once these, adorned with garments bright as pure lightning, who labour finely at teaching the gods, glowing in great splendour on their elephant-drawn aerial cars, to be those bound for Bṛhaspati's (Jupiter's) world. (47)
+    translation:
+      author: amanuensis
+      text: |
+        अति पवित्र बिजली की चमक वाले वस्त्रों से विभूषित विद्वानों एवं देवताओं को शिक्षा देने में परिश्रम करने वाले, गज[unclear: युक्त] के विमान से सुशोभित अति कान्ति सम्पन्न उन्हें शीघ्र ही बृहस्पति लोक वासी समझें ॥ ४७ ॥
+    notes:
+      author: grandfather
+      text: |
+        अतिशय पवित्र एवं पीताभ बिजली की तीव्र द्युति, कान्ति युत पीले वस्त्रों को [unclear: अङ्गों] द्वारा धारण किए हुए, अनेक प्रकार की विविध विद्याओं से परिपूर्ण उत्तमोत्तम शिक्षा प्रदान करनेवाले, हाथियों से युक्त उत्तम विमानों पर विचरण करने वाले, अत्यन्त तेजस्वी इन्हें आप बृहस्पति लोक के निवासी समझें । ४७
+    translation_en:
+      author: ai_translation
+      text: |
+        Those adorned with garments gleaming like very pure lightning, who toil at teaching scholars and gods, resplendent on [unclear: elephant-drawn] aerial cars, of great radiance: take them at once to be dwellers of Bṛhaspati's world. (47)
+    notes_en:
+      author: ai_translation
+      text: |
+        Wearing on their [unclear: limbs] yellow garments with the intense, radiant gleam of very pure, yellowish lightning, imparting the finest teaching, full of many kinds of learning, roaming on fine aerial cars drawn by elephants, very glorious: take these to be dwellers of Bṛhaspati's world. (47)
+  - number: 48
+    shlok: |
+      सितविमानयुजः सितवाजिनो
+      निरवधौ नभसि [unclear: प्रवता]निमान् ।
+      समधिगच्छत शुभ्रदुकूलिनः
+      प्रथितभार्गवलोकविहारिणः ॥ ४८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद २: "प्रवतानिमान्" जैसा लिखा है; "प्लवतः इमान्" (तैरते हुए इन्हें) अर्थ अभिप्रेत हो सकता है (हिन्दी "निस्सीम आकाश में चलने वाले")। पाद ३ के अन्त में "ः" के बाद एक चिह्न ("।"?)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Pāda 2 looks like "प्रवतानिमान्"; "प्लवतः इमान्" (these, floating) may be meant (the Hindi has "moving in the boundless sky"). At the end of pāda 3 there is a mark after the visarga ("।"?).
+    shlok_en:
+      author: ai_translation
+      text: |
+        Recognise these, yoked to white aerial cars, with white horses, [unclear: moving] in the boundless sky, clad in white silk, as those who roam in the famed world of Bhārgava (Śukra, Venus). (48)
+    translation:
+      author: amanuensis
+      text: |
+        सफेद विमानों में सफेद घोड़े जुते हुए हैं निस्सीम आकाश में चलने वाले सफेद वस्त्रधारी प्रसिद्ध शुक्रलोक में विहार करने वाले इन्हें समझें ॥ ४८ ॥
+    notes:
+      author: grandfather
+      text: |
+        सफेद विमानों में बैठे हुए, सफेद घोड़ों पर चढ़कर चलने वाले, निःसीम आकाश मण्डल में विचरण करने वाले, प्रसिद्धि वाले, अत्यन्त श्वेत दुपट्टा धारण किए रहने वाले, शुक्रलोक के ये निवासी हैं, ये शुक्रलोक लोक में नित्य विहार करते रहते हैं । ४८
+    translation_en:
+      author: ai_translation
+      text: |
+        White horses are yoked to white aerial cars; understand these, moving in the boundless sky, dressed in white, as those who roam in the famed world of Śukra. (48)
+    notes_en:
+      author: ai_translation
+      text: |
+        Seated in white aerial cars, travelling mounted on white horses, roaming the boundless expanse of the sky, renowned, always wearing very white shawls: these are dwellers of Śukra's world, and they roam there constantly. (48)
+notes_uncertain: true

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-A digitization project for a handwritten Sanskrit *mahākāvya* (epic poem) composed by the user's (Abhinav Anand's) grandfather. The source is photographs of a handwritten notebook (`Images/raw/`, subfoldered by canto), each generally containing shlok (verse) + translation + notes for the top and bottom halves of a physical page. As of 2026-09 three cantos are transcribed: **86 manuscript pages** (Sarga 1 = pp. 1–32, Sarga 2 = pp. 33–60, Sarga 3 = pp. 61–86). The shlok and its translation were penned by an amanuensis; the notes are in the grandfather's own hand. Not every page cleanly splits into two such halves — some are continuous commentary — so the data format tolerates variable structure per page rather than assuming a rigid template.
+A digitization project for a handwritten Sanskrit *mahākāvya* (epic poem) composed by the user's (Abhinav Anand's) grandfather. The source is photographs of a handwritten notebook (`Images/raw/`, subfoldered by canto), each generally containing shlok (verse) + translation + notes for the top and bottom halves of a physical page. As of 2026-11 five cantos are transcribed: **152 manuscript pages** (Sarga 1 = pp. 1–32, Sarga 2 = pp. 33–60, Sarga 3 = pp. 61–86, Sarga 4 = pp. 87–118, Sarga 5 = pp. 119–152). The shlok and its translation were penned by an amanuensis; the notes are in the grandfather's own hand. Not every page cleanly splits into two such halves — some are continuous commentary — so the data format tolerates variable structure per page rather than assuming a rigid template.
 
 The end goal: transcribe the manuscript into text preserving this structure, and publish it as a static website hosted via GitHub Pages on the user's account. The user pushes to GitHub themselves; this repo is prepared locally and left un-pushed.
 
@@ -122,6 +122,8 @@ verses:
 placeholder: true   # set true only for sample/test data — never on real transcriptions
 notes_uncertain: true   # set true when any block contains [unclear: ...] markers
 ```
+
+**Canto 5 (`Sarg_5/p119.yml`–`p152.yml`)** was transcribed by Claude directly from the photos on 2026-11-02, the first canto done that way. Its metre is Drutavilambita (।।। ऽ।। ऽ।। ऽ।ऽ), with Sragdharā at vv. 52–53 and Mālinī at vv. 65–66; the colophon is vv. 67–69. The blind second-opinion package for its flagged pādas is in `second_opinion/canto5/`, built by `scripts/tools/second_opinion_crops.ps1` from `spec.csv`. The crop jpgs are gitignored.
 
 **Canto 4 (`Sarg_4/p087.yml`–`p118.yml`) is hand-corrected and is its own source of truth.** On 2026-10-24 Claude re-read every verse, Hindi translation and note from upright line-level crops of the scans, correcting the Gemini 3.1 Pro re-run. Gemini's markdown and YAML are archived in `Sarg_4/superseded/gemini_rerun_2026-10-24/`; the YAML copies there are renamed `*.gemini.yaml` so that `build_site.R`, which globs `*.yml` recursively, ignores them. `scripts/build_sarga4_transcripts.R` is retired and stops on run. Canto 4's metre is **Svāgatā** (ऽ।ऽ ।।। ऽ।। ऽऽ), not Rathoddhatā; v63 is Śārdūlavikrīḍita, and the colophon is Vasantatilakā for vv. 64–65 and Svāgatā for v66. `translation_en` translates the Hindi and `shlok_en` the Sanskrit; keep them separate.
 

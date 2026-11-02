@@ -1,0 +1,74 @@
+sarga: "अथ पञ्चमः सर्गः"
+page_number_devanagari: "११९"
+page_number_arabic: 119
+image: "images/pages/p119.jpg"
+verses:
+  - number: 1
+    shlok: |
+      अथ गते [unclear: सु]वृते मुनिपुङ्गवे
+      व्यधित भाविविधिं स पराशरः ।
+      कुरुषु मुद्गलवेश्मनि वाञ्छया
+      [unclear: प्रवरता] वरयात्रिकसंगतिः ॥ १ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित (।।। ऽ।। ऽ।। ऽ।ऽ)। प्रथम पाद में "गते" के बाद लिपिकार ने "षु"/"बु" लिखकर एक अक्षर काटा है; छन्द के अनुसार यहाँ एक लघु अक्षर चाहिए, "सु" पाठ अनुमानित है। द्वितीय पाद में "भावि" पर लिपिकार ने संशोधन किया है। चतुर्थ पाद का प्रथम शब्द "प्रथरथा" जैसा दिखता है; छन्द (।।।ऽ) और हिन्दी ("श्रेष्ठ संगति") के आधार पर "प्रवरता" अनुमानित पाठ है। पृष्ठ के ऊपर बाएँ हाशिये में लाल स्याही से "Pramod Kumar" हस्ताक्षर है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita (।।। ऽ।। ऽ।। ऽ।ऽ). In pāda 1, after "गते", the amanuensis wrote "षु"/"बु" and struck out a letter; the metre needs one light syllable here, and "सु" is a guess. In pāda 2, "भावि" is overwritten. The first word of pāda 4 looks like "प्रथरथा"; "प्रवरता" is conjectured from the metre (।।।ऽ) and the Hindi ("excellent company"). A red-ink signature "Pramod Kumar" is in the top-left margin of the page.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then, when the bull among sages (Mṛkaṇḍu), the [unclear] choice having been made, had departed, Parāśara performed the rites still to come. In Mudgala's house among the Kurus, by [their] wish, the company of the wedding party was [unclear: excellent]. (1)
+    translation:
+      author: amanuensis
+      text: |
+        विवाहार्थ मुनिश्रेष्ठ मृकण्डु के प्रस्थान करने पर महर्षि पराशर भावी विधि को किया। कुरुदेश में मुद्गल के घर बरातों की इच्छा से श्रेष्ठ संगति है ॥ १ ॥
+    notes:
+      author: grandfather
+      text: |
+        इसके बाद मुनि श्रेष्ठ मृकण्डु जी के [unclear: वाग्दान कर] चले जाने के बाद मुनि पराशर ने आगे की वैवाहिक कार्य सम्पादन की क्रिया प्रारम्भ की। कुरु देशीय मुद्गलजी के घर बारातों (बरातियों को लेकर) जाने की इच्छा से [unclear: कतिपय] श्रेष्ठ सभ्य उच्च सामाजिक लोगों की एक अच्छी टोली बनाई। १
+    translation_en:
+      author: ai_translation
+      text: |
+        When the best of sages, Mṛkaṇḍu, had set out for the wedding, the great sage Parāśara performed the rite to come. In the land of the Kurus, at Mudgala's house, by the wish of the wedding party, there is excellent company. (1)
+    notes_en:
+      author: ai_translation
+      text: |
+        After this, when the best of sages, Mṛkaṇḍu, had [unclear: made the betrothal and] left, Sage Parāśara began the work of carrying out the wedding rites that followed. Wishing to go to the house of Mudgala of the Kuru country with the wedding party (taking the wedding guests), he formed a fine band of [unclear: some] excellent, cultured people of high social standing. (1)
+  - number: 2
+    shlok: |
+      क इह सन्ति निमन्त्रणभागिनो
+      मम कुले सकलाः खलु याजिनः ।
+      क इह [unclear: गन्तुमतो] निजवाञ्छया-
+      [unclear: ह्य]भिलषन्ति लसन्ति च मानसम् ॥ २ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। द्वितीय पाद में लिपि "सकला" (विसर्ग स्पष्ट नहीं)। तृतीय पाद में "गन्तुमतो" जैसा लिखा है ("गन्तुमनो" भी सम्भव)। चतुर्थ पाद का प्रथम अक्षर "प्य" जैसा दिखता है; "ह्य(भिलषन्ति)" या "(वाञ्छया)ऽभिलषन्ति" अनुमानित है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. In pāda 2 the script reads "सकला" (no visarga is visible). In pāda 3 the word looks like "गन्तुमतो" ("गन्तुमनो" is also possible). The first letter of pāda 4 looks like "प्य"; "ह्य(भिलषन्ति)" or "(वाञ्छया)ऽभिलषन्ति" is conjectured.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Who here are entitled to an invitation? In my family all are indeed sacrificers. Who here, of their own wish, intend to go? [Their] minds long for it and rejoice. (2)
+    translation:
+      author: amanuensis
+      text: |
+        यहाँ निमन्त्रित कितने हैं, मेरे कुल में सभी याज्ञिक हैं। अपनी इच्छा से बरात में जाने के लिए अभिलषित मन वाले हैं ॥ २ ॥
+    notes:
+      author: grandfather
+      text: |
+        इस बारात में जाने वाले निमन्त्रित कितने लोग होंगे, हमारे वंश में तो सभी लोग याज्ञिक ही हैं, अन्य कितने लोग अपने स्वेच्छा से चलना चाहते हैं, कितने लोगों की हार्दिक इच्छा है जो बारात जाने की तैयारी में पहले से ही अपनी महत्त्वाकांक्षाओं के [unclear: साथ] तैयार बैठे हैं। २
+    translation_en:
+      author: ai_translation
+      text: |
+        How many are invited here? In my family all are sacrificers. Of their own wish they have minds eager to go with the wedding party. (2)
+    notes_en:
+      author: ai_translation
+      text: |
+        How many invited people will go in this wedding party? In our lineage everyone is a sacrificer anyway. How many others wish to come of their own accord? How many heartily wish it, and are already sitting ready, preparing to go with the wedding party, [unclear: with] their high hopes? (2)
+notes_uncertain: true

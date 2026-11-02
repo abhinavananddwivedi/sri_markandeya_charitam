@@ -1,0 +1,73 @@
+page_number_devanagari: "१३२"
+page_number_arabic: 132
+image: "images/pages/p132.jpg"
+verses:
+  - number: 27
+    shlok: |
+      प्रथमतो वरवाजिषु सज्जिते-
+      [unclear: ष्वधिगताः] परमास्तरुणा जनाः ।
+      समधिरुह्य ययुर्वररक्षणं
+      [unclear: क्षणतया] किल धौरितकादिभिः ॥ २७ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद २ का पहला शब्द "ष्वतमिताः"/"ष्वधिमिताः" जैसा दिखता है; छन्द (।।।ऽ) और अर्थ "ष्वधिगताः" के अनुकूल, पर यह अनुमान है। पाद ३: "समधिरुह्य" के बाद ऊपर "ययु"/"प्रयुः" जैसा अक्षर जोड़ा गया है; "ययुर्" से छन्द पूरा होता है, जोड़ के बिना पाद १० अक्षर का रहता है। पाद ४: पहला शब्द "क्षणतया" जैसा, अनिश्चित (छन्द को दो लघु चाहिए)। "धौरितक" = घोड़े की एक चाल (सरपट)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. The first word of pāda 2 looks like "ष्वतमिताः"/"ष्वधिमिताः"; the metre (।।।ऽ) and the sense fit "ष्वधिगताः", but that is a conjecture. Pāda 3: after "समधिरुह्य" a word like "ययु"/"प्रयुः" is added above the line; "ययुर्" completes the metre, and without it the pāda has 10 syllables. Pāda 4: the first word looks like "क्षणतया" and is uncertain (the metre needs two light syllables). "धौरितक" = a horse's gait (a gallop).
+    shlok_en:
+      author: ai_translation
+      text: |
+        First, the finest young men, [mounted] on the fine horses that had been made ready, rode out to guard the bridegroom, [eagerly], with gallops and other gaits. (27)
+    translation:
+      author: amanuensis
+      text: |
+        प्रथम-प्रथम सुसज्जित श्रेष्ठ घोड़ों पर चढ़कर मैं पहिले मैं पहिले की होड़ वाले युवकगण धौरितकादि घोड़ों की गति से वररक्षण में तल्लीन हो गये ॥ २७ ॥
+    notes:
+      author: grandfather
+      text: |
+        वर यात्रा के पहले से सुसज्जित उच्च कोटि के अनेक घोड़ों पर बैठे (हाँकने वाले), पहले मैं, पहले मैं घोड़े को दौड़ाऊँगा इस होड़ में तैयार अनेक तरुण पुरुष (घोड़सवार) जो घोड़े की विविध गतियों (चालों) के अतिशय दक्ष एवं मर्मज्ञ थे वे लोग घोड़ों पर चढ़कर वर की रक्षा में सतत तैयार हो, ~~[कटा हुआ]~~ धौरितक (सरपट दौड़) के साथ वर की सुरक्षा में तत्पर हो उठे ।
+    translation_en:
+      author: ai_translation
+      text: |
+        Young men, vying with one another, "me first, me first", mounted the fine horses that had been made ready first of all, and became absorbed in guarding the bridegroom, riding at the gallop and other gaits. (27)
+    notes_en:
+      author: ai_translation
+      text: |
+        Many young men (horsemen), mounted on (driving) many first-rate horses that had been made ready before the wedding procession, ready in the contest of "I'll ride first, I'll ride first", and exceedingly skilled and expert in the various gaits (paces) of the horse, mounted their horses, kept themselves always ready to guard the bridegroom, and set themselves eagerly to his protection at the dhauritaka (a gallop). (27)
+  - number: 28
+    shlok: |
+      मधुरिकापि च मड्डुकझर्झर-
+      ध्वनियुता बहुवाद्यविचक्षणैः ।
+      प्रथमतः किल मङ्गलशालिनी
+      शुभपदातिगणैरभिवादिता ॥ २८ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। "मधुरिका", "मड्डुक", "झर्झर" — वाद्यों के नाम (हिन्दी: "मधुरीका-मड्डुक-झर्झरादि बाजों")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. "मधुरिका", "मड्डुक" and "झर्झर" are names of instruments (the Hindi: "the madhurīkā, maḍḍuka, jharjhara and other instruments").
+    shlok_en:
+      author: ai_translation
+      text: |
+        And first of all the auspicious madhurikā, with the sound of the maḍḍuka and jharjhara, was played by the fine bands of foot-musicians skilled in many instruments. (28)
+    translation:
+      author: amanuensis
+      text: |
+        अनेक बाजों को बजाने में कुशल पदातिगण मांगलिक ध्वनि से युक्त मधुरीका-मड्डुक-झर्झरादि बाजों को बजाने लगे ॥ २८ ॥
+    notes:
+      author: grandfather
+      text: |
+        वर यात्रा के समय विविध वाद्य यन्त्रों के उच्च कोटि के कलाकार अत्यन्त मधुर ध्वनि वाले कहीं विविध प्रकार के ढोल बजा रहे हैं, कहीं [unclear: झाँझ] कहीं, कहीं अन्य प्रकार के अनेक विध वाद्यों द्वारा पैदल चलने वाले लोग मांगलिक ध्वनि [unclear: से उत्साह बढ़ाते] बाजे बजा रहे थे । २८
+    translation_en:
+      author: ai_translation
+      text: |
+        Foot-musicians skilled in playing many instruments began to play the madhurīkā, maḍḍuka, jharjhara and other instruments, with an auspicious sound. (28)
+    notes_en:
+      author: ai_translation
+      text: |
+        During the wedding procession, first-rate players of various instruments, of most sweet sound, were here playing various kinds of drums, there [unclear: cymbals], and elsewhere many other kinds of instruments; the people going on foot played their instruments, [unclear: raising enthusiasm] with an auspicious sound. (28)
+notes_uncertain: true

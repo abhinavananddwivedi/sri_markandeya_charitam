@@ -1,0 +1,73 @@
+page_number_devanagari: "१२४"
+page_number_arabic: 124
+image: "images/pages/p124.jpg"
+verses:
+  - number: 11
+    shlok: |
+      अथ वराय शुभासनहेतवे
+      कनकयानमपेक्षितमार्गणम् ।
+      तदपि भूपप्रियव्रतसद्मनः
+      सुसमये समुपस्थितमेव तत् ॥ ११ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। तृतीय पाद में "भूपप्रियव्रत" — "प" के बाद "प्र" संयोग होने से पाँचवाँ अक्षर गुरु बनता है; यह प्र/क्र-पूर्व लघु की छूट (पूर्व सर्गों में भी प्रयुक्त) मानी जा सकती है। प्रथम पाद "शुभासन"/"सुखासन" दोनों सम्भव (छन्द समान)। चतुर्थ पाद "सुसमये"/"सुसमयं" और "समुपस्थित" (लिपि "समुपास्थित" जैसी)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. In pāda 3, "भूपप्रियव्रत" makes the fifth syllable heavy because of the "प्र" cluster; this can be taken as the licence of a light syllable before pr/kr (also found in earlier cantos). In pāda 1 both "शुभासन" and "सुखासन" are possible (same scansion). In pāda 4: "सुसमये"/"सुसमयं", and "समुपस्थित" (the script looks like "समुपास्थित").
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then, for a fine seat for the bridegroom, a golden carriage had to be sought; that too, from the palace of King Priyavrata, was presented at just the right time. (11)
+    translation:
+      author: amanuensis
+      text: |
+        वर के लिए सुन्दर आसन तथा स्वर्णनिर्मित यान भी अन्वेषण करना आवश्यक है। वह भी राजा प्रियव्रत के भवन से सुसमय पर उपस्थित हो गया ॥ ११ ॥
+    notes:
+      author: grandfather
+      text: |
+        अब वर के चढ़कर जाने के लिए एक अत्यन्त मूल्यवान स्वर्णनिर्मित आसन [unclear: (सुखयान)] की तलाश शुरू हुई, वह भी तत्कालीन महाराज प्रियव्रत जी के घर से यथावसर विवाह में जाने के पहले स्वयं उपस्थित हो गया। ११
+    translation_en:
+      author: ai_translation
+      text: |
+        For the bridegroom a fine seat and a carriage made of gold also had to be sought. That too arrived in good time from King Priyavrata's palace. (11)
+    notes_en:
+      author: ai_translation
+      text: |
+        Now the search began for a very costly golden seat [unclear: (a comfortable carriage)] on which the bridegroom would ride. That too arrived of itself, in good time, from the house of the then Mahārāja Priyavrata, before the departure for the wedding. (11)
+  - number: 12
+    shlok: |
+      अथ परेऽपि हितार्थपरायणाः
+      समवयस्कतया स्फुरितत्विषः ।
+      समुपसृत्य सुसज्जनतत्पराः
+      वरगृहे सकलं विधिमकुर्वत ॥ १२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। चतुर्थ पाद लिपि में स्पष्टतः "वरगृहे सकलं विधिमकुर्वत" है, जिसमें १३ अक्षर हैं (छन्द में १२ चाहिए); पाठ अशुद्ध या अपूर्ण हो सकता है। तृतीय पाद "समुपसृत्य" (लिपि "समुपसत्य" जैसी भी)। टिप्पणी के अन्त में दाहिने हाशिये में लाल स्याही का एक चिह्न है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Pāda 4 clearly reads "वरगृहे सकलं विधिमकुर्वत" in the script, which has 13 syllables where the metre needs 12; the text may be corrupt or slipped. Pāda 3: "समुपसृत्य" (the script could also be read "समुपसत्य"). There is a red-ink mark in the right margin at the end of the notes.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Then others too, intent on [his] welfare, of the same age and radiant in splendour, came up eager to make everything ready, and performed every rite in the bridegroom's house. (12)
+    translation:
+      author: amanuensis
+      text: |
+        अन्य लोग भी हितार्थ तत्पर समान अवस्था होने पर चमकती कान्ति वाले उपस्थित होकर वर के घर में सुन्दर सजाने में तल्लीन हो गये ॥ १२ ॥
+    notes:
+      author: grandfather
+      text: |
+        इसके बाद वर मृकण्डु के विवाह के हित रखने वाले अनेक हितचिन्तक तथा उनकी समान आयु वाले मित्र [unclear: कान्त] लोगों ने अत्यन्त प्रसन्नता पूर्वक स्वयं वहाँ उपस्थित होकर वर के घर में होने वाले सभी कार्यों में पूर्ण सहयोग देकर उनकी सभी कार्यों को सफलता पूर्वक सम्पन्न [unclear: किया करते थे]। १२
+    translation_en:
+      author: ai_translation
+      text: |
+        Other people too, eager to help, being of the same age and of shining radiance, came and became absorbed in beautifully decorating the bridegroom's house. (12)
+    notes_en:
+      author: ai_translation
+      text: |
+        After this, many well-wishers who had the bridegroom Mṛkaṇḍu's wedding at heart, and friends of his own age, [unclear: radiant] people, came there themselves with great joy, gave their full help in all the work being done in the bridegroom's house, and [unclear: saw] all his tasks through to success. (12)
+notes_uncertain: true

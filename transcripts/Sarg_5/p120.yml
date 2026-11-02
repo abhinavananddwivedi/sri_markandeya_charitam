@@ -1,0 +1,73 @@
+page_number_devanagari: "१२०"
+page_number_arabic: 120
+image: "images/pages/p120.jpg"
+verses:
+  - number: 3
+    shlok: |
+      कति गजाः कति वाजिवरा [unclear: अश्वो]
+      कति च वेसरपङ्क्तिरपेक्षिता ।
+      शकटयः कतिचित् किल मानसं
+      विकचयन्ति च यान्ति जनाः कति ॥ ३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। प्रथम पाद का अन्तिम शब्द "अश्वो"/"शुभो" जैसा दिखता है; छन्द को यहाँ लघु-गुरु (।ऽ) चाहिए, अतः "अश्वो" छन्दोभंग करता है। हिन्दी "ऊँट" का उल्लेख करती है, श्लोक में "वेसर" (खच्चर) है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. The last word of pāda 1 looks like "अश्वो" or "शुभो"; the metre needs light–heavy (।ऽ) here, so "अश्वो" breaks the metre. The Hindi mentions camels, whereas the verse has "वेसर" (mules).
+    shlok_en:
+      author: ai_translation
+      text: |
+        How many elephants, how many fine horses [unclear], and how many lines of mules are needed? How many carts, and how many people who gladden the mind, are going? (3)
+    translation:
+      author: amanuensis
+      text: |
+        बरात में कितने हाथी, कितने अच्छे घोड़े, कितने ऊँट की [unclear: झुण्ड] अपेक्षित है। कितनी गाड़ियाँ तथा मन को विकसित करने वाले कितने लोग जा रहे हैं ॥ ३ ॥
+    notes:
+      author: grandfather
+      text: |
+        बारात में कितने हाथी, कितने घोड़े और कितने खच्चरों की पंक्तियाँ सजाई जायँ, कुल कितनी बैलगाड़ियों का समूह रहेगा, कितने लोग हार्दिक प्रसन्नता पूर्वक इस बारात में चलने के लिए समुद्यत हैं।
+    translation_en:
+      author: ai_translation
+      text: |
+        How many elephants, how many fine horses, how large a herd of camels is needed for the wedding party? How many carts, and how many people who gladden the mind, are going? (3)
+    notes_en:
+      author: ai_translation
+      text: |
+        How many elephants, how many horses and how many lines of mules should be arrayed in the wedding party? How many bullock carts will there be in all? How many people are ready, with heartfelt joy, to go in this wedding party?
+  - number: 4
+    shlok: |
+      सुतविवाहसहर्षमनास्त्वभू-
+      च्चपलधीरपि नित्यविधौ रतः ।
+      परिचरा अखिला अधिकुर्वते
+      [unclear: भ्रमनुदेऽपनुदेश]परायणाः ॥ ४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। प्रथम पाद में लिपि "मनस्त्वभू" जैसी है; छन्द के अनुसार "मनास्त्वभू" पढ़ा गया। चतुर्थ पाद में लिपि "भ्रमनुदेपनु देश परायणाः" है; पाठ और अर्थ अनिश्चित है (हिन्दी: "भ्रम को दूर करने वाले आज्ञापालक परिचारक")।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. In pāda 1 the script looks like "मनस्त्वभू"; it is read as "मनास्त्वभू" to fit the metre. Pāda 4 is written "भ्रमनुदेपनु देश परायणाः"; the reading and sense are uncertain (Hindi: "obedient attendants who dispel confusion").
+    shlok_en:
+      author: ai_translation
+      text: |
+        His mind joyful over his son's wedding, he grew restless in thought, yet remained intent on his daily rites. All the attendants took charge, devoted to [unclear: dispelling confusion and to his instructions]. (4)
+    translation:
+      author: amanuensis
+      text: |
+        नित्यविधि में संलग्न रहते हुए पुत्रविवाह के सम्बन्ध में मुनिवर पराशर चञ्चल बुद्धि वाले हो गये। भ्रम को दूर करने वाले आज्ञापालक परिचारक उन्होंने नियुक्त किया ॥ ४ ॥
+    notes:
+      author: grandfather
+      text: |
+        यद्यपि अपने स्वयं पुत्र के विवाह की भाँति तैयारी करने की व्यवस्था करने वाले मुनि पराशर अत्यन्त चञ्चल (व्यस्त) बुद्धि वाले हो उठे क्योंकि [unclear: कार्याधिक्य] उन्हीं के [unclear: कन्धों पर था, फिर भी] वे अपने नित्य सान्ध्यादि अग्निहोत्र आदि कार्य में संलग्न होकर सम्पादित किया, साथ ही श्रमजन्य खेद मिटाने के लिए आज्ञाकारी अनेक व्यक्तियों (शिष्य प्रशिष्यों) की भी [unclear: स्थान स्थान पर] नियुक्ति की। उनका भी यथावसर [unclear: सदुपयोग] करते रहे। ४
+    translation_en:
+      author: ai_translation
+      text: |
+        While remaining engaged in his daily rites, the excellent sage Parāśara became restless in mind over the son's wedding. He appointed obedient attendants who dispel confusion. (4)
+    notes_en:
+      author: ai_translation
+      text: |
+        Sage Parāśara, who was arranging the preparations as if for the wedding of his own son, became extremely restless (busy) in mind, because [unclear: the bulk of the work rested] on him; [unclear: even so] he carried out his daily evening rites, agnihotra and the like, with full engagement. At the same time, to relieve the strain of the labour, he appointed many obedient people (disciples and their disciples) [unclear: at various posts], and kept making [unclear: good use] of them as occasion required. (4)
+notes_uncertain: true

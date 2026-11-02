@@ -1,0 +1,73 @@
+page_number_devanagari: "१२३"
+page_number_arabic: 123
+image: "images/pages/p123.jpg"
+verses:
+  - number: 9
+    shlok: |
+      अवसरे सकला हितकारिणः
+      किल भवन्ति सदा सहचारिणः ।
+      इति धिया वद वर्णविभाजनं
+      न कथमद्य समादरभाजनम् ॥ ९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "On an occasion all become helpers; companions are indeed always at hand." Tell me: with this thought in mind, why should the division into varṇas not be worthy of honour today? (9)
+    translation:
+      author: amanuensis
+      text: |
+        समय पर हितकारी सहचर जन अवश्य हितकारी होते हैं, इस बुद्धि से वर्णविभाजन समादर के पात्र क्यों नहीं हुआ, बताओ ॥ ९ ॥
+    notes:
+      author: grandfather
+      text: |
+        किसी भी अवसर विशेष पर सभी वर्ण के लोग अपनी-अपनी कार्य शैली एवं योग्यतानुसार सभी के कार्यों में सदा सहयोगी हुआ करते हैं, इति विचार से हमारे नियम रचनाकारों ने [unclear: कदाचित्] हमें वर्ण विभाजन किया है जो सदा सभी वर्णों के यथावसर कार्य सम्पादन में सहायक होते हैं तो भला बताइए यह विविध वर्ण विभाजन किसके लिए आदर का कारण न हो। ९
+    translation_en:
+      author: ai_translation
+      text: |
+        Helpful companions are surely helpful when the time comes. With this understanding, tell me, why did the division into varṇas not become worthy of respect? (9)
+    notes_en:
+      author: ai_translation
+      text: |
+        On any special occasion, people of every varṇa, each according to their own way of working and their ability, always help in everyone's work. With this thought our framers of rules [unclear: perhaps] gave us the division into varṇas, whose members always help in carrying out the work of all varṇas as the occasion requires. So tell me: for whom should this varied division into varṇas not be a cause of respect? (9)
+  - number: 10
+    shlok: |
+      वृषभयुक्तकरेषु निरोप्यते
+      सुसितरश्मिसदावृत[unclear: वंशकान्] ।
+      शुचिवितानमथो पटमण्डपा-
+      न्नृपतिसद्मगतान[unclear: हरंस्]तदा ॥ १० ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। प्रथम पाद में "युक्त" के बाद एक अक्षर काटा गया है, और दाहिने हाशिये में "युक्तकरेषु" सुधार के रूप में लिखा है। द्वितीय पाद का अन्तिम शब्द "वंशकान्"/"वंशवान्" जैसा है; हिन्दी अनुवाद इसे "बाँस", टिप्पणी "ऊँचे वंश" (बैलों का) समझती है। चतुर्थ पाद की लिपि "नृपतिसद्मगता नहरैस्तदा" है; "…गतानहरंस्तदा" (अहरन् = ले आये) अनुमानित, हिन्दी "लाये गये" से संगत।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. In pāda 1 a letter after "युक्त" is struck out, and "युक्तकरेषु" is written as a correction in the right margin. The last word of pāda 2 looks like "वंशकान्" or "वंशवान्"; the Hindi translation takes it as "bamboo", while the notes take it as "high lineage" (of the bulls). Pāda 4 is written "नृपतिसद्मगता नहरैस्तदा"; "…गतानहरंस्तदा" (अहरन्, "they brought") is conjectured, matching the Hindi "were brought".
+    shlok_en:
+      author: ai_translation
+      text: |
+        Loaded onto [carts] yoked with bulls, [unclear: bamboos / well-bred (bulls)] bound all about with bright white ropes; and then pure canopies and cloth pavilions, kept in the kings' palaces, they [unclear: brought]. (10)
+    translation:
+      author: amanuensis
+      text: |
+        चढ़ाइयों पर युक्तरत बैल अंकित है, सफेद चमकने वाले बाँस, पवित्र शामियाना, राजाओं के भवनों से पटमण्डप लाये गये ॥ १० ॥
+    notes:
+      author: grandfather
+      text: |
+        ऊँचे वंश में उत्पन्न (अर्थात् सदा सुपुष्ट तथा वेगशाली) लम्बे तीव्रगामी सफेद समुज्ज्वल रस्सियों से बँधे गले वाले बैलों से युक्त बैलगाड़ियों पर रख कर सुमनोहर तम्बू कनात एवं पटमण्डप (छोलदारियाँ) वस्त्रों से बने घरों को राजाओं के घर से लाया गया। १०
+    translation_en:
+      author: ai_translation
+      text: |
+        On the loads, yoked bulls are set; white, shining bamboos, pure awnings and cloth pavilions were brought from the kings' palaces. (10)
+    notes_en:
+      author: ai_translation
+      text: |
+        On bullock carts drawn by bulls of high breeding (that is, always well-fed and swift), tall and fast, with necks bound by bright white ropes, very handsome tents, screens (kanāt) and cloth pavilions (choldārīs), houses made of cloth, were loaded and brought from the kings' houses. (10)
+notes_uncertain: true

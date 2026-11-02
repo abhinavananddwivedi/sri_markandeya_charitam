@@ -1,0 +1,73 @@
+page_number_devanagari: "१५०"
+page_number_arabic: 150
+image: "images/pages/p150.jpg"
+verses:
+  - number: 63
+    shlok: |
+      [unclear: सिग]वलम्बितपृष्ठतलाः कर-
+      प्रथितवेणुरवाहितमुद्भराः ।
+      प्रहसितस्मितकेलिपरायणा
+      अनुसरन्ति गवां परिचारकाः ॥ ६३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। चारों पाद लिखित रूप में छन्द में बैठते हैं। पाद १: आरम्भ "सिग" जैसा लिखा है — हिन्दी "सिकहरों (सींकों) को पीठ की ओर लटकाये" से यह सींका/शिक्य का कोई रूप लगता है, पर शुद्ध संस्कृत रूप ("शिक्य") छन्द में नहीं बैठता; पाद का अन्त "कर-" अगले पाद से जुड़ता है ("करप्रथित", हाथ से फैलाया गया)। पाद २: "प्रथित" जैसा पढ़ा गया। पाद ४: लिखित "अनुसान्ति" जैसा; छन्द "अनुसरन्ति" चाहता है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. All four pādas scan as written. Pāda 1: it begins with something like "सिग"; from the Hindi ("with slings hung on their backs") it seems to be some form of sīṅkā/śikya (a hanging net for carrying food), but the correct Sanskrit form ("शिक्य") does not scan. The pāda ends "कर-", which joins the next pāda ("करप्रथित", spread by the hand). Pāda 2: read as "प्रथित". Pāda 4: written like "अनुसान्ति"; the metre requires "अनुसरन्ति".
+    shlok_en:
+      author: ai_translation
+      text: |
+        With slings hanging on their backs, full of delight at the flute-notes their hands send out, given to laughter, smiles and play, the cowherds follow the cows. (63)
+    translation:
+      author: amanuensis
+      text: |
+        सिकहरों को पीठ की ओर लटकाये हाथों से वेणु शब्द करने में समुत्सुक जोर से हँसते मुस्कुराते क्रीडापरायण चराने वाले गौओं के पीछे चलने लगे ॥ ६३ ॥
+    notes:
+      author: grandfather
+      text: |
+        ये गोचारण परायण (चरवाहे) अपनी पीठ पर छोटे छोटे सींके (जिनमें दिन के भोजन सामग्री बाँध [unclear: रखे] (रहती है)) को लटकाये हाथों में वंशी लिए उन्हें बजाते हुए अत्यन्त उल्लसित होकर मुस्कुराते हुए विविध प्रकार के कौतुकपूर्ण खिलवाड़ हासपरिहास करते हुए गायों के पीछे धीरे धीरे चल रहे हैं । ६३
+    translation_en:
+      author: ai_translation
+      text: |
+        With slings hung on their backs, eager to make flute-music with their hands, laughing loudly and smiling, given to play, the herdsmen began to walk behind the cows. (63)
+    notes_en:
+      author: ai_translation
+      text: |
+        These cowherds, devoted to grazing the cows, with small slings hung on their backs (in which the day's food is kept tied), holding flutes in their hands and playing them, very merry and smiling, are walking slowly behind the cows, playing many kinds of amusing games and joking. (63)
+  - number: 64
+    shlok: |
+      इह बधान सितामिह कर्बुरा-
+      मिह च कृष्णतरामिह पाटलाम् ।
+      इति जरत्कृतशासनमानिनो
+      निजनिजं व्रजमेत्य विचिन्वते ॥ ६४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। चारों पाद छन्द में बैठते हैं। पाद १: लिखित "इतव धान" जैसा — "इह बधान" (यहाँ बाँधो; √बन्ध् की आज्ञा) पढ़ा गया, जो हिन्दी "यहाँ बाँधो" और छन्द दोनों से मेल खाता है। "कर्बुरा" = चितकबरी, "पाटला" = लाल।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. All four pādas scan. Pāda 1: written like "इतव धान"; read as "इह बधान" (tie here; imperative of √bandh), which matches both the Hindi ("tie … here") and the metre. "कर्बुरा" = the dappled one, "पाटला" = the red one.
+    shlok_en:
+      author: ai_translation
+      text: |
+        "Tie the white one here, the dappled one here, the darker one here, and the red one here": heeding the orders of the elders in this way, they reach each his own pen and look about [for the places]. (64)
+    translation:
+      author: amanuensis
+      text: |
+        सफेद को यहाँ चितकबरी को यहाँ, काली को यहाँ पाटला को यहाँ बाँधो इस प्रकार बड़े बूढ़ों के आदेश मानने वाले अपने अपने गोष्ठ में आकर उन उन स्थानों का अन्वेषण करने लगे ॥ ६४ ॥
+    notes:
+      author: grandfather
+      text: |
+        गायों के गोष्ठ पर पहुँचते ही घर के बड़े बूढ़ों ने आदेश देना शुरू कर दिया, अरे ! यहाँ सफेद वाली को यहाँ बाँधो, चितकबरी को यहाँ, काली को यहीं तथा लाल वाली गाय को यहाँ बाँधो, यों हर घर के बच्चों (ग्वालों) ने बड़े बूढ़ों के आदेशानुसार अपना अपना कार्य पूर्ण किया । ६४
+    translation_en:
+      author: ai_translation
+      text: |
+        "Tie the white one here, the dappled one here, the black one here, the red one here": obeying the elders' orders in this way, they came to their own cow-pens and began to look for those places. (64)
+    notes_en:
+      author: ai_translation
+      text: |
+        As soon as the cows reached the pen, the elders of the house began to give orders: "Hey! Tie the white one here, the dappled one here, the black one right here, and tie the red cow here." So the children (the cowherd boys) of every house finished their work as the elders ordered. (64)
+notes_uncertain: true

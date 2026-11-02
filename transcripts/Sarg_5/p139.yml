@@ -1,0 +1,73 @@
+page_number_devanagari: "१३९"
+page_number_arabic: 139
+image: "images/pages/p139.jpg"
+verses:
+  - number: 41
+    shlok: |
+      विविधपक्षिसपक्षगतीडिता-
+      न्धडधडायितरावकृतत्वरान् ।
+      [unclear: स्वचल]चंक्रमणं नभसि [unclear: स्तृते]
+      विदधतश्च विमानवरानमून् ॥ ४१ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद १: "गतीडिता-" = गति + ईडित (हिन्दी "प्रशंसित")। पाद २: "धडधडायित" (ध्वन्यनुकरण; हिन्दी "धड़धड़ शब्द")। पाद ३: पहला शब्द "स्वचल"/"सचल" जैसा, अन्तिम "स्थिते"/"स्तृते" जैसा; हिन्दी "विस्तृत आकाश" के कारण "स्तृते" पढ़ा गया — दोनों पाठ छन्द में बैठते हैं। श्लोक में "पश्यत" क्रिया नहीं है; वह प्रसङ्ग से अनुवृत्त है।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Pāda 1: "गतीडिता-" = gati + īḍita (the Hindi has "praised"). Pāda 2: "धडधडायित" (onomatopoeia; the Hindi has "rattling sound"). Pāda 3: the first word looks like "स्वचल"/"सचल" and the last like "स्थिते"/"स्तृते"; "स्तृते" is read because of the Hindi "wide sky". Both readings scan. The verse has no verb "पश्यत"; it carries over from the context.
+    shlok_en:
+      author: ai_translation
+      text: |
+        [Look at] these fine aerial cars, praised for a motion like that of many winged birds, made swift with a rattling roar, and making their self-propelled way through the wide sky. (41)
+    translation:
+      author: amanuensis
+      text: |
+        अनेक पक्षियों के पंख की गति से प्रशंसित धड़धड़ शब्द के साथ त्वरायुक्त करते विस्तृत आकाश में चलते हुए श्रेष्ठ विमानों को देखो ॥ ४१ ॥
+    notes:
+      author: grandfather
+      text: |
+        अनेक उड़ने वाले पक्षियों की भाँति अपने २ पँखों से [unclear: आपलोग ये देखें कि, …] गतियों के कारण धड़धड़ शब्द करते हुए अत्यन्त तीव्र गति से विशाल आकाश मार्ग में इधर उधर आप दौड़ करते हुए उत्तम देवगणों से सुसज्जित इन विविध विमान समूहों को तो देखें । ४१
+    translation_en:
+      author: ai_translation
+      text: |
+        Look at the fine aerial cars, praised for wing-like motion like that of many birds, moving swiftly with a rattling sound through the wide sky. (41)
+    notes_en:
+      author: ai_translation
+      text: |
+        Like many flying birds with their wings, [unclear] because of their motions, making a rattling sound, racing here and there at great speed along the wide sky-path, filled with excellent gods: do look at these many fleets of aerial cars. (41)
+  - number: 42
+    shlok: |
+      अथ च कामगतीश्च मनो~~[कटा हुआ]~~जवा-
+      न्निचितलौहसुकीलवराञ्चितान् ।
+      ~~नभसि सार्ध~~ चतुरशिल्पिकृतानमितो नभ-
+      स्यतुलभोगकरान्परिपश्यत ॥ ४२ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद १: "मनो" के बाद "गत"/"मत" काटा गया, शुद्ध पाठ "मनोजवान्"। पाद ३ के आरम्भ में "नभसि सार्ध" काटा गया (अगले श्लोक ४३ के पाद ३ का आरम्भ, जो भूल से यहाँ लिखा गया)। पाद ३-४: "…इतो नभसि अतुलभोगकरान्" (नभ-स्यतुल)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Pāda 1: after "मनो" a "गत"/"मत" is struck out; the clean reading is "मनोजवान्". At the start of pāda 3, "नभसि सार्ध" is struck out (the opening of pāda 3 of v43, written here by mistake). Pādas 3–4: "…इतो नभसि अतुलभोगकरान्" (split नभ-स्यतुल).
+    shlok_en:
+      author: ai_translation
+      text: |
+        And look at these [cars] here in the sky, moving at will and swift as thought, studded with fine iron rivets, made by skilled craftsmen, giving incomparable enjoyment. (42)
+    translation:
+      author: amanuensis
+      text: |
+        मन के समान [unclear: भता] गति से सम्पन्न स्वेच्छापूर्वक गमनशील, चतुर शिल्पियों द्वारा कीलों से जड़ित अतुल भोगों से परिपूर्ण आकाश में विमानों को देखो ॥ ४२ ॥
+    notes:
+      author: grandfather
+      text: |
+        ये सारे विमान काम (पञ्चबाण) के गति से भी, तथा मन की गति से भी अत्यन्त तीव्रगामी हैं, लोहे के विविध छोटे बड़े कीलों, [unclear: कब्जों (स्क्रू) आदि] से [unclear: आयत] कुशल कलाकारों (कारीगरों) द्वारा बनाये गये हुए हैं । आकाश में विहरण करते हुए इनमें सभी सुविधायें सुसम्पन्न हैं जिससे इसमें रहनेवाले देवगण सभी प्रकार के सुखोपभोग करने में सदा निरत रहते हैं, उन्हें भी आप देखें । ४२
+    translation_en:
+      author: ai_translation
+      text: |
+        Look at the aerial cars in the sky: endowed with speed like the mind's, moving at will, studded with rivets by skilled craftsmen, full of incomparable comforts. (42)
+    notes_en:
+      author: ai_translation
+      text: |
+        All these aerial cars are swifter than the speed of Kāma (the five-arrowed god) and than the speed of the mind. They are built by skilled artisans (craftsmen), [unclear: fitted] with various small and large iron rivets, [unclear: hinges (screws) and the like]. As they roam the sky, they have every comfort, so that the gods living in them are always absorbed in every kind of enjoyment. Look at them too. (42)
+notes_uncertain: true

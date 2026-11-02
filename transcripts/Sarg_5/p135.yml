@@ -1,0 +1,73 @@
+page_number_devanagari: "१३५"
+page_number_arabic: 135
+image: "images/pages/p135.jpg"
+verses:
+  - number: 33
+    shlok: |
+      अयमनिन्दितवाजिगतोऽधुना
+      [unclear: शबल]वस्त्रसुवेष्टितमस्तकः ।
+      नल इव प्रथितोऽश्वपरीक्षणे
+      पथि निभालयत द्रुतचालनम् ॥ ३३ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद २ का पहला शब्द "शकल" जैसा दिखता है; हिन्दी "कर्बुरित वस्त्र" और टिप्पणी "चितकबरे (छींट का) फेटे" से "शबल" (चितकबरा) अधिक सम्भव — दोनों छन्द में ठीक। पाद ४: "द्रुति"/"द्रुत" — "द्रुतचालनम्" पढ़ा गया।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. The first word of pāda 2 looks like "शकल"; the Hindi ("variegated cloth") and the notes ("a mottled (chintz) turban") make "शबल" (variegated) more likely. Both scan. Pāda 4: "द्रुति"/"द्रुत"; read as "द्रुतचालनम्".
+    shlok_en:
+      author: ai_translation
+      text: |
+        This man, now mounted on a flawless horse, his head well wrapped in a [variegated] cloth, renowned like Nala in the testing of horses: watch his swift riding on the road! (33)
+    translation:
+      author: amanuensis
+      text: |
+        कर्बुरित वस्त्र से ढका हुआ मस्तक वाला यह अनिन्दित घोड़े की चाल मनोहर है। घोड़े के परीक्षण में महाराज नल के समान प्रसिद्ध लोग इसके द्रुत गमन को देखो ॥ ३३ ॥
+    notes:
+      author: grandfather
+      text: |
+        अरे यह देखो ! यह चितकबरे (छींट का) फेटे वाले इस घुड़सवार ने बड़े सुन्दर मनोहारी घोड़े पर चढ़कर किस अद्भुत गति से घोड़े का संचालन कर रहा है जैसे महाराज नल (जो अश्वविद्या के अनोखे मर्मज्ञ एवं संचालक थे) के समान घोड़े [unclear: की भाँति] यह अश्व की परीक्षा करते हुए अनेक अश्व गतियों से संचालित कर (रहे हैं) ३३
+    translation_en:
+      author: ai_translation
+      text: |
+        This man, his head covered with a variegated cloth: the gait of this flawless horse is charming. You people, as famous in testing horses as King Nala, watch its swift going! (33)
+    notes_en:
+      author: ai_translation
+      text: |
+        Oh, look at this! This horseman with the mottled (chintz) turban, mounted on a most beautiful, charming horse, with what wonderful speed he is riding it, like King Nala (who was a singular expert and master of horsemanship); [unclear: like him], testing the horse, he is driving it through many gaits. (33)
+  - number: 34
+    shlok: |
+      क्वचिदयं प्लुतमाप्लुत[unclear: मश्नुते]
+      क्वचन धौरितकं [unclear: पुलितं] तथा ।
+      जवनवाजिगतः किल धारया
+      चलयतीति विलोकयत स्फुटम् ॥ ३४ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद १ का अन्त "मारभुते"/"माल्लुते" जैसा दिखता है; "मश्नुते" (आप्लुतम् + अश्नुते) छन्द में बैठता है, पर यह अनुमान है। पाद २ लिखित "धौरितकञ्चुरितन्तथा" जैसा; हिन्दी "पुटित/पुलित गति"। "पुलित" अश्व की एक गति है और "धौरितकं पुलितं तथा" छन्द में ठीक है — अनुमान। प्लुत, आप्लुत, धौरितक, पुलित, धारा — अश्वगतियों के नाम।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. The end of pāda 1 looks like "मारभुते"/"माल्लुते"; "मश्नुते" (āplutam + aśnute) scans, but it is a conjecture. Pāda 2 is written something like "धौरितकञ्चुरितन्तथा"; the Hindi has "puṭita/pulita gait". "Pulita" is a horse's gait, and "धौरितकं पुलितं तथा" scans; also a conjecture. Pluta, āpluta, dhauritaka, pulita and dhārā are names of horses' gaits.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Here he takes the leap (pluta) and the bound (āpluta), there the gallop (dhauritaka) and likewise the pulita; mounted on a swift horse, he drives it at the full run (dhārā): see it plainly! (34)
+    translation:
+      author: amanuensis
+      text: |
+        कहीं पर यह घोड़ा प्लुत गति से आप्लुत गति से, कहीं पर धौरित गति से कहीं [unclear: पुलित] गति से कहीं धारागति से वेगशील ~~[कटा हुआ]~~ घोड़ा का गमन आप सभी स्पष्ट रूप से देखें ॥ ३४ ॥
+    notes:
+      author: grandfather
+      text: |
+        ओ! आप देखें यह सवार अपने घोड़े को किस किस विविध अश्व गतियों द्वारा इसका अद्भुत प्रदर्शन करते हुए कभी तो सीधे उछालता है, कभी घुमाकर उछालता है, कहीं पर कहीं दौड़ाते हुए एकाएक उछालकर (धौरितक) सरपट चाल से दौड़ाता है तो कहीं उसकी लगाम खींचकर दौड़ते हुए ही रोक देता है, कहीं यह घोड़े को सीधे दौड़ाता हुआ धारा की भाँति लगता है, । आप इस प्रकार [unclear] इस अश्व चालन की ढंग का सानन्द अवलोकन करें । ३४
+    translation_en:
+      author: ai_translation
+      text: |
+        Here this horse goes in the pluta gait, in the āpluta gait; there in the dhaurita gait, there in the [unclear: pulita] gait, there in the dhārā gait. All of you, watch plainly the going of this swift horse! (34)
+    notes_en:
+      author: ai_translation
+      text: |
+        Oh, look! Through what various gaits this rider shows off his horse wonderfully: now he makes it leap straight up, now leap with a turn; here, while running, he suddenly makes it leap and run at a gallop (dhauritaka); there he pulls the reins and stops it in full run; elsewhere, running the horse straight ahead, he seems like a stream (dhārā). In this way, [unclear], enjoy watching this style of horsemanship. (34)
+notes_uncertain: true

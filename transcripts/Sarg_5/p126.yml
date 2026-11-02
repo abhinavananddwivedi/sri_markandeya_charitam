@@ -1,0 +1,73 @@
+page_number_devanagari: "१२६"
+page_number_arabic: 126
+image: "images/pages/p126.jpg"
+verses:
+  - number: 15
+    shlok: |
+      शुभविवाहविधेरनुरोधतः
+      [unclear: कृतपणः] परिणीतिविधौ शुभे ।
+      सकलकर्मविधानपरायणः
+      स मुनिदाक्षिरपीह निमन्त्रितः ॥ १५ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। द्वितीय पाद का प्रथम शब्द "कृतपणः" जैसा (हिन्दी: "निश्चित"); छन्द ठीक।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. The first word of pāda 2 looks like "कृतपणः" (Hindi: "settled"); it scans.
+    shlok_en:
+      author: ai_translation
+      text: |
+        At the request of the auspicious wedding rite, for the auspicious marriage ceremony that had been [unclear: agreed], the sage Dākṣi too, devoted to performing every rite, was invited here. (15)
+    translation:
+      author: amanuensis
+      text: |
+        शुभ विवाह विधि के अनुरोध से निश्चित शुभ विवाह विधि में समस्त कर्म विधान में तत्पर मुनि के साथ दाक्षि भी निमन्त्रित हैं ॥ १५ ॥
+    notes:
+      author: grandfather
+      text: |
+        शुभ विवाह कार्य में सतत सहायक और वैवाहिक कार्य के अनुरोध से निरन्तर विवाह कार्य में पहल करने वाले (संलग्न-सहयोगी) और सभी इस कार्य में सावधानी पूर्वक सहायता प्रदान करने वाले मुनि दाक्षी को भी ससम्मान निमन्त्रित किया गया। १५
+    translation_en:
+      author: ai_translation
+      text: |
+        At the request of the auspicious wedding rite, for the settled auspicious wedding ceremony, Dākṣi too, intent on every rite, is invited along with the sage. (15)
+    notes_en:
+      author: ai_translation
+      text: |
+        The sage Dākṣi, a constant helper in auspicious wedding work, who at the request of the wedding always took the lead in it (an engaged helper), and who gave careful help in all this work, was also invited with honour. (15)
+  - number: 16
+    shlok: |
+      नियतलग्नतिथेः किल पूर्वतः
+      शरमिते दिवसे कृतमङ्गलम् ।
+      कलशपूर्वमुमागणनाथयोः
+      सविधिपूजनमाशु वरोऽकरोत् ॥ १६ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। "शरमिते" = पाँच (शर = ५)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. "शरमिते" = five (śara, "arrow", stands for 5).
+    shlok_en:
+      author: ai_translation
+      text: |
+        Five days before the appointed lagna and tithi, the auspicious rites were performed; and the bridegroom promptly performed, with due rite, the worship of Umā and Gaṇanātha (Gaṇeśa), preceded by [the installing of] the kalaśa. (16)
+    translation:
+      author: amanuensis
+      text: |
+        नियत लग्न तिथि के पाँच दिन पूर्व ही माङ्गलिक कार्य सम्पन्न किया गया। कलश स्थापन के पूर्व वर ने गौरी गणेश की पूजा की ॥ १६ ॥
+    notes:
+      author: grandfather
+      text: |
+        विवाह के लिए निर्धारित लग्न और तिथि के पाँच दिन पूर्व ही मङ्गल कार्य प्रारम्भ कर दिया गया, जिसमें वर ने स्वयं विधिपूर्वक [unclear: गुरुओं] के द्वारा माङ्गलिक सम्पन्न सामग्रियों द्वारा भगवती गौरी एवं भगवान गणपति की पूजा कलश-स्थापन पूर्वक स्वयं सम्पन्न किया। १६
+    translation_en:
+      author: ai_translation
+      text: |
+        Five days before the appointed lagna and tithi the auspicious rites were performed. Before the installing of the kalaśa, the bridegroom worshipped Gaurī and Gaṇeśa. (16)
+    notes_en:
+      author: ai_translation
+      text: |
+        Five days before the lagna and tithi fixed for the wedding, the auspicious rites were begun. In them the bridegroom himself, duly, through [unclear: the gurus], with the auspicious materials provided, performed in person the worship of the goddess Gaurī and Lord Gaṇapati, beginning with the installing of the kalaśa. (16)
+notes_uncertain: true

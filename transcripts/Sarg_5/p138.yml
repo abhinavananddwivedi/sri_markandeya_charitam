@@ -1,0 +1,73 @@
+page_number_devanagari: "१३८"
+page_number_arabic: 138
+image: "images/pages/p138.jpg"
+verses:
+  - number: 39
+    shlok: |
+      कुलपतीनृषिमुख्यतमानमू-
+      न्कतिपयैर्निजशिष्यगणैर्वृतान् ।
+      मनुज[unclear: चारु]रथानगतानतो
+      प्रचलतश्चलतः परिपश्यत ॥ ३९ ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद ३: "मनुज" के बाद का शब्द "चारु" जैसा दिखता है; हिन्दी ("मनुष्य द्वारा ढोये जाने वाले यान") "वाह" या "वाह्य" जैसा अर्थ चाहती है ("मनुजवाहरथान्" भी छन्द में बैठता है)। पाद २ में रेफ ("र्नि", "र्वृ") अस्पष्ट हैं, पर छन्द से निश्चित।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Pāda 3: the word after "मनुज" looks like "चारु"; the Hindi ("vehicles carried by men") wants a sense like "वाह"/"वाह्य" ("मनुजवाहरथान्" also scans). In pāda 2 the rephas ("र्नि", "र्वृ") are faint, but the metre fixes them.
+    shlok_en:
+      author: ai_translation
+      text: |
+        Look at these heads of hermitages, the foremost of sages, surrounded by a few groups of their own pupils, gone onto man-borne carriages, moving along as they move. (39)
+    translation:
+      author: amanuensis
+      text: |
+        मनुष्य द्वारा ढोये जाने वाले यान पर आरूढ़ तथा कुछ शिष्यों से घिरे हुए मुख्य ऋषि कुलपतियों को चलते हुए शीघ्र चलते हुए आप सभी देखो ॥ ३९ ॥
+    notes:
+      author: grandfather
+      text: |
+        ओ इधर तो देखिये, अपने कई २ शिष्यों प्रशिष्य समूहों द्वारा घिरे रहने वाले, ऋषियों में प्रमुख श्रेष्ठ कुलपतियों को, जो ४ कहारों द्वारा ढोये जानेवाली उत्तम शिबिकाओं पर बैठकर चल रहे हैं । ३९
+    translation_en:
+      author: ai_translation
+      text: |
+        All of you, look at the chief sages, the heads of hermitages, mounted on vehicles carried by men and surrounded by some pupils, moving along, moving quickly. (39)
+    notes_en:
+      author: ai_translation
+      text: |
+        Oh, do look here: at the eminent heads of hermitages, foremost among sages, who are surrounded by groups of their many pupils and pupils' pupils, and who travel seated in fine palanquins carried by four bearers. (39)
+  - number: 40
+    shlok: |
+      उपरितोऽपि विहाय [unclear: सकर्मणा]
+      वरविमानसमुन्नयनोत्सुकान् ।
+      निजनिजाध्युषिताधिपसप्रभा-
+      न्रुचिरवेषभृतः सुरनायकान् ॥ ४० ॥
+    manuscript_note:
+      author: ai_transcription
+      text: |
+        वृत्त: द्रुतविलम्बित। पाद १: "विहाय" के बाद का शब्द "सकर्मणा"/"सकलर्मना" जैसा; छन्द ठीक है, पर अर्थ संदिग्ध (हिन्दी: "ऊपर भी स्वर्ग [को] त्यागकर"; "सुरालयं" भी छन्द में बैठता, पर लिखा नहीं है)। पाद २: "समुन्नयनोत्सुकान्" — "न्न" और "य" ऊपर जोड़े गए (^ चिह्न)। पाद ४ "न्रुचिर-" (न्+रुचिर)।
+    manuscript_note_en:
+      author: ai_transcription
+      text: |
+        Metre: Drutavilambita. Pāda 1: the word after "विहाय" looks like "सकर्मणा"/"सकलर्मना"; it scans but the sense is doubtful (the Hindi: "leaving heaven above too"; "सुरालयं" would also scan, but is not what is written). Pāda 2: "समुन्नयनोत्सुकान्", with "न्न" and "य" added above the line (caret). Pāda 4 "न्रुचिर-" (न् + रुचिर).
+    shlok_en:
+      author: ai_translation
+      text: |
+        [Look at] the leaders of the gods, who have left [their realm] above too, eager to steer their fine aerial cars, as radiant as the lords each car carries, wearing splendid dress. (40)
+    translation:
+      author: amanuensis
+      text: |
+        ऊपर भी ~~[कटा हुआ: स्वर्ग?]~~ [unclear: स्वर्ग को] त्यागकर वर-विमान को हाँकने में समुत्सुक अपने-अपने बैठे हुए अधिपों के समान प्रभावाले सुन्दर वेषधारी देवनायकों को देखो ॥ ४० ॥
+    notes:
+      author: grandfather
+      text: |
+        ऊँचे २ उत्तम विमानों पर बैठकर ऊँची उड़ान भरने की अभिलाषा में अत्यन्त उत्साह सम्पन्न अपने २ आकाश मार्ग से उड़कर चलने की आकांक्षा से अपने २ स्वामियों [unclear: को विरत] कर उत्तमोत्तम वेशधारी ये देवगण दिखाई पड़ते थे :— ४०
+    translation_en:
+      author: ai_translation
+      text: |
+        Look at the leaders of the gods, who have left [heaven] above too, eager to drive their fine aerial cars, as radiant as the lords seated in each, and wearing beautiful dress. (40)
+    notes_en:
+      author: ai_translation
+      text: |
+        Seated in tall, fine aerial cars, full of zeal in their wish to fly high, longing to fly along their own sky-paths, [unclear: leaving] their own masters, these gods in the finest dress could be seen. (40)
+notes_uncertain: true
